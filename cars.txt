@@ -89,7 +89,7 @@
 1951 Hudson Hornet
 1951 Jaguar XK120
 1951 Kaiser-Frazer Vagabond
-1951 Lancia Aurelia B20
+1951 Lancia Aurelia B20 GT
 1951 Mercedes-Benz 300
 1951 Mercury Eight
 1951 Nash Rambler
@@ -173,6 +173,7 @@
 1955 Hillman Husky
 1955 Holden FJ
 1955 Lancia Aurelia B20
+1955 Mercedes-Benz 300SL Gullwing
 1955 MG MGA
 1955 Nash Metropolitan
 1955 Nissan Patrol
@@ -316,6 +317,7 @@
 1960 Ford Falcon
 1960 Ford Ranchero
 1960 Ford Zephyr
+1960 Maserati 3500 GT
 1960 Mazda R360
 1960 Nissan Patrol
 1960 Peugeot 404
@@ -361,6 +363,7 @@
 1962 Datsun SP310
 1962 DKW Schnellaster
 1962 Fiat 600 Multipla
+1962 Ford Cortina GT
 1962 Ford Cortina
 1962 Ford Falcon
 1962 Ford Galaxie 500XL Sunliner
@@ -388,6 +391,7 @@
 1962 Volvo Amazon
 1963 AC Ace
 1963 Alfa Romeo Giulia
+1963 Aston Martin DB5
 1963 Austin-Healey 3000 MKIII
 1963 Cadillac Ambulance
 1963 Checker Marathon
@@ -396,6 +400,7 @@
 1963 Dodge Dart
 1963 Ferrari 250 GTO
 1963 Fiat 600 Multipla
+1963 Ford Cortina GT
 1963 Ford Ranchero
 1963 Ford Thunderbird
 1963 Ford Cortina MK I GT
@@ -429,7 +434,7 @@
 1964 Chevrolet Nova Station Wagon
 1964 Fiat 600 Multipla
 1964 Ford Anglia
-1964 Ford Cortina
+1964 Ford Cortina GT
 1964 Ford Falcon
 1964 Ford Mustang
 1964 Ford Ranchero
@@ -747,7 +752,7 @@
 1971 Dodge Demon
 1971 Dodge Hemi Challenger
 1971 Ford Cortina
-1971 Ford Mustang
+1971 Ford Falcon GTHO
 1971 Ford Pinto Runabout
 1971 Ford Ranchero
 1971 Ford Taunus TC
@@ -790,6 +795,7 @@
 1972 Datsun 240Z
 1972 Dodge Challenger
 1972 Ford Cortina
+1972 Ford Falcon GTHO
 1972 Ford Gran Torino Sport
 1972 Ford Mustang
 1972 Ford Pinto
@@ -827,6 +833,7 @@
 1973 Buick Century
 1973 Chevrolet Chevette
 1973 Chevrolet Vega GT
+1973 Chrysler Valiant Charger
 1973 Daihatsu Consorte
 1973 Datsun 240Z
 1973 Dodge Charger
@@ -1167,6 +1174,7 @@
 1982 Ford Mustang
 1982 Ford Taunus TC
 1982 Ford Transit
+1982 Jaguar XJ-S
 1982 Lada Niva
 1982 Mercury Capri RS
 1982 Mitsubishi Colt
