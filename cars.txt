@@ -123,6 +123,7 @@
 1953 Citroën 2CV
 1953 DKW Schnellaster
 1953 Dodge 108-A
+1953 Ferrari 250
 1953 Ford Crestline Victoria
 1953 Holden FJ
 1953 Hudson Hornet
@@ -2119,6 +2120,7 @@
 1999 Mitsubishi Minica
 1999 Nissan Altima
 1999 Nissan Elgrand
+1999 Nissan GT-R
 1999 Nissan Pathfinder
 1999 Nissan Patrol
 1999 Nissan Terrano II
