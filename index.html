@@ -1,6 +1,7 @@
 <html>
 
 <head>
+    <link rel="stylesheet" href="main.css" />
 </head>
 
 <body>
@@ -14,11 +15,12 @@
 
     function loadCars() {
         fetch('/cars.txt')
-        .then(response => response.text())
-        .then(data => cars = data.split('\n'));
+            .then(response => response.text())
+            .then(data => cars = data.split('\n'));
     }
 
     function pickRandomCar() {
+        if (!cars) return;
         let div = document.getElementById('results');
         const index = getRandomInteger(0, cars.length);
         div.innerHTML = cars[index];
