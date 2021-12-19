@@ -738,7 +738,7 @@
 1971 Chevrolet El Camino
 1971 Chevrolet Nova SS
 1971 Chevrolet Vega Panel
-1971 Chrysler Valiant
+1971 Chrysler Valiant Charger
 1971 Continental Mark II
 1971 Daihatsu Consorte
 1971 Datsun 240Z
@@ -783,6 +783,7 @@
 1972 Buick Riviera
 1972 Cadillac Eldorado
 1972 Chevrolet Camaro
+1972 Chrysler Valiant Charger
 1972 Citroën DS
 1972 Daihatsu Consorte
 1972 Daihatsu Fellow Max
