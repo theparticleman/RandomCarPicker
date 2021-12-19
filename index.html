@@ -1,0 +1,45 @@
+<html>
+
+<head>
+</head>
+
+<body>
+    <button onclick="pickRandomCar()">Pick a Random Car</button>
+    <div id="results"></div>
+</body>
+
+<script>
+
+    var cars;
+
+    function loadCars() {
+        cars = [
+            "1930 Buick Series 40",
+            "1930 Bugatti Royale",
+            "1931 Bugatti Royale",
+            "1931 Ford Model A",
+            "1932 Bugatti Royale",
+            "1932 Ford Model 18",
+            "1932 Nash Ambassador",
+            "1933 Bugatti Royale",
+            "1935 Auburn Speedster",
+            "1935 Bugatti Type 57 SC Atlantic",
+            "1935 Ford Model 48",
+            "1935 Škoda Rapid"
+        ];
+    }
+
+    function pickRandomCar() {
+        let div = document.getElementById('results');
+        const index = getRandomInteger(0, cars.length);
+        div.innerHTML = cars[index];
+    }
+
+    function getRandomInteger(min, max) {
+        return Math.floor(Math.random() * (max - min)) + min;
+    }
+
+    loadCars();
+</script>
+
+</html>
