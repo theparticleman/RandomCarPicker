@@ -6,6 +6,7 @@
 
 <body>
     <button onclick="pickRandomCar()">Pick a Random Car</button>
+    <input id="filter" type="text" placeholder="Filter" />
     <div id="results"></div>
 </body>
 
@@ -22,8 +23,10 @@
     function pickRandomCar() {
         if (!cars) return;
         let div = document.getElementById('results');
-        const index = getRandomInteger(0, cars.length);
-        div.innerHTML = cars[index];
+        let filter = document.getElementById('filter').value.toLowerCase();
+        let filteredCars = cars.filter(x => x.toLowerCase().includes(filter));
+        const index = getRandomInteger(0, filteredCars.length);
+        div.innerHTML = filteredCars[index] ?? "No results";
     }
 
     function getRandomInteger(min, max) {

@@ -21,6 +21,13 @@ button:active {
     background-color: #3971CC;
 }
 
+input {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;;
+    align-self: center;
+}
+
 #results {
     border: solid black 1px;
     border-radius: 8px;
