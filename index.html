@@ -14,7 +14,7 @@
     var cars;
 
     function loadCars() {
-        fetch('/cars.txt')
+        fetch('cars.txt')
             .then(response => response.text())
             .then(data => cars = data.split('\n'));
     }
