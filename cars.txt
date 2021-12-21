@@ -473,9 +473,11 @@
 1965 Chevrolet Corvette
 1965 Chevrolet Impala
 1965 Chrysler 300L
+1965 Chrysler New Yorker
 1965 Fiat 600 Multipla
 1965 Ford Cortina
 1965 Ford Falcon
+1965 Ford Galaxie LTD
 1965 Ford Mustang Fastback
 1965 Ford Ranchero
 1965 Ford Transit
@@ -504,15 +506,18 @@
 1966 Chevrolet Camaro
 1966 Chevrolet Corvair
 1966 Chevrolet Corvette
+1966 Chrysler New Yorker
 1966 Ferrari 330 GTC
 1966 Fiat 600 Multipla
 1966 Ford 427 Fairlane
 1966 Ford Cortina
+1966 Ford Galaxie LTD
 1966 Ford GT40 MKII
 1966 Ford Mustang
 1966 Ford Ranchero
 1966 Ford Transit
 1966 Hillman Hunter
+1966 Humber Hawk
 1966 Jaguar E-Type
 1966 Lamborghini 350 GT
 1966 Lamborghini Miura
@@ -550,12 +555,14 @@
 1967 Chevrolet C10
 1967 Chevrolet Camaro
 1967 Chevrolet Chevelle
+1967 Chrysler New Yorker
 1967 Citroën Dyane
 1967 Datsun Fairlady
 1967 Dodge A100 Van
 1967 Fiat 125
 1967 Fiat 600 Multipla
 1967 Ford Cortina
+1967 Ford Galaxie LTD
 1967 Ford Mustang
 1967 Ford Ranchero
 1967 Ford Shelby Mustang GT500
@@ -595,11 +602,13 @@
 1968 Cadillac Eldorado
 1968 Chevrolet Camaro
 1968 Chevrolet Chevelle
+1968 Chrysler New Yorker
 1968 Daimler DS420
 1968 Datsun Fairlady
 1968 Ferrari 365 GTB/4 Daytona
 1968 Fiat 600 Multipla
 1968 Ford Cortina
+1968 Ford Galaxie LTD
 1968 Ford Mustang GT
 1968 Ford Ranchero
 1968 Ford Transit
@@ -879,7 +888,8 @@
 1974 Buick Century
 1974 Chevrolet Monte Carlo
 1974 Citroën CX
-1974 Citroën DS23
+1974 Citroën DS 20
+1974 Citroën DS 23
 1974 Daihatsu Consorte
 1974 Datsun 100A
 1974 Datsun 240Z
@@ -922,6 +932,7 @@
 1975 AMC Pacer
 1975 Austin Marina
 1975 Buick Century
+1975 Buick Electra
 1975 Cadillac Coupé De Ville
 1975 Citroën 2CV
 1975 Citroën CX
@@ -1000,6 +1011,7 @@
 1977 Daihatsu Consorte
 1977 Ford Cortina
 1977 Ford Fairmont
+1977 Ford Granada
 1977 Ford Mustang
 1977 Ford Pinto
 1977 Ford Ranchero
@@ -1019,6 +1031,7 @@
 1977 Pontiac Firebird T/A
 1977 Pontiac Grand Prix
 1977 Porsche 911
+1977 Rover 3500
 1977 Suzuki Cervo
 1977 Toyota Corolla
 1977 Toyota Publica
@@ -1035,6 +1048,7 @@
 1978 Citroën CX
 1978 Ford Cortina
 1978 Ford Fairmont
+1978 Ford Granada
 1978 Ford Mustang
 1978 Ford Ranchero
 1978 Ford Taunus TC
@@ -1067,6 +1081,7 @@
 1979 Ford Cortina
 1979 Ford Bronco
 1979 Ford Fairmont
+1979 Ford Granada
 1979 Ford Mustang
 1979 Ford Ranchero
 1979 Ford Taunus TC
@@ -1102,6 +1117,7 @@
 1980 Ford Escort
 1980 Ford Cortina
 1980 Ford Fairmont
+1980 Ford Granada
 1980 Ford Mustang
 1980 Ford Taunus TC
 1980 Ford Transit
@@ -1137,6 +1153,7 @@
 1981 Ford Cortina
 1981 Ford Escort
 1981 Ford Fairmont
+1981 Ford Granada
 1981 Ford Mustang
 1981 Ford Taunus TC
 1981 Ford Transit
@@ -1172,6 +1189,7 @@
 1982 Ford Cortina
 1982 Ford Escort
 1982 Ford Fairmont
+1982 Ford Granada
 1982 Ford Mustang
 1982 Ford Taunus TC
 1982 Ford Transit
@@ -1207,6 +1225,7 @@
 1983 Ford Cortina
 1983 Ford Escort
 1983 Ford Fairmont
+1983 Ford Granada
 1983 Ford Mustang
 1983 Ford Transit
 1983 GMC Jimmy
@@ -1240,6 +1259,7 @@
 1984 Fiat Ducato
 1984 Ford Cortina
 1984 Ford Escort
+1984 Ford Granada
 1984 Ford Transit
 1984 GMC Jimmy
 1984 Hyundai Stellar
@@ -1275,6 +1295,7 @@
 1985 Dodge Caravan
 1985 Fiat Ducato
 1985 Ford Escort
+1985 Ford Granada
 1985 Ford Mustang
 1985 Ford Transit
 1985 GMC Jimmy
@@ -1530,6 +1551,7 @@
 1991 Bentley Continental R
 1991 Buick Century
 1991 Buick Riviera
+1991 Buick Roadmaster
 1991 Chevrolet Astro
 1991 Chevrolet Cavalier Z24
 1991 Chevrolet S-10
@@ -1565,6 +1587,7 @@
 1991 Porsche 911
 1991 Renault Espace
 1991 Rover 200
+1991 Saab 9000
 1991 Saturn SL1
 1991 SEAT Toledo
 1991 Suzuki Alto
@@ -1580,6 +1603,7 @@
 1992 Audi S4
 1992 Buick Century
 1992 Buick Riviera
+1992 Buick Roadmaster
 1992 Chevrolet Astro
 1992 Chevrolet Cavalier Z24
 1992 Chevrolet S-10
@@ -1628,6 +1652,7 @@
 1992 Renault Espace
 1992 Renault Twingo
 1992 Rover 200
+1992 Saab 9000
 1992 Suzuki Alto
 1992 Suzuki Cappuccino
 1992 Suzuki Vitara
@@ -1643,6 +1668,7 @@
 1993 BMW M3 Sedan
 1993 Buick Century
 1993 Buick Riviera
+1993 Buick Roadmaster
 1993 Cadillac Allanté
 1993 Chevrolet Astro
 1993 Chevrolet Cavalier Z24
@@ -1698,6 +1724,7 @@
 1993 Renault Espace
 1993 Renault Twingo
 1993 Rover 200
+1993 Saab 9000
 1993 Suzuki Alto
 1993 Suzuki Cappuccino
 1993 Suzuki Vitara
@@ -1716,6 +1743,7 @@
 1994 Autozam AZ-1
 1994 BMW 3-Series E30
 1994 Buick Century
+1994 Buick Roadmaster
 1994 Chevrolet Astro
 1994 Chevrolet Cavalier Z24
 1994 Chevrolet S-10 Blazer
@@ -1761,6 +1789,7 @@
 1994 Renault Espace
 1994 Renault Twingo
 1994 Rover 200
+1994 Saab 9000
 1994 Subaru Justy
 1994 Subaru Loyale
 1994 Suzuki Alto
@@ -1782,6 +1811,7 @@
 1995 Autozam AZ-1
 1995 Buick Century
 1995 Buick Riviera
+1995 Buick Roadmaster
 1995 Buick Skylark
 1995 Chevrolet Cavalier
 1995 Chevrolet Corsica
@@ -2006,6 +2036,7 @@
 1998 Ferrari F355
 1998 Ferrari F550 Marenello
 1998 Fiat Ducato
+1998 Ford Crown Victoria
 1998 Ford E-350
 1998 Ford Explorer
 1998 Ford Galaxy
@@ -2086,6 +2117,7 @@
 1999 Dodge Ram Van 2500
 1999 Dodge Ram Van 3500
 1999 Fiat Ducato
+1999 Ford Crown Victoria
 1999 Ford Expedition
 1999 Ford Explorer
 1999 Ford F-150
@@ -2126,6 +2158,7 @@
 1999 Nissan Terrano II
 1999 Oldsmobile Aurora
 1999 Pagani Zonda
+1999 Peugeot 607
 1999 Pontiac Bonneville
 1999 Pontiac Grand Prix
 1999 Porsche 911
@@ -2186,6 +2219,7 @@
 2000 Fiat Ducato
 2000 Ford Contour
 2000 Ford Courier
+2000 Ford Crown Victoria
 2000 Ford Escape XLS
 2000 Ford Escape XLT
 2000 Ford Explorer Eddie Bauer
@@ -2221,6 +2255,7 @@
 2000 Nissan Pathfinder
 2000 Nissan Patrol
 2000 Nissan Terrano II
+2000 Peugeot 607
 2000 Plymouth Breeze
 2000 Plymouth Voyager
 2000 Pontiac Bonneville
@@ -2266,6 +2301,7 @@
 2001 Ferrari 550 Maranello
 2001 Fiat Ducato
 2001 Ford Courier
+2001 Ford Crown Victoria
 2001 Ford Escape
 2001 Ford Explorer Sport
 2001 Ford Explorer Sport Trac
@@ -2300,6 +2336,7 @@
 2001 Nissan Pathfinder
 2001 Nissan Patrol
 2001 Nissan Terrano II
+2001 Peugeot 607
 2001 Plymouth Neon
 2001 Plymouth Prowler
 2001 Pontiac Bonneville
@@ -2344,6 +2381,7 @@
 2002 Ferrari Enzo
 2002 Fiat Ducato
 2002 Ford Courier
+2002 Ford Crown Victoria
 2002 Ford Escape
 2002 Ford Explorer
 2002 Ford Explorer Sport Trac
@@ -2375,6 +2413,7 @@
 2002 Nissan Pathfinder
 2002 Nissan Patrol
 2002 Nissan Terrano II
+2002 Peugeot 607
 2002 Pontiac Bonneville
 2002 Pontiac Grand Prix
 2002 Porsche 911 Carrera
@@ -2426,6 +2465,7 @@
 2003 Ferrari Enzo
 2003 Fiat Ducato
 2003 Ford Courier
+2003 Ford Crown Victoria
 2003 Ford Escape
 2003 Ford Escort
 2003 Ford Explorer
@@ -2463,11 +2503,12 @@
 2003 Nissan Terrano II
 2003 Nissan Titan
 2003 Opel Meriva
+2003 Peugeot 607
 2003 Pontiac Bonneville
 2003 Pontiac Grand Prix
 2003 Porsche 911
 2003 Porsche 986
-2003 Pontiac Aztec
+2003 Pontiac Aztek
 2003 Porsche Cayman
 2003 Renault Espace
 2003 Renault Kangoo
@@ -2517,6 +2558,7 @@
 2004 Ferrari 360 Modena
 2004 Fiat Ducato
 2004 Ford Courier
+2004 Ford Crown Victoria
 2004 Ford Escape
 2004 Ford Excursion
 2004 Ford Explorer
@@ -2564,6 +2606,7 @@
 2004 Oldsmobile Alero
 2004 Opel Astra H
 2004 Opel Meriva
+2004 Peugeot 607
 2004 Pontiac Bonneville
 2004 Pontiac Grand Prix
 2004 Pontiac GTO
@@ -2619,6 +2662,7 @@
 2005 Daihatsu Copen
 2005 Dodge Neon SRT-4
 2005 Ford Courier
+2005 Ford Crown Victoria
 2005 Ford Escape
 2005 Ford Excursion
 2005 Ford Explorer
@@ -2668,6 +2712,7 @@
 2005 Nissan Titan
 2005 Opel Meriva
 2005 Peugeot 107
+2005 Peugeot 607
 2005 Pontiac Bonneville
 2005 Pontiac Grand Am
 2005 Pontiac Grand Prix
@@ -2688,6 +2733,7 @@
 2005 Suzuki Vitara
 2005 Toyota 4Runner
 2005 Toyota Alphard
+2005 Toyota Avalon
 2005 Toyota Camry
 2005 Toyota Celica
 2005 Toyota Fortuner
@@ -2724,6 +2770,7 @@
 2006 Ferrari 575 M
 2006 Fiat Ducato
 2006 Ford Courier
+2006 Ford Crown Victoria
 2006 Ford Escape
 2006 Ford Explorer
 2006 Ford Focus
@@ -2770,6 +2817,7 @@
 2006 Opel Meriva
 2006 Panoz Esperante
 2006 Peugeot 107
+2006 Peugeot 607
 2006 Pontiac Grand Prix
 2006 Pontiac GTO
 2006 Porsche 911
@@ -2791,6 +2839,7 @@
 2006 Suzuki Vitara
 2006 Toyota 4Runner
 2006 Toyota Alphard
+2006 Toyota Avalon
 2006 Toyota Camry
 2006 Toyota Fortuner
 2006 Toyota Highlander
@@ -2878,6 +2927,7 @@
 2007 Nissan Titan
 2007 Opel Meriva
 2007 Peugeot 107
+2007 Peugeot 607
 2007 Pontiac Grand Prix
 2007 Porsche 911
 2007 Porsche Cayman
@@ -2896,6 +2946,7 @@
 2007 Suzuki Vitara
 2007 Toyota 4Runner
 2007 Toyota Alphard
+2007 Toyota Avalon
 2007 Toyota Camry
 2007 Toyota Fortuner
 2007 Toyota Highlander
@@ -2942,6 +2993,7 @@
 2008 Fiat 500
 2008 Fiat Ducato
 2008 Ford Courier
+2008 Ford Crown Victoria
 2008 Ford Escape
 2008 Ford Explorer
 2008 Ford Explorer Sport Trac
@@ -2988,6 +3040,7 @@
 2008 Nissan Titan
 2008 Opel Meriva
 2008 Peugeot 107
+2008 Peugeot 607
 2008 Pontiac Grand Prix
 2008 Porsche 911
 2008 Porsche Cayman S
@@ -3045,6 +3098,7 @@
 2009 Fiat 500
 2009 Fiat Ducato
 2009 Ford Courier
+2009 Ford Crown Victoria
 2009 Ford Escape
 2009 Ford Explorer
 2009 Ford Explorer Sport Trac
@@ -3102,6 +3156,7 @@
 2009 Opel Corsa
 2009 Opel Meriva
 2009 Peugeot 107
+2009 Peugeot 607
 2009 Pontiac G8 GXP
 2009 Porsche 911
 2009 Porsche Cayman
@@ -3164,6 +3219,7 @@
 2010 Fiat 500
 2010 Fiat Ducato
 2010 Ford Courier
+2010 Ford Crown Victoria
 2010 Ford Escape
 2010 Ford Explorer
 2010 Ford Explorer Sport Trac
@@ -3210,6 +3266,7 @@
 2010 Nissan Titan
 2010 Opel Meriva
 2010 Peugeot 107
+2010 Peugeot 607
 2010 Pontiac G6
 2010 Porsche 911
 2010 Porsche Cayman
@@ -3228,6 +3285,7 @@
 2010 Toyota 4Runner
 2010 Toyota Alphard
 2010 Toyota Camry
+2010 Toyota Crown
 2010 Toyota Highlander
 2010 Toyota Prius
 2010 Toyota RAV4
@@ -3256,6 +3314,7 @@
 2011 Chevrolet Montana
 2011 Chevrolet S-10
 2011 Chevrolet Tahoe
+2011 Chrysler 300
 2011 Citroën C4 Picasso
 2011 Dacia Duster
 2011 Daihatsu Copen
@@ -3270,6 +3329,7 @@
 2011 Fiat Ducato
 2011 Fiat Panda
 2011 Ford C-Max
+2011 Ford Crown Victoria
 2011 Ford Escape
 2011 Ford Explorer
 2011 Ford Focus SES
@@ -3332,6 +3392,7 @@
 2011 Toyota Alphard
 2011 Toyota Auris Hybrid
 2011 Toyota Camry
+2011 Toyota Crown
 2011 Toyota Highlander
 2011 Toyota Prius+
 2011 Toyota RAV4
@@ -3358,6 +3419,7 @@
 2012 Chevrolet Equinox
 2012 Chevrolet Montana
 2012 Chevrolet Tahoe
+2012 Chrysler 300
 2012 Citroën C4 Picasso
 2012 Dacia Dokker
 2012 Dacia Duster
@@ -3427,6 +3489,7 @@
 2012 Renault Twingo
 2012 Renault Twist ZE
 2012 Renault Zoe
+2012 Roewe 750
 2012 Saab 9-3
 2012 Saab 9-3X
 2012 SEAT Alhambra
@@ -3446,6 +3509,7 @@
 2012 Toyota Aqua
 2012 Toyota Camry
 2012 Toyota Corolla
+2012 Toyota Crown
 2012 Toyota Highlander
 2012 Toyota Prius
 2012 Toyota RAV4
@@ -3495,6 +3559,7 @@
 2013 Chevrolet Tahoe
 2013 Chevrolet Tahoe Hybrid
 2013 Chrysler 200
+2013 Chrysler 300
 2013 Citroën C-Elysee
 2013 Citroën C4
 2013 Citroën C4 Picasso
@@ -3662,10 +3727,12 @@
 2014 Chevrolet Colorado
 2014 Chevrolet Corvette Stingray
 2014 Chevrolet Equinox
+2014 Chevrolet Impala
 2014 Chevrolet Montana
 2014 Chevrolet SS
 2014 Chevrolet Tahoe
 2014 Chevrolet Traverse
+2014 Chrysler 300
 2014 Citroën C1
 2014 Citroën C4
 2014 Citroën C4 Picasso
@@ -3792,11 +3859,13 @@
 2015 Chevrolet Colorado
 2015 Chevrolet Corvette
 2015 Chevrolet Equinox
+2015 Chevrolet Impala
 2015 Chevrolet Malibu
 2015 Chevrolet Montana
 2015 Chevrolet Silverado
 2015 Chevrolet SS
 2015 Chevrolet Tahoe
+2015 Chrysler 300
 2015 Citroën C1
 2015 Citroën C4
 2015 Citroën C4 Picasso
@@ -3954,12 +4023,14 @@
 2016 Chevrolet Equinox
 2016 Chevrolet Express 2500
 2016 Chevrolet Express 3500
+2016 Chevrolet Impala
 2016 Chevrolet Malibu Limited
 2016 Chevrolet Montana
 2016 Chevrolet Spark EV
 2016 Chevrolet SS
 2016 Chevrolet Tahoe
 2016 Chevrolet Volt
+2016 Chrysler 300
 2016 Chrysler Town & Country LX
 2016 Chrysler Town & Country S
 2016 Citroën C1
@@ -3970,6 +4041,7 @@
 2016 Dacia Duster
 2016 Daihatsu Sigra
 2016 Daihatsu Thor
+2016 Dodge Charger
 2016 Dodge Dart
 2016 Dodge Grand Caravan
 2016 Ferrari 488 Spider
@@ -4110,6 +4182,7 @@
 2017 Chevrolet Colorado
 2017 Chevrolet Corvette
 2017 Chevrolet Equinox
+2017 Chevrolet Impala
 2017 Chevrolet Montana
 2017 Chevrolet Tahoe
 2017 Chevrolet SS
@@ -4289,7 +4362,9 @@
 2018 Chevrolet COPO Camaro
 2018 Chevrolet Corvette
 2018 Chevrolet Equinox
+2018 Chevrolet Impala
 2018 Chevrolet Tahoe
+2018 Chrysler 300
 2018 Citroën C1
 2018 Citroën C3
 2018 Citroën C4
@@ -4299,6 +4374,7 @@
 2018 Daihatsu Sigra
 2018 Daihatsu Thor
 2018 Dodge Challenger SRT Demon
+2018 Dodge Charger
 2018 Dodge Grand Caravan
 2018 Ferrari 488
 2018 Fiat 124 Spider
@@ -4347,6 +4423,7 @@
 2018 Lexus ES
 2018 Lexus LC500
 2018 Lexus LS
+2018 Lincoln Continental
 2018 Lincoln Navigator
 2018 Lotus Evora 400
 2018 Luxgen M7
@@ -4464,10 +4541,12 @@
 2019 Chevrolet Cruze
 2019 Chevrolet Corvette
 2019 Chevrolet Equinox
+2019 Chevrolet Impala
 2019 Chevrolet Malibu Hybrid
 2019 Chevrolet Silverado 1500 LD
 2019 Chevrolet Tahoe
 2019 Chevrolet Volt
+2019 Chrysler 300
 2019 Chrysler Pacifica
 2019 Chrysler Voyager
 2019 Citroën C1
@@ -4478,6 +4557,7 @@
 2019 Dacia Duster
 2019 Daihatsu Sigra
 2019 Daihatsu Thor
+2019 Dodge Charger
 2019 Dodge Grand Caravan
 2019 Ferrari 488 Pista
 2019 Fiat 124 Spider
@@ -4527,6 +4607,7 @@
 2019 Lexus IS
 2019 Lexus LS
 2019 Lexus LX570
+2019 Lincoln Continental
 2019 Luxgen M7
 2019 Maserati Ghibli
 2019 Maserati Levante
@@ -4996,6 +5077,7 @@
 2020 Lincoln Aviator Grand Touring
 2020 Lincoln Aviator Reserve
 2020 Lincoln Aviator Standard
+2020 Lincoln Continental
 2020 Lincoln Corsair Reserve
 2020 Lincoln Corsair Standard
 2020 Lotus Evora GT Automatic
@@ -5360,6 +5442,7 @@
 2021 Chevrolet Cavalier
 2021 Chevrolet Colorado
 2021 Chevrolet Tahoe
+2021 Chrysler 300
 2021 Chrysler Voyager
 2021 Citroën C1
 2021 Citroën C3
@@ -5370,6 +5453,7 @@
 2021 Dacia Sandero
 2021 Daihatsu Sigra
 2021 Daihatsu Thor
+2021 Dodge Charger
 2021 Fiat 124 Spider
 2021 Fiat 500
 2021 Fiat 500L
