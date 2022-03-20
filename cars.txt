@@ -18,6 +18,7 @@
 1935 Auburn Speedster
 1935 Bugatti Type 57 SC Atlantic
 1935 Ford Model 48
+1935 Peugeot 402 
 1935 Škoda Rapid
 1936 BMW 328
 1936 Bugatti Type 57 SC Atlantic
@@ -305,7 +306,7 @@
 1958 Edsel Corsair
 1958 Edsel Bermuda
 1958 Fiat 600 Multipla
-1958 Ford Fairlane
+1958 Ford Fairlane 500 Skyliner
 1958 Ford Ranchero
 1958 Ford Thunderbird
 1958 Frisky Family Three
@@ -1934,6 +1935,7 @@
 1990 Hyundai Scoupe
 1990 Hyundai Sonata
 1990 Hyundai Stellar
+1990 Jaguar XJR-15
 1990 Jeep Wrangler
 1990 Lada Niva
 1990 Lamborghini Diablo
@@ -2094,6 +2096,7 @@
 1992 GMC Typhoon
 1992 GMC Yukon
 1992 Honda Beat
+1992 Honda CR-X del Sol
 1992 Honda NSX
 1992 Hyundai Elantra
 1992 Hyundai Sonata
@@ -2108,6 +2111,7 @@
 1992 Land Rover Discovery
 1992 Maserati Biturbo
 1992 Mazda MX-5 Miata
+1992 McLaren F1
 1992 Mercury Grand Marquis
 1992 Mitsubishi Colt
 1992 Mitsubishi Minica
@@ -2193,6 +2197,7 @@
 1993 GMC Yukon
 1993 Holden Commodore SS
 1993 Honda Beat
+1993 Honda CR-X del Sol
 1993 Honda NSX
 1993 Hyundai Elantra
 1993 Hyundai Sonata
@@ -2209,7 +2214,7 @@
 1993 Mercedes-Benz 500E
 1993 Mercedes-Benz 500-Class
 1993 Mercedes-Benz 600-Class
-1993 Mitsubishi Colt
+1993 Mitsubishi Colt2
 1993 Mitsubishi Minica
 1993 Nissan 300ZX
 1993 Nissan Pathfinder
@@ -2287,6 +2292,7 @@
 1994 GMC Yukon
 1994 Honda Accord
 1994 Honda Beat
+1994 Honda CR-X del Sol
 1994 Honda NSX
 1994 Hyundai Elantra
 1994 Hyundai Sonata
@@ -2368,6 +2374,7 @@
 1995 Chrysler Voyager
 1995 Citroën Evasion
 1995 Dodge Spirit
+1995 Ferrari F50
 1995 Fiat Ducato
 1995 Fiat Uno
 1995 Ford Aerostar
@@ -2389,6 +2396,7 @@
 1995 Honda Accord
 1995 Honda Beat
 1995 Honda Civic
+1995 Honda CR-X del Sol
 1995 Honda NSX
 1995 Honda Odyssey
 1995 Hyundai Elantra
@@ -2494,6 +2502,7 @@
 1996 GMC Rally Wagon G3500 H.D.
 1996 GMC Yukon
 1996 Honda Beat
+1996 Honda CR-X del Sol
 1996 Honda NSX
 1996 Hyundai Elantra
 1996 Hyundai Sonata
@@ -2592,6 +2601,7 @@
 1997 GMC Jimmy
 1997 GMC Yukon
 1997 Honda CR-V
+1997 Honda CR-X del Sol
 1997 Honda NSX
 1997 Hyundai Elantra
 1997 Hyundai Sonata
@@ -2692,6 +2702,7 @@
 1998 GMC Jimmy
 1998 GMC Yukon
 1998 Honda CR-V
+1998 Honda CR-X del Sol
 1998 Honda NSX
 1998 Hyundai Elantra
 1998 Hyundai Sonata
@@ -3062,6 +3073,10 @@
 2001 Jeep Wrangler
 2001 Kia Sephia
 2001 Lada Niva
+<<<<<<< Updated upstream
+=======
+2001 Lexus SC
+>>>>>>> Stashed changes
 2001 Lotus Elise
 2001 Mazda MX-5 Miata
 2001 Mercedes-Benz E55 AMG
@@ -3160,6 +3175,7 @@
 2002 Honda NSX
 2002 Hyundai Elantra
 2002 Hyundai Sonata
+2002 IKCO Samand
 2002 Infiniti G20
 2002 Isuzu Trooper Limited
 2002 Isuzu Trooper LS
@@ -3167,8 +3183,13 @@
 2002 Jaguar XJR
 2002 Jeep Grand Cherokee
 2002 Jeep Wrangler
+<<<<<<< Updated upstream
+=======
+2002 Koenigsegg CC8S
+>>>>>>> Stashed changes
 2002 Lada Niva
 2002 Land Rover Discovery Series II
+2002 Lexus SC
 2002 Mazda 626
 2002 Mazda Millenia
 2002 Mazda MX-5 Miata
@@ -3219,6 +3240,10 @@
 2003 Acura RL
 2003 Acura RSX
 2003 Acura TL
+<<<<<<< Updated upstream
+=======
+2003 Ascari KZ1
+>>>>>>> Stashed changes
 2003 Aston Martin DB7
 2003 Aston Martin Vanquish
 2003 Audi A2
@@ -3240,6 +3265,10 @@
 2003 Chevrolet Optra
 2003 Chevrolet S-10
 2003 Chevrolet Spark
+<<<<<<< Updated upstream
+=======
+2003 Chevrolet SSR
+>>>>>>> Stashed changes
 2003 Chevrolet Tahoe
 2003 Chevrolet Tracker
 2003 Chrysler 300M
@@ -3280,6 +3309,7 @@
 2003 Honda NSX
 2003 Hyundai Elantra
 2003 Hyundai Sonata
+2003 IKCO Samand
 2003 Infiniti QX4
 2003 Isuzu Rodeo Sport
 2003 Jeep Grand Cherokee
@@ -3287,10 +3317,12 @@
 2003 Lada Niva
 2003 Lamborghini Gallardo
 2003 Land Rover Range Rover
+2003 Lexus SC
 2003 Mazda5
 2003 Mazda MX-5 Miata
 2003 Mazda Protege
 2003 Mazda Protege5
+2003 Mercedes-Benz SLR McLaren
 2003 Mini Cooper S
 2003 Mitsubishi Colt
 2003 Mitsubishi Lancer Evolution
@@ -3407,6 +3439,7 @@
 2004 Hyundai Elantra
 2004 Hyundai Sonata
 2004 Hyundai Tucson
+2004 IKCO Samand
 2004 Infiniti I35
 2004 Infiniti QX80
 2004 Isuzu Axiom S
@@ -3415,7 +3448,13 @@
 2004 Isuzu Rodeo S 3.5L V6
 2004 Jeep Grand Cherokee
 2004 Jeep Wrangler
+<<<<<<< Updated upstream
 2004 Lada Niva
+=======
+2004 Koenigsegg CCR
+2004 Lada Niva
+2004 Lexus SC
+>>>>>>> Stashed changes
 2004 Lotus Esprit
 2004 Lotus Exige
 2004 Mazda5
@@ -3441,6 +3480,7 @@
 2004 Pontiac GTO
 2004 Porsche 911
 2004 Porsche 986
+2004 Porsche Carrera GT
 2004 Porsche Cayenne
 2004 Porsche Cayman
 2004 Renault Espace
@@ -3505,6 +3545,10 @@
 2005 Chevrolet S-10
 2005 Chevrolet Silverado Hybrid
 2005 Chevrolet Spark
+<<<<<<< Updated upstream
+=======
+2005 Chevrolet SSR
+>>>>>>> Stashed changes
 2005 Chevrolet Tahoe
 2005 Chevrolet Venture
 2005 Chrysler 300
@@ -3550,6 +3594,7 @@
 2005 Hyundai Sonata
 2005 Hyundai Tucson
 2005 Hyundai XG350
+2005 IKCO Samand
 2005 Infiniti QX80
 2005 Jeep Grand Cherokee
 2005 Jeep Wrangler Rubicon
@@ -3557,10 +3602,15 @@
 2005 Jeep Wrangler Sport
 2005 Jeep Wrangler Unlimited
 2005 Jeep Wrangler X
+<<<<<<< Updated upstream
+=======
+2005 Koenigsegg CCX
+>>>>>>> Stashed changes
 2005 Lada Niva
 2005 Land Rover Freelander
 2005 Land Rover Range Rover Sport
 2005 Lexus RX330
+2005 Lexus SC
 2005 Lincoln Mark LT
 2005 Lotus Elise
 2005 Lotus Exige
@@ -3632,6 +3682,7 @@
 2006 BMW 545i
 2006 Bugatti Veyron
 2006 Buick GL8
+2006 Cadillac XLR
 2006 Chevrolet Captiva
 2006 Chevrolet Cobalt
 2006 Chevrolet Colorado
@@ -3690,12 +3741,14 @@
 2006 Hyundai Elantra
 2006 Hyundai Sonata
 2006 Hyundai Tucson
+2006 IKCO Samand
 2006 Infiniti QX80
 2006 Jeep Grand Cherokee
 2006 Jeep Wrangler
 2006 Koenigsegg CCX-R
 2006 Lada Niva
 2006 Land Rover Range Rover
+2006 Lexus SC
 2006 Lotus Elise
 2006 Lotus Exige
 2006 Mazda MX-5 Miata
@@ -3766,6 +3819,10 @@
 2007 Audi S4
 2007 Audi TT
 2007 BMW 120D Cabriolet
+<<<<<<< Updated upstream
+=======
+2007 BMW 3 Series
+>>>>>>> Stashed changes
 2007 Bugatti Veyron
 2007 Buick GL8
 2007 Buick Rendezvous
@@ -3834,12 +3891,14 @@
 2007 Hyundai Elantra
 2007 Hyundai Sonata
 2007 Hyundai Tucson
+2007 IKCO Samand
 2007 Infiniti G35
 2007 Infiniti QX80
 2007 Jeep Grand Cherokee
 2007 Jeep Wrangler
 2007 Lada Niva
 2007 Lexus ES
+2007 Lexus SC
 2007 Lotus Elise
 2007 Lotus Exige
 2007 Mazda MX-5 Miata
@@ -3906,10 +3965,12 @@
 2008 Audi S4 Avant manual
 2008 Audi S5
 2008 Audi TT
+2008 BMW 3 Series
 2008 BMW M3 GT2
 2008 Bugatti Veyron
 2008 Bugatti Veyron
 2008 Buick GL8
+2008 Cadillac XLR
 2008 Chevrolet Captiva
 2008 Chevrolet Cobalt
 2008 Chevrolet Colorado
@@ -3937,6 +3998,10 @@
 2008 Dodge Dakota
 2008 Dodge Grand Caravan
 2008 Dodge Magnum
+<<<<<<< Updated upstream
+=======
+2008 Ferrari California
+>>>>>>> Stashed changes
 2008 Fiat 500
 2008 Fiat Ducato
 2008 Ford Courier
@@ -3964,6 +4029,7 @@
 2008 Hyundai Sonata
 2008 Hyundai Tiburon
 2008 Hyundai Tucson
+2008 IKCO Samand
 2008 Infiniti FX45
 2008 Infiniti G35
 2008 Infiniti QX56
@@ -3981,6 +4047,7 @@
 2008 Lada Niva
 2008 Lotus Elise
 2008 Lotus Exige
+2008 Lexus SC
 2008 Mazda 2
 2008 Mazda MX-5 Miata
 2008 Mazda RX-8
@@ -4045,10 +4112,20 @@
 2009 Audi TT
 2009 Bentley Arnage
 2009 Bentley Continental
+<<<<<<< Updated upstream
+=======
+2009 BMW 3 Series
+2009 BMW M3
+2009 BMW Z4
+>>>>>>> Stashed changes
 2009 Bugatti Veyron
 2009 Buick GL8
 2009 Cadillac CTS-V
 2009 Cadillac STS V8
+<<<<<<< Updated upstream
+=======
+2009 Cadillac XLR
+>>>>>>> Stashed changes
 2009 Chevrolet Captiva
 2009 Chevrolet Cobalt
 2009 Chevrolet Colorado
@@ -4070,6 +4147,7 @@
 2009 Daihatsu Copen
 2009 Dodge Grand Caravan
 2009 Dodge Sprinter
+2009 Ferrari California
 2009 Fiat 500
 2009 Fiat Ducato
 2009 Ford Courier
@@ -4099,6 +4177,7 @@
 2009 Hyundai Elantra
 2009 Hyundai Sonata
 2009 Hyundai Tucson
+2009 IKCO Samand
 2009 Infiniti QX80
 2009 Jaguar XK-Series
 2009 Jeep Grand Cherokee
@@ -4118,6 +4197,7 @@
 2009 Lada Niva
 2009 Land Rover LR3
 2009 Lexus RX
+2009 Lexus SC
 2009 Lotus Elise
 2009 Lotus Exige
 2009 Mazda B-Series Pickup
@@ -4198,7 +4278,13 @@
 2010 Bentley Azure
 2010 Bentley Brooklands
 2010 Bentley Mulsanne
+2010 BMW 3 Series
 2010 BMW 5 Series
+<<<<<<< Updated upstream
+=======
+2010 BMW M3
+2010 BMW Z4
+>>>>>>> Stashed changes
 2010 Bugatti Veyron
 2010 Buick GL8
 2010 Cadillac CTS-V
@@ -4223,6 +4309,7 @@
 2010 Dodge Charger SRT8
 2010 Dodge Grand Caravan
 2010 Dodge Viper SRT10
+2010 Ferrari California
 2010 Fiat 500
 2010 Fiat Ducato
 2010 Ford Courier
@@ -4254,6 +4341,7 @@
 2010 Hyundai ix20
 2010 Hyundai Sonata
 2010 Hyundai Tucson
+2010 IKCO Samand
 2010 Infiniti M35x
 2010 Infiniti M45
 2010 Infiniti M45x
@@ -4264,6 +4352,7 @@
 2010 Kia Venga
 2010 Lada Niva
 2010 Lamborghini Murcielago
+2010 Lexus LFA
 2010 Lexus SC
 2010 Lotus Elise
 2010 Lotus Exige
@@ -4333,6 +4422,8 @@
 2011 Audi R8
 2011 Audi TT
 2011 Bentley Mulsanne
+2011 BMW 3 Series
+2011 BMW M3
 2011 BMW Z4
 2011 Bugatti Veyron
 2011 Buick GL8
@@ -4367,6 +4458,7 @@
 2011 Dodge Ram Pickup 1500
 2011 Dodge Ram Pickup 2500
 2011 Dodge Ram Pickup 3500
+2011 Ferrari California
 2011 Fiat 500
 2011 Fiat Ducato
 2011 Fiat Panda
@@ -4396,6 +4488,7 @@
 2011 Hyundai Sonata
 2011 Hyundai Tucson
 2011 Hyundai Veloster
+2011 IKCO Samand
 2011 Infiniti QX56
 2011 Infiniti QX80
 2011 Jaguar XJ
@@ -4403,14 +4496,22 @@
 2011 Jeep Wrangler
 2011 Kia Soul
 2011 Kia Venga
+<<<<<<< Updated upstream
 2011 Lada Granta
 2011 Lada Niva
+=======
+2011 Koenigsegg Agera
+2011 Lada Granta
+2011 Lada Niva
+2011 Lamborghini Aventador
+>>>>>>> Stashed changes
 2011 Lotus Elise
 2011 Lotus Exige
 2011 Luxgen M7
 2011 Mazda MX-5 Miata
 2011 Mazda RX-8
 2011 Mazda Tribute
+2011 McLaren 12C
 2011 Mercedes-Benz GL450
 2011 Mitsubishi Colt
 2011 Nissan Armada
@@ -4423,6 +4524,7 @@
 2011 Nissan Rogue
 2011 Nissan Titan
 2011 Opel Meriva
+2011 Pagani Huayra
 2011 Peugeot 107
 2011 Porsche 911 RSR Spyder
 2011 Porsche Cayman
@@ -4478,6 +4580,9 @@
 2012 Audi R8
 2012 Audi TT
 2012 Bentley Mulsanne
+2012 BMW 3 Series
+2012 BMW M3
+2012 BMW Z4
 2012 Bugatti Veyron Super Sport
 2012 Buick GL8
 2012 Cadillac CTS-V
@@ -4503,6 +4608,8 @@
 2012 Daihatsu Copen
 2012 Dodge Caliber
 2012 Dodge Grand Caravan
+2012 Ferrari 458 Spider
+2012 Ferrari California
 2012 Fiat 500
 2012 Fiat 500L
 2012 Fiat Ducato
@@ -4530,6 +4637,7 @@
 2012 Hyundai Sonata
 2012 Hyundai Tucson
 2012 Hyundai Veracruz
+2012 IKCO Samand
 2012 Infiniti EX35
 2012 Infiniti FX35 Base
 2012 Infiniti FX35 Limited Edition
@@ -4636,8 +4744,15 @@
 2013 Bentley Continental
 2013 Bentley Mulsanne
 2013 BMW 328i
+2013 BMW 4 Series
+2013 BMW i3
+2013 BMW i8
 2013 BMW M3
 2013 BMW M5
+<<<<<<< Updated upstream
+=======
+2013 BMW Z4
+>>>>>>> Stashed changes
 2013 Bugatti Veyron
 2013 Buick GL8
 2013 Buick Verano
@@ -4678,8 +4793,10 @@
 2013 Dodge Grand Caravan
 2013 Dodge SRT Viper
 2013 Ferrari 458 Spider
+2013 Ferrari California
 2013 Ferrari FF
 2013 Ferrari LaFerrari
+2013 Ferrari 458 Spider
 2013 Fiat 500
 2013 Fiat 500e
 2013 Fiat 500L
@@ -4718,6 +4835,7 @@
 2013 Hyundai ix20
 2013 Hyundai Sonata
 2013 Hyundai Tucson
+2013 IKCO Samand
 2013 Infiniti EX37
 2013 Infiniti FX50
 2013 Infiniti G25
@@ -4746,6 +4864,7 @@
 2013 Mazda 3
 2013 Mazda CX-5
 2013 Mazda MX-5 Miata
+2013 McLaren P1
 2013 Mercedes-Benz CLS
 2013 Mercedes-Benz SLS AMG
 2013 Mini Cooper Convertible
@@ -4847,7 +4966,13 @@
 2014 Audi TT
 2014 Bentley Mulsanne
 2014 BMW 2 Series Active Tourer
+2014 BMW 4 Series
 2014 BMW i8
+<<<<<<< Updated upstream
+=======
+2014 BMW M4
+2014 BMW Z4
+>>>>>>> Stashed changes
 2014 Bugatti Veyron
 2014 Buick GL8
 2014 Chevrolet Captiva
@@ -4878,6 +5003,7 @@
 2014 Dodge Avenger
 2014 Dodge Dart
 2014 Dodge Grand Caravan
+2014 Ferrari 458 Spider
 2014 Fiat 500
 2014 Fiat 500L
 2014 Fiat Ducato
@@ -4910,6 +5036,7 @@
 2014 Hyundai ix20
 2014 Hyundai Sonata
 2014 Hyundai Tucson
+2014 IKCO Samand
 2014 Infiniti QX80
 2014 Jaguar XJ
 2014 Jeep Grand Cherokee
@@ -4926,6 +5053,7 @@
 2014 Mazda 2
 2014 Mazda CX-5
 2014 Mazda MX-5 Miata
+2014 McLaren 650S
 2014 Mercedes-Benz AMG GT
 2014 Mercedes-Benz C-Class
 2014 Mercedes-Benz CL-Class
@@ -5005,10 +5133,12 @@ Toyota Sienna
 2015 Audi TT
 2015 Bentley Mulsanne
 2015 BMW 2 Series Active Tourer
+2015 BMW 4 Series
 2015 BMW 5 Series
 2015 BMW 7 Series
 2015 BMW i8
 2015 BMW M3
+2015 BMW M4
 2015 BMW X5M
 2015 BMW Z4
 2015 Bugatti Veyron
@@ -5044,6 +5174,7 @@ Toyota Sienna
 2015 Dodge Charger
 2015 Dodge Dart
 2015 Dodge Grand Caravan
+2015 Ferrari 458 Spider
 2015 Ferrari 488
 2015 Ferrari LaFerrari
 2015 Fiat 500
@@ -5078,6 +5209,7 @@ Toyota Sienna
 2015 Hyundai ix20
 2015 Hyundai Sonata
 2015 Hyundai Tucson
+2015 IKCO Samand
 2015 Infiniti Q40 Base
 2015 Infiniti Q40 Base AWD
 2015 Infiniti Q60 IPL
@@ -5089,6 +5221,10 @@ Toyota Sienna
 2015 Jeep Wrangler
 2015 Kia Soul
 2015 Kia Venga
+<<<<<<< Updated upstream
+=======
+2015 Koenigsegg Regera
+>>>>>>> Stashed changes
 2015 Lada Granta
 2015 Lada Niva
 2015 Lada Vesta
@@ -5194,6 +5330,7 @@ Toyota Sienna
 2016 Audi TT
 2016 Bentley Mulsanne
 2016 BMW 2 Series Active Tourer
+2016 BMW 4 Series
 2016 BMW 5 Series
 2016 BMW 7 Series
 2016 BMW i8
@@ -5201,6 +5338,7 @@ Toyota Sienna
 2016 BMW M4 Convertible
 2016 BMW M4 GTS
 2016 BMW X3
+2016 BMW Z4
 2016 Bugatti Chiron
 2016 Buick GL8
 2016 Buick Verano
@@ -5278,6 +5416,7 @@ Toyota Sienna
 2016 Hyundai ix20
 2016 Hyundai Sonata
 2016 Hyundai Tucson
+2016 IKCO Samand
 2016 Infiniti QX80
 2016 Jaguar XF
 2016 Jaguar XJ
@@ -5298,6 +5437,9 @@ Toyota Sienna
 2016 Maserati Quattroporte
 2016 Mazda CX-5
 2016 Mazda MX-5 Miata
+2016 McLaren 570 GT
+2016 McLaren 570S
+2016 McLaren 675LT
 2016 Mercedes-Benz AMG GT
 2016 Mini Cooper
 2016 Mitsubishi Colt
@@ -5385,11 +5527,13 @@ Toyota Sienna
 2017 Bentley Bentayga
 2017 Bentley Mulsanne
 2017 BMW 2 Series Active Tourer
+2017 BMW 4 Series
 2017 BMW 5 Series
 2017 BMW 6 Series Gran Turismo
 2017 BMW 7 Series
 2017 BMW i8
 2017 BMW M2
+2017 BMW M4
 2017 Bugatti Chiron
 2017 Buick GL8
 2017 BYD Song Max
@@ -5424,6 +5568,7 @@ Toyota Sienna
 2017 Dacia Duster
 2017 Daihatsu Sigra
 2017 Daihatsu Thor
+2017 Dallara Stradale
 2017 Dodge Charger
 2017 Dodge Grand Caravan
 2017 Dodge Viper
@@ -5446,6 +5591,7 @@ Toyota Sienna
 2017 Ford Fiesta
 2017 Ford Focus
 2017 Ford Galaxy
+2017 Ford GT
 2017 Ford Mondeo
 2017 Ford Mustang GT
 2017 Ford Ranger
@@ -5466,6 +5612,7 @@ Toyota Sienna
 2017 Hyundai ix20
 2017 Hyundai Sonata
 2017 Hyundai Tucson
+2017 IKCO Samand
 2017 Infiniti QX60 Hybrid
 2017 Infiniti QX70
 2017 Infiniti QX80
@@ -5495,6 +5642,7 @@ Toyota Sienna
 2017 Mazda CX-5
 2017 Mazda MX-5 Miata
 2017 McLaren 720S
+2017 McLaren Senna
 2017 Mercedes-Benz AMG GT
 2017 Mercedes-Benz B-Class
 2017 Mercedes-Benz E-Class
@@ -5596,11 +5744,13 @@ Toyota Sienna
 2018 Bentley Mulsanne
 2018 BMW 2 Series Active Tourer
 2018 BMW 3 Series
+2018 BMW 4 Series
 2018 BMW 5 Series
 2018 BMW 6 Series Gran Turismo
 2018 BMW 7 Series
 2018 BMW 8 Series Gran Coupé
 2018 BMW i8
+2018 BMW M4
 2018 BMW M760i
 2018 Bugatti Chiron
 2018 Buick GL8
@@ -5671,6 +5821,7 @@ Toyota Sienna
 2018 Hyundai ix20
 2018 Hyundai Sonata
 2018 Hyundai Tucson
+2018 IKCO Samand
 2018 Infiniti Q50 Hybrid
 2018 Infiniti Q70h
 2018 Infiniti QX80
@@ -5803,11 +5954,13 @@ Toyota Sienna
 2019 BMW 2 Series Active Tourer
 2019 BMW 2 Series Gran Coupé
 2019 BMW 3 Series
+2019 BMW 4 Series
 2019 BMW 5 Series
 2019 BMW 6 Series Gran Turismo
 2019 BMW 7 Series
 2019 BMW 8 Series Gran Coupé
 2019 BMW i8
+2019 BMW M4
 2019 BMW Z4
 2019 Bugatti Chiron
 2019 Bugatti Divo
@@ -5890,6 +6043,7 @@ Toyota Sienna
 2019 Hyundai Sonata
 2019 Hyundai Tucson
 2019 Hyundai Veloster N
+2019 IKCO Samand
 2019 Infiniti Q70
 2019 Infiniti QX30
 2019 Infiniti QX80
@@ -6073,16 +6227,11 @@ Toyota Sienna
 2020 BMW M235 Gran Coupé
 2020 BMW M240
 2020 BMW M340
-2020 BMW M4
 2020 BMW M440
-2020 BMW M5
 2020 BMW M550
 2020 BMW M6
 2020 BMW M760
-2020 BMW M8
 2020 BMW M850 Gran Coupé
-2020 BMW M8 Gran Coupé
-2020 BMW M850
 2020 BMW X1
 2020 BMW X2
 2020 BMW X3
@@ -6248,6 +6397,7 @@ Toyota Sienna
 2020 Hyundai Tucson
 2020 Hyundai Veloster
 2020 Hyundai Veloster N
+2020 IKCO Samand
 2020 Infiniti Q50
 2020 Infiniti QX50
 2020 Infiniti Q60
@@ -6865,6 +7015,7 @@ Toyota Sienna
 2021 Hyundai i20
 2021 Hyundai Sonata
 2021 Hyundai Veloster N
+2021 IKCO Samand
 2021 Infiniti QX80
 2021 Jeep Wrangler
 2021 Kia Ceed
