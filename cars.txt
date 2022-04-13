@@ -3073,10 +3073,7 @@
 2001 Jeep Wrangler
 2001 Kia Sephia
 2001 Lada Niva
-<<<<<<< Updated upstream
-=======
 2001 Lexus SC
->>>>>>> Stashed changes
 2001 Lotus Elise
 2001 Mazda MX-5 Miata
 2001 Mercedes-Benz E55 AMG
@@ -3183,10 +3180,7 @@
 2002 Jaguar XJR
 2002 Jeep Grand Cherokee
 2002 Jeep Wrangler
-<<<<<<< Updated upstream
-=======
 2002 Koenigsegg CC8S
->>>>>>> Stashed changes
 2002 Lada Niva
 2002 Land Rover Discovery Series II
 2002 Lexus SC
@@ -3240,10 +3234,7 @@
 2003 Acura RL
 2003 Acura RSX
 2003 Acura TL
-<<<<<<< Updated upstream
-=======
 2003 Ascari KZ1
->>>>>>> Stashed changes
 2003 Aston Martin DB7
 2003 Aston Martin Vanquish
 2003 Audi A2
@@ -3265,10 +3256,7 @@
 2003 Chevrolet Optra
 2003 Chevrolet S-10
 2003 Chevrolet Spark
-<<<<<<< Updated upstream
-=======
 2003 Chevrolet SSR
->>>>>>> Stashed changes
 2003 Chevrolet Tahoe
 2003 Chevrolet Tracker
 2003 Chrysler 300M
@@ -3448,13 +3436,10 @@
 2004 Isuzu Rodeo S 3.5L V6
 2004 Jeep Grand Cherokee
 2004 Jeep Wrangler
-<<<<<<< Updated upstream
 2004 Lada Niva
-=======
 2004 Koenigsegg CCR
 2004 Lada Niva
 2004 Lexus SC
->>>>>>> Stashed changes
 2004 Lotus Esprit
 2004 Lotus Exige
 2004 Mazda5
@@ -3545,10 +3530,7 @@
 2005 Chevrolet S-10
 2005 Chevrolet Silverado Hybrid
 2005 Chevrolet Spark
-<<<<<<< Updated upstream
-=======
 2005 Chevrolet SSR
->>>>>>> Stashed changes
 2005 Chevrolet Tahoe
 2005 Chevrolet Venture
 2005 Chrysler 300
@@ -3602,10 +3584,7 @@
 2005 Jeep Wrangler Sport
 2005 Jeep Wrangler Unlimited
 2005 Jeep Wrangler X
-<<<<<<< Updated upstream
-=======
 2005 Koenigsegg CCX
->>>>>>> Stashed changes
 2005 Lada Niva
 2005 Land Rover Freelander
 2005 Land Rover Range Rover Sport
@@ -3819,10 +3798,7 @@
 2007 Audi S4
 2007 Audi TT
 2007 BMW 120D Cabriolet
-<<<<<<< Updated upstream
-=======
 2007 BMW 3 Series
->>>>>>> Stashed changes
 2007 Bugatti Veyron
 2007 Buick GL8
 2007 Buick Rendezvous
@@ -3998,10 +3974,7 @@
 2008 Dodge Dakota
 2008 Dodge Grand Caravan
 2008 Dodge Magnum
-<<<<<<< Updated upstream
-=======
 2008 Ferrari California
->>>>>>> Stashed changes
 2008 Fiat 500
 2008 Fiat Ducato
 2008 Ford Courier
@@ -4112,20 +4085,14 @@
 2009 Audi TT
 2009 Bentley Arnage
 2009 Bentley Continental
-<<<<<<< Updated upstream
-=======
 2009 BMW 3 Series
 2009 BMW M3
 2009 BMW Z4
->>>>>>> Stashed changes
 2009 Bugatti Veyron
 2009 Buick GL8
 2009 Cadillac CTS-V
 2009 Cadillac STS V8
-<<<<<<< Updated upstream
-=======
 2009 Cadillac XLR
->>>>>>> Stashed changes
 2009 Chevrolet Captiva
 2009 Chevrolet Cobalt
 2009 Chevrolet Colorado
@@ -4280,11 +4247,8 @@
 2010 Bentley Mulsanne
 2010 BMW 3 Series
 2010 BMW 5 Series
-<<<<<<< Updated upstream
-=======
 2010 BMW M3
 2010 BMW Z4
->>>>>>> Stashed changes
 2010 Bugatti Veyron
 2010 Buick GL8
 2010 Cadillac CTS-V
@@ -4496,15 +4460,12 @@
 2011 Jeep Wrangler
 2011 Kia Soul
 2011 Kia Venga
-<<<<<<< Updated upstream
 2011 Lada Granta
 2011 Lada Niva
-=======
 2011 Koenigsegg Agera
 2011 Lada Granta
 2011 Lada Niva
 2011 Lamborghini Aventador
->>>>>>> Stashed changes
 2011 Lotus Elise
 2011 Lotus Exige
 2011 Luxgen M7
@@ -4749,10 +4710,7 @@
 2013 BMW i8
 2013 BMW M3
 2013 BMW M5
-<<<<<<< Updated upstream
-=======
 2013 BMW Z4
->>>>>>> Stashed changes
 2013 Bugatti Veyron
 2013 Buick GL8
 2013 Buick Verano
@@ -4968,11 +4926,8 @@
 2014 BMW 2 Series Active Tourer
 2014 BMW 4 Series
 2014 BMW i8
-<<<<<<< Updated upstream
-=======
 2014 BMW M4
 2014 BMW Z4
->>>>>>> Stashed changes
 2014 Bugatti Veyron
 2014 Buick GL8
 2014 Chevrolet Captiva
@@ -5221,10 +5176,7 @@ Toyota Sienna
 2015 Jeep Wrangler
 2015 Kia Soul
 2015 Kia Venga
-<<<<<<< Updated upstream
-=======
 2015 Koenigsegg Regera
->>>>>>> Stashed changes
 2015 Lada Granta
 2015 Lada Niva
 2015 Lada Vesta
