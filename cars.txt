@@ -1897,6 +1897,7 @@
 1990 Audi 100
 1990 Audi 80
 1990 Audi 90
+1990 Audi S2
 1990 Audi V8
 1990 Austin Montego
 1990 Buick Century
@@ -1969,9 +1970,11 @@
 1991 Acura Vigor
 1991 ARO 10
 1991 Aston Martin Virage
+1991 Audi 100 S4
 1991 Audi 200
 1991 Audi 80
 1991 Audi 90
+1991 Audi S2
 1991 Audi S4
 1991 Audi V8
 1991 Austin Montego
@@ -2048,7 +2051,9 @@
 1992 Acura Vigor
 1992 ARO 10
 1992 Aston Martin Virage
+1992 Audi 100 S4
 1992 Audi 80
+1992 Audi S2
 1992 Audi S4
 1992 Audi V8
 1992 Austin Montego
@@ -2141,7 +2146,9 @@
 1993 ARO 10
 1993 Aston Martin DB7
 1993 Aston Martin Virage
+1993 Audi 100 S4
 1993 Audi 80
+1993 Audi S2
 1993 Audi S4
 1993 Audi V8
 1993 Austin Montego
@@ -2246,10 +2253,12 @@
 1994 ARO 10
 1994 Aston Martin DB7
 1994 Aston Martin Virage
-1994 Audi 100
+1994 Audi 100 S4
 1994 Audi 80
 1994 Audi A4
 1994 Audi A8
+1994 Audi RS 2
+1994 Audi S2
 1994 Audi S4
 1994 Audi V8
 1994 Austin Montego
@@ -2347,7 +2356,10 @@
 1995 Audi 90
 1995 Audi A4
 1995 Audi A8
+1995 Audi RS 2
+1995 Audi S2
 1995 Audi S4
+1995 Audi S6
 1995 Audi V8
 1995 Autozam AZ-1
 1995 Bugatti EB 110
@@ -2456,6 +2468,8 @@
 1996 Audi A4
 1996 Audi A8
 1996 Audi S4
+1996 Audi S6 Plus
+1996 Audi S8
 1996 BMW 518i
 1996 Buick Century
 1996 Buick Riviera
@@ -2562,6 +2576,8 @@
 1997 Audi A6
 1997 Audi A8
 1997 Audi S4
+1997 Audi S6 Plus
+1997 Audi S8
 1997 Buick Century
 1997 Buick Riviera
 1997 Chevrolet Cavalier
@@ -2660,6 +2676,7 @@
 1998 Audi A8
 1998 Audi TT
 1998 Audi S4
+1998 Audi S8
 1998 Audi TT Coupe
 1998 BMW E36 M3 Sedan
 1998 BMW Z3 Coupe
@@ -2769,7 +2786,10 @@
 1999 Audi A4
 1999 Audi A6
 1999 Audi A8
+1999 Audi S3
 1999 Audi S4
+1999 Audi S6
+1999 Audi S8
 1999 Audi TT Roadster
 1999 BMW Z3 Coupe
 1999 Buick Century
@@ -2894,7 +2914,11 @@
 2000 Audi A4
 2000 Audi A6
 2000 Audi A8
+2000 Audi RS 4 Avant
+2000 Audi S3
 2000 Audi S4
+2000 Audi S6
+2000 Audi S8
 2000 Audi TT
 2000 BMW Z3 Coupe
 2000 Buick Century
@@ -3012,7 +3036,11 @@
 2001 Audi A4
 2001 Audi A6
 2001 Audi A8
+2001 Audi RS 4 Avant
+2001 Audi S3
 2001 Audi S4
+2001 Audi S6
+2001 Audi S8
 2001 Audi TT
 2001 BMW M3 Convertible
 2001 BMW Z3 Coupe
@@ -3073,10 +3101,7 @@
 2001 Jeep Wrangler
 2001 Kia Sephia
 2001 Lada Niva
-<<<<<<< Updated upstream
-=======
 2001 Lexus SC
->>>>>>> Stashed changes
 2001 Lotus Elise
 2001 Mazda MX-5 Miata
 2001 Mercedes-Benz E55 AMG
@@ -3127,7 +3152,11 @@
 2002 Audi A4
 2002 Audi A6
 2002 Audi A8
+2002 Audi RS 6
+2002 Audi S3
 2002 Audi S4
+2002 Audi S6
+2002 Audi S8
 2002 Audi TT
 2002 BMW 330i
 2002 BMW Z3 Coupe
@@ -3183,10 +3212,7 @@
 2002 Jaguar XJR
 2002 Jeep Grand Cherokee
 2002 Jeep Wrangler
-<<<<<<< Updated upstream
-=======
 2002 Koenigsegg CC8S
->>>>>>> Stashed changes
 2002 Lada Niva
 2002 Land Rover Discovery Series II
 2002 Lexus SC
@@ -3240,10 +3266,7 @@
 2003 Acura RL
 2003 Acura RSX
 2003 Acura TL
-<<<<<<< Updated upstream
-=======
 2003 Ascari KZ1
->>>>>>> Stashed changes
 2003 Aston Martin DB7
 2003 Aston Martin Vanquish
 2003 Audi A2
@@ -3252,6 +3275,7 @@
 2003 Audi A6
 2003 Audi A8
 2003 Audi RS 6
+2003 Audi S3
 2003 Audi S4
 2003 Audi TT
 2003 Buick Century
@@ -3265,10 +3289,7 @@
 2003 Chevrolet Optra
 2003 Chevrolet S-10
 2003 Chevrolet Spark
-<<<<<<< Updated upstream
-=======
 2003 Chevrolet SSR
->>>>>>> Stashed changes
 2003 Chevrolet Tahoe
 2003 Chevrolet Tracker
 2003 Chrysler 300M
@@ -3377,6 +3398,7 @@
 2004 Audi A4
 2004 Audi A6
 2004 Audi A8
+2004 Audi RS 6 Plus
 2004 Audi S4
 2004 Audi TT
 2004 Buick Century
@@ -3448,13 +3470,9 @@
 2004 Isuzu Rodeo S 3.5L V6
 2004 Jeep Grand Cherokee
 2004 Jeep Wrangler
-<<<<<<< Updated upstream
-2004 Lada Niva
-=======
 2004 Koenigsegg CCR
 2004 Lada Niva
 2004 Lexus SC
->>>>>>> Stashed changes
 2004 Lotus Esprit
 2004 Lotus Exige
 2004 Mazda5
@@ -3545,10 +3563,7 @@
 2005 Chevrolet S-10
 2005 Chevrolet Silverado Hybrid
 2005 Chevrolet Spark
-<<<<<<< Updated upstream
-=======
 2005 Chevrolet SSR
->>>>>>> Stashed changes
 2005 Chevrolet Tahoe
 2005 Chevrolet Venture
 2005 Chrysler 300
@@ -3602,10 +3617,7 @@
 2005 Jeep Wrangler Sport
 2005 Jeep Wrangler Unlimited
 2005 Jeep Wrangler X
-<<<<<<< Updated upstream
-=======
 2005 Koenigsegg CCX
->>>>>>> Stashed changes
 2005 Lada Niva
 2005 Land Rover Freelander
 2005 Land Rover Range Rover Sport
@@ -3676,7 +3688,11 @@
 2006 Audi Q5
 2006 Audi Q7
 2006 Audi R8
+2006 Audi RS 4
+2006 Audi S3
 2006 Audi S4 Sedan
+2006 Audi S6
+2006 Audi S8
 2006 Audi TT
 2006 BMW 530xi
 2006 BMW 545i
@@ -3816,13 +3832,15 @@
 2007 Audi Q5
 2007 Audi Q7
 2007 Audi R8
+2007 Audi RS 4
+2007 Audi S3
 2007 Audi S4
+2007 Audi S5
+2007 Audi S6
+2007 Audi S8
 2007 Audi TT
 2007 BMW 120D Cabriolet
-<<<<<<< Updated upstream
-=======
 2007 BMW 3 Series
->>>>>>> Stashed changes
 2007 Bugatti Veyron
 2007 Buick GL8
 2007 Buick Rendezvous
@@ -3962,9 +3980,13 @@
 2008 Audi Q7
 2008 Audi R8
 2008 Audi RS 4
+2008 Audi RS 6
+2008 Audi S3
 2008 Audi S4 Avant manual
 2008 Audi S5
-2008 Audi TT
+2008 Audi S6
+2008 Audi S8
+2008 Audi TTS
 2008 BMW 3 Series
 2008 BMW M3 GT2
 2008 Bugatti Veyron
@@ -3998,10 +4020,7 @@
 2008 Dodge Dakota
 2008 Dodge Grand Caravan
 2008 Dodge Magnum
-<<<<<<< Updated upstream
-=======
 2008 Ferrari California
->>>>>>> Stashed changes
 2008 Fiat 500
 2008 Fiat Ducato
 2008 Ford Courier
@@ -4107,25 +4126,24 @@
 2009 Audi Q5
 2009 Audi Q7
 2009 Audi R8
+2009 Audi RS 6
+2009 Audi S3
 2009 Audi S4
 2009 Audi S5
-2009 Audi TT
+2009 Audi S6
+2009 Audi S8
+2009 Audi TT RS
+2009 Audi TTS
 2009 Bentley Arnage
 2009 Bentley Continental
-<<<<<<< Updated upstream
-=======
 2009 BMW 3 Series
 2009 BMW M3
 2009 BMW Z4
->>>>>>> Stashed changes
 2009 Bugatti Veyron
 2009 Buick GL8
 2009 Cadillac CTS-V
 2009 Cadillac STS V8
-<<<<<<< Updated upstream
-=======
 2009 Cadillac XLR
->>>>>>> Stashed changes
 2009 Chevrolet Captiva
 2009 Chevrolet Cobalt
 2009 Chevrolet Colorado
@@ -4273,18 +4291,22 @@
 2010 Audi Q5
 2010 Audi Q7
 2010 Audi R8
+2010 Audi RS 5
+2010 Audi RS 6
+2010 Audi S3
+2010 Audi S4
 2010 Audi S5
-2010 Audi TT
+2010 Audi S6
+2010 Audi S8
+2010 Audi TT RS
+2010 Audi TTS
 2010 Bentley Azure
 2010 Bentley Brooklands
 2010 Bentley Mulsanne
 2010 BMW 3 Series
 2010 BMW 5 Series
-<<<<<<< Updated upstream
-=======
 2010 BMW M3
 2010 BMW Z4
->>>>>>> Stashed changes
 2010 Bugatti Veyron
 2010 Buick GL8
 2010 Cadillac CTS-V
@@ -4420,7 +4442,14 @@
 2011 Audi Q5
 2011 Audi Q7
 2011 Audi R8
-2011 Audi TT
+2011 Audi RS 3 Sportback
+2011 Audi RS 5
+2011 Audi S3
+2011 Audi S4
+2011 Audi S5
+2011 Audi S6
+2011 Audi TT RS
+2011 Audi TTS
 2011 Bentley Mulsanne
 2011 BMW 3 Series
 2011 BMW M3
@@ -4496,15 +4525,10 @@
 2011 Jeep Wrangler
 2011 Kia Soul
 2011 Kia Venga
-<<<<<<< Updated upstream
-2011 Lada Granta
-2011 Lada Niva
-=======
 2011 Koenigsegg Agera
 2011 Lada Granta
 2011 Lada Niva
 2011 Lamborghini Aventador
->>>>>>> Stashed changes
 2011 Lotus Elise
 2011 Lotus Exige
 2011 Luxgen M7
@@ -4578,7 +4602,16 @@
 2012 Audi Q5
 2012 Audi Q7
 2012 Audi R8
-2012 Audi TT
+2012 Audi RS 3 Sportback
+2012 Audi RS 4
+2012 Audi RS 5
+2012 Audi S3
+2012 Audi S4
+2012 Audi S6
+2012 Audi S7
+2012 Audi S8
+2012 Audi TT RS
+2012 Audi TTS
 2012 Bentley Mulsanne
 2012 BMW 3 Series
 2012 BMW M3
@@ -4737,10 +4770,16 @@
 2013 Audi Q5
 2013 Audi Q7
 2013 Audi R8
+2013 Audi RS 4
+2013 Audi RS 5
+2013 Audi RS 7
+2013 Audi RS Q3
+2013 Audi SQ5
 2013 Audi S4
 2013 Audi S6
 2013 Audi S8
-2013 Audi TT
+2013 Audi TT RS
+2013 Audi TTS
 2013 Bentley Continental
 2013 Bentley Mulsanne
 2013 BMW 328i
@@ -4749,10 +4788,7 @@
 2013 BMW i8
 2013 BMW M3
 2013 BMW M5
-<<<<<<< Updated upstream
-=======
 2013 BMW Z4
->>>>>>> Stashed changes
 2013 Bugatti Veyron
 2013 Buick GL8
 2013 Buick Verano
@@ -4963,16 +4999,22 @@
 2014 Audi Q5
 2014 Audi Q7
 2014 Audi R8
-2014 Audi TT
+2014 Audi RS 4
+2014 Audi RS 5
+2014 Audi RS 6 Avant
+2014 Audi RS 7
+2014 Audi RS Q3
+2014 Audi S4
+2014 Audi S6
+2014 Audi S7
+2014 Audi TT RS
+2014 Audi TTS
 2014 Bentley Mulsanne
 2014 BMW 2 Series Active Tourer
 2014 BMW 4 Series
 2014 BMW i8
-<<<<<<< Updated upstream
-=======
 2014 BMW M4
 2014 BMW Z4
->>>>>>> Stashed changes
 2014 Bugatti Veyron
 2014 Buick GL8
 2014 Chevrolet Captiva
@@ -5130,6 +5172,13 @@ Toyota Sienna
 2015 Audi Q5
 2015 Audi Q7
 2015 Audi R8
+2015 Audi RS 3 Sportback
+2015 Audi RS 4
+2015 Audi RS 5
+2015 Audi RS 6 Avant
+2015 Audi RS Q3
+2015 Audi S1
+2015 Audi S4
 2015 Audi TT
 2015 Bentley Mulsanne
 2015 BMW 2 Series Active Tourer
@@ -5221,10 +5270,7 @@ Toyota Sienna
 2015 Jeep Wrangler
 2015 Kia Soul
 2015 Kia Venga
-<<<<<<< Updated upstream
-=======
 2015 Koenigsegg Regera
->>>>>>> Stashed changes
 2015 Lada Granta
 2015 Lada Niva
 2015 Lada Vesta
@@ -5326,7 +5372,10 @@ Toyota Sienna
 2016 Audi Q5
 2016 Audi Q7
 2016 Audi R8
-2016 Audi RS6 Avant
+2016 Audi RS 5
+2016 Audi RS 6 Avant
+2016 Audi RS 7
+2016 Audi RS Q3
 2016 Audi TT
 2016 Bentley Mulsanne
 2016 BMW 2 Series Active Tourer
@@ -5522,6 +5571,7 @@ Toyota Sienna
 2017 Audi Q5
 2017 Audi Q7
 2017 Audi R8 V10 Plus
+2017 Audi RS 5
 2017 Audi TT
 2017 Baojun 510
 2017 Bentley Bentayga
@@ -5945,7 +5995,20 @@ Toyota Sienna
 2019 Audi Q7
 2019 Audi Q8
 2019 Audi R8
-2019 Audi TT
+2019 Audi RS 3 Sedan
+2019 Audi RS 3 Sportback
+2019 Audi RS 4 Avant
+2019 Audi RS5
+2019 Audi S3
+2019 Audi S4
+2019 Audi S5
+2019 Audi S6
+2019 Audi S7
+2019 Audi SQ2
+2019 Audi SQ5
+2019 Audi SQ7
+2019 Audi TT RS
+2019 Audi TTS
 2019 Baojun 510
 2019 Baojun 530
 2019 Bentley Flying Spur
@@ -6188,8 +6251,8 @@ Toyota Sienna
 2020 Audi Q5 Hybrid
 2020 Audi Q7
 2020 Audi Q8
-2020 Audi SQ8
 2020 Audi R8
+2020 Audi RS Q3 Sportback
 2020 Audi RS Q8
 2020 Audi RS 3
 2020 Audi RS 5
