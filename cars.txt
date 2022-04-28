@@ -3470,6 +3470,7 @@
 2004 Isuzu Rodeo S 3.5L V6
 2004 Jeep Grand Cherokee
 2004 Jeep Wrangler
+2004 Lada Niva
 2004 Koenigsegg CCR
 2004 Lada Niva
 2004 Lexus SC
@@ -4525,6 +4526,8 @@
 2011 Jeep Wrangler
 2011 Kia Soul
 2011 Kia Venga
+2011 Lada Granta
+2011 Lada Niva
 2011 Koenigsegg Agera
 2011 Lada Granta
 2011 Lada Niva
