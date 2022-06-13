@@ -1,25 +1,64 @@
+1930 Austin 12
+1930 Austin 12/6
+1930 Austin 16
+1930 Austin 7
+1930 Austin Twenty
 1930 Buick Series 40
 1930 Bugatti Royale
 1930 Bugatti Type 40
 1930 Bugatti Type 43
 1930 Bugatti Type 44
 1930 Bugatti Type 49
+1931 Austin 12
+1931 Austin 12/6
+1931 Austin 16
+1931 Austin 7
 1931 Bugatti Royale
 1931 Bugatti Type 43
 1931 Bugatti Type 49
 1931 Ford Model A
+1932 Austin 10
+1932 Austin 12
+1932 Austin 12/6
+1932 Austin 16
+1932 Austin 7
 1932 Bugatti Royale
 1932 Bugatti Type 49
 1932 Ford Model 18
 1932 Nash Ambassador
+1933 Austin 10
+1933 Austin 12
+1933 Austin 12/4
+1933 Austin 12/6
+1933 Austin 16
+1933 Austin 7
 1933 Bugatti Royale
 1933 Bugatti Type 49
+1934 Austin 10
+1934 Austin 12
+1934 Austin 12/4
+1934 Austin 12/6
+1934 Austin 16
+1934 Austin 7
 1934 Bugatti Type 49
 1935 Auburn Speedster
+1935 Austin 10
+1935 Austin 12
+1935 Austin 12/4
+1935 Austin 12/6
+1935 Austin 16
+1935 Austin 7
 1935 Bugatti Type 57 SC Atlantic
 1935 Ford Model 48
 1935 Peugeot 402 
 1935 Škoda Rapid
+1936 Austin 10
+1936 Austin 12
+1936 Austin 12/4
+1936 Austin 12/6
+1936 Austin 14
+1936 Austin 16
+1936 Austin 7
 1936 BMW 328
 1936 Bugatti Type 57 SC Atlantic
 1936 Buick Century
@@ -32,50 +71,138 @@
 1936 MG TA Midget
 1936 Morris 8
 1936 Packard One-Twenty
+1937 Austin 10
+1937 Austin 12
+1937 Austin 12/4
+1937 Austin 12/6
+1937 Austin 14
+1937 Austin 16
+1937 Austin 18
+1937 Austin 7
 1937 Buick Century
 1937 Cord 812
 1937 Fiat Topolino
 1937 Ford Model Y
 1938 Alfa Romeo 8C 2900B
+1938 Austin 10
+1938 Austin 12
+1938 Austin 12/4
+1938 Austin 14
+1938 Austin 18
+1938 Austin 7
 1938 Buick Century
 1938 Citroën Traction Avant
 1938 Peugeot 402
-1938 Volkswagen Beetle 
+1938 Volkswagen Beetle
+1939 Austin 10
+1939 Austin 12
+1939 Austin 12/4
+1939 Austin 14
+1939 Austin 18
+1939 Austin 7
+1939 Austin 8
 1939 Buick Century
 1939 Cadillac Series 60 Special
-1939 1938 Volkswagen Beetle 
+1939 Pontiac Torpedo
+1940 Austin 10
+1940 Austin 12
+1940 Austin 8
 1940 Buick Century
 1940 Ford Deluxe
 1940 Packard 180
-1940 Volkswagen Beetle 
+1940 Pontiac Torpedo
+1940 Volkswagen Beetle
+1941 Austin 10
+1941 Austin 12
+1941 Austin 8
 1941 Buick Century
+1941 Pontiac Streamliner
+1941 Pontiac Torpedo
 1941 Volkswagen Beetle
+1942 Austin 10
+1942 Austin 12
+1942 Austin 8
 1942 Buick Century
+1942 Pontiac Streamliner
+1942 Pontiac Torpedo
 1942 Volkswagen Beetle
+1943 Austin 10
+1943 Austin 12
+1943 Austin 8
+1943 Pontiac Streamliner
+1943 Pontiac Torpedo
 1943 Volkswagen Beetle
+1944 Austin 10
+1944 Austin 12
+1944 Austin 8
+1944 Pontiac Streamliner
+1944 Pontiac Torpedo
 1944 Volkswagen Beetle
+1945 Austin 10
+1945 Austin 12
+1945 Austin 16
+1945 Austin 8
 1945 Chevrolet Fleetline
+1945 Pontiac Streamliner
+1945 Pontiac Torpedo
 1945 Volkswagen Beetle
+1946 Austin 10
+1946 Austin 12
+1946 Austin 16
+1946 Austin 8
 1946 Chevrolet Commercial
 1946 Crosley CC
 1946 GAZ M20
+1946 Pontiac Streamliner
+1946 Pontiac Torpedo
 1946 Volkswagen Beetle
+1947 Austin 10
+1947 Austin 12
+1947 Austin 16
+1947 Austin 8
+1947 Austin A40 Devon
+1947 Austin Princess
+1947 Austin Sheerline
 1947 Chevrolet Stylemaster
 1947 Ford Anglia
 1947 Plymouth Special
+1947 Pontiac Streamliner
+1947 Pontiac Torpedo
 1947 Volkswagen Beetle
 1948 Aston Martin 2-Litre Sports
+1948 Austin 16
+1948 Austin 8
+1948 Austin A40 Devon
+1948 Austin A70
+1948 Austin Princess
+1948 Austin Sheerline
 1948 Holden 48-215
 1948 Jaguar XK120
+1948 Pontiac Streamliner
+1948 Pontiac Torpedo
 1948 Porsche 356A
 1948 Talbot Lago
 1948 Volkswagen Beetle
 1949 Aston Martin 2-Litre Sports
+1949 Austin 16
+1949 Austin A40 Devon
+1949 Austin A70
 1949 Austin A90 Atlantic
+1949 Austin Princess
+1949 Austin Sheerline
 1949 Buick Roadmaster
 1949 Cadillac Series 62
 1949 Citroën 2CV
 1949 DKW Schnellaster
+1949 Ford F-1
+1949 Ford F-2
+1949 Ford F-3
+1949 Ford F-4
+1949 Ford F-5
+1949 Ford F-6
+1949 Ford F-7
+1949 Ford F-8
+1949 Ford F-9
 1949 Jaguar XK120
 1949 Land Rover Series 1
 1949 Lincoln Cosmopolitan
@@ -83,23 +210,42 @@
 1949 MG TC
 1949 Oldsmobile 88
 1949 Pontiac Chieftain
+1949 Pontiac Streamliner
 1949 Saab 92
 1949 Triumph Mayflower
 1949 Volkswagen Beetle
 1950 Aston Martin 2-Litre Sports
 1950 Aston Martin DB2
+1950 Austin A40 Devon
+1950 Austin A40 Sports
+1950 Austin A70
 1950 Austin A90 Atlantic
+1950 Austin Princess
+1950 Austin Sheerline
 1950 Chrysler Imperial
 1950 Citroën 2CV
 1950 DKW Schnellaster
 1950 Ford Consul
+1950 Ford F-1
+1950 Ford F-2
+1950 Ford F-3
+1950 Ford F-4
+1950 Ford F-5
+1950 Ford F-6
+1950 Ford F-7
+1950 Ford F-8
+1950 Ford F-9
 1950 Ford Prefect
 1950 Jaguar XK120
 1950 Lancia Aurelia B20
 1950 Mercury Eight
 1950 Nash Ambassador
 1950 Nash Statesman
+1950 Pontiac Catalina
+1950 Pontiac Chieftain
+1950 Pontiac Streamliner
 1950 Porsche 356
+1950 Rolls-Royce Phantom IV
 1950 Studebaker Champion
 1950 Tatra 87
 1950 Triumph Mayflower
@@ -107,10 +253,24 @@
 1950 Volkswagen Kombi
 1951 Aston Martin DB2
 1951 Austin A30
+1951 Austin A40 Devon
+1951 Austin A40 Sports
+1951 Austin A70
 1951 Austin A90 Atlantic
+1951 Austin Princess
+1951 Austin Sheerline
 1951 Buick Roadmaster
 1951 Citroën 2CV
 1951 DKW Schnellaster
+1951 Ford F-1
+1951 Ford F-2
+1951 Ford F-3
+1951 Ford F-4
+1951 Ford F-5
+1951 Ford F-6
+1951 Ford F-7
+1951 Ford F-8
+1951 Ford F-9
 1951 Hudson Hornet
 1951 Jaguar XK120
 1951 Kaiser-Frazer Vagabond
@@ -120,6 +280,10 @@
 1951 Nash Rambler
 1951 Nissan Patrol
 1951 Packard 200
+1951 Pontiac Catalina
+1951 Pontiac Chieftain
+1951 Pontiac Streamliner
+1951 Rolls-Royce Phantom IV
 1951 Standard Vanguard
 1951 Studebaker Champion
 1951 Triumph Mayflower
@@ -127,8 +291,13 @@
 1951 Volkswagen Kombi
 1952 Aston Martin DB2
 1952 Austin A30
-1952 Austin A40
+1952 Austin A40 Devon
+1952 Austin A40 Somerset
+1952 Austin A40 Sports
+1952 Austin A70
 1952 Austin A90 Atlantic
+1952 Austin Princess
+1952 Austin Sheerline
 1952 Borgward Hansa 1800
 1952 Borgward Hansa 2400
 1952 Cadillac Series 62 Club Coupè
@@ -136,6 +305,15 @@
 1952 Citroën 2CV
 1952 DKW Schnellaster
 1952 Ferrari F430
+1952 Ford F-1
+1952 Ford F-2
+1952 Ford F-3
+1952 Ford F-4
+1952 Ford F-5
+1952 Ford F-6
+1952 Ford F-7
+1952 Ford F-8
+1952 Ford F-9
 1952 Hudson Hornet A
 1952 Jaguar XK120
 1952 Kaiser Henry J. Corsair
@@ -143,6 +321,8 @@
 1952 Nash Rambler
 1952 International Harvester AL-110 Deluxe
 1952 Nissan Patrol
+1952 Pontiac Chieftain
+1952 Rolls-Royce Phantom IV
 1952 Triumph Mayflower
 1952 Volkswagen Beetle
 1952 Volkswagen Kombi
@@ -151,14 +331,20 @@
 1953 Aston Martin DB2
 1953 Aston Martin DB2/4
 1953 Austin A30
-1953 Austin A40
+1953 Austin A40 Somerset
+1953 Austin A40 Sports
+1953 Austin A70
+1953 Austin Princess
+1953 Austin Sheerline
 1953 Cadillac Eldorado
 1953 Chevrolet Corvette
+1953 Chrysler Imperial
 1953 Citroën 2CV
 1953 DKW Schnellaster
 1953 Dodge 108-A
 1953 Ferrari 250
 1953 Ford Crestline Victoria
+1953 Ford F-100
 1953 Holden FJ
 1953 Hudson Hornet
 1953 International Harvester
@@ -167,17 +353,25 @@
 1953 Lancia Aurelia B20
 1953 Lancia D23 Spyder
 1953 Mercedes-Benz E-Class
+1953 Mercury M-100
 1953 MG TD
 1953 Morris Minor
 1953 Nissan Patrol
 1953 Packard Caribbean
+1953 Pontiac Chieftain
+1953 Rolls-Royce Phantom IV
 1953 Triumph Mayflower
 1953 Volkswagen Beetle
 1953 Volkswagen Kombi
 1954 AC Ace
 1954 Aston Martin DB2/4
 1954 Austin A30
-1954 Austin A40
+1954 Austin A40 Somerset
+1954 Austin A70
+1954 Austin Cambridge
+1954 Austin Princess
+1954 Austin Sheerline
+1954 Austin Westminster
 1954 Buick Century
 1954 Chevrolet Corvette
 1954 Chrysler Town & Country
@@ -198,11 +392,16 @@
 1954 Mercury Monterey
 1954 Nash Metropolitan
 1954 Nissan Patrol
+1954 Pontiac Chieftain
+1954 Rolls-Royce Phantom IV
 1954 Volkswagen Beetle
 1954 Volkswagen Kombi
 1955 AC Ace
 1955 Aston Martin DB2/4
 1955 Austin A30
+1955 Austin Cambridge
+1955 Austin Princess
+1955 Austin Westminster
 1955 Buick Century
 1955 Chevrolet Bel Air
 1955 Chevrolet Corvette
@@ -219,9 +418,11 @@
 1955 MG MGA
 1955 Nash Metropolitan
 1955 Nissan Patrol
+1955 Pontiac Chieftain
 1955 Pontiac Star Chief
 1955 Porsche 356A
 1955 Porsche 550 Spyder
+1955 Rolls-Royce Phantom IV
 1955 Saab Sonett
 1955 Volkswagen Beetle
 1955 Volkswagen Kombi
@@ -229,6 +430,10 @@
 1956 Aston Martin DB2/4
 1956 Aston Martin DBR1
 1956 Austin A30
+1956 Austin A35
+1956 Austin Cambridge
+1956 Austin Princess
+1956 Austin Westminster
 1956 Buick Century
 1956 Chevrolet Bel Air
 1956 Chevrolet Corvette
@@ -239,25 +444,34 @@
 1956 DKW Schnellaster
 1956 Fiat 600 Multipla
 1956 Ford F-100
+1956 Ford F-250
 1956 Ford Thunderbird
 1956 Hillman Husky
 1956 Holden FJ
 1956 Jaguar D-type
 1956 Lancia Aurelia B20
 1956 Lincoln Continental Mark II
+1956 Mercury M-100
 1956 MG MGA
 1956 Nash Metropolitan
 1956 Nissan Patrol
+1956 Pontiac Chieftain
 1956 Porsche 356A
 1956 Renault 4CV
 1956 Renault Dauphine
+1956 Rolls-Royce Phantom IV
 1956 Saab Sonett
 1956 Volkswagen Beetle
 1956 Volkswagen Kombi
 1956 Volvo Amazon
 1957 AC Ace-Bristol
+1957 AMC Ambassador
 1957 Aston Martin DB Mark III
 1957 Aston Martin DB2/4
+1957 Austin A35
+1957 Austin Cambridge
+1957 Austin Princess
+1957 Austin Westminster
 1957 Buick Roadmaster
 1957 Buick Century
 1957 Chevrolet 3100 Stepside
@@ -280,6 +494,7 @@
 1957 MG MGA
 1957 Nash Metropolitan
 1957 Nissan Patrol
+1957 Pontiac Chieftain
 1957 Porsche 356A
 1957 Rambler Rebel
 1957 Renault Dauphine
@@ -293,7 +508,13 @@
 1958 AMC Ambassador
 1958 Aston Martin DB Mark III
 1958 Aston Martin DB4
+1958 Austin A35
+1958 Austin A40 Farina
+1958 Austin Cambridge
+1958 Austin Gipsy
 1958 Austin-Healey Sprite
+1958 Austin Princess
+1958 Austin Westminster
 1958 Buick Limited Riviera
 1958 Buick Roadmaster
 1958 Buick Century
@@ -314,11 +535,14 @@
 1958 Lincoln Capri
 1958 Mercury Commuter
 1958 MG MGA
+1958 Morris Major
 1958 Morris Minor
+1958 Nash Metropolitan
 1958 Nissan Patrol
 1958 Packard Hawk
 1958 Plymouth Fury
 1958 Pontiac Bonneville
+1958 Pontiac Chieftain
 1958 Porsche 356A
 1958 Renault Dauphine
 1958 Rambler Ambassador
@@ -328,11 +552,18 @@
 1958 Volkswagen Kombi
 1958 Volvo Amazon
 1959 AC Ace-Bristol
+1959 AMC Ambassador
 1959 Aston Martin DB Mark III
 1959 Aston Martin DB4
-1959 Austin A40 Farina Countryman
+1959 Austin A35
+1959 Austin A40 Countryman
+1959 Austin A40 Farina
+1959 Austin Cambridge
+1959 Austin Gipsy
 1959 Austin-Healey Sprite
-1959 Austin Mini Seven
+1959 Austin Mini
+1959 Austin Princess
+1959 Austin Westminster
 1959 BMW Isetta 300
 1959 Cadillac Eldorado Convertible
 1959 Chevrolet Corvette
@@ -347,11 +578,14 @@
 1959 Edsel Corsair Convertible
 1959 Fiat 500
 1959 Fiat 600 Multipla
+1959 Ford F-100
 1959 Ford Fairlane 500 Skyliner
 1959 Ford Galaxie 500 Skyliner
 1959 Ford Ranchero
 1959 GAZ Chaika
 1959 MG MGA
+1959 Morris Major
+1959 Nash Metropolitan
 1959 Nissan Patrol
 1959 Plymouth Fury
 1959 Pontiac Bonneville
@@ -365,8 +599,16 @@
 1959 Volkswagen Kombi
 1959 Volvo Amazon
 1960 AC Ace-Bristol
+1960 AMC Ambassador
 1960 Aston Martin DB4
+1960 Austin A35
+1960 Austin A40 Farina
+1960 Austin Cambridge
+1960 Austin Gipsy
+1960 Austin Mini
+1960 Austin Princess
 1960 Austin-Healey Sprite
+1960 Austin Westminster
 1960 Chevrolet Corvair
 1960 Chevrolet Corvette
 1960 Chevrolet Corvette
@@ -381,6 +623,8 @@
 1960 Ford Zephyr
 1960 Maserati 3500 GT
 1960 Mazda R360
+1960 Morris Major
+1960 Nash Metropolitan
 1960 Nissan Patrol
 1960 Peugeot 404
 1960 Plymouth Valiant
@@ -391,7 +635,15 @@
 1960 Volkswagen Kombi
 1960 Volvo Amazon
 1961 AC Ace-Bristol
+1961 AMC Ambassador
 1961 Aston Martin DB4
+1961 Austin A35
+1961 Austin A40 Farina
+1961 Austin Cambridge
+1961 Austin Gipsy
+1961 Austin Mini
+1961 Austin Princess
+1961 Austin Westminster
 1961 Austin-Healey Sprite
 1961 Chevrolet Corvair
 1961 Chevrolet Corvette
@@ -399,6 +651,7 @@
 1961 Ferrari 250 GT Berlinetta
 1961 Fiat 1300
 1961 Fiat 600 Multipla
+1961 Ford F-100
 1961 Ford Falcon
 1961 Ford Ranchero
 1961 Jaguar E-Type Coupe
@@ -406,6 +659,8 @@
 1961 Mazda R360
 1961 Mercedes-Benz E-Class
 1961 Mini Cooper
+1961 Morris Major
+1961 Nash Metropolitan
 1961 Nissan Patrol
 1961 Opel Rekord
 1961 Pontiac Bonneville
@@ -422,7 +677,16 @@
 1961 Volvo P544
 1962 AC Ace
 1962 Alfa Romeo Giulia
+1962 AMC Ambassador
 1962 Aston Martin DB4
+1962 Austin A35
+1962 Austin A40 Farina
+1962 Austin Cambridge
+1962 Austin Freeway
+1962 Austin Gipsy
+1962 Austin Mini
+1962 Austin Princess
+1962 Austin Westminster
 1962 Cadillac DeVille
 1962 Chevrolet Corvair
 1962 Chevrolet Corvette
@@ -440,8 +704,11 @@
 1962 Lincoln Continental
 1962 Mazda R360
 1962 Mercedes-Benz 220 SE Coupe
+1962 Mercury M-100
 1962 Mitsubishi Colt
 1962 Mitsubishi Minica
+1962 Morris Major
+1962 Nash Metropolitan
 1962 Nissan Patrol
 1962 Pontiac Bonneville
 1962 Pontiac Grand Prix
@@ -457,10 +724,18 @@
 1962 Volvo Amazon
 1963 AC Ace
 1963 Alfa Romeo Giulia
+1963 AMC Ambassador
 1963 Aston Martin DB4
 1963 Aston Martin DB5
+1963 Austin A35
+1963 Austin A40 Farina
+1963 Austin Cambridge
+1963 Austin Freeway
+1963 Austin Gipsy
+1963 Austin Mini
+1963 Austin Princess
 1963 Austin-Healey 3000 MKIII
-1963 Cadillac Ambulance
+1963 Austin Westminster
 1963 Checker Marathon
 1963 Chevrolet Corvair
 1963 Chevrolet Corvette
@@ -480,6 +755,7 @@
 1963 Mercedes-Benz 600
 1963 Mitsubishi Colt
 1963 Mitsubishi Minica
+1963 Morris Major
 1963 Nissan Patrol
 1963 Peugeot 404
 1963 Pontiac Bonneville
@@ -496,14 +772,24 @@
 1963 Volkswagen Type 3
 1963 Volvo Amazon
 1964 Alfa Romeo Giulia
+1964 AMC Ambassador
 1964 Aston Martin DB5
-1964 Austin Healey 3000
+1964 Austin A35
+1964 Austin A40 Farina
+1964 Austin Cambridge
+1964 Austin Freeway
+1964 Austin Gipsy
+1964 Austin Mini
+1964 Austin Princess
+1964 Austin-Healey 3000
+1964 Austin Westminster
 1964 Buick Riviera
 1964 Chevrolet Corvair Monza
 1964 Chevrolet Nova Station Wagon
 1964 Fiat 600 Multipla
 1964 Ford Anglia
 1964 Ford Cortina GT
+1964 Ford F-100
 1964 Ford Falcon
 1964 Ford Mustang
 1964 Ford Ranchero
@@ -516,6 +802,7 @@
 1964 Mini Cooper
 1964 Mitsubishi Colt
 1964 Mitsubishi Minica
+1964 Morris Major
 1964 Nissan Patrol
 1964 Oldsmobile 4-4-2
 1964 Oldsmobile Starfire
@@ -536,8 +823,17 @@
 1964 Volvo Amazon
 1965 AC Cobra 427
 1965 Alfa Romeo Giulia
+1965 AMC Ambassador
 1965 Aston Martin DB5
 1965 Aston Martin DB6
+1965 Austin A35
+1965 Austin A40 Farina
+1965 Austin Cambridge
+1965 Austin Freeway
+1965 Austin Gipsy
+1965 Austin Mini
+1965 Austin Princess
+1965 Austin Westminster
 1965 Buick Electra
 1965 Buick Riviera
 1965 Chevrolet Corvette
@@ -573,15 +869,25 @@
 1966 AC 428
 1966 AC Cobra 427
 1966 Alfa Romeo Giulia
+1966 AMC Ambassador
 1966 Aston Martin DB6
+1966 Austin A35
+1966 Austin A40 Farina
+1966 Austin Cambridge
+1966 Austin Gipsy
+1966 Austin Mini
+1966 Austin Princess
+1966 Austin Westminster
 1966 Chevrolet Camaro
 1966 Chevrolet Corvair
 1966 Chevrolet Corvette
 1966 Chrysler New Yorker
 1966 Ferrari 330 GTC
+1966 Fiat 124
 1966 Fiat 600 Multipla
 1966 Ford 427 Fairlane
 1966 Ford Cortina
+1966 Ford F-100
 1966 Ford Falcon
 1966 Ford Galaxie LTD
 1966 Ford GT40 MKII
@@ -595,6 +901,8 @@
 1966 Lamborghini Miura
 1966 Mazda Famila
 1966 Mazda R360
+1966 Mercury M-100
+1966 Mercury M-350
 1966 MG MGB
 1966 Mitsubishi Colt
 1966 Mitsubishi Minica
@@ -622,10 +930,18 @@
 1967 AC Cobra 427
 1967 Alfa Romeo Duetto 1600
 1967 Alfa Romeo Giulia
+1967 AMC Ambassador
 1967 AMC Marlin
 1967 Aston Martin DB6
 1967 Aston Martin DBS
+1967 Austin 3-Litre
+1967 Austin A35
+1967 Austin A40 Farina
+1967 Austin Cambridge
+1967 Austin Gipsy
 1967 Austin Mini Van
+1967 Austin Princess
+1967 Austin Westminster
 1967 Chevrolet C10
 1967 Chevrolet Camaro
 1967 Chevrolet Chevelle
@@ -633,9 +949,11 @@
 1967 Citroën Dyane
 1967 Datsun Fairlady
 1967 Dodge A100 Van
+1967 Fiat 124
 1967 Fiat 125
 1967 Fiat 600 Multipla
 1967 Ford Cortina
+1967 Ford F-100 Ranger
 1967 Ford Falcon
 1967 Ford Galaxie LTD
 1967 Ford Mustang
@@ -652,6 +970,7 @@
 1967 Mitsubishi Colt
 1967 Mitsubishi Minica
 1967 Nissan Patrol
+1967 Nissan Sunny
 1967 NSU Sport Prinz
 1967 Oldsmobile 4-4-2
 1967 Piaggio Ape Model D
@@ -674,9 +993,17 @@
 1968 AC Cobra 427
 1968 Alfa Romeo Giulia
 1968 Alfa Romeo Spider
+1968 AMC Ambassador
 1968 Aston Martin DB6
 1968 Aston Martin DBS
 1968 Audi 100
+1968 Austin 3-Litre
+1968 Austin A35
+1968 Austin Cambridge
+1968 Austin Gipsy
+1968 Austin Mini
+1968 Austin Princess
+1968 Austin Westminster
 1968 Cadillac Eldorado
 1968 Chevrolet Camaro
 1968 Chevrolet Chevelle
@@ -684,6 +1011,7 @@
 1968 Daimler DS420
 1968 Datsun Fairlady
 1968 Ferrari 365 GTB/4 Daytona
+1968 Fiat 124
 1968 Fiat 600 Multipla
 1968 Ford Cortina
 1968 Ford Escort
@@ -704,6 +1032,7 @@
 1968 Mitsubishi Colt
 1968 Mitsubishi Minica
 1968 Nissan Patrol
+1968 Nissan Sunny
 1968 Oldsmobile 4-4-2
 1968 Peugeot 504
 1968 Plymouth Barracuda Formula S
@@ -715,6 +1044,7 @@
 1968 Saab Sonett
 1968 Subaru 360
 1968 Toyota Corolla
+1968 Toyota Hilux
 1968 Toyota Publica
 1968 Triumph GT6
 1968 Volkswagen Beetle
@@ -724,12 +1054,17 @@
 1969 AC 428
 1969 Alfa Romeo Giulia
 1969 Alfa Romeo Spider
+1969 AMC Ambassador
 1969 AMC Javelin SST
 1969 Aston Martin DB6
 1969 Aston Martin DBS
 1969 Aston Martin V8
 1969 Audi 100 Coupé S
+1969 Austin 3-Litre
+1969 Austin Cambridge
 1969 Austin Maxi 1750
+1969 Austin Mini
+1969 Austin Nomad
 1969 BMW Isetta
 1969 BMW New Class Coupe
 1969 Cadillac Eldorado
@@ -742,10 +1077,13 @@
 1969 Dodge Charger
 1969 Dodge Coronet Super Bee
 1969 Ferrari Dino 246 GT
+1969 Fiat 124
 1969 Fiat 600 Multipla
 1969 Fiat 850 Coupe
 1969 Ford Cortina
 1969 Ford Escort
+1969 Ford F-100 Explorer
+1969 Ford F-100 Ranger
 1969 Ford Falcon
 1969 Ford LTD Country Squire
 1969 Ford Mustang Boss 302
@@ -761,6 +1099,7 @@
 1969 Mitsubishi Colt
 1969 Mitsubishi Minica
 1969 Nissan Patrol
+1969 Nissan Sunny
 1969 Oldsmobile 4-4-2
 1969 Pontiac Bonneville
 1969 Pontiac Grand Prix
@@ -772,6 +1111,7 @@
 1969 Subaru 360
 1969 Subaru Sambar
 1969 Toyota Corolla
+1969 Toyota Hilux
 1969 Toyota Publica
 1969 Volkswagen Beetle
 1969 Volkswagen Type 3
@@ -780,12 +1120,19 @@
 1970 AC 428
 1970 Alfa Romeo Giulia
 1970 Alfa Romeo Spider
+1970 AMC Ambassador
 1970 AMC Gremlin
 1970 AMC Rebel
 1970 Aston Martin DB6
 1970 Aston Martin DBS
 1970 Aston Martin V8
 1970 Audi 100 Coupé S
+1970 Austin 3-Litre
+1970 Austin Cambridge
+1970 Austin Kimberley
+1970 Austin Maxi
+1970 Austin Mini
+1970 Austin Nomad
 1970 Chevrolet Camaro
 1970 Chevrolet Chevelle SS
 1970 Chevrolet Chevelle SS Wagon
@@ -798,6 +1145,7 @@
 1970 Dodge Challenger
 1970 Dodge Charger
 1970 Dodge Coronet
+1970 Fiat 124
 1970 Fiat 128
 1970 Ford Cortina
 1970 Ford Escort RS1600
@@ -815,6 +1163,7 @@
 1970 Mitsubishi Minica
 1970 Nissan Fairlady Z
 1970 Nissan Patrol
+1970 Nissan Sunny
 1970 Oldsmobile 4-4-2
 1970 Plymouth GTX 400
 1970 Plymouth Superbird
@@ -827,6 +1176,7 @@
 1970 Subaru 360
 1970 Suzuki Jimny LJ10
 1970 Toyota Corolla
+1970 Toyota Hilux
 1970 Toyota Publica
 1970 VAZ-2101
 1970 Volkswagen Beetle
@@ -836,12 +1186,20 @@
 1971 AC 428
 1971 Alfa Romeo Giulia
 1971 Alfa Romeo Spider
+1971 AMC Ambassador
 1971 AMC Gremlin X
 1971 AMC Javelin AMX
 1971 Aston Martin DB6
 1971 Aston Martin DBS
 1971 Aston Martin V8
 1971 Audi 100 Coupé S
+1971 Austin 3-Litre
+1971 Austin Apache
+1971 Austin Cambridge
+1971 Austin Kimberley
+1971 Austin Maxi
+1971 Austin Mini
+1971 Austin Nomad
 1971 Autobianchi A112
 1971 Buick Estate
 1971 Buick Riviera
@@ -857,8 +1215,10 @@
 1971 Dodge Charger R/T
 1971 Dodge Demon
 1971 Dodge Hemi Challenger
+1971 Fiat 124
 1971 Ford Cortina
 1971 Ford Escort
+1971 Ford F-250 Camper Special
 1971 Ford Falcon
 1971 Ford Pinto Runabout
 1971 Ford Ranchero
@@ -875,6 +1235,7 @@
 1971 Morris 1300
 1971 Morris Marina
 1971 Nissan Patrol
+1971 Nissan Sunny
 1971 Oldsmobile 4-4-2
 1971 Pontiac Bonneville
 1971 Pontiac Grand Prix
@@ -885,6 +1246,7 @@
 1971 Suzuki Fronte
 1971 Suzuki Jimney
 1971 Toyota Corolla
+1971 Toyota Hilux
 1971 Toyota Publica
 1971 Trabant 601
 1971 VAZ-2101
@@ -893,11 +1255,18 @@
 1972 AC 428
 1972 Alfa Romeo Giulia
 1972 Alfa Romeo Spider
+1972 AMC Ambassador
 1972 AMC Gremlin
 1972 Aston Martin DBS
 1972 Aston Martin V8
 1972 Audi 80
 1972 Audi 100 Coupé S
+1972 Austin Apache
+1972 Austin Cambridge
+1972 Austin Kimberley
+1972 Austin Maxi
+1972 Austin Mini
+1972 Austin Nomad
 1972 Buick Riviera
 1972 Cadillac Eldorado
 1972 Chevrolet Camaro
@@ -908,6 +1277,8 @@
 1972 Daihatsu Fellow Max
 1972 Datsun 240Z
 1972 Dodge Challenger
+1972 Fiat 126
+1972 Fiat 124
 1972 Ford Cortina
 1972 Ford Escort
 1972 Ford Falcon GTHO
@@ -928,7 +1299,9 @@
 1972 Mitsubishi Colt Galant GTO
 1972 Mitsubishi Minica
 1972 Morris 1300
+1972 Morris Marina
 1972 Nissan Patrol
+1972 Nissan Sunny
 1972 Oldsmobile 4-4-2
 1972 Pontiac Bonneville
 1972 Pontiac Grand Prix
@@ -939,6 +1312,7 @@
 1972 Suzuki Fronte
 1972 Suzuki Jimney
 1972 Toyota Corolla
+1972 Toyota Hilux
 1972 Toyota Publica
 1972 VAZ-2101
 1972 Volkswagen Beetle
@@ -947,9 +1321,15 @@
 1973 AC 428
 1973 Alfa Romeo Giulia
 1973 Alfa Romeo Spider
+1973 AMC Ambassador
 1973 Aston Martin V8
 1973 Audi 80
 1973 Audi 100 Coupé S
+1973 Austin Allegro
+1973 Austin Apache
+1973 Austin Cambridge
+1973 Austin Maxi
+1973 Austin Mini
 1973 Buick Century
 1973 Chevrolet Chevette
 1973 Chevrolet Vega GT
@@ -959,8 +1339,12 @@
 1973 Datsun 240Z
 1973 Dodge Charger
 1973 Ferrari 512 BB
+1973 Fiat 124
+1973 Fiat 126
 1973 Ford Cortina
 1973 Ford Escort RS1800
+1973 Ford F-100 XLT
+1973 Ford F-350
 1973 Ford Falcon XB
 1973 Ford Mustang
 1973 Ford Ranchero
@@ -973,7 +1357,9 @@
 1973 Mitsubishi Colt Galant GTO
 1973 Mitsubishi Minica
 1973 Morris 1300
+1973 Morris Marina
 1973 Nissan Patrol
+1973 Nissan Sunny
 1973 Oldsmobile 4-4-2
 1973 Pontiac Bonneville
 1973 Pontiac Firebird Trans Am
@@ -985,6 +1371,7 @@
 1973 Suzuki Fronte
 1973 Toyota Celica
 1973 Toyota Corolla
+1973 Toyota Hilux
 1973 Toyota Publica
 1973 Toyota Starlet
 1973 Triumph Dolomite
@@ -995,6 +1382,7 @@
 1973 Volvo 1800ES
 1974 Alfa Romeo Giulia
 1974 Alfa Romeo Spider
+1974 AMC Ambassador
 1974 AMC Gremlin
 1974 AMC Matador
 1974 AMC Pacer
@@ -1002,6 +1390,10 @@
 1974 Audi 50
 1974 Audi 80
 1974 Audi 100 Coupé S
+1974 Austin Allegro
+1974 Austin Apache
+1974 Austin Maxi
+1974 Austin Mini
 1974 Buick Century
 1974 Chrysler 180
 1974 Chevrolet Monte Carlo
@@ -1012,8 +1404,16 @@
 1974 Datsun 100A
 1974 Datsun 240Z
 1974 Ferrari 246 Dino
+1974 Fiat 124
+1974 Fiat 126
 1974 Ford Cortina
 1974 Ford Escort
+1974 Ford F-100 Explorer
+1974 Ford F-100 XLT
+1974 Ford F-250 Explorer
+1974 Ford F-350 Explorer
+1974 Ford F-600
+1974 Ford F-700
 1974 Ford Falcon
 1974 Ford Fiesta
 1974 Ford Mustang
@@ -1030,7 +1430,9 @@
 1974 Mitsubishi Colt Galant GTO
 1974 Mitsubishi Minica
 1974 Morris 1300
+1974 Morris Marina
 1974 Nissan Patrol
+1974 Nissan Sunny
 1974 Oldsmobile 4-4-2
 1974 Pontiac Bonneville
 1974 Pontiac Grand Prix
@@ -1039,6 +1441,7 @@
 1974 Saab Sonett
 1974 Suzuki Fronte
 1974 Toyota Corolla
+1974 Toyota Hilux
 1974 Toyota Publica
 1974 Toyota Starlet
 1974 VAZ-2101
@@ -1056,7 +1459,11 @@
 1975 Audi 50
 1975 Audi 80
 1975 Audi 100
+1975 Austin Allegro
+1975 Austin Apache
 1975 Austin Marina
+1975 Austin Maxi
+1975 Austin Mini
 1975 Buick Century
 1975 Buick Electra
 1975 Cadillac Coupé De Ville
@@ -1069,8 +1476,15 @@
 1975 Citroën CX
 1975 Daihatsu Consorte
 1975 Dodge Dart
+1975 Fiat 126
 1975 Ford Cortina
 1975 Ford Escort
+1975 Ford F-100 XLT
+1975 Ford F-150
+1975 Ford F-250
+1975 Ford F-350
+1975 Ford F-600
+1975 Ford F-700
 1975 Ford Falcon
 1975 Ford Mustang Ghia
 1975 Ford Ranchero
@@ -1081,7 +1495,9 @@
 1975 Mercedes-Benz 450SL
 1975 Mitsubishi Colt Galant GTO
 1975 Mitsubishi Minica
+1975 Morris Marina
 1975 Nissan Patrol
+1975 Nissan Sunny
 1975 Oldsmobile 4-4-2
 1975 Peugeot 504 Coupe
 1975 Pontiac Bonneville
@@ -1093,6 +1509,7 @@
 1975 Rover 3500
 1975 Suzuki Fronte
 1975 Toyota Corolla
+1975 Toyota Hilux
 1975 Toyota Publica
 1975 Toyota Starlet
 1975 VAZ-2101
@@ -1106,6 +1523,10 @@
 1976 Audi 50
 1976 Audi 80
 1976 Audi 100
+1976 Austin Allegro
+1976 Austin Apache
+1976 Austin Maxi
+1976 Austin Mini
 1976 Buick Century
 1976 Cadillac Eldorado
 1976 Chevrolet Caprice
@@ -1120,8 +1541,14 @@
 1976 Citroën CX
 1976 Daihatsu Consorte
 1976 Dodge Monaco
+1976 Fiat 126
 1976 Ford Cortina
 1976 Ford Escort
+1976 Ford F-100
+1976 Ford F-250
+1976 Ford F-350
+1976 Ford F-600
+1976 Ford F-700
 1976 Ford Falcon
 1976 Ford Fiesta
 1976 Ford Mustang
@@ -1133,7 +1560,9 @@
 1976 Mercedes-Benz E-Class
 1976 Mitsubishi Colt Galant GTO
 1976 Mitsubishi Minica
+1976 Morris Marina
 1976 Nissan Patrol
+1976 Nissan Sunny
 1976 Oldsmobile 4-4-2
 1976 Pontiac Bonneville
 1976 Pontiac Grand Prix
@@ -1141,6 +1570,7 @@
 1976 Suzuki Fronte
 1976 Toyota Celica GT
 1976 Toyota Corolla
+1976 Toyota Hilux
 1976 Toyota Publica
 1976 Toyota Starlet
 1976 VAZ-2101
@@ -1157,6 +1587,9 @@
 1977 Audi 80
 1977 Audi 100
 1977 Austin Allegro
+1977 Austin Apache
+1977 Austin Maxi
+1977 Austin Mini
 1977 Buick Century
 1977 Chrysler 180
 1977 Chrysler Alpine
@@ -1179,8 +1612,16 @@
 1977 Chevrolet Monte Carlo
 1977 Citroën CX
 1977 Daihatsu Consorte
+1977 Fiat 126
 1977 Ford Cortina
 1977 Ford Escort
+1977 Ford F-100
+1977 Ford F-150 Explorer
+1977 Ford F-250
+1977 Ford F-350
+1977 Ford F-500
+1977 Ford F-600
+1977 Ford F-700
 1977 Ford Fairmont
 1977 Ford Falcon
 1977 Ford Fiesta
@@ -1197,7 +1638,9 @@
 1977 Mercedes-Benz 450SL
 1977 Mitsubishi Colt Galant GTO
 1977 Mitsubishi Minica
+1977 Morris Marina
 1977 Nissan Patrol
+1977 Nissan Sunny
 1977 Oldsmobile 4-4-2
 1977 Oldsmobile Cutlass Supreme
 1977 Pontiac Bonneville
@@ -1207,6 +1650,7 @@
 1977 Rover 3500
 1977 Suzuki Cervo
 1977 Toyota Corolla
+1977 Toyota Hilux
 1977 Toyota Publica
 1977 Toyota Starlet
 1977 VAZ-2101
@@ -1221,6 +1665,9 @@
 1978 Audi 50
 1978 Audi 80
 1978 Audi 100
+1978 Austin Allegro
+1978 Austin Maxi
+1978 Austin Mini
 1978 Buick Century
 1978 Cadillac Fleetwood
 1978 Cadillac Seville
@@ -1239,8 +1686,14 @@
 1978 Chrysler Sigma
 1978 Chrysler Sunbeam
 1978 Citroën CX
+1978 Fiat 126
 1978 Ford Cortina
 1978 Ford Escort
+1978 Ford F-100 XLT
+1978 Ford F-250
+1978 Ford F-350
+1978 Ford F-600
+1978 Ford F-700
 1978 Ford Fairmont
 1978 Ford Falcon
 1978 Ford Fiesta
@@ -1253,7 +1706,9 @@
 1978 Mercedes-Benz 450SL
 1978 Mitsubishi Colt
 1978 Mitsubishi Minica
+1978 Morris Marina
 1978 Nissan Patrol
+1978 Nissan Sunny
 1978 Oldsmobile 4-4-2
 1978 Oldsmobile Cutlass
 1978 Plymouth Sapporo
@@ -1264,6 +1719,7 @@
 1978 Saab 900
 1978 Suzuki Cervo
 1978 Toyota Corolla
+1978 Toyota Hilux
 1978 Toyota Publica
 1978 Toyota Starlet
 1978 VAZ-2101
@@ -1276,6 +1732,9 @@
 1979 Aston Martin V8 Vantage
 1979 Audi 200
 1979 Audi 80
+1979 Austin Allegro
+1979 Austin Maxi
+1979 Austin Mini
 1979 Buick Century
 1979 Chrysler 180
 1979 Chrysler Alpine
@@ -1291,9 +1750,15 @@
 1979 Chrysler Sigma
 1979 Chrysler Sunbeam
 1979 Citroën CX
+1979 Fiat 126
 1979 Ford Cortina
 1979 Ford Bronco
 1979 Ford Escort
+1979 Ford F-100 XLT
+1979 Ford F-250
+1979 Ford F-350
+1979 Ford F-600
+1979 Ford F-700
 1979 Ford Fairmont
 1979 Ford Falcon
 1979 Ford Fiesta
@@ -1308,7 +1773,9 @@
 1979 Mercury Capri RS
 1979 Mitsubishi Colt
 1979 Mitsubishi Minica
+1979 Morris Marina
 1979 Nissan Patrol
+1979 Nissan Sunny
 1979 Oldsmobile 4-4-2
 1979 Oldsmobile Cutlass
 1979 Plymouth Sapporo
@@ -1319,6 +1786,7 @@
 1979 Suzuki Alto
 1979 Suzuki Cervo
 1979 Toyota Corolla
+1979 Toyota Hilux
 1979 Toyota Starlet
 1979 VAZ-2101
 1979 Volkswagen Beetle
@@ -1330,6 +1798,10 @@
 1980 Aston Martin V8 Vantage
 1980 Audi 200
 1980 Audi 80 Quattro
+1980 Austin Allegro
+1980 Austin Maxi
+1980 Austin Metro
+1980 Austin Mini
 1980 Buick Century
 1980 Cadillac Fleetwood Brougham
 1980 Chevrolet Corvette
@@ -1343,8 +1815,14 @@
 1980 Chrysler Scorpion
 1980 Chrysler Sigma
 1980 Citroën CX
+1980 Fiat 126
 1980 Ford Cortina
 1980 Ford Escort
+1980 Ford F-100
+1980 Ford F-250
+1980 Ford F-350
+1980 Ford F-600
+1980 Ford F-700
 1980 Ford Fairmont
 1980 Ford Falcon
 1980 Ford Fiesta
@@ -1354,11 +1832,14 @@
 1980 Ford Transit
 1980 Holden HZ
 1980 Lada Niva
+1980 Lincoln Town Car
 1980 Mercedes-Benz 450SL
 1980 Mercury Capri RS
 1980 Mitsubishi Colt
 1980 Mitsubishi Minica
+1980 Morris Marina
 1980 Nissan Patrol
+1980 Nissan Sunny
 1980 Oldsmobile 4-4-2
 1980 Oldsmobile Cutlass
 1980 Plymouth Sapporo
@@ -1370,6 +1851,7 @@
 1980 Suzuki Alto
 1980 Suzuki Cervo
 1980 Toyota Corolla
+1980 Toyota Hilux
 1980 Toyota Starlet
 1980 VAZ-2101
 1980 Volkswagen Beetle
@@ -1383,6 +1865,10 @@
 1981 Audi 200
 1981 Audi 5+5
 1981 Audi 80 Quattro
+1981 Austin Allegro
+1981 Austin Maxi
+1981 Austin Metro
+1981 Austin Mini
 1981 BMW M1
 1981 Buick Century
 1981 Chevrolet Cavalier
@@ -1393,9 +1879,11 @@
 1981 Chrysler Regal
 1981 Chrysler Scorpion
 1981 Citroën CX
+1981 Fiat 126
 1981 Fiat Ducato
 1981 Ford Cortina
 1981 Ford Escort
+1981 Ford F-350
 1981 Ford Fairmont
 1981 Ford Falcon
 1981 Ford Fiesta
@@ -1408,6 +1896,7 @@
 1981 Mitsubishi Colt
 1981 Mitsubishi Minica
 1981 Nissan Patrol
+1981 Nissan Sunny
 1981 Oldsmobile Cutlass
 1981 Oldsmobile Delta
 1981 Pontiac Grand Prix
@@ -1418,6 +1907,7 @@
 1981 Suzuki Alto
 1981 Suzuki Cervo
 1981 Toyota Corolla
+1981 Toyota Hilux
 1981 Toyota Starlet
 1981 Trabant 601
 1981 VAZ-2101
@@ -1433,6 +1923,11 @@
 1982 Audi 200
 1982 Audi 5+5
 1982 Audi 80 Quattro
+1982 Austin Allegro
+1982 Austin Ambassador
+1982 Austin Maestro
+1982 Austin Metro
+1982 Austin Mini
 1982 BMW 320i
 1982 Buick Century
 1982 Chevrolet Cavalier
@@ -1444,6 +1939,7 @@
 1982 Chrysler Scorpion
 1982 Citroën CX
 1982 DMC DeLorean
+1982 Fiat 126
 1982 Fiat Ducato
 1982 Fiat Ritmo Abarth125 TC
 1982 Ford Cortina
@@ -1457,10 +1953,12 @@
 1982 Ford Transit
 1982 Jaguar XJ-S
 1982 Lada Niva
+1982 Lincoln Town Car
 1982 Mercury Capri RS
 1982 Mitsubishi Colt
 1982 Mitsubishi Minica
 1982 Nissan Patrol
+1982 Nissan Sunny
 1982 Pontiac Bonneville
 1982 Pontiac Grand Prix
 1982 Porsche 911
@@ -1472,6 +1970,7 @@
 1982 Toyota Camry
 1982 Toyota Corolla
 1982 Toyota HiAce
+1982 Toyota Hilux
 1982 Toyota Starlet
 1982 VAZ-2101
 1982 Volkswagen Beetle
@@ -1486,6 +1985,10 @@
 1983 Audi 200
 1983 Audi 5+5
 1983 Audi 80 Quattro
+1983 Austin Ambassador
+1983 Austin Maestro
+1983 Austin Metro
+1983 Austin Mini
 1983 Buick Century
 1983 Chevrolet Cavalier
 1983 Chevrolet S-10
@@ -1495,7 +1998,9 @@
 1983 Chrysler LeBaron
 1983 Chrysler Scorpion
 1983 Citroën CX
+1983 Fiat 126
 1983 Fiat Ducato
+1983 Fiat Uno
 1983 Ford Cortina
 1983 Ford Escort
 1983 Ford Fairmont
@@ -1507,11 +2012,13 @@
 1983 GMC Jimmy
 1983 Hyundai Stellar
 1983 Lada Niva
+1983 Lincoln Town Car
 1983 Mercedes-Benz 380SL
 1983 Mercury Capri RS
 1983 Mitsubishi Colt
 1983 Mitsubishi Minica
 1983 Nissan Patrol
+1983 Nissan Sunny
 1983 Pontiac Bonneville
 1983 Pontiac Grand Prix
 1983 Porsche 911
@@ -1521,6 +2028,7 @@
 1983 Toyota 4Runner
 1983 Toyota Camry
 1983 Toyota Corolla
+1983 Toyota Hilux
 1983 Toyota Starlet
 1983 VAZ-2101
 1983 Volkswagen Beetle
@@ -1534,6 +2042,10 @@
 1984 Audi 200
 1984 Audi 80 Quattro
 1984 Audi 90
+1984 Austin Ambassador
+1984 Austin Maestro
+1984 Austin Metro
+1984 Austin Mini
 1984 Austin Montego
 1984 Buick Century
 1984 Chevrolet Cavalier
@@ -1548,7 +2060,9 @@
 1984 Citroën CX
 1984 Dodge Aries
 1984 Dodge Caravan
+1984 Fiat 126
 1984 Fiat Ducato
+1984 Fiat Uno
 1984 Ford Cortina
 1984 Ford Escort
 1984 Ford Falcon
@@ -1560,10 +2074,12 @@
 1984 Jeep Grand Wagoneer
 1984 Lada Niva
 1984 Leyland P76
+1984 Lincoln Town Car
 1984 Mercury Colony Park
 1984 Mitsubishi Colt
 1984 Mitsubishi Minica
 1984 Nissan Patrol
+1984 Nissan Sunny
 1984 Pontiac Bonneville
 1984 Pontiac Firebird Trans Am
 1984 Pontiac Grand Prix
@@ -1571,6 +2087,7 @@
 1984 Renault Espace
 1984 Renault Fuego
 1984 Saab 900
+1984 SEAT Ibiza
 1984 Suzuki Alto
 1984 Toyota 4Runner
 1984 Toyota Camry
@@ -1588,6 +2105,9 @@
 1985 Audi 100
 1985 Audi 80 Quattro
 1985 Audi 90
+1985 Austin Maestro
+1985 Austin Metro
+1985 Austin Mini
 1985 Austin Montego
 1985 Buick Century
 1985 Cadillac Eldorado
@@ -1600,7 +2120,9 @@
 1985 Chrysler LeBaron GTS
 1985 Citroën CX
 1985 Dodge Caravan
+1985 Fiat 126
 1985 Fiat Ducato
+1985 Fiat Uno
 1985 Ford Escort
 1985 Ford Falcon
 1985 Ford Fiesta
@@ -1613,12 +2135,14 @@
 1985 Jeep Cherokee
 1985 Jeep Grand Cherokee
 1985 Lada Niva
+1985 Lincoln Town Car
 1985 Mitsubishi Colt
 1985 Mitsubishi Minica
 1985 Mitsubishi Starion
 1985 Mercedes-Benz E-Class
 1985 Nissan Pathfinder
 1985 Nissan Patrol
+1985 Nissan Sunny
 1985 Oldsmobile 4-4-2
 1985 Oldsmobile Cutlass Ciera
 1985 Peugeot 205 T16
@@ -1627,12 +2151,15 @@
 1985 Porsche 911
 1985 Renault Espace
 1985 Saab 900
+1985 SEAT Ibiza
 1985 Suzuki Alto
 1985 Toyota 4Runner
 1985 Toyota Camry
+1985 Toyota Hilux
 1985 Toyota MR2
 1985 VAZ-2101
 1985 Volkswagen Beetle
+1985 Volkswagen Gol
 1985 Volkswagen Golf
 1985 Volvo 240
 1986 Acura Integra
@@ -1643,7 +2170,9 @@
 1986 Audi 100
 1986 Audi 80 Quattro
 1986 Audi 90
+1986 Austin Maestro
 1986 Austin Metro
+1986 Austin Mini
 1986 Austin Montego
 1986 BMW E23 7-Series
 1986 Buick Century
@@ -1657,7 +2186,9 @@
 1986 Chrysler Laser
 1986 Chrysler LeBaron GTS
 1986 Dodge Caravan
+1986 Fiat 126
 1986 Fiat Ducato
+1986 Fiat Uno
 1986 Ford Aerostar
 1986 Ford Escort
 1986 Ford Falcon
@@ -1672,10 +2203,12 @@
 1986 Jeep Wrangler
 1986 Lada Niva
 1986 Lamborghini LM002
+1986 Lincoln Town Car
 1986 Mitsubishi Colt
 1986 Mitsubishi Minica
 1986 Nissan Pathfinder
 1986 Nissan Patrol
+1986 Nissan Sunny
 1986 Oldsmobile 4-4-2
 1986 Opel Ascona
 1986 Plymouth Reliant
@@ -1685,12 +2218,15 @@
 1986 Renault Espace
 1986 Rolls-Royce Corniche
 1986 Saab 900
+1986 SEAT Ibiza
 1986 Suzuki Alto
 1986 Toyota 4Runner
 1986 Toyota Camry
 1986 Toyota Corolla
+1986 Toyota Hilux
 1986 VAZ-2101
 1986 Volkswagen Beetle
+1986 Volkswagen Gol
 1986 Volkswagen Golf
 1986 Volvo 240
 1987 Acura Integra
@@ -1701,6 +2237,9 @@
 1987 Audi 100
 1987 Audi 80
 1987 Audi 90
+1987 Austin Maestro
+1987 Austin Metro
+1987 Austin Mini
 1987 Austin Montego
 1987 BMW M5 E28
 1987 Buick Century
@@ -1719,7 +2258,9 @@
 1987 Dodge Caravan
 1987 Ferrari F40
 1987 Ferrari Testarossa
+1987 Fiat 126
 1987 Fiat Ducato
+1987 Fiat Uno
 1987 Ford Aerostar
 1987 Ford Escort
 1987 Ford Falcon
@@ -1734,11 +2275,13 @@
 1987 Jeep Wrangler
 1987 Lada Niva
 1987 Lancia Delta Integrale
+1987 Lincoln Town Car
 1987 Mercury Cougar
 1987 Mitsubishi Colt
 1987 Mitsubishi Minica
 1987 Nissan Pathfinder
 1987 Nissan Patrol
+1987 Nissan Sunny
 1987 Oldsmobile 4-4-2
 1987 Plymouth Reliant
 1987 Pontiac Bonneville
@@ -1746,12 +2289,15 @@
 1987 Porsche 911
 1987 Renault Espace
 1987 Saab 900
+1987 SEAT Ibiza
 1987 Suzuki Alto
 1987 Toyota 4Runner
 1987 Toyota Camry
 1987 Toyota Corolla
+1987 Toyota Hilux
 1987 VAZ-2101
 1987 Volkswagen Beetle
+1987 Volkswagen Gol
 1987 Volkswagen Golf
 1987 Volvo 240
 1988 Acura Integra
@@ -1763,6 +2309,9 @@
 1988 Audi 80
 1988 Audi 90
 1988 Audi V8
+1988 Austin Maestro
+1988 Austin Metro
+1988 Austin Mini
 1988 Austin Montego
 1988 Buick Century
 1988 Cadillac Cimarron
@@ -1780,7 +2329,9 @@
 1988 Dodge Caravan
 1988 Ferrari F40
 1988 Ferrari Testarossa
+1988 Fiat 126
 1988 Fiat Ducato
+1988 Fiat Uno
 1988 Ford Aerostar
 1988 Ford Escort
 1988 Ford Falcon
@@ -1795,24 +2346,29 @@
 1988 Lada Niva
 1988 Lamborghini Jalpa
 1988 Land Rover Defender series II
+1988 Lincoln Town Car
 1988 Mercury Cougar
 1988 Mitsubishi Colt
 1988 Mitsubishi Minica
 1988 Nissan Pathfinder
 1988 Nissan Patrol
+1988 Nissan Sunny
 1988 Plymouth Reliant
 1988 Pontiac Bonneville
 1988 Pontiac Grand Prix
 1988 Pontiac Sunbird
 1988 Porsche 911
 1988 Renault Espace
+1988 SEAT Ibiza
 1988 Suzuki Alto
 1988 Suzuki Vitara
 1988 Toyota 4Runner
 1988 Toyota Camry
 1988 Toyota Corolla
+1988 Toyota Hilux
 1988 VAZ-2101
 1988 Volkswagen Beetle
+1988 Volkswagen Gol
 1988 Volkswagen Golf
 1988 Volvo 240
 1988 Yugo GV
@@ -1825,6 +2381,9 @@
 1989 Audi 80
 1989 Audi 90
 1989 Audi V8
+1989 Austin Maestro
+1989 Austin Metro
+1989 Austin Mini
 1989 Austin Montego
 1989 Buick Century
 1989 Buick LeSabre
@@ -1844,8 +2403,10 @@
 1989 Chrysler Voyager
 1989 Dodge Caravan
 1989 Ferrari F40
+1989 Fiat 126
 1989 Fiat Ducato
 1989 Fiat Tipo
+1989 Fiat Uno
 1989 Ford Aerostar
 1989 Ford Escort
 1989 Ford Falcon
@@ -1875,19 +2436,23 @@
 1989 Nissan Patrol
 1989 Nissan Silvia S13
 1989 Nissan Skyline GT-R
+1989 Nissan Sunny
 1989 Pontiac Bonneville
 1989 Pontiac Grand Prix
 1989 Porsche 911
 1989 Renault Espace
 1989 Rover 200
+1989 SEAT Ibiza
 1989 Subaru Brumby
 1989 Suzuki Alto
 1989 Suzuki Vitara
 1989 Toyota 4Runner
 1989 Toyota Camry
 1989 Toyota Corolla
+1989 Toyota Hilux
 1989 Toyota Supra
 1989 Volkswagen Beetle
+1989 Volkswagen Gol
 1989 Volkswagen Golf
 1989 Volvo 240
 1990 Acura Integra
@@ -1899,6 +2464,9 @@
 1990 Audi 90
 1990 Audi S2
 1990 Audi V8
+1990 Austin Maestro
+1990 Austin Metro
+1990 Austin Mini
 1990 Austin Montego
 1990 Buick Century
 1990 Buick Riviera
@@ -1914,9 +2482,11 @@
 1990 Chrysler Spirit
 1990 Chrysler Voyager
 1990 Dodge Caravan
-1990 Fiat Uno
 1990 Ferrari F40
+1990 Fiat 126
+1990 Fiat Uno
 1990 Fiat Ducato
+1990 Fiat Uno
 1990 Ford Aerostar
 1990 Ford Escort
 1990 Ford Explorer
@@ -1941,6 +2511,7 @@
 1990 Lada Niva
 1990 Lamborghini Diablo
 1990 Land Rover Discovery
+1990 Lincoln Town Car
 1990 Mazda MX-5 Miata
 1990 Mercury Sable
 1990 Mitsubishi Colt
@@ -1949,18 +2520,22 @@
 1990 Nissan Pathfinder
 1990 Nissan Patrol
 1990 Nissan Skyline GT-R
+1990 Nissan Sunny
 1990 Oldsmobile 4-4-2
 1990 Pontiac Bonneville
 1990 Pontiac Grand Prix
 1990 Porsche 911
 1990 Renault Espace
 1990 Rover 200
+1990 SEAT Ibiza
 1990 Subaru Legacy
 1990 Suzuki Alto
 1990 Suzuki Vitara
 1990 Toyota 4Runner
 1990 Toyota Corolla
+1990 Toyota Hilux
 1990 Volkswagen Beetle
+1990 Volkswagen Gol
 1990 Volkswagen Golf
 1990 Volvo 240
 1990 Volvo 740
@@ -1977,6 +2552,9 @@
 1991 Audi S2
 1991 Audi S4
 1991 Audi V8
+1991 Austin Maestro
+1991 Austin Metro
+1991 Austin Mini
 1991 Austin Montego
 1991 Bentley Continental R
 1991 Bugatti EB 110
@@ -1996,6 +2574,7 @@
 1991 Chrysler Spirit
 1991 Chrysler Voyager
 1991 Ferrari F40
+1991 Fiat 126
 1991 Fiat Ducato
 1991 Fiat Uno
 1991 Ford Aerostar
@@ -2022,12 +2601,14 @@
 1991 Jeep Wrangler
 1991 Lada Niva
 1991 Land Rover Discovery
+1991 Lincoln Town Car
 1991 Mazda MX-5 Miata
 1991 Mitsubishi Colt
 1991 Mitsubishi Minica
 1991 Nissan 300ZX
 1991 Nissan Pathfinder
 1991 Nissan Patrol
+1991 Nissan Sunny
 1991 Oldsmobile 4-4-2
 1991 Pontiac Bonneville
 1991 Pontiac Grand Prix
@@ -2036,6 +2617,7 @@
 1991 Rover 200
 1991 Saab 9000
 1991 Saturn SL1
+1991 SEAT Ibiza
 1991 SEAT Toledo
 1991 Suzuki Alto
 1991 Suzuki Cappuccino
@@ -2043,7 +2625,9 @@
 1991 Toyota 4Runner
 1991 Toyota Camry
 1991 Toyota Corolla
+1991 Toyota Hilux
 1991 Volkswagen Beetle
+1991 Volkswagen Gol
 1991 Volkswagen Golf
 1991 Volvo 240
 1992 Acura Integra
@@ -2056,6 +2640,9 @@
 1992 Audi S2
 1992 Audi S4
 1992 Audi V8
+1992 Austin Maestro
+1992 Austin Metro
+1992 Austin Mini
 1992 Austin Montego
 1992 Bugatti EB 110
 1992 Buick Century
@@ -2080,6 +2667,7 @@
 1992 Dodge Monaco
 1992 Eagle Premier
 1992 Ferrari F40
+1992 Fiat 126
 1992 Fiat Ducato
 1992 Fiat Uno
 1992 Ford Aerostar
@@ -2114,6 +2702,7 @@
 1992 Lada Niva
 1992 Lancia Delta HF Integrale
 1992 Land Rover Discovery
+1992 Lincoln Town Car
 1992 Maserati Biturbo
 1992 Mazda MX-5 Miata
 1992 McLaren F1
@@ -2123,6 +2712,7 @@
 1992 Nissan 300ZX
 1992 Nissan Pathfinder
 1992 Nissan Patrol
+1992 Nissan Sunny
 1992 Pontiac Bonneville
 1992 Pontiac Grand Prix
 1992 Porsche 911
@@ -2130,6 +2720,7 @@
 1992 Renault Twingo
 1992 Rover 200
 1992 Saab 9000
+1992 SEAT Ibiza
 1992 Suzuki Alto
 1992 Suzuki Cappuccino
 1992 Suzuki Vitara
@@ -2137,7 +2728,9 @@
 1992 Toyota Camry
 1992 Toyota Celica Supra
 1992 Toyota Corolla
+1992 Toyota Hilux
 1992 Volkswagen Beetle
+1992 Volkswagen Gol
 1992 Volkswagen Golf
 1992 Volvo 240
 1993 Acura Integra
@@ -2151,6 +2744,9 @@
 1993 Audi S2
 1993 Audi S4
 1993 Audi V8
+1993 Austin Maestro
+1993 Austin Metro
+1993 Austin Mini
 1993 Austin Montego
 1993 Autozam AZ-1
 1993 BMW M3 Sedan
@@ -2181,6 +2777,7 @@
 1993 Dodge Ram 250
 1993 Dodge Ram 350
 1993 Dodge Ram 50 Pickup
+1993 Fiat 126
 1993 Fiat Ducato
 1993 Fiat Uno
 1993 Ford Aerostar
@@ -2213,6 +2810,7 @@
 1993 Jeep Wrangler
 1993 Lada Niva
 1993 Land Rover Discovery
+1993 Lincoln Town Car
 1993 Mazda MX-5 Miata
 1993 McLaren F1
 1993 Mercedes-Benz 190E
@@ -2226,6 +2824,7 @@
 1993 Nissan 300ZX
 1993 Nissan Pathfinder
 1993 Nissan Patrol
+1993 Nissan Sunny
 1993 Nissan Terrano II
 1993 Peugeot 205 GTI
 1993 Pontiac Bonneville
@@ -2235,13 +2834,16 @@
 1993 Renault Twingo
 1993 Rover 200
 1993 Saab 9000
+1993 SEAT Ibiza
 1993 Suzuki Alto
 1993 Suzuki Cappuccino
 1993 Suzuki Vitara
 1993 Toyota 4Runner
 1993 Toyota Camry
 1993 Toyota Corolla
+1993 Toyota Hilux
 1993 Volkswagen Beetle
+1993 Volkswagen Gol
 1993 Volkswagen Golf
 1993 Volkswagen Fox
 1993 Volvo 240
@@ -2261,6 +2863,9 @@
 1994 Audi S2
 1994 Audi S4
 1994 Audi V8
+1994 Austin Maestro
+1994 Austin Metro
+1994 Austin Mini
 1994 Austin Montego
 1994 Autozam AZ-1
 1994 BMW 3-Series E30
@@ -2283,6 +2888,7 @@
 1994 Citroën Evasion
 1994 Dodge Colt
 1994 Dodge Shadow
+1994 Fiat 126
 1994 Fiat Ducato	
 1994 Fiat Uno
 1994 Ford Aerostar
@@ -2310,6 +2916,7 @@
 1994 Jeep Wrangler
 1994 Lada Niva
 1994 Land Rover Discovery
+1994 Lincoln Town Car
 1994 Mazda 323
 1994 Mazda MX-5 Miata
 1994 Mazda Navajo
@@ -2320,6 +2927,7 @@
 1994 Nissan 300ZX
 1994 Nissan Pathfinder
 1994 Nissan Patrol
+1994 Nissan Sunny
 1994 Nissan Terrano II
 1994 Opel Omega
 1994 Peugeot 205 GTI
@@ -2332,6 +2940,7 @@
 1994 Renault Twingo
 1994 Rover 200
 1994 Saab 9000
+1994 SEAT Ibiza
 1994 Subaru Justy
 1994 Subaru Loyale
 1994 Suzuki Alto
@@ -2340,11 +2949,13 @@
 1994 Toyota 4Runner
 1994 Toyota Camry
 1994 Toyota Corolla
+1994 Toyota Hilux
 1994 Toyota RAV4
 1994 Toyota Supra
 1994 Vauxhall Omega
 1994 Volkswagen Beetle
 1994 Volkswagen Corrado
+1994 Volkswagen Gol
 1994 Volkswagen Golf
 1994 Volkswagen Jetta
 1995 Acura Integra
@@ -2361,6 +2972,10 @@
 1995 Audi S4
 1995 Audi S6
 1995 Audi V8
+1995 Austin Maestro
+1995 Austin Metro
+1995 Austin Mini
+1995 Austin Montego
 1995 Autozam AZ-1
 1995 Bugatti EB 110
 1995 Buick Century
@@ -2387,6 +3002,7 @@
 1995 Citroën Evasion
 1995 Dodge Spirit
 1995 Ferrari F50
+1995 Fiat 126
 1995 Fiat Ducato
 1995 Fiat Uno
 1995 Ford Aerostar
@@ -2420,6 +3036,7 @@
 1995 Lamborghini Diablo
 1995 Land Rover Discovery
 1995 Land Rover Range Rover
+1995 Lincoln Town Car
 1995 Mazda 929
 1995 Mazda MX-3
 1995 Mazda MX-5 Miata
@@ -2432,6 +3049,7 @@
 1995 Nissan 300ZX
 1995 Nissan Pathfinder
 1995 Nissan Patrol
+1995 Nissan Sunny
 1995 Nissan Terrano II
 1995 Peugeot 205 GTI
 1995 Peugeot 406
@@ -2443,16 +3061,19 @@
 1995 Renault Espace
 1995 Renault Twingo
 1995 Rover 200
+1995 SEAT Ibiza
 1995 Suzuki Alto
 1995 Suzuki Cappuccino
 1995 Suzuki Vitara
 1995 Toyota 4Runner
 1995 Toyota Camry
 1995 Toyota Corolla
+1995 Toyota Hilux
 1995 Toyota Land Cruiser
 1995 Toyota RAV4
 1995 Vauxhall Omega
 1995 Volkswagen Beetle
+1995 Volkswagen Gol
 1995 Volkswagen Golf
 1995 Volkswagen Sharan
 1996 Acura CL
@@ -2470,6 +3091,8 @@
 1996 Audi S4
 1996 Audi S6 Plus
 1996 Audi S8
+1996 Austin Metro
+1996 Austin Mini
 1996 BMW 518i
 1996 Buick Century
 1996 Buick Riviera
@@ -2498,7 +3121,9 @@
 1996 Citroën Evasion
 1996 Dodge Caravan
 1996 Dodge Stealth
+1996 Fiat 126
 1996 Fiat Ducato
+1996 Fiat Uno
 1996 Ford Aerostar
 1996 Ford Bronco
 1996 Ford Escort
@@ -2526,6 +3151,7 @@
 1996 Lada Niva
 1996 Land Rover Discovery
 1996 Lotus Elise
+1996 Lincoln Town Car
 1996 Mazda 626 Cronos
 1996 Mazda MX-5 Miata
 1996 Mazda Xedos 6
@@ -2536,6 +3162,7 @@
 1996 Nissan 300ZX
 1996 Nissan Pathfinder
 1996 Nissan Patrol
+1996 Nissan Sunny
 1996 Nissan Terrano II
 1996 Peugeot 205 GTI
 1996 Pontiac Bonneville
@@ -2548,6 +3175,8 @@
 1996 Renault Scénic
 1996 Renault Twingo
 1996 SEAT Alhambra
+1996 SEAT Ibiza
+1996 Škoda Octavia
 1996 Suzuki Alto
 1996 Suzuki Cappuccino
 1996 Suzuki Vitara
@@ -2559,6 +3188,7 @@
 1996 Toyota RAV4
 1996 Vauxhall Omega
 1996 Volkswagen Beetle
+1996 Volkswagen Gol
 1996 Volkswagen Golf
 1996 Volkswagen Sharan
 1996 Volvo 850 Turbo
@@ -2578,6 +3208,8 @@
 1997 Audi S4
 1997 Audi S6 Plus
 1997 Audi S8
+1997 Austin Metro
+1997 Austin Mini
 1997 Buick Century
 1997 Buick Riviera
 1997 Chevrolet Cavalier
@@ -2598,7 +3230,9 @@
 1997 Citroën Evasion
 1997 Eagle Vision
 1997 Ferrari F40
+1997 Fiat 126
 1997 Fiat Ducato
+1997 Fiat Uno
 1997 Ford Aerostar
 1997 Ford Aspire
 1997 Ford Escort
@@ -2627,6 +3261,8 @@
 1997 Lada Niva
 1997 Land Rover Defender 90
 1997 Land Rover Discovery
+1997 Lincoln Navigator
+1997 Lincoln Town Car
 1997 Lotus Elise
 1997 Mazda MX-5 Miata
 1997 McLaren F1
@@ -2635,6 +3271,7 @@
 1997 Nissan Elgrand
 1997 Nissan Pathfinder
 1997 Nissan Patrol
+1997 Nissan Sunny
 1997 Nissan Terrano II
 1997 Peugeot 205 GTI
 1997 Pontiac Bonneville
@@ -2647,6 +3284,8 @@
 1997 Renault Scénic
 1997 Renault Twingo
 1997 SEAT Alhambra
+1997 SEAT Ibiza
+1997 Škoda Octavia
 1997 Subaru Forester
 1997 Subaru SVX
 1997 Suzuki Alto
@@ -2654,10 +3293,12 @@
 1997 Toyota 4Runner
 1997 Toyota Camry
 1997 Toyota Corolla
+1997 Toyota Hilux
 1997 Toyota Prius
 1997 Toyota RAV4
 1997 Vauxhall Omega
 1997 Volkswagen Beetle
+1997 Volkswagen Gol
 1997 Volkswagen Golf
 1997 Volkswagen Sharan
 1997 Volvo V70 T5
@@ -2678,6 +3319,8 @@
 1998 Audi S4
 1998 Audi S8
 1998 Audi TT Coupe
+1998 Austin Metro
+1998 Austin Mini
 1998 BMW E36 M3 Sedan
 1998 BMW Z3 Coupe
 1998 Buick Century
@@ -2703,7 +3346,9 @@
 1998 Eagle Talon
 1998 Ferrari F355
 1998 Ferrari F550 Marenello
+1998 Fiat 126
 1998 Fiat Ducato
+1998 Fiat Uno
 1998 Ford Crown Victoria
 1998 Ford E-350
 1998 Ford Escort
@@ -2728,6 +3373,8 @@
 1998 Lada Niva
 1998 Land Rover Discovery
 1998 Lexus IS
+1998 Lincoln Navigator
+1998 Lincoln Town Car
 1998 Lotus Elise
 1998 Lotus Esprit
 1998 Mazda MX-5 Miata
@@ -2752,6 +3399,8 @@
 1998 Renault Twingo
 1998 Saab 9000
 1998 SEAT Alhambra
+1998 SEAT Ibiza
+1998 Škoda Octavia
 1998 Smart City-Coupe
 1998 Subaru Forester
 1998 Suzuki Alto
@@ -2766,11 +3415,13 @@
 1998 Toyota 4Runner
 1998 Toyota Camry
 1998 Toyota Corolla
+1998 Toyota Hilux
 1998 Toyota RAV4
 1998 Toyota Prius
 1998 Toyota Supra
 1998 Vauxhall Omega
 1998 Volkswagen Beetle
+1998 Volkswagen Gol
 1998 Volkswagen Golf
 1998 Volkswagen Sharan
 1999 Acura CL
@@ -2791,6 +3442,7 @@
 1999 Audi S6
 1999 Audi S8
 1999 Audi TT Roadster
+1999 Austin Mini
 1999 BMW Z3 Coupe
 1999 Buick Century
 1999 Buick GL8
@@ -2820,7 +3472,9 @@
 1999 Dodge Ram Van 1500
 1999 Dodge Ram Van 2500
 1999 Dodge Ram Van 3500
+1999 Fiat 126
 1999 Fiat Ducato
+1999 Fiat Uno
 1999 Ford Crown Victoria
 1999 Ford Escort
 1999 Ford Expedition
@@ -2853,6 +3507,8 @@
 1999 Jeep Grand Cherokee
 1999 Jeep Wrangler
 1999 Lada Niva
+1999 Lincoln Navigator
+1999 Lincoln Town Car
 1999 Lotus Elise
 1999 Mazda B2500
 1999 Mazda MX-5 Miata
@@ -2864,6 +3520,7 @@
 1999 Nissan GT-R
 1999 Nissan Pathfinder
 1999 Nissan Patrol
+1999 Nissan Sunny
 1999 Nissan Terrano II
 1999 Oldsmobile Aurora
 1999 Pagani Zonda
@@ -2877,9 +3534,12 @@
 1999 Renault Kangoo
 1999 Renault Mégane
 1999 Renault Scénic
+1999 Renault Symbol
 1999 Renault Twingo
 1999 SEAT Alhambra
+1999 SEAT Ibiza
 1999 Shelby Series 1
+1999 Škoda Octavia
 1999 Subaru Forester
 1999 Subaru Forester
 1999 Suzuki Alto
@@ -2887,10 +3547,12 @@
 1999 Toyota 4Runner
 1999 Toyota Camry
 1999 Toyota Corolla
+1999 Toyota Hilux
 1999 Toyota Prius
 1999 Toyota RAV4
 1999 Vauxhall Omega
 1999 Volkswagen Beetle
+1999 Volkswagen Gol
 1999 Volkswagen Golf
 1999 Volkswagen Jetta GL
 1999 Volkswagen Jetta GL TDI
@@ -2920,6 +3582,7 @@
 2000 Audi S6
 2000 Audi S8
 2000 Audi TT
+2000 Austin Mini
 2000 BMW Z3 Coupe
 2000 Buick Century
 2000 Buick GL8
@@ -2953,7 +3616,9 @@
 2000 Chrysler Viper
 2000 Chrysler Voyager
 2000 Citroën Evasion
+2000 Fiat 126
 2000 Fiat Ducato
+2000 Fiat Uno
 2000 Ford Contour
 2000 Ford Courier
 2000 Ford Crown Victoria
@@ -2989,6 +3654,8 @@
 2000 Jeep Grand Cherokee
 2000 Jeep Wrangler
 2000 Lada Niva
+2000 Lincoln Navigator
+2000 Lincoln Town Car
 2000 Lotus Elise
 2000 Mazda MX-5 Miata
 2000 Mitsubishi Colt
@@ -2996,6 +3663,7 @@
 2000 Nissan Elgrand
 2000 Nissan Pathfinder
 2000 Nissan Patrol
+2000 Nissan Sunny
 2000 Nissan Terrano II
 2000 Peugeot 607
 2000 Plymouth Breeze
@@ -3008,18 +3676,23 @@
 2000 Renault Espace
 2000 Renault Kangoo
 2000 Renault Scénic
+2000 Renault Symbol
 2000 Renault Twingo
 2000 SEAT Alhambra
+2000 SEAT Ibiza
+2000 Škoda Octavia
 2000 Subaru Forester
 2000 Suzuki Alto
 2000 Suzuki Vitara
 2000 Toyota 4Runner
 2000 Toyota Camry
 2000 Toyota Highlander
+2000 Toyota Hilux
 2000 Toyota Prius
 2000 Toyota RAV4
 2000 Toyota Tundra
 2000 Volkswagen Beetle
+2000 Volkswagen Gol
 2000 Volkswagen Golf
 2000 Volkswagen Sharan
 2000 Volvo S60R
@@ -3069,6 +3742,7 @@
 2001 Dodge Ram 1500
 2001 Ferrari 550 Maranello
 2001 Fiat Ducato
+2001 Fiat Uno
 2001 Ford Courier
 2001 Ford Crown Victoria
 2001 Ford Escape
@@ -3102,6 +3776,8 @@
 2001 Kia Sephia
 2001 Lada Niva
 2001 Lexus SC
+2001 Lincoln Navigator
+2001 Lincoln Town Car
 2001 Lotus Elise
 2001 Mazda MX-5 Miata
 2001 Mercedes-Benz E55 AMG
@@ -3111,6 +3787,7 @@
 2001 Nissan Elgrand
 2001 Nissan Pathfinder
 2001 Nissan Patrol
+2001 Nissan Sunny
 2001 Nissan Terrano II
 2001 Peugeot 607
 2001 Plymouth Neon
@@ -3123,8 +3800,11 @@
 2001 Renault Espace
 2001 Renault Kangoo
 2001 Renault Scénic
+2001 Renault Symbol
 2001 Renault Twingo
 2001 SEAT Alhambra
+2001 SEAT Ibiza
+2001 Škoda Octavia
 2001 Subaru Forester
 2001 Suzuki Alto
 2001 Suzuki Swift
@@ -3133,10 +3813,12 @@
 2001 Toyota Camry
 2001 Toyota Corolla
 2001 Toyota Highlander
+2001 Toyota Hilux
 2001 Toyota Prius
 2001 Toyota RAV4
 2001 Toyota Sienna
 2001 Volkswagen Beetle
+2001 Volkswagen Gol
 2001 Volkswagen Golf
 2001 Volkswagen Sharan
 2002 Acura CL
@@ -3185,6 +3867,7 @@
 2002 Dodge Ram Wagon
 2002 Ferrari Enzo
 2002 Fiat Ducato
+2002 Fiat Uno
 2002 Ford Courier
 2002 Ford Crown Victoria
 2002 Ford Escape
@@ -3216,6 +3899,8 @@
 2002 Lada Niva
 2002 Land Rover Discovery Series II
 2002 Lexus SC
+2002 Lincoln Navigator
+2002 Lincoln Town Car
 2002 Mazda 626
 2002 Mazda Millenia
 2002 Mazda MX-5 Miata
@@ -3226,6 +3911,7 @@
 2002 Nissan Elgrand
 2002 Nissan Pathfinder
 2002 Nissan Patrol
+2002 Nissan Sunny
 2002 Nissan Terrano II
 2002 Peugeot 607
 2002 Pontiac Bonneville
@@ -3237,9 +3923,12 @@
 2002 Renault Espace
 2002 Renault Kangoo
 2002 Renault Scénic
+2002 Renault Symbol
 2002 Renault Twingo
 2002 Saturn SC
 2002 SEAT Alhambra
+2002 SEAT Ibiza
+2002 Škoda Octavia
 2002 Subaru Forester
 2002 Subaru Impreza WRX
 2002 Subaru Outback
@@ -3251,11 +3940,13 @@
 2002 Toyota Alphard
 2002 Toyota Camry
 2002 Toyota Highlander
+2002 Toyota Hilux
 2002 Toyota Prius
 2002 Toyota RAV4
 2002 Toyota Sienna
 2002 Volkswagen Beetle
 2002 Volkswagen Cabrio
+2002 Volkswagen Gol
 2002 Volkswagen Golf
 2002 Volkswagen Sharan
 2002 Volvo XC90
@@ -3307,6 +3998,7 @@
 2003 Dodge Ram Van
 2003 Ferrari Enzo
 2003 Fiat Ducato
+2003 Fiat Uno
 2003 Ford Courier
 2003 Ford Crown Victoria
 2003 Ford Escape
@@ -3339,6 +4031,8 @@
 2003 Lamborghini Gallardo
 2003 Land Rover Range Rover
 2003 Lexus SC
+2003 Lincoln Navigator
+2003 Lincoln Town Car
 2003 Mazda5
 2003 Mazda MX-5 Miata
 2003 Mazda Protege
@@ -3352,6 +4046,7 @@
 2003 Nissan Elgrand
 2003 Nissan Pathfinder
 2003 Nissan Patrol
+2003 Nissan Sunny
 2003 Nissan Terrano II
 2003 Nissan Titan
 2003 Opel Meriva
@@ -3365,9 +4060,12 @@
 2003 Renault Espace
 2003 Renault Kangoo
 2003 Renault Scénic
+2003 Renault Symbol
 2003 Renault Twingo
 2003 Rover 75
 2003 SEAT Alhambra
+2003 SEAT Ibiza
+2003 Škoda Octavia
 2003 Smart Roadster
 2003 Subaru Forester
 2003 Suzuki Alto
@@ -3375,13 +4073,16 @@
 2003 Toyota 4Runner
 2003 Toyota Alphard
 2003 Toyota Avalon
+2003 Toyota Avanza
 2003 Toyota Camry LE
 2003 Toyota Highlander
+2003 Toyota Hilux
 2003 Toyota Prius
 2003 Toyota RAV4
 2003 Toyota Sienna
 2003 Toyota Sienta
 2003 Volkswagen Beetle
+2003 Volkswagen Gol
 2003 Volkswagen Golf
 2003 Volkswagen Sharan
 2003 Volkswagen Touran
@@ -3434,6 +4135,7 @@
 2004 Dodge Neon SRT-4
 2004 Ferrari 360 Modena
 2004 Fiat Ducato
+2004 Fiat Uno
 2004 Ford Courier
 2004 Ford Crown Victoria
 2004 Ford Escape
@@ -3470,10 +4172,11 @@
 2004 Isuzu Rodeo S 3.5L V6
 2004 Jeep Grand Cherokee
 2004 Jeep Wrangler
-2004 Lada Niva
 2004 Koenigsegg CCR
 2004 Lada Niva
 2004 Lexus SC
+2004 Lincoln Navigator
+2004 Lincoln Town Car
 2004 Lotus Esprit
 2004 Lotus Exige
 2004 Mazda5
@@ -3488,6 +4191,7 @@
 2004 Nissan Elgrand
 2004 Nissan Pathfinder
 2004 Nissan Patrol
+2004 Nissan Sunny
 2004 Nissan Terrano II
 2004 Nissan Titan
 2004 Oldsmobile Alero
@@ -3505,11 +4209,14 @@
 2004 Renault Espace
 2004 Renault Kangoo
 2004 Renault Scénic
+2004 Renault Symbol
 2004 Renault Twingo
 2004 Saab 9-3
 2004 Saturn L-Series
 2004 Scion XB
 2004 SEAT Alhambra
+2004 SEAT Ibiza
+2004 Škoda Octavia
 2004 Smart Forfour
 2004 Smart Roadster
 2004 Subaru Forester
@@ -3518,15 +4225,18 @@
 2004 Suzuki Vitara
 2004 Toyota 4Runner
 2004 Toyota Alphard
+2004 Toyota Avanza
 2004 Toyota Camry
 2004 Toyota Fortuner
 2004 Toyota Highlander
+2004 Toyota Hilux
 2004 Toyota Prius
 2004 Toyota RAV4
 2004 Toyota Sienna
 2004 Toyota Sienta
 2004 Toyota Tacoma XtraCab
 2004 Volkswagen Caddy
+2004 Volkswagen Gol
 2004 Volkswagen Golf
 2004 Volkswagen Sharan
 2004 Volkswagen Touran
@@ -3577,6 +4287,7 @@
 2005 Chrysler Voyager
 2005 Daihatsu Copen
 2005 Dodge Neon SRT-4
+2005 Fiat Uno
 2005 Ford Courier
 2005 Ford Crown Victoria
 2005 Ford Escape
@@ -3625,6 +4336,8 @@
 2005 Lexus RX330
 2005 Lexus SC
 2005 Lincoln Mark LT
+2005 Lincoln Navigator
+2005 Lincoln Town Car
 2005 Lotus Elise
 2005 Lotus Exige
 2005 Mazda MX-5 Miata
@@ -3634,9 +4347,11 @@
 2005 Nissan Elgrand
 2005 Nissan Pathfinder
 2005 Nissan Patrol
+2005 Nissan Sunny
 2005 Nissan Terrano II
 2005 Nissan Titan
 2005 Opel Meriva
+2005 Perodua Myvi
 2005 Peugeot 107
 2005 Peugeot 607
 2005 Pontiac Bonneville
@@ -3648,8 +4363,11 @@
 2005 Renault Espace
 2005 Renault Kangoo
 2005 Renault Scénic
+2005 Renault Symbol
 2005 Renault Twingo
 2005 SEAT Alhambra
+2005 SEAT Ibiza
+2005 Škoda Octavia
 2005 Smart Forfour
 2005 Smart Roadster
 2005 Subaru Forester
@@ -3660,15 +4378,18 @@
 2005 Toyota 4Runner
 2005 Toyota Alphard
 2005 Toyota Avalon
+2005 Toyota Avanza
 2005 Toyota Camry
 2005 Toyota Celica
 2005 Toyota Fortuner
 2005 Toyota Highlander
+2005 Toyota Hilux
 2005 Toyota Prius
 2005 Toyota RAV4
 2005 Toyota Sienna
 2005 Toyota Sienta
 2005 Volkswagen Caddy
+2005 Volkswagen Gol
 2005 Volkswagen Golf
 2005 Volkswagen Jetta
 2005 Volkswagen Sharan
@@ -3726,6 +4447,7 @@
 2006 Dodge Stratus
 2006 Ferrari 575 M
 2006 Fiat Ducato
+2006 Fiat Uno
 2006 Ford Courier
 2006 Ford Crown Victoria
 2006 Ford Escape
@@ -3766,6 +4488,8 @@
 2006 Lada Niva
 2006 Land Rover Range Rover
 2006 Lexus SC
+2006 Lincoln Navigator
+2006 Lincoln Town Car
 2006 Lotus Elise
 2006 Lotus Exige
 2006 Mazda MX-5 Miata
@@ -3779,9 +4503,11 @@
 2006 Nissan Elgrand
 2006 Nissan Pathfinder
 2006 Nissan Patrol
+2006 Nissan Sunny
 2006 Nissan Titan
 2006 Opel Meriva
 2006 Panoz Esperante
+2006 Perodua Myvi
 2006 Peugeot 107
 2006 Peugeot 607
 2006 Pontiac Grand Prix
@@ -3791,11 +4517,14 @@
 2006 Renault Espace
 2006 Renault Kangoo
 2006 Renault Scénic
+2006 Renault Symbol
 2006 Renault Twingo
 2006 Saab 9-2X
 2006 Saturn Outlook
 2006 Saturn VUE
 2006 SEAT Alhambra
+2006 SEAT Ibiza
+2006 Škoda Octavia
 2006 Smart Forfour
 2006 Subaru Baja
 2006 Subaru Forester
@@ -3806,15 +4535,18 @@
 2006 Toyota 4Runner
 2006 Toyota Alphard
 2006 Toyota Avalon
+2006 Toyota Avanza
 2006 Toyota Camry
 2006 Toyota Fortuner
 2006 Toyota Highlander
+2006 Toyota Hilux
 2006 Toyota Prius
 2006 Toyota RAV4
 2006 Toyota Sienna
 2006 Toyota Sienta
 2006 Volkswagen Caddy
 2006 Volkswagen Crafter
+2006 Volkswagen Gol
 2006 Volkswagen Golf
 2006 Volkswagen Phaeton
 2006 Volkswagen Sharan
@@ -3876,6 +4608,7 @@
 2007 Ferrari F430
 2007 Fiat 500
 2007 Fiat Ducato
+2007 Fiat Uno
 2007 Ford Courier
 2007 Ford Crown Victoria LX
 2007 Ford Crown Victoria Standard
@@ -3918,6 +4651,8 @@
 2007 Lada Niva
 2007 Lexus ES
 2007 Lexus SC
+2007 Lincoln Navigator
+2007 Lincoln Town Car
 2007 Lotus Elise
 2007 Lotus Exige
 2007 Mazda MX-5 Miata
@@ -3932,6 +4667,7 @@
 2007 Nissan Patrol
 2007 Nissan Titan
 2007 Opel Meriva
+2007 Perodua Myvi
 2007 Peugeot 107
 2007 Peugeot 607
 2007 Pontiac Grand Prix
@@ -3940,9 +4676,12 @@
 2007 Renault Espace
 2007 Renault Kangoo
 2007 Renault Scénic
+2007 Renault Symbol
 2007 Renault Twingo
 2007 Rolls-Royce Phantom
 2007 SEAT Alhambra
+2007 SEAT Ibiza
+2007 Škoda Octavia
 2007 Smart Forfour
 2007 Smart Fortwo
 2007 Subaru Forester
@@ -3953,9 +4692,11 @@
 2007 Toyota 4Runner
 2007 Toyota Alphard
 2007 Toyota Avalon
+2007 Toyota Avanza
 2007 Toyota Camry
 2007 Toyota Fortuner
 2007 Toyota Highlander
+2007 Toyota Hilux
 2007 Toyota Prius
 2007 Toyota RAV4
 2007 Toyota Sienna
@@ -3963,6 +4704,7 @@
 2007 Volkswagen Caddy
 2007 Volkswagen Crafter
 2007 Volkswagen Eos
+2007 Volkswagen Gol
 2007 Volkswagen Golf
 2007 Volkswagen GTi Mark 5
 2007 Volkswagen Sharan
@@ -4024,6 +4766,7 @@
 2008 Ferrari California
 2008 Fiat 500
 2008 Fiat Ducato
+2008 Fiat Uno
 2008 Ford Courier
 2008 Ford Crown Victoria
 2008 Ford Escape
@@ -4065,9 +4808,11 @@
 2008 Kia Sedona EX
 2008 Kia Soul
 2008 Lada Niva
+2008 Lexus SC
+2008 Lincoln Navigator
+2008 Lincoln Town Car
 2008 Lotus Elise
 2008 Lotus Exige
-2008 Lexus SC
 2008 Mazda 2
 2008 Mazda MX-5 Miata
 2008 Mazda RX-8
@@ -4079,6 +4824,7 @@
 2008 Nissan Rogue
 2008 Nissan Titan
 2008 Opel Meriva
+2008 Perodua Myvi
 2008 Peugeot 107
 2008 Peugeot 607
 2008 Pontiac Grand Prix
@@ -4087,8 +4833,11 @@
 2008 Renault Espace
 2008 Renault Kangoo
 2008 Renault Scénic
+2008 Renault Symbol
 2008 Renault Twingo
 2008 SEAT Alhambra
+2008 SEAT Ibiza
+2008 Škoda Octavia
 2008 Smart Forfour
 2008 Smart Fortwo
 2008 Suzuki Alto
@@ -4097,9 +4846,11 @@
 2008 Tesla Roadster
 2008 Toyota 4Runner
 2008 Toyota Alphard
+2008 Toyota Avanza
 2008 Toyota Camry
 2008 Toyota Fortuner
 2008 Toyota Highlander
+2008 Toyota Hilux
 2008 Toyota Prius
 2008 Toyota RAV4
 2008 Toyota Sienna
@@ -4107,6 +4858,7 @@
 2008 Volkswagen Beetle
 2008 Volkswagen Caddy
 2008 Volkswagen Crafter
+2008 Volkswagen Gol
 2008 Volkswagen Golf
 2008 Volkswagen R32
 2008 Volkswagen Sharan
@@ -4142,6 +4894,7 @@
 2009 BMW Z4
 2009 Bugatti Veyron
 2009 Buick GL8
+2009 BYD e6
 2009 Cadillac CTS-V
 2009 Cadillac STS V8
 2009 Cadillac XLR
@@ -4169,6 +4922,7 @@
 2009 Ferrari California
 2009 Fiat 500
 2009 Fiat Ducato
+2009 Fiat Uno
 2009 Ford Courier
 2009 Ford Crown Victoria
 2009 Ford Escape
@@ -4217,6 +4971,9 @@
 2009 Land Rover LR3
 2009 Lexus RX
 2009 Lexus SC
+2009 Lincoln MKT
+2009 Lincoln Navigator
+2009 Lincoln Town Car
 2009 Lotus Elise
 2009 Lotus Exige
 2009 Mazda B-Series Pickup
@@ -4238,6 +4995,7 @@
 2009 Noble M600
 2009 Opel Corsa
 2009 Opel Meriva
+2009 Perodua Myvi
 2009 Peugeot 107
 2009 Peugeot 607
 2009 Pontiac G8 GXP
@@ -4246,10 +5004,13 @@
 2009 Renault Espace
 2009 Renault Kangoo
 2009 Renault Scénic
+2009 Renault Symbol
 2009 Renault Twingo
 2009 Saab 9-7X
 2009 Saturn Aura
 2009 SEAT Alhambra
+2009 SEAT Ibiza
+2009 Škoda Octavia
 2009 Smart Forfour
 2009 Smart Fortwo
 2009 Subaru Outback
@@ -4262,9 +5023,11 @@
 2009 Tesla Roadster
 2009 Toyota 4Runner
 2009 Toyota Alphard
+2009 Toyota Avanza
 2009 Toyota Auris
 2009 Toyota Camry
 2009 Toyota Highlander
+2009 Toyota Hilux
 2009 Toyota Prius
 2009 Toyota RAV4
 2009 Toyota Sienna
@@ -4272,6 +5035,7 @@
 2009 Volkswagen Caddy
 2009 Volkswagen Crafter
 2009 Volkswagen GLI
+2009 Volkswagen Gol
 2009 Volkswagen Rabbit
 2009 Volkswagen Sharan
 2009 Volkswagen Touran
@@ -4310,6 +5074,7 @@
 2010 BMW Z4
 2010 Bugatti Veyron
 2010 Buick GL8
+2010 BYD e6
 2010 Cadillac CTS-V
 2010 Chevrolet Captiva
 2010 Chevrolet Camaro
@@ -4335,6 +5100,7 @@
 2010 Ferrari California
 2010 Fiat 500
 2010 Fiat Ducato
+2010 Fiat Uno
 2010 Ford Courier
 2010 Ford Crown Victoria
 2010 Ford Escape
@@ -4377,6 +5143,9 @@
 2010 Lamborghini Murcielago
 2010 Lexus LFA
 2010 Lexus SC
+2010 Lincoln MKT
+2010 Lincoln Navigator
+2010 Lincoln Town Car
 2010 Lotus Elise
 2010 Lotus Exige
 2010 Luxgen M7
@@ -4387,11 +5156,13 @@
 2010 Nissan Armada
 2010 Nissan Cube
 2010 Nissan Elgrand
+2010 Nissan Leaf
 2010 Nissan Pathfinder
 2010 Nissan Patrol
 2010 Nissan Rogue
 2010 Nissan Titan
 2010 Opel Meriva
+2010 Perodua Myvi
 2010 Peugeot 107
 2010 Peugeot 607
 2010 Pontiac G6
@@ -4400,10 +5171,13 @@
 2010 Renault Espace
 2010 Renault Kangoo
 2010 Renault Scénic
+2010 Renault Symbol
 2010 Renault Twingo
 2010 Saab 9-3
 2010 Saab 9-4X
 2010 SEAT Alhambra
+2010 SEAT Ibiza
+2010 Škoda Octavia
 2010 Smart Forfour
 2010 Smart Fortwo
 2010 Suzuki Alto
@@ -4411,9 +5185,11 @@
 2010 Tesla Roadster
 2010 Toyota 4Runner
 2010 Toyota Alphard
+2010 Toyota Avanza
 2010 Toyota Camry
 2010 Toyota Crown
 2010 Toyota Highlander
+2010 Toyota Hilux
 2010 Toyota Prius
 2010 Toyota RAV4
 2010 Toyota Sienna
@@ -4421,8 +5197,11 @@
 2010 Volkswagen Beetle
 2010 Volkswagen Caddy
 2010 Volkswagen Crafter
+2010 Volkswagen Gol
+2010 Volkswagen Golf
 2010 Volkswagen Sharan
 2010 Volkswagen Touran
+2010 Wuling Hongguang
 2011 Acura MDX
 2011 Acura RDX
 2011 Acura RL
@@ -4457,6 +5236,7 @@
 2011 BMW Z4
 2011 Bugatti Veyron
 2011 Buick GL8
+2011 BYD e6
 2011 Cadillac CTS-V
 2011 Cadillac CTS-V Wagon
 2011 Chevrolet Aveo
@@ -4492,6 +5272,7 @@
 2011 Fiat 500
 2011 Fiat Ducato
 2011 Fiat Panda
+2011 Fiat Uno
 2011 Ford C-Max
 2011 Ford Crown Victoria
 2011 Ford Escape
@@ -4526,12 +5307,13 @@
 2011 Jeep Wrangler
 2011 Kia Soul
 2011 Kia Venga
-2011 Lada Granta
-2011 Lada Niva
 2011 Koenigsegg Agera
 2011 Lada Granta
 2011 Lada Niva
 2011 Lamborghini Aventador
+2011 Lincoln MKT
+2011 Lincoln Navigator
+2011 Lincoln Town Car
 2011 Lotus Elise
 2011 Lotus Exige
 2011 Luxgen M7
@@ -4545,6 +5327,7 @@
 2011 Nissan Cube
 2011 Nissan Elgrand
 2011 Nissan GT-R
+2011 Nissan Leaf
 2011 Nissan Murano CrossCabriolet
 2011 Nissan Pathfinder
 2011 Nissan Patrol
@@ -4552,17 +5335,21 @@
 2011 Nissan Titan
 2011 Opel Meriva
 2011 Pagani Huayra
+2011 Perodua Myvi
 2011 Peugeot 107
 2011 Porsche 911 RSR Spyder
 2011 Porsche Cayman
 2011 Renault Espace
 2011 Renault Kangoo
 2011 Renault Scénic
+2011 Renault Symbol
 2011 Renault Twingo
 2011 Saab 9-4X
 2011 Saab 9-5
 2011 SEAT Alhambra
+2011 SEAT Ibiza
 2011 Škoda Citigo
+2011 Škoda Octavia
 2011 Smart Forfour
 2011 Smart Fortwo
 2011 Suzuki Alto
@@ -4570,20 +5357,24 @@
 2011 Tesla Roadster
 2011 Toyota 4Runner
 2011 Toyota Alphard
+2011 Toyota Avanza
 2011 Toyota Auris Hybrid
 2011 Toyota Camry
 2011 Toyota Crown
 2011 Toyota Highlander
+2011 Toyota Hilux
 2011 Toyota Prius+
 2011 Toyota RAV4
 2011 Toyota Sienna
 2011 Toyota Sienta
 2011 Volkswagen Caddy
 2011 Volkswagen Crafter
+2011 Volkswagen Gol
 2011 Volkswagen Golf
 2011 Volkswagen Sharan
 2011 Volkswagen Touran
 2011 Volkswagen Up!
+2011 Wuling Hongguang
 2012 Acura ILX
 2012 Acura MDX
 2012 Acura RDX
@@ -4621,6 +5412,7 @@
 2012 BMW Z4
 2012 Bugatti Veyron Super Sport
 2012 Buick GL8
+2012 BYD e6
 2012 Cadillac CTS-V
 2012 Chevrolet Captiva
 2012 Chevrolet Cobalt
@@ -4650,6 +5442,7 @@
 2012 Fiat 500L
 2012 Fiat Ducato
 2012 Fiat Panda
+2012 Fiat Uno
 2012 Ford B-Max
 2012 Ford C-Max
 2012 Ford Escape
@@ -4692,6 +5485,8 @@
 2012 Land Rover Range Rover L322
 2012 Lexus HS
 2012 Lexus LFA
+2012 Lincoln MKT
+2012 Lincoln Navigator
 2012 Lotus Exige
 2012 Luxgen M7
 2012 Mazda CX-5
@@ -4704,18 +5499,21 @@
 2012 Nissan Armada
 2012 Nissan Cube
 2012 Nissan Elgrand
+2012 Nissan Leaf
 2012 Nissan Pathfinder
 2012 Nissan Patrol
 2012 Nissan Rogue
 2012 Nissan Titan
 2012 Opel Meriva
 2012 Opel Vivaro
+2012 Perodua Myvi
 2012 Peugeot 107
 2012 Porsche 911
 2012 Porsche Cayman
 2012 Renault Espace
 2012 Renault Kangoo
 2012 Renault Scénic
+2012 Renault Symbol
 2012 Renault Twingo
 2012 Renault Twist ZE
 2012 Renault Zoe
@@ -4723,8 +5521,10 @@
 2012 Saab 9-3
 2012 Saab 9-3X
 2012 SEAT Alhambra
+2012 SEAT Ibiza
 2012 Senova D20
 2012 Škoda Citigo
+2012 Škoda Octavia
 2012 Smart Forfour
 2012 Smart Fortwo
 2012 Subaru Forester
@@ -4737,10 +5537,12 @@
 2012 Toyota 86
 2012 Toyota Alphard
 2012 Toyota Aqua
+2012 Toyota Avanza
 2012 Toyota Camry
 2012 Toyota Corolla
 2012 Toyota Crown
 2012 Toyota Highlander
+2012 Toyota Hilux
 2012 Toyota Prius
 2012 Toyota RAV4
 2012 Toyota Sienna
@@ -4748,11 +5550,13 @@
 2012 Toyota Yaris Hybrid
 2012 Volkswagen Caddy
 2012 Volkswagen Crafter
+2012 Volkswagen Gol
 2012 Volkswagen Jetta
 2012 Volkswagen Routon
 2012 Volkswagen Sharan
 2012 Volkswagen Touran
 2012 Volkswagen Up!
+2012 Wuling Hongguang
 2013 Acura ILX
 2013 Acura MDX
 2013 Acura RDX
@@ -4795,6 +5599,7 @@
 2013 Bugatti Veyron
 2013 Buick GL8
 2013 Buick Verano
+2013 BYD e6
 2013 Cadillac Escalade
 2013 Chevrolet Avalanche
 2013 Chevrolet Camaro
@@ -4841,6 +5646,7 @@
 2013 Fiat 500L
 2013 Fiat Ducato
 2013 Fiat Panda
+2013 Fiat Uno
 2013 Ford B-Max
 2013 Ford C-Max
 2013 Ford Escape
@@ -4896,6 +5702,7 @@
 2013 Lada Granta
 2013 Lada Niva
 2013 Land Rover Range Rover
+2013 Lincoln MKT
 2013 Lincoln Navigator
 2013 Luxgen M7
 2013 Maserati Ghibli
@@ -4915,7 +5722,7 @@
 2013 Nissan Cube
 2013 Nissan Elgrand
 2013 Nissan GT-R
-2013 Nissan LEAF
+2013 Nissan Leaf
 2013 Nissan Murano CrossCabriolet
 2013 Nissan Pathfinder
 2013 Nissan Patrol
@@ -4925,6 +5732,7 @@
 2013 Opel Insignia
 2013 Opel Meriva
 2013 Opel Vivaro
+2013 Perodua Myvi
 2013 Peugeot 107
 2013 Peugeot 308
 2013 Porsche 911
@@ -4937,14 +5745,17 @@
 2013 Renault Espace
 2013 Renault Kangoo
 2013 Renault Scénic
+2013 Renault Symbol
 2013 Renault Twingo
 2013 Renault Zoe
 2013 Rolls-Royce Phantom
 2013 Scion FR-S
 2013 Scion XB
 2013 SEAT Alhambra
+2013 SEAT Ibiza
 2013 Senova D20
 2013 Škoda Citigo
+2013 Škoda Octavia
 2013 Smart Forfour
 2013 Smart Fortwo
 2013 Subaru Forester
@@ -4960,10 +5771,12 @@
 2013 Toyota 4Runner
 2013 Toyota Alphard
 2013 Toyota Aqua
+2013 Toyota Avanza
 2013 Toyota Camry
-2013 Toyota Highlander Hybrid
-2013 Toyota Land Cruiser
 2013 Toyota Highlander
+2013 Toyota Highlander Hybrid
+2013 Toyota Hilux
+2013 Toyota Land Cruiser
 2013 Toyota Prius
 2013 Toyota RAV4
 2013 Toyota Sienna
@@ -4972,6 +5785,7 @@
 2013 Volkswagen Beetle Convertible
 2013 Volkswagen Caddy
 2013 Volkswagen Crafter
+2013 Volkswagen Gol
 2013 Volkswagen Jetta Hybrid
 2013 Volkswagen Passat
 2013 Volkswagen Polo
@@ -4979,6 +5793,7 @@
 2013 Volkswagen Touran
 2013 Volkswagen Up!
 2013 Volvo XC90
+2013 Wuling Hongguang
 2014 Acura ILX
 2014 Acura MDX
 2014 Acura RDX
@@ -5015,11 +5830,13 @@
 2014 Bentley Mulsanne
 2014 BMW 2 Series Active Tourer
 2014 BMW 4 Series
+2014 BMW i3
 2014 BMW i8
 2014 BMW M4
 2014 BMW Z4
 2014 Bugatti Veyron
 2014 Buick GL8
+2014 BYD e6
 2014 Chevrolet Captiva
 2014 Chevrolet Cobalt
 2014 Chevrolet Colorado
@@ -5053,6 +5870,7 @@
 2014 Fiat 500L
 2014 Fiat Ducato
 2014 Fiat Panda
+2014 Fiat Uno
 2014 Ford B-Max
 2014 Ford C-Max
 2014 Ford E-150
@@ -5091,6 +5909,8 @@
 2014 Lada Granta
 2014 Lada Niva
 2014 Lexus IS
+2014 Lincoln MKT
+2014 Lincoln Navigator
 2014 Lotus Evora
 2014 Luxgen M7
 2014 Maserati Ghibli
@@ -5107,12 +5927,14 @@
 2014 Nissan Murano CrossCabriolet
 2014 Nissan Armada
 2014 Nissan Cube
+2014 Nissan Leaf
 2014 Nissan Pathfinder
 2014 Nissan Patrol
 2014 Nissan Rogue
 2014 Nissan Titan
 2014 Opel Meriva
 2014 Opel Vivaro
+2014 Perodua Myvi
 2014 Peugeot 107
 2014 Peugeot 108
 2014 Porsche 911
@@ -5123,13 +5945,16 @@
 2014 Renault Espace
 2014 Renault Kangoo
 2014 Renault Scénic
+2014 Renault Symbol
 2014 Renault Twingo
 2014 Renault Zoe
 2014 Rolls-Royce Phantom
 2014 SEAT Alhambra
+2014 SEAT Ibiza
 2014 Senova D20
 2014 Škoda Citigo
 2014 Škoda Fabia
+2014 Škoda Octavia
 2014 Smart Forfour
 2014 Smart Fortwo
 2014 Subaru Forester
@@ -5142,21 +5967,25 @@
 2014 Tesla Model S
 2014 Toyota Alphard
 2014 Toyota Aqua
+2014 Toyota Avanza
 2014 Toyota Aygo
 2014 Toyota 4Runner
 2014 Toyota Camry SE
 2014 Toyota Highlander
+2014 Toyota Hilux
 2014 Toyota Prius
 2014 Toyota RAV4
-Toyota Sienna
+2014 Toyota Sienna
 2014 Toyota Sienta
 2014 Volkswagen Caddy
 2014 Volkswagen Crafter
+2014 Volkswagen Gol
 2014 Volkswagen GTI
 2014 Volkswagen Jetta SportWagen
 2014 Volkswagen Sharan
 2014 Volkswagen Touran
 2014 Volkswagen Up!
+2014 Wuling Hongguang
 2015 Acura ILX
 2015 Acura MDX
 2015 Acura RDX
@@ -5188,6 +6017,7 @@ Toyota Sienna
 2015 BMW 4 Series
 2015 BMW 5 Series
 2015 BMW 7 Series
+2015 BMW i3
 2015 BMW i8
 2015 BMW M3
 2015 BMW M4
@@ -5195,6 +6025,7 @@ Toyota Sienna
 2015 BMW Z4
 2015 Bugatti Veyron
 2015 Buick GL8
+2015 BYD e6
 2015 Changhe Q25
 2015 Chevrolet Camaro
 2015 Chevrolet Captiva
@@ -5283,6 +6114,8 @@ Toyota Sienna
 2015 Land Rover LR2
 2015 Land Rover LR4
 2015 Land Rover Range Rover
+2015 Lincoln MKT
+2015 Lincoln Navigator
 2015 Luxgen M7
 2015 Maserati Ghibli
 2015 Maserati Quattroporte
@@ -5299,6 +6132,7 @@ Toyota Sienna
 2015 Mitsubishi Colt
 2015 Nissan Armada
 2015 Nissan Elgrand
+2015 Nissan Leaf
 2015 Nissan Pathfinder
 2015 Nissan Patrol
 2015 Nissan Rogue
@@ -5306,6 +6140,7 @@ Toyota Sienna
 2015 Opel Astra
 2015 Opel Meriva
 2015 Opel Vivaro
+2015 Perodua Myvi
 2015 Peugeot 108
 2015 Peugeot 308
 2015 Porsche 911
@@ -5316,14 +6151,17 @@ Toyota Sienna
 2015 Renault Espace
 2015 Renault Kangoo
 2015 Renault Scénic
+2015 Renault Symbol
 2015 Renault Twingo
 2015 Renault Zoe
 2015 Rolls-Royce Wraith
 2015 SEAT Alhambra
+2015 SEAT Ibiza
 2015 Senova D20
 2015 Senova X25
 2015 Škoda Citigo
 2015 Škoda Fabia
+2015 Škoda Octavia
 2015 Škoda Superb
 2015 Smart Forfour
 2015 Smart Fortwo
@@ -5334,12 +6172,15 @@ Toyota Sienna
 2015 Suzuki Vitara
 2015 Subaru WRX
 2015 Tesla Model S
+2015 Tesla Model X
 2015 Toyota 4Runner
 2015 Toyota Alphard
 2015 Toyota Aqua
+2015 Toyota Avanza
 2015 Toyota Aygo
 2015 Toyota Camry
 2015 Toyota Highlander
+2015 Toyota Hilux
 2015 Toyota Prius
 2015 Toyota Prius Plug-in
 2015 Toyota RAV4
@@ -5348,12 +6189,14 @@ Toyota Sienna
 2015 Volkswagen Beetle
 2015 Volkswagen Caddy
 2015 Volkswagen Crafter
+2015 Volkswagen Gol
 2015 Volkswagen Golf
 2015 Volkswagen Passat
 2015 Volkswagen Sharan
 2015 Volkswagen Touran
 2015 Volkswagen Touareg Hybrid
 2015 Volkswagen Up!
+2015 Wuling Hongguang
 2016 Acura CDX
 2016 Acura ILX
 2016 Acura MDX
@@ -5385,6 +6228,7 @@ Toyota Sienna
 2016 BMW 4 Series
 2016 BMW 5 Series
 2016 BMW 7 Series
+2016 BMW i3
 2016 BMW i8
 2016 BMW M2
 2016 BMW M4 Convertible
@@ -5394,6 +6238,7 @@ Toyota Sienna
 2016 Bugatti Chiron
 2016 Buick GL8
 2016 Buick Verano
+2016 BYD e6
 2016 Cadillac ATS
 2016 Changhe Q25
 2016 Chevrolet Captiva
@@ -5484,6 +6329,8 @@ Toyota Sienna
 2016 Lada XRAY
 2016 Land Rover LR4
 2016 Lexus GS
+2016 Lincoln MKT
+2016 Lincoln Navigator
 2016 Luxgen M7
 2016 Maserati Ghibli
 2016 Maserati Quattroporte
@@ -5497,6 +6344,7 @@ Toyota Sienna
 2016 Mitsubishi Colt
 2016 Nissan Armada
 2016 Nissan Elgrand
+2016 Nissan Leaf
 2016 Nissan Pathfinder
 2016 Nissan Patrol
 2016 Nissan Rogue
@@ -5505,6 +6353,7 @@ Toyota Sienna
 2016 Opel Astra
 2016 Opel Meriva
 2016 Opel Vivaro
+2016 Perodua Myvi
 2016 Peugeot 108
 2016 Peugeot 308
 2016 Porsche 911 GT3 RS
@@ -5515,14 +6364,17 @@ Toyota Sienna
 2016 Renault Kangoo
 2016 Renault Mégane
 2016 Renault Scénic
+2016 Renault Symbol
 2016 Renault Twingo
 2016 Renault Zoe
 2016 Scion FR-S
 2016 SEAT Alhambra
+2016 SEAT Ibiza
 2016 Senova D20
 2016 Senova X25
 2016 Škoda Citigo
 2016 Škoda Fabia
+2016 Škoda Octavia
 2016 Škoda Superb
 2016 Smart Forfour
 2016 Smart Fortwo
@@ -5536,6 +6388,7 @@ Toyota Sienna
 2016 Tesla Model X
 2016 Toyota 4Runner
 2016 Toyota Alphard
+2016 Toyota Avanza
 2016 Toyota Aygo
 2016 Toyota Camry
 2016 Toyota Highlander
@@ -5546,12 +6399,14 @@ Toyota Sienna
 2016 Volkswagen Caddy
 2016 Volkswagen Crafter
 2016 Volkswagen Eos
+2016 Volkswagen Gol
 2016 Volkswagen Jetta Hybrid
 2016 Volkswagen Passat
 2016 Volkswagen Sharan
 2016 Volkswagen Touran
 2016 Volkswagen Up!
 2016 Volvo S90
+2016 Wuling Hongguang
 2017 Acura CDX
 2017 Acura ILX
 2017 Acura MDX
@@ -5584,11 +6439,13 @@ Toyota Sienna
 2017 BMW 5 Series
 2017 BMW 6 Series Gran Turismo
 2017 BMW 7 Series
+2017 BMW i3
 2017 BMW i8
 2017 BMW M2
 2017 BMW M4
 2017 Bugatti Chiron
 2017 Buick GL8
+2017 BYD e6
 2017 BYD Song Max
 2017 Changhe Q25
 2017 Chevrolet Beat
@@ -5688,6 +6545,8 @@ Toyota Sienna
 2017 Lexus LC 500
 2017 Lexus LS
 2017 Lincoln Continental
+2017 Lincoln MKT
+2017 Lincoln Navigator
 2017 Luxgen M7
 2017 Maserati Ghibli
 2017 Maserati Levante
@@ -5705,6 +6564,7 @@ Toyota Sienna
 2017 Mitsubishi Triton
 2017 Nissan Armada
 2017 Nissan Elgrand
+2017 Nissan Leaf
 2017 Nissan Pathfinder
 2017 Nissan Patrol
 2017 Nissan Rogue
@@ -5713,6 +6573,7 @@ Toyota Sienna
 2017 Opel Insignia
 2017 Opel Meriva
 2017 Opel Vivaro
+2017 Perodua Myvi
 2017 Peugeot 108
 2017 Peugeot 308
 2017 Porsche 911
@@ -5723,6 +6584,7 @@ Toyota Sienna
 2017 Renault Kangoo
 2017 Renault Mégane
 2017 Renault Scénic
+2017 Renault Symbol
 2017 Renault Twingo
 2017 Renault Zoe
 2017 Rolls-Royce Phantom
@@ -5732,6 +6594,7 @@ Toyota Sienna
 2017 Senova X25
 2017 Škoda Citigo
 2017 Škoda Fabia
+2017 Škoda Octavia
 2017 Škoda Superb
 2017 Smart Forfour
 2017 Smart Fortwo
@@ -5743,12 +6606,15 @@ Toyota Sienna
 2017 Suzuki Vitara
 2017 Tesla Model 3
 2017 Tesla Model S
+2017 Tesla Model X
 2017 Toyota 4Runner
 2017 Toyota Alphard
 2017 Toyota Auris Hybrid
+2017 Toyota Avanza
 2017 Toyota Aygo
 2017 Toyota Camry
 2017 Toyota Highlander
+2017 Toyota Hilux
 2017 Toyota Prius
 2017 Toyota RAV4
 2017 Toyota Sienta
@@ -5757,6 +6623,7 @@ Toyota Sienna
 2017 Volkswagen Caddy
 2017 Volkswagen CC
 2017 Volkswagen Crafter
+2017 Volkswagen Gol
 2017 Volkswagen Passat
 2017 Volkswagen Polo
 2017 Volkswagen Sharan
@@ -5764,6 +6631,7 @@ Toyota Sienna
 2017 Volkswagen Touareg
 2017 Volkswagen Up!
 2017 Volvo S90
+2017 Wuling Hongguang
 2018 Acura CDX
 2018 Acura ILX
 2018 Acura MDX
@@ -5802,11 +6670,13 @@ Toyota Sienna
 2018 BMW 6 Series Gran Turismo
 2018 BMW 7 Series
 2018 BMW 8 Series Gran Coupé
+2018 BMW i3
 2018 BMW i8
 2018 BMW M4
 2018 BMW M760i
 2018 Bugatti Chiron
 2018 Buick GL8
+2018 BYD e6
 2018 BYD Song Max
 2018 Changhe Q25
 2018 Chevrolet Beat
@@ -5851,6 +6721,7 @@ Toyota Sienna
 2018 Ford Escape
 2018 Ford Escort
 2018 Ford Explorer
+2018 Ford F-150
 2018 Ford Falcon
 2018 Ford Fiesta
 2018 Ford Focus
@@ -5878,6 +6749,7 @@ Toyota Sienna
 2018 Infiniti Q50 Hybrid
 2018 Infiniti Q70h
 2018 Infiniti QX80
+2018 Jaguar I-Pace
 2018 Jaguar XF
 2018 Jaguar XJ
 2018 Jeep Grand Cherokee
@@ -5898,6 +6770,7 @@ Toyota Sienna
 2018 Lexus LC500
 2018 Lexus LS
 2018 Lincoln Continental
+2018 Lincoln MKT
 2018 Lincoln Navigator
 2018 Lotus Evora 400
 2018 Luxgen M7
@@ -5914,8 +6787,10 @@ Toyota Sienna
 2018 Mini Cooper
 2018 Mitsubishi Colt
 2018 Mitsubishi Mirage
+2018 NIO ES8
 2018 Nissan Armada
 2018 Nissan Elgrand
+2018 Nissan Leaf
 2018 Nissan Pathfinder
 2018 Nissan Patrol
 2018 Nissan Rogue
@@ -5923,6 +6798,7 @@ Toyota Sienna
 2018 Opel Astra
 2018 Opel Insignia
 2018 Opel Vivaro
+2018 Perodua Myvi
 2018 Peugeot 108
 2018 Peugeot 308
 2018 Peugeot 508
@@ -5935,6 +6811,7 @@ Toyota Sienna
 2018 Renault Kangoo
 2018 Renault Mégane
 2018 Renault Scénic
+2018 Renault Symbol
 2018 Renault Twingo
 2018 Renault Zoe
 2018 Rolls-Royce Phantom
@@ -5944,6 +6821,7 @@ Toyota Sienna
 2018 Senova X25
 2018 Škoda Citigo
 2018 Škoda Fabia
+2018 Škoda Octavia
 2018 Škoda Superb
 2018 Smart Forfour
 2018 Smart Fortwo
@@ -5953,12 +6831,16 @@ Toyota Sienna
 2018 Suzuki Ertiga
 2018 Suzuki Ignis
 2018 Suzuki Vitara
+2018 Tesla Model 3
 2018 Tesla Model S
+2018 Tesla Model X
 2018 Toyota 4Runner
 2018 Toyota Alphard
+2018 Toyota Avanza
 2018 Toyota Aygo
 2018 Toyota Camry
 2018 Toyota Highlander
+2018 Toyota Hilux
 2018 Toyota Prius
 2018 Toyota Tacoma
 2018 Toyota RAV4
@@ -5966,6 +6848,7 @@ Toyota Sienna
 2018 Volkswagen Arteon
 2018 Volkswagen Caddy
 2018 Volkswagen Crafter
+2018 Volkswagen Gol
 2018 Volkswagen Passat
 2018 Volkswagen Polo
 2018 Volkswagen Sharan
@@ -5974,6 +6857,7 @@ Toyota Sienna
 2018 Volkswagen Up!
 2018 Volvo S90
 2018 Volvo V60
+2018 Wuling Hongguang
 2019 Acura CDX
 2019 Acura ILX
 2019 Acura MDX
@@ -6025,6 +6909,7 @@ Toyota Sienna
 2019 BMW 6 Series Gran Turismo
 2019 BMW 7 Series
 2019 BMW 8 Series Gran Coupé
+2019 BMW i3
 2019 BMW i8
 2019 BMW M4
 2019 BMW Z4
@@ -6033,6 +6918,7 @@ Toyota Sienna
 2019 Buick Cascada
 2019 Buick GL8
 2019 Buick LaCrosse
+2019 BYD e6
 2019 BYD Song Max
 2019 Cadillac ATS
 2019 Cadillac CTS
@@ -6113,6 +6999,7 @@ Toyota Sienna
 2019 Infiniti Q70
 2019 Infiniti QX30
 2019 Infiniti QX80
+2019 Jaguar I-Pace
 2019 Jaguar XF
 2019 Jaguar XJ
 2019 Jeep Grand Cherokee
@@ -6131,6 +7018,8 @@ Toyota Sienna
 2019 Lexus LS
 2019 Lexus LX570
 2019 Lincoln Continental
+2019 Lincoln MKT
+2019 Lincoln Navigator
 2019 Luxgen M7
 2019 Maserati Ghibli
 2019 Maserati Levante
@@ -6147,8 +7036,10 @@ Toyota Sienna
 2019 Mercedes-Benz Sprinter
 2019 Mini Cooper
 2019 Mitsubishi Colt
+2019 NIO ES8
 2019 Nissan Armada
 2019 Nissan Elgrand
+2019 Nissan Leaf
 2019 Nissan Pathfinder
 2019 Nissan Patrol
 2019 Nissan Rogue
@@ -6159,6 +7050,7 @@ Toyota Sienna
 2019 Opel Corsa
 2019 Opel Insignia
 2019 Opel Vivaro
+2019 Perodua Myvi
 2019 Peugeot 108
 2019 Peugeot 208
 2019 Peugeot 308
@@ -6173,6 +7065,7 @@ Toyota Sienna
 2019 Renault Kangoo
 2019 Renault Mégane
 2019 Renault Scénic
+2019 Renault Symbol
 2019 Renault Triber
 2019 Renault Twingo
 2019 Renault Zoe
@@ -6183,6 +7076,7 @@ Toyota Sienna
 2019 Senova X25
 2019 Škoda Citigo
 2019 Škoda Fabia
+2019 Škoda Octavia
 2019 Škoda Superb
 2019 Smart EQ Fortwo
 2019 Smart Forfour
@@ -6196,12 +7090,15 @@ Toyota Sienna
 2019 Suzuki Vitara
 2019 Tesla Model 3
 2019 Tesla Model S
+2019 Tesla Model X
 2019 Toyota 4Runner
 2019 Toyota Alphard
+2019 Toyota Avanza
 2019 Toyota Aygo
 2019 Toyota Camry
 2019 Toyota Corolla Touring Sports
 2019 Toyota Highlander
+2019 Toyota Hilux
 2019 Toyota Prius
 2019 Toyota Prius c
 2019 Toyota RAV4
@@ -6211,6 +7108,7 @@ Toyota Sienna
 2019 Volkswagen Caddy
 2019 Volkswagen Crafter
 2019 Volkswagen e-Golf
+2019 Volkswagen Gol
 2019 Volkswagen Golf Alltrack
 2019 Volkswagen Golf R
 2019 Volkswagen Golf SportWagen
@@ -6221,6 +7119,7 @@ Toyota Sienna
 2019 Volkswagen Touran
 2019 Volkswagen Up!
 2019 Volvo S90
+2019 Wuling Hongguang
 2020 Acura CDX
 2020 Acura ILX
 2020 Acura MDX
@@ -6318,6 +7217,7 @@ Toyota Sienna
 2020 Buick GL8
 2020 Buick Regal
 2020 Buick Regal TourX
+2020 BYD e6
 2020 BYD Song Max
 2020 Cadillac CT4
 2020 Cadillac CT5
@@ -6627,6 +7527,7 @@ Toyota Sienna
 2020 Lincoln Continental
 2020 Lincoln Corsair Reserve
 2020 Lincoln Corsair Standard
+2020 Lincoln Navigator
 2020 Lotus Evora GT Automatic
 2020 Lotus Evora GT Manual
 2020 Luxgen M7
@@ -6673,6 +7574,7 @@ Toyota Sienna
 2020 Mercedes-Benz Sprinter
 2020 Mini Cooper
 2020 Mitsubishi Colt
+2020 NIO ES8
 2020 Nissan Altima 2.0 Platinum
 2020 Nissan Altima 2.0 SR
 2020 Nissan Altima 2.5 Platinum
@@ -6692,11 +7594,11 @@ Toyota Sienna
 2020 Nissan Kicks S
 2020 Nissan Kicks SR
 2020 Nissan Kicks SV
-2020 Nissan LEAF S
-2020 Nissan LEAF S PLUS
-2020 Nissan LEAF SL PLUS
-2020 Nissan LEAF SV
-2020 Nissan LEAF SV PLUS
+2020 Nissan Leaf S
+2020 Nissan Leaf S PLUS
+2020 Nissan Leaf SL PLUS
+2020 Nissan Leaf SV
+2020 Nissan Leaf SV PLUS
 2020 Nissan Maxima Platinum
 2020 Nissan Maxima S
 2020 Nissan Maxima SL
@@ -6737,6 +7639,7 @@ Toyota Sienna
 2020 Opel Corsa
 2020 Opel Insignia
 2020 Opel Vivaro
+2020 Perodua Myvi
 2020 Peugeot 108
 2020 Peugeot 208
 2020 Peugeot 308
@@ -6778,6 +7681,7 @@ Toyota Sienna
 2020 Renault Kangoo
 2020 Renault Mégane
 2020 Renault Scénic
+2020 Renault Symbol
 2020 Renault Triber
 2020 Renault Twingo
 2020 Renault Zoe
@@ -6831,6 +7735,8 @@ Toyota Sienna
 2020 Tesla Model 3 Performance
 2020 Tesla Model S Long Range
 2020 Tesla Model S Performance
+2020 Tesla Model X
+2020 Tesla Model Y
 2020 Toyota 4Runner Limited
 2020 Toyota 4Runner Nightshade
 2020 Toyota 4Runner SR5
@@ -6851,6 +7757,7 @@ Toyota Sienna
 2020 Toyota Avalon Hybrid XLE
 2020 Toyota Avalon Hybrid XSE
 2020 Toyota Avalon TRD
+2020 Toyota Avanza
 2020 Toyota Aygo
 2020 Toyota Camry L
 2020 Toyota Camry LE
@@ -6889,6 +7796,7 @@ Toyota Sienna
 2020 Toyota Highlander XSE AWD
 2020 Toyota Highlander Hybrid LE
 2020 Toyota Highlander Hybrid XLE
+2020 Toyota Hilux
 2020 Toyota Land Cruiser Base
 2020 Toyota Mirai
 2020 Toyota Prius L
@@ -6942,6 +7850,7 @@ Toyota Sienna
 2020 Volkswagen Atlas Cross Sport
 2020 Volkswagen Caddy
 2020 Volkswagen Crafter
+2020 Volkswagen Gol
 2020 Volkswagen Golf Automatic
 2020 Volkswagen Golf Manual
 2020 Volkswagen Golf GTI S
@@ -6962,6 +7871,8 @@ Toyota Sienna
 2020 Volkswagen Up!
 2020 Volvo S60
 2020 Volvo S90
+2020 Wuling Hongguang
+2020 Wuling Hongguang Mini EV
 2021 Acura CDX
 2021 Acura ILX
 2021 Acura MDX
@@ -6998,10 +7909,12 @@ Toyota Sienna
 2021 BMW 6 Series Gran Turismo
 2021 BMW 7 Series
 2021 BMW 8 Series Gran Coupé
+2021 BMW i3
 2021 BMW X5
 2021 Bugatti Chiron
 2021 Bugatti Divo
 2021 Buick GL8
+2021 BYD e6
 2021 BYD Song Max
 2021 Chevrolet Beat
 2021 Chevrolet Bolt
@@ -7083,6 +7996,7 @@ Toyota Sienna
 2021 Hyundai Veloster N
 2021 IKCO Samand
 2021 Infiniti QX80
+2021 Jaguar I-Pace
 2021 Jeep Wrangler
 2021 Kia Ceed
 2021 Kia Picanto
@@ -7094,6 +8008,7 @@ Toyota Sienna
 2021 Lamborghini Urus
 2021 Lexus ES
 2021 Lexus LS
+2021 Lincoln Navigator
 2021 Luxgen M7
 2021 Maserati Ghibli
 2021 Maserati Levante
@@ -7108,8 +8023,10 @@ Toyota Sienna
 2021 Mercedes-Benz S-Class
 2021 Mini Cooper
 2021 Mitsubishi Colt
+2021 NIO ES8
 2021 Nissan Armada
 2021 Nissan Elgrand
+2021 Nissan Leaf
 2021 Nissan Pathfinder
 2021 Nissan Patrol
 2021 Nissan Titan
@@ -7117,6 +8034,7 @@ Toyota Sienna
 2021 Opel Corsa
 2021 Opel Insignia
 2021 Opel Vivaro
+2021 Perodua Myvi
 2021 Peugeot 208
 2021 Peugeot 108
 2021 Peugeot 308
@@ -7131,6 +8049,7 @@ Toyota Sienna
 2021 Renault Kangoo
 2021 Renault Mégane
 2021 Renault Scénic
+2021 Renault Symbol
 2021 Renault Triber
 2021 Renault Zoe
 2021 Rolls-Royce Ghost
@@ -7147,9 +8066,13 @@ Toyota Sienna
 2021 Suzuki Ignis
 2021 Suzuki Swift
 2021 Suzuki Vitara
+2021 Tesla Model 3
 2021 Tesla Model S Plaid
+2021 Tesla Model X
+2021 Tesla Model Y
 2021 Toyota 4Runner
 2021 Toyota Alphard
+2021 Toyota Avanza
 2021 Toyota Aygo
 2021 Toyota Camry LE
 2021 Toyota Camry Nightshade
@@ -7161,12 +8084,14 @@ Toyota Sienna
 2021 Toyota Camry XSE
 2021 Toyota Camry XSE V6
 2021 Toyota Corolla
+2021 Toyota Hilux
 2021 Toyota Sienna
 2021 Toyota Sienta
 2021 Toyota Yaris
 2021 Volkswagen Arteon
 2021 Volkswagen Caddy
 2021 Volkswagen Crafter
+2021 Volkswagen Gol
 2021 Volkswagen Golf
 2021 Volkswagen ID.3
 2021 Volkswagen Passat
@@ -7175,3 +8100,5 @@ Toyota Sienna
 2021 Volkswagen Up!
 2021 Volvo S60
 2021 Volvo S90
+2021 Wuling Hongguang
+2021 Wuling Hongguang Mini EV
