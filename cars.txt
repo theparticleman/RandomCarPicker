@@ -443,7 +443,7 @@
 1956 DeSoto Diplomat Plaza
 1956 DKW Schnellaster
 1956 Fiat 600 Multipla
-1956 Ford F-100
+1956 Ford F-100 Panel Van
 1956 Ford F-250
 1956 Ford Thunderbird
 1956 Hillman Husky
@@ -954,6 +954,7 @@
 1967 Fiat 600 Multipla
 1967 Ford Cortina
 1967 Ford F-100 Ranger
+1967 Ford F-250
 1967 Ford Falcon
 1967 Ford Galaxie LTD
 1967 Ford Mustang
@@ -1015,6 +1016,7 @@
 1968 Fiat 600 Multipla
 1968 Ford Cortina
 1968 Ford Escort
+1968 Ford F-250
 1968 Ford Falcon
 1968 Ford Galaxie LTD
 1968 Ford Mustang GT
@@ -1084,6 +1086,7 @@
 1969 Ford Escort
 1969 Ford F-100 Explorer
 1969 Ford F-100 Ranger
+1969 Ford F-250
 1969 Ford Falcon
 1969 Ford LTD Country Squire
 1969 Ford Mustang Boss 302
@@ -1149,6 +1152,7 @@
 1970 Fiat 128
 1970 Ford Cortina
 1970 Ford Escort RS1600
+1970 Ford F-250
 1970 Ford Falcon
 1970 Ford Mustang
 1970 Ford Ranchero
@@ -1184,8 +1188,10 @@
 1970 Volkswagen Type 3
 1970 Volvo Amazon
 1971 AC 428
+1971 Alfa Romeo Alfasud
 1971 Alfa Romeo Giulia
 1971 Alfa Romeo Spider
+1971 Alpine A310
 1971 AMC Ambassador
 1971 AMC Gremlin X
 1971 AMC Javelin AMX
@@ -1253,8 +1259,10 @@
 1971 Volkswagen Beetle
 1971 Volkswagen Type 3
 1972 AC 428
+1972 Alfa Romeo Alfasud
 1972 Alfa Romeo Giulia
 1972 Alfa Romeo Spider
+1972 Alpine A310
 1972 AMC Ambassador
 1972 AMC Gremlin
 1972 Aston Martin DBS
@@ -1281,6 +1289,7 @@
 1972 Fiat 124
 1972 Ford Cortina
 1972 Ford Escort
+1972 Ford F-250
 1972 Ford Falcon GTHO
 1972 Ford Gran Torino Sport
 1972 Ford Mustang
@@ -1319,8 +1328,10 @@
 1972 Volkswagen Type 3
 1972 Volvo 1800ES
 1973 AC 428
+1973 Alfa Romeo Alfasud
 1973 Alfa Romeo Giulia
 1973 Alfa Romeo Spider
+1973 Alpine A310
 1973 AMC Ambassador
 1973 Aston Martin V8
 1973 Audi 80
@@ -1344,6 +1355,7 @@
 1973 Ford Cortina
 1973 Ford Escort RS1800
 1973 Ford F-100 XLT
+1973 Ford F-250
 1973 Ford F-350
 1973 Ford Falcon XB
 1973 Ford Mustang
@@ -1380,8 +1392,10 @@
 1973 Volkswagen SP2
 1973 Volkswagen Type 3
 1973 Volvo 1800ES
+1974 Alfa Romeo Alfasud
 1974 Alfa Romeo Giulia
 1974 Alfa Romeo Spider
+1974 Alpine A310
 1974 AMC Ambassador
 1974 AMC Gremlin
 1974 AMC Matador
@@ -1450,8 +1464,10 @@
 1974 Volkswagen Karmann Ghia
 1974 Volkswagen Type 3
 1974 Volvo 240
+1975 Alfa Romeo Alfasud
 1975 Alfa Romeo Giulia
 1975 Alfa Romeo Spider
+1975 Alpine A310
 1975 AMC Gremlin
 1975 AMC Matador
 1975 AMC Pacer
@@ -1516,8 +1532,10 @@
 1975 Volkswagen Beetle
 1975 Volkswagen Golf GTI
 1975 Volvo 240
+1976 Alfa Romeo Alfasud
 1976 Alfa Romeo Giulia
 1976 Alfa Romeo Spider
+1976 Alpine A310
 1976 AMC Matador
 1976 Aston Martin V8
 1976 Audi 50
@@ -1578,8 +1596,10 @@
 1976 Volkswagen Golf GTI
 1976 Volkswagen Scirocco
 1976 Volvo 240
+1977 Alfa Romeo Alfasud
 1977 Alfa Romeo Giulia
 1977 Alfa Romeo Spider
+1977 Alpine A310
 1977 AMC Concord
 1977 AMC Matador
 1977 Aston Martin V8 Vantage
@@ -1657,8 +1677,10 @@
 1977 Volkswagen Beetle
 1977 Volkswagen Golf GTI
 1977 Volvo 240
+1978 Alfa Romeo Alfasud
 1978 Alfa Romeo Giulia
 1978 Alfa Romeo Spider
+1978 Alpine A310
 1978 AMC Concord
 1978 AMC Matador
 1978 Aston Martin V8 Vantage
@@ -1687,6 +1709,7 @@
 1978 Chrysler Sunbeam
 1978 Citroën CX
 1978 Fiat 126
+1978 Ford Bronco
 1978 Ford Cortina
 1978 Ford Escort
 1978 Ford F-100 XLT
@@ -1726,6 +1749,8 @@
 1978 Volkswagen Beetle
 1978 Volkswagen Golf GTI
 1978 Volvo 240
+1979 Alfa Romeo Alfasud
+1979 Alpine A310
 1979 AMC Concord
 1979 AMC Eagle
 1979 AMC Spirit GT
@@ -1751,8 +1776,8 @@
 1979 Chrysler Sunbeam
 1979 Citroën CX
 1979 Fiat 126
-1979 Ford Cortina
 1979 Ford Bronco
+1979 Ford Cortina
 1979 Ford Escort
 1979 Ford F-100 XLT
 1979 Ford F-250
@@ -1792,6 +1817,8 @@
 1979 Volkswagen Beetle
 1979 Volkswagen Golf GTI
 1979 Volvo 240
+1980 Alfa Romeo Alfasud
+1980 Alpine A310
 1980 AMC Concord
 1980 AMC Eagle
 1980 ARO 10
@@ -1818,7 +1845,7 @@
 1980 Fiat 126
 1980 Ford Cortina
 1980 Ford Escort
-1980 Ford F-100
+1980 Ford F-100 Ranger
 1980 Ford F-250
 1980 Ford F-350
 1980 Ford F-600
@@ -1858,6 +1885,8 @@
 1980 Volkswagen Gol
 1980 Volkswagen Golf GTI
 1980 Volvo 240
+1981 Alfa Romeo Alfasud
+1981 Alpine A310
 1981 AMC Concord
 1981 AMC Eagle
 1981 ARO 10
@@ -1883,6 +1912,7 @@
 1981 Fiat Ducato
 1981 Ford Cortina
 1981 Ford Escort
+1981 Ford F-250
 1981 Ford F-350
 1981 Ford Fairmont
 1981 Ford Falcon
@@ -1915,6 +1945,8 @@
 1981 Volkswagen Gol
 1981 Volkswagen Golf GTI
 1981 Volvo 240
+1982 Alfa Romeo Alfasud
+1982 Alpine A310
 1982 AMC Concord
 1982 AMC Eagle
 1982 ARO 10
@@ -1944,6 +1976,8 @@
 1982 Fiat Ritmo Abarth125 TC
 1982 Ford Cortina
 1982 Ford Escort
+1982 Ford F-100
+1982 Ford F-150 XL
 1982 Ford Fairmont
 1982 Ford Falcon
 1982 Ford Fiesta
@@ -1977,6 +2011,8 @@
 1982 Volkswagen Gol
 1982 Volkswagen Golf GTI
 1982 Volvo 240
+1983 Alfa Romeo Alfasud
+1983 Alpine A310
 1983 AMC Concord
 1983 AMC Eagle
 1983 ARO 10
@@ -2003,6 +2039,8 @@
 1983 Fiat Uno
 1983 Ford Cortina
 1983 Ford Escort
+1983 Ford F-100
+1983 Ford F-150 XL
 1983 Ford Fairmont
 1983 Ford Falcon
 1983 Ford Fiesta
@@ -2035,6 +2073,8 @@
 1983 Volkswagen Gol
 1983 Volkswagen Golf GTI
 1983 Volvo 240
+1984 Alfa Romeo Alfasud
+1984 Alpine A310
 1984 AMC Eagle
 1984 ARO 10
 1984 Aston Martin V8 Vantage
@@ -2065,6 +2105,8 @@
 1984 Fiat Uno
 1984 Ford Cortina
 1984 Ford Escort
+1984 Ford F-100
+1984 Ford F-150
 1984 Ford Falcon
 1984 Ford Fiesta
 1984 Ford Granada
@@ -2099,6 +2141,7 @@
 1984 Volkswagen Gol
 1984 Volkswagen Golf
 1984 Volvo 240
+1985 Alfa Romeo Alfasud
 1985 AMC Eagle
 1985 ARO 10
 1985 Aston Martin V8 Vantage
@@ -2123,7 +2166,10 @@
 1985 Fiat 126
 1985 Fiat Ducato
 1985 Fiat Uno
+1985 Ford Bronco Eddie Bauer
 1985 Ford Escort
+1985 Ford F-100
+1985 Ford F-350
 1985 Ford Falcon
 1985 Ford Fiesta
 1985 Ford Granada
@@ -2164,6 +2210,7 @@
 1985 Volvo 240
 1986 Acura Integra
 1986 Acura Legend
+1986 Alfa Romeo Alfasud
 1986 AMC Eagle
 1986 ARO 10
 1986 Aston Martin V8 Vantage
@@ -2190,7 +2237,11 @@
 1986 Fiat Ducato
 1986 Fiat Uno
 1986 Ford Aerostar
+1986 Ford Bronco Eddie Bauer
 1986 Ford Escort
+1986 Ford F-100
+1986 Ford F-250 XLT Lariat SuperCab
+1986 Ford F-350
 1986 Ford Falcon
 1986 Ford Fiesta
 1986 Ford Mustang GT 5.0
@@ -2231,6 +2282,7 @@
 1986 Volvo 240
 1987 Acura Integra
 1987 Acura Legend
+1987 Alfa Romeo Alfasud
 1987 AMC Eagle
 1987 ARO 10
 1987 Aston Martin V8 Vantage
@@ -2263,6 +2315,7 @@
 1987 Fiat Uno
 1987 Ford Aerostar
 1987 Ford Escort
+1987 Ford F-100
 1987 Ford Falcon
 1987 Ford Fiesta
 1987 Ford Mustang
@@ -2302,6 +2355,7 @@
 1987 Volvo 240
 1988 Acura Integra
 1988 Acura Legend
+1988 Alfa Romeo Alfasud
 1988 AMC Eagle
 1988 ARO 10
 1988 Aston Martin V8 Vantage
@@ -2334,6 +2388,8 @@
 1988 Fiat Uno
 1988 Ford Aerostar
 1988 Ford Escort
+1988 Ford F-250
+1988 Ford F-350
 1988 Ford Falcon
 1988 Ford Fiesta
 1988 Ford Mustang
@@ -2374,6 +2430,7 @@
 1988 Yugo GV
 1989 Acura Integra
 1989 Acura Legend
+1989 Alfa Romeo Alfasud
 1989 ARO 10
 1989 Aston Martin V8 Vantage
 1989 Aston Martin Virage
@@ -2674,6 +2731,7 @@
 1992 Ford Econoline
 1992 Ford Escort
 1992 Ford Explorer
+1992 Ford F-250
 1992 Ford Falcon
 1992 Ford Fiesta
 1992 Ford Mondeo
@@ -2783,6 +2841,7 @@
 1993 Ford Aerostar
 1993 Ford Escort
 1993 Ford Explorer
+1993 Ford F-250
 1993 Ford Falcon
 1993 Ford Festiva
 1993 Ford Fiesta
@@ -2894,6 +2953,8 @@
 1994 Ford Aerostar
 1994 Ford Escort
 1994 Ford Explorer
+1994 Ford F-150
+1994 Ford F-250
 1994 Ford Falcon
 1994 Ford Fiesta
 1994 Ford Mondeo
@@ -3128,6 +3189,7 @@
 1996 Ford Bronco
 1996 Ford Escort
 1996 Ford Explorer
+1996 Ford F-250 HD
 1996 Ford Falcon
 1996 Ford Fiesta
 1996 Ford Galaxy
@@ -3237,6 +3299,9 @@
 1997 Ford Aspire
 1997 Ford Escort
 1997 Ford Explorer
+1997 Ford F-150 SuperCab XLT
+1997 Ford F-250 HD
+1997 Ford F-250 XLT
 1997 Ford Falcon
 1997 Ford Fiesta
 1997 Ford Galaxy
@@ -3353,6 +3418,8 @@
 1998 Ford E-350
 1998 Ford Escort
 1998 Ford Explorer
+1998 Ford F-150 SuperCab XLT
+1998 Ford F-250 XLT
 1998 Ford Falcon
 1998 Ford Fiesta
 1998 Ford Focus
@@ -3480,6 +3547,7 @@
 1999 Ford Expedition
 1999 Ford Explorer
 1999 Ford F-150
+1999 Ford F-250 XL
 1999 Ford Falcon
 1999 Ford Fiesta
 1999 Ford Focus
@@ -3632,6 +3700,8 @@
 2000 Ford Explorer XL Fleet
 2000 Ford Explorer XLS
 2000 Ford Explorer XLT
+2000 Ford F-150
+2000 Ford F-250 XL
 2000 Ford Falcon
 2000 Ford Fiesta
 2000 Ford Focus
@@ -3749,6 +3819,8 @@
 2001 Ford Escort
 2001 Ford Explorer Sport
 2001 Ford Explorer Sport Trac
+2001 Ford F-150 King Ranch SuperCrew
+2001 Ford F-150 SVT Lightning
 2001 Ford Falcon
 2001 Ford Fiesta
 2001 Ford Focus
@@ -3874,6 +3946,8 @@
 2002 Ford Escort
 2002 Ford Explorer
 2002 Ford Explorer Sport Trac
+2002 Ford F-150 King Ranch SuperCrew
+2002 Ford F-150 SVT Lightning
 2002 Ford Falcon
 2002 Ford Fiesta
 2002 Ford Focus
@@ -3899,6 +3973,7 @@
 2002 Lada Niva
 2002 Land Rover Discovery Series II
 2002 Lexus SC
+2002 Lincoln Blackwood
 2002 Lincoln Navigator
 2002 Lincoln Town Car
 2002 Mazda 626
@@ -3944,6 +4019,7 @@
 2002 Toyota Prius
 2002 Toyota RAV4
 2002 Toyota Sienna
+2002 Toyota Vios
 2002 Volkswagen Beetle
 2002 Volkswagen Cabrio
 2002 Volkswagen Gol
@@ -4006,6 +4082,8 @@
 2003 Ford Explorer
 2003 Ford Explorer Sport
 2003 Ford Explorer Sport Trac
+2003 Ford F-150 King Ranch SuperCrew
+2003 Ford F-150 SVT Lightning
 2003 Ford Falcon
 2003 Ford Fiesta
 2003 Ford Focus
@@ -4081,6 +4159,7 @@
 2003 Toyota RAV4
 2003 Toyota Sienna
 2003 Toyota Sienta
+2003 Toyota Vios
 2003 Volkswagen Beetle
 2003 Volkswagen Gol
 2003 Volkswagen Golf
@@ -4143,6 +4222,7 @@
 2004 Ford Excursion
 2004 Ford Explorer
 2004 Ford Explorer Sport Trac
+2004 Ford F-150 FX4
 2004 Ford F-150 Heritage
 2004 Ford Falcon
 2004 Ford Fiesta
@@ -4235,6 +4315,7 @@
 2004 Toyota Sienna
 2004 Toyota Sienta
 2004 Toyota Tacoma XtraCab
+2004 Toyota Vios
 2004 Volkswagen Caddy
 2004 Volkswagen Gol
 2004 Volkswagen Golf
@@ -4388,6 +4469,7 @@
 2005 Toyota RAV4
 2005 Toyota Sienna
 2005 Toyota Sienta
+2005 Toyota Vios
 2005 Volkswagen Caddy
 2005 Volkswagen Gol
 2005 Volkswagen Golf
@@ -4488,6 +4570,7 @@
 2006 Lada Niva
 2006 Land Rover Range Rover
 2006 Lexus SC
+2006 Lincoln Mark LT
 2006 Lincoln Navigator
 2006 Lincoln Town Car
 2006 Lotus Elise
@@ -4544,6 +4627,7 @@
 2006 Toyota RAV4
 2006 Toyota Sienna
 2006 Toyota Sienta
+2006 Toyota Vios
 2006 Volkswagen Caddy
 2006 Volkswagen Crafter
 2006 Volkswagen Gol
@@ -4651,6 +4735,7 @@
 2007 Lada Niva
 2007 Lexus ES
 2007 Lexus SC
+2007 Lincoln Mark LT
 2007 Lincoln Navigator
 2007 Lincoln Town Car
 2007 Lotus Elise
@@ -4701,6 +4786,7 @@
 2007 Toyota RAV4
 2007 Toyota Sienna
 2007 Toyota Sienta
+2007 Toyota Vios
 2007 Volkswagen Caddy
 2007 Volkswagen Crafter
 2007 Volkswagen Eos
@@ -4855,6 +4941,7 @@
 2008 Toyota RAV4
 2008 Toyota Sienna
 2008 Toyota Sienta
+2008 Toyota Vios
 2008 Volkswagen Beetle
 2008 Volkswagen Caddy
 2008 Volkswagen Crafter
@@ -4929,6 +5016,7 @@
 2009 Ford Escort
 2009 Ford Explorer
 2009 Ford Explorer Sport Trac
+2009 Ford F-150 XLT
 2009 Ford Falcon
 2009 Ford Fiesta
 2009 Ford Focus
@@ -5032,6 +5120,7 @@
 2009 Toyota RAV4
 2009 Toyota Sienna
 2009 Toyota Sienta
+2009 Toyota Vios
 2009 Volkswagen Caddy
 2009 Volkswagen Crafter
 2009 Volkswagen GLI
@@ -5107,6 +5196,7 @@
 2010 Ford Escort
 2010 Ford Explorer
 2010 Ford Explorer Sport Trac
+2010 Ford F-150 Harley Davidson
 2010 Ford Falcon
 2010 Ford Fiesta
 2010 Ford Focus
@@ -5194,6 +5284,7 @@
 2010 Toyota RAV4
 2010 Toyota Sienna
 2010 Toyota Sienta
+2010 Toyota Vios
 2010 Volkswagen Beetle
 2010 Volkswagen Caddy
 2010 Volkswagen Crafter
@@ -5367,6 +5458,7 @@
 2011 Toyota RAV4
 2011 Toyota Sienna
 2011 Toyota Sienta
+2011 Toyota Vios
 2011 Volkswagen Caddy
 2011 Volkswagen Crafter
 2011 Volkswagen Gol
@@ -5448,6 +5540,7 @@
 2012 Ford Escape
 2012 Ford Escort
 2012 Ford Explorer
+2012 Ford F-150 SVT Raptor
 2012 Ford Falcon
 2012 Ford Fiesta
 2012 Ford Focus
@@ -5547,6 +5640,7 @@
 2012 Toyota RAV4
 2012 Toyota Sienna
 2012 Toyota Sienta
+2012 Toyota Vios
 2012 Toyota Yaris Hybrid
 2012 Volkswagen Caddy
 2012 Volkswagen Crafter
@@ -5781,6 +5875,7 @@
 2013 Toyota RAV4
 2013 Toyota Sienna
 2013 Toyota Sienta
+2013 Toyota Vios
 2013 Toyota Yaris
 2013 Volkswagen Beetle Convertible
 2013 Volkswagen Caddy
@@ -5977,6 +6072,7 @@
 2014 Toyota RAV4
 2014 Toyota Sienna
 2014 Toyota Sienta
+2014 Toyota Vios
 2014 Volkswagen Caddy
 2014 Volkswagen Crafter
 2014 Volkswagen Gol
@@ -6069,7 +6165,7 @@
 2015 Ford Escape
 2015 Ford Escort
 2015 Ford Explorer
-2015 Ford F-150
+2015 Ford F-150 Lariat
 2015 Ford Falcon
 2015 Ford Fiesta
 2015 Ford Focus
@@ -6185,6 +6281,7 @@
 2015 Toyota Prius Plug-in
 2015 Toyota RAV4
 2015 Toyota Sienta
+2015 Toyota Vios
 2015 Toyota Yaris
 2015 Volkswagen Beetle
 2015 Volkswagen Caddy
@@ -6286,6 +6383,7 @@
 2016 Ford Escape
 2016 Ford Escort
 2016 Ford Explorer
+2016 Ford F-150
 2016 Ford Falcon
 2016 Ford Fiesta
 2016 Ford Focus
@@ -6396,6 +6494,7 @@
 2016 Toyota Prius
 2016 Toyota RAV4
 2016 Toyota Sienta
+2016 Toyota Vios
 2016 Volkswagen Caddy
 2016 Volkswagen Crafter
 2016 Volkswagen Eos
@@ -6618,6 +6717,7 @@
 2017 Toyota Prius
 2017 Toyota RAV4
 2017 Toyota Sienta
+2017 Toyota Vios
 2017 Vauxhall Meriva
 2017 Volkswagen Arteon
 2017 Volkswagen Caddy
@@ -6721,7 +6821,8 @@
 2018 Ford Escape
 2018 Ford Escort
 2018 Ford Explorer
-2018 Ford F-150
+2018 Ford F-150 Lariat SuperCrew FX4
+2018 Ford F-150 XLT
 2018 Ford Falcon
 2018 Ford Fiesta
 2018 Ford Focus
@@ -6845,6 +6946,7 @@
 2018 Toyota Tacoma
 2018 Toyota RAV4
 2018 Toyota Sienta
+2018 Toyota Vios
 2018 Volkswagen Arteon
 2018 Volkswagen Caddy
 2018 Volkswagen Crafter
@@ -6970,6 +7072,7 @@
 2019 Ford Escape
 2019 Ford Escort
 2019 Ford Explorer
+2019 Ford F-150 Raptor
 2019 Ford Falcon
 2019 Ford Fiesta
 2019 Ford Focus
@@ -7103,6 +7206,7 @@
 2019 Toyota Prius c
 2019 Toyota RAV4
 2019 Toyota Sienta
+2019 Toyota Vios
 2019 Volkswagen Arteon
 2019 Volkswagen Beetle
 2019 Volkswagen Caddy
@@ -7833,6 +7937,7 @@
 2020 Toyota Tacoma Double Cab
 2020 Toyota Tundra CrewMax
 2020 Toyota Tundra Double Cab
+2020 Toyota Vios
 2020 Toyota Yaris LE
 2020 Toyota Yaris XLE
 2020 Toyota Yaris Sedan L
@@ -7951,6 +8056,7 @@
 2021 Ford Escape
 2021 Ford Escort
 2021 Ford Explorer
+2021 Ford F-150 Raptor
 2021 Ford Falcon
 2021 Ford Fiesta
 2021 Ford Focus
@@ -8087,6 +8193,7 @@
 2021 Toyota Hilux
 2021 Toyota Sienna
 2021 Toyota Sienta
+2021 Toyota Vios
 2021 Toyota Yaris
 2021 Volkswagen Arteon
 2021 Volkswagen Caddy
