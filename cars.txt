@@ -108,6 +108,7 @@
 1940 Austin 12
 1940 Austin 8
 1940 Buick Century
+1940 Chrysler Newport
 1940 Ford Deluxe
 1940 Packard 180
 1940 Pontiac Torpedo
@@ -116,6 +117,7 @@
 1941 Austin 12
 1941 Austin 8
 1941 Buick Century
+1941 Chrysler Newport
 1941 Pontiac Streamliner
 1941 Pontiac Torpedo
 1941 Volkswagen Beetle
@@ -192,6 +194,7 @@
 1949 Austin Sheerline
 1949 Buick Roadmaster
 1949 Cadillac Series 62
+1949 Chrysler Newport
 1949 Citroën 2CV
 1949 DKW Schnellaster
 1949 Ford F-1
@@ -223,6 +226,7 @@
 1950 Austin Princess
 1950 Austin Sheerline
 1950 Chrysler Imperial
+1950 Chrysler Newport
 1950 Citroën 2CV
 1950 DKW Schnellaster
 1950 Ford Consul
@@ -521,6 +525,7 @@
 1958 Chevrolet Brookwood
 1958 Chevrolet Bel Air
 1958 Chevrolet Corvette
+1958 Chevrolet Impala
 1958 Chrysler Plainsman
 1958 Citroën 2CV
 1958 DKW Schnellaster
@@ -565,6 +570,8 @@
 1959 Austin Princess
 1959 Austin Westminster
 1959 BMW Isetta 300
+1959 Buick LeSabre
+1959 Cadillac De Ville
 1959 Cadillac Eldorado Convertible
 1959 Chevrolet Corvette
 1959 Chevrolet Fleetside
@@ -609,12 +616,16 @@
 1960 Austin Princess
 1960 Austin-Healey Sprite
 1960 Austin Westminster
+1960 Buick LeSabre
+1960 Cadillac De Ville
+1960 Checker Marathon
 1960 Chevrolet Corvair
 1960 Chevrolet Corvette
 1960 Chevrolet Corvette
 1960 Chevrolet Impala
 1960 Chrysler 300F
 1960 Chrysler New Yorker
+1960 Chrysler Newport
 1960 Citroën 2CV
 1960 DKW Schnellaster
 1960 Fiat 600 Multipla
@@ -645,8 +656,13 @@
 1961 Austin Princess
 1961 Austin Westminster
 1961 Austin-Healey Sprite
+1961 Buick LeSabre
+1961 Cadillac De Ville
+1961 Checker Marathon
 1961 Chevrolet Corvair
 1961 Chevrolet Corvette
+1961 Chevrolet Impala
+1961 Chrysler Newport
 1961 DKW Schnellaster
 1961 Ferrari 250 GT Berlinetta
 1961 Fiat 1300
@@ -687,9 +703,12 @@
 1962 Austin Mini
 1962 Austin Princess
 1962 Austin Westminster
+1962 Buick LeSabre
 1962 Cadillac DeVille
 1962 Chevrolet Corvair
 1962 Chevrolet Corvette
+1962 Chevrolet Impala
+1962 Chrysler Newport
 1962 Datsun SP310
 1962 DKW Schnellaster
 1962 Fiat 600 Multipla
@@ -736,9 +755,13 @@
 1963 Austin Princess
 1963 Austin-Healey 3000 MKIII
 1963 Austin Westminster
+1963 Buick LeSabre
+1963 Cadillac De Ville
 1963 Checker Marathon
 1963 Chevrolet Corvair
 1963 Chevrolet Corvette
+1963 Chevrolet Impala
+1963 Chrysler Newport
 1963 Dodge Dart
 1963 Ferrari 250 GTO
 1963 Fiat 600 Multipla
@@ -783,9 +806,14 @@
 1964 Austin Princess
 1964 Austin-Healey 3000
 1964 Austin Westminster
+1964 Buick LeSabre
 1964 Buick Riviera
+1964 Cadillac De Ville
+1964 Checker Marathon
 1964 Chevrolet Corvair Monza
+1964 Chevrolet Impala
 1964 Chevrolet Nova Station Wagon
+1964 Chrysler Newport
 1964 Fiat 600 Multipla
 1964 Ford Anglia
 1964 Ford Cortina GT
@@ -835,11 +863,15 @@
 1965 Austin Princess
 1965 Austin Westminster
 1965 Buick Electra
+1965 Buick LeSabre
 1965 Buick Riviera
+1965 Cadillac De Ville
+1965 Checker Marathon
 1965 Chevrolet Corvette
 1965 Chevrolet Impala
 1965 Chrysler 300L
 1965 Chrysler New Yorker
+1965 Chrysler Newport
 1965 Fiat 600 Multipla
 1965 Ford Cortina
 1965 Ford Falcon
@@ -878,10 +910,15 @@
 1966 Austin Mini
 1966 Austin Princess
 1966 Austin Westminster
+1966 Buick LeSabre
+1966 Cadillac De Ville
+1966 Checker Marathon
 1966 Chevrolet Camaro
 1966 Chevrolet Corvair
 1966 Chevrolet Corvette
+1966 Chevrolet Impala
 1966 Chrysler New Yorker
+1966 Chrysler Newport
 1966 Ferrari 330 GTC
 1966 Fiat 124
 1966 Fiat 600 Multipla
@@ -942,10 +979,15 @@
 1967 Austin Mini Van
 1967 Austin Princess
 1967 Austin Westminster
+1967 Buick LeSabre
+1967 Cadillac De Ville
+1967 Checker Marathon
 1967 Chevrolet C10
 1967 Chevrolet Camaro
 1967 Chevrolet Chevelle
+1967 Chevrolet Impala
 1967 Chrysler New Yorker
+1967 Chrysler Newport
 1967 Citroën Dyane
 1967 Datsun Fairlady
 1967 Dodge A100 Van
@@ -1005,10 +1047,15 @@
 1968 Austin Mini
 1968 Austin Princess
 1968 Austin Westminster
+1968 Buick LeSabre
+1968 Cadillac De Ville
 1968 Cadillac Eldorado
+1968 Checker Marathon
 1968 Chevrolet Camaro
 1968 Chevrolet Chevelle
+1968 Chevrolet Impala
 1968 Chrysler New Yorker
+1968 Chrysler Newport
 1968 Daimler DS420
 1968 Datsun Fairlady
 1968 Ferrari 365 GTB/4 Daytona
@@ -1057,6 +1104,7 @@
 1969 Alfa Romeo Giulia
 1969 Alfa Romeo Spider
 1969 AMC Ambassador
+1969 AMC Hornet
 1969 AMC Javelin SST
 1969 Aston Martin DB6
 1969 Aston Martin DBS
@@ -1067,13 +1115,19 @@
 1969 Austin Maxi 1750
 1969 Austin Mini
 1969 Austin Nomad
+1969 Autobianchi A112
+1969 Buick LeSabre
 1969 BMW Isetta
 1969 BMW New Class Coupe
+1969 Cadillac De Ville
 1969 Cadillac Eldorado
+1969 Checker Marathon
 1969 Chevrolet Camaro SS
 1969 Chevrolet Chevelle
 1969 Chevrolet Corvette Stingray
 1969 Chevrolet El Camino
+1969 Chevrolet Impala
+1969 Chrysler Newport
 1969 Daihatsu Consorte
 1969 Datsun Fairlady 2000
 1969 Dodge Charger
@@ -1125,6 +1179,7 @@
 1970 Alfa Romeo Spider
 1970 AMC Ambassador
 1970 AMC Gremlin
+1970 AMC Hornet
 1970 AMC Rebel
 1970 Aston Martin DB6
 1970 Aston Martin DBS
@@ -1136,11 +1191,17 @@
 1970 Austin Maxi
 1970 Austin Mini
 1970 Austin Nomad
+1970 Autobianchi A112
+1970 Buick LeSabre
+1970 Cadillac De Ville
+1970 Checker Marathon
 1970 Chevrolet Camaro
 1970 Chevrolet Chevelle SS
 1970 Chevrolet Chevelle SS Wagon
+1970 Chevrolet Impala
 1970 Chevrolet Monte Carlo
 1970 Chrysler 180
+1970 Chrysler Newport
 1970 Chrysler Valiant
 1970 Daihatsu Consorte
 1970 Datsun 240Z
@@ -1194,6 +1255,7 @@
 1971 Alpine A310
 1971 AMC Ambassador
 1971 AMC Gremlin X
+1971 AMC Hornet
 1971 AMC Javelin AMX
 1971 Aston Martin DB6
 1971 Aston Martin DBS
@@ -1208,11 +1270,16 @@
 1971 Austin Nomad
 1971 Autobianchi A112
 1971 Buick Estate
+1971 Buick LeSabre
 1971 Buick Riviera
+1971 Cadillac De Ville
+1971 Checker Marathon
 1971 Chevrolet El Camino
+1971 Chevrolet Impala
 1971 Chevrolet Nova SS
 1971 Chevrolet Vega Panel
 1971 Chrysler 180
+1971 Chrysler Newport
 1971 Chrysler Valiant Charger
 1971 Continental Mark II
 1971 Daihatsu Consorte
@@ -1265,6 +1332,7 @@
 1972 Alpine A310
 1972 AMC Ambassador
 1972 AMC Gremlin
+1972 AMC Hornet
 1972 Aston Martin DBS
 1972 Aston Martin V8
 1972 Audi 80
@@ -1275,10 +1343,16 @@
 1972 Austin Maxi
 1972 Austin Mini
 1972 Austin Nomad
+1972 Autobianchi A112
+1972 Buick LeSabre
 1972 Buick Riviera
+1972 Cadillac De Ville
 1972 Cadillac Eldorado
+1972 Checker Marathon
 1972 Chevrolet Camaro
+1972 Chevrolet Impala
 1972 Chrysler 180
+1972 Chrysler Newport
 1972 Chrysler Valiant Charger
 1972 Citroën DS
 1972 Daihatsu Consorte
@@ -1333,6 +1407,7 @@
 1973 Alfa Romeo Spider
 1973 Alpine A310
 1973 AMC Ambassador
+1973 AMC Hornet
 1973 Aston Martin V8
 1973 Audi 80
 1973 Audi 100 Coupé S
@@ -1341,10 +1416,16 @@
 1973 Austin Cambridge
 1973 Austin Maxi
 1973 Austin Mini
+1973 Autobianchi A112
 1973 Buick Century
+1973 Buick LeSabre
+1973 Cadillac De Ville
+1973 Checker Marathon
 1973 Chevrolet Chevette
+1973 Chevrolet Impala
 1973 Chevrolet Vega GT
 1973 Chrysler 180
+1973 Chrysler Newport
 1973 Chrysler Valiant Charger
 1973 Daihatsu Consorte
 1973 Datsun 240Z
@@ -1398,6 +1479,7 @@
 1974 Alpine A310
 1974 AMC Ambassador
 1974 AMC Gremlin
+1974 AMC Hornet
 1974 AMC Matador
 1974 AMC Pacer
 1974 Aston Martin V8
@@ -1408,9 +1490,15 @@
 1974 Austin Apache
 1974 Austin Maxi
 1974 Austin Mini
+1974 Autobianchi A112
 1974 Buick Century
+1974 Buick LeSabre
+1974 Cadillac De Ville
 1974 Chrysler 180
+1974 Checker Marathon
+1974 Chevrolet Impala
 1974 Chevrolet Monte Carlo
+1974 Chrysler Newport
 1974 Citroën CX
 1974 Citroën DS 20
 1974 Citroën DS 23
@@ -1469,6 +1557,7 @@
 1975 Alfa Romeo Spider
 1975 Alpine A310
 1975 AMC Gremlin
+1975 AMC Hornet
 1975 AMC Matador
 1975 AMC Pacer
 1975 Aston Martin V8
@@ -1480,14 +1569,19 @@
 1975 Austin Marina
 1975 Austin Maxi
 1975 Austin Mini
+1975 Autobianchi A112
 1975 Buick Century
 1975 Buick Electra
+1975 Buick LeSabre
 1975 Cadillac Coupé De Ville
+1975 Checker Marathon
+1975 Chevrolet Impala
 1975 Chrysler 150
 1975 Chrysler 180
 1975 Chrysler Alpine
 1975 Chrysler Centura
 1975 Chrysler Cordoba
+1975 Chrysler Newport
 1975 Citroën 2CV
 1975 Citroën CX
 1975 Daihatsu Consorte
@@ -1536,6 +1630,7 @@
 1976 Alfa Romeo Giulia
 1976 Alfa Romeo Spider
 1976 Alpine A310
+1976 AMC Hornet
 1976 AMC Matador
 1976 Aston Martin V8
 1976 Audi 50
@@ -1545,15 +1640,21 @@
 1976 Austin Apache
 1976 Austin Maxi
 1976 Austin Mini
+1976 Autobianchi A112
 1976 Buick Century
+1976 Buick LeSabre
+1976 Cadillac De Ville
 1976 Cadillac Eldorado
+1976 Checker Marathon
 1976 Chevrolet Caprice
+1976 Chevrolet Impala
 1976 Chrysler 180
 1976 Chrysler Alpine
 1976 Chrysler Avenger
 1976 Chrysler Centura
 1976 Chrysler Cordoba
 1976 Chrysler Galant
+1976 Chrysler Newport
 1976 Chrysler Regal
 1976 Chrysler Scorpion
 1976 Citroën CX
@@ -1601,6 +1702,7 @@
 1977 Alfa Romeo Spider
 1977 Alpine A310
 1977 AMC Concord
+1977 AMC Hornet
 1977 AMC Matador
 1977 Aston Martin V8 Vantage
 1977 Audi 50
@@ -1610,7 +1712,10 @@
 1977 Austin Apache
 1977 Austin Maxi
 1977 Austin Mini
+1977 Autobianchi A112
 1977 Buick Century
+1977 Buick LeSabre
+1977 Cadillac De Ville
 1977 Chrysler 180
 1977 Chrysler Alpine
 1977 Chrysler Avenger
@@ -1622,12 +1727,15 @@
 1977 Chrysler Hunter
 1977 Chrysler Lancer
 1977 Chrysler LeBaron
+1977 Chrysler Newport
 1977 Chrysler Regal
 1977 Chrysler Scorpion
 1977 Chrysler Sigma
 1977 Chrysler Sunbeam
+1977 Checker Marathon
 1977 Chevrolet Chevelle
 1977 Chevrolet Chevette
+1977 Chevrolet Impala
 1977 Chevrolet Malibu
 1977 Chevrolet Monte Carlo
 1977 Citroën CX
@@ -1690,9 +1798,14 @@
 1978 Austin Allegro
 1978 Austin Maxi
 1978 Austin Mini
+1978 Autobianchi A112
 1978 Buick Century
+1978 Buick LeSabre
+1978 Cadillac De Ville
 1978 Cadillac Fleetwood
 1978 Cadillac Seville
+1978 Checker Marathon
+1978 Chevrolet Impala
 1978 Chrysler 180
 1978 Chrysler Alpine
 1978 Chrysler Avenger
@@ -1703,6 +1816,7 @@
 1978 Chrysler Hunter
 1978 Chrysler Lancer
 1978 Chrysler LeBaron
+1978 Chrysler Newport
 1978 Chrysler Regal
 1978 Chrysler Scorpion
 1978 Chrysler Sigma
@@ -1760,7 +1874,12 @@
 1979 Austin Allegro
 1979 Austin Maxi
 1979 Austin Mini
+1979 Autobianchi A112
 1979 Buick Century
+1979 Buick LeSabre
+1979 Cadillac De Ville
+1979 Checker Marathon
+1979 Chevrolet Impala
 1979 Chrysler 180
 1979 Chrysler Alpine
 1979 Chrysler Avenger
@@ -1770,6 +1889,7 @@
 1979 Chrysler Hunter
 1979 Chrysler Lancer
 1979 Chrysler LeBaron
+1979 Chrysler Newport
 1979 Chrysler Regal
 1979 Chrysler Scorpion
 1979 Chrysler Sigma
@@ -1829,15 +1949,21 @@
 1980 Austin Maxi
 1980 Austin Metro
 1980 Austin Mini
+1980 Autobianchi A112
 1980 Buick Century
+1980 Buick LeSabre
+1980 Cadillac De Ville
 1980 Cadillac Fleetwood Brougham
+1980 Checker Marathon
 1980 Chevrolet Corvette
+1980 Chevrolet Impala
 1980 Chrysler 150
 1980 Chrysler 180
 1980 Chrysler Alpine
 1980 Chrysler Cordoba
 1980 Chrysler Horizon
 1980 Chrysler LeBaron
+1980 Chrysler Newport
 1980 Chrysler Regal
 1980 Chrysler Scorpion
 1980 Chrysler Sigma
@@ -1898,13 +2024,19 @@
 1981 Austin Maxi
 1981 Austin Metro
 1981 Austin Mini
+1981 Autobianchi A112
 1981 BMW M1
 1981 Buick Century
+1981 Buick LeSabre
+1981 Cadillac De Ville
+1981 Checker Marathon
 1981 Chevrolet Cavalier
+1981 Chevrolet Impala
 1981 Chrysler 180
 1981 Chrysler Cordoba
 1981 Chrysler Horizon
 1981 Chrysler LeBaron
+1981 Chrysler Newport
 1981 Chrysler Regal
 1981 Chrysler Scorpion
 1981 Citroën CX
@@ -1960,9 +2092,14 @@
 1982 Austin Maestro
 1982 Austin Metro
 1982 Austin Mini
+1982 Autobianchi A112
 1982 BMW 320i
 1982 Buick Century
+1982 Buick LeSabre
+1982 Cadillac De Ville
+1982 Checker Marathon
 1982 Chevrolet Cavalier
+1982 Chevrolet Impala
 1982 Chevrolet S-10
 1982 Chrysler 180
 1982 Chrysler Cordoba
@@ -2025,8 +2162,12 @@
 1983 Austin Maestro
 1983 Austin Metro
 1983 Austin Mini
+1983 Autobianchi A112
 1983 Buick Century
+1983 Buick LeSabre
+1983 Cadillac De Ville
 1983 Chevrolet Cavalier
+1983 Chevrolet Impala
 1983 Chevrolet S-10
 1983 Chrysler Cordoba
 1983 Chrysler E-Class
@@ -2087,8 +2228,12 @@
 1984 Austin Metro
 1984 Austin Mini
 1984 Austin Montego
+1984 Autobianchi A112
 1984 Buick Century
+1984 Buick LeSabre
+1984 Cadillac De Ville
 1984 Chevrolet Cavalier
+1984 Chevrolet Impala
 1984 Chevrolet S-10
 1984 Chrysler Daytona
 1984 Chrysler E-Class
@@ -2152,9 +2297,13 @@
 1985 Austin Metro
 1985 Austin Mini
 1985 Austin Montego
+1985 Autobianchi A112
 1985 Buick Century
+1985 Buick LeSabre
+1985 Cadillac De Ville
 1985 Cadillac Eldorado
 1985 Chevrolet Cavalier
+1985 Chevrolet Impala
 1985 Chevrolet S-10
 1985 Chrysler Daytona
 1985 Chrysler Fifth Avenue
@@ -2221,8 +2370,11 @@
 1986 Austin Metro
 1986 Austin Mini
 1986 Austin Montego
+1986 Autobianchi A112
 1986 BMW E23 7-Series
 1986 Buick Century
+1986 Buick LeSabre
+1986 Cadillac De Ville
 1986 Cadillac Eldorado
 1986 Chevrolet Cavalier
 1986 Chevrolet Corvette
@@ -2295,9 +2447,11 @@
 1987 Austin Montego
 1987 BMW M5 E28
 1987 Buick Century
+1987 Buick LeSabre
 1987 Buick Somerset
 1987 Buick Regal GNX
 1987 Cadillac Allante
+1987 Cadillac De Ville
 1987 Chevrolet Caprice Wagon
 1987 Chevrolet Cavalier
 1987 Chevrolet Corvette
@@ -2368,7 +2522,9 @@
 1988 Austin Mini
 1988 Austin Montego
 1988 Buick Century
+1988 Buick LeSabre
 1988 Cadillac Cimarron
+1988 Cadillac De Ville
 1988 Chevrolet Cavalier Z24
 1988 Chevrolet S-10
 1988 Chrysler Conquest
@@ -2446,6 +2602,7 @@
 1989 Buick LeSabre
 1989 Buick Reatta
 1989 Buick Riviera
+1989 Cadillac De Ville
 1989 Chevrolet Cavalier Z24
 1989 Chevrolet S-10
 1989 Chrysler Conquest
@@ -2526,7 +2683,9 @@
 1990 Austin Mini
 1990 Austin Montego
 1990 Buick Century
+1990 Buick LeSabre
 1990 Buick Riviera
+1990 Cadillac De Ville
 1990 Chevrolet Astro
 1990 Chevrolet Cavalier Z24
 1990 Chrysler Daytona
@@ -2616,8 +2775,10 @@
 1991 Bentley Continental R
 1991 Bugatti EB 110
 1991 Buick Century
+1991 Buick LeSabre
 1991 Buick Riviera
 1991 Buick Roadmaster
+1991 Cadillac De Ville
 1991 Chevrolet Astro
 1991 Chevrolet Cavalier Z24
 1991 Chevrolet S-10
@@ -2703,8 +2864,10 @@
 1992 Austin Montego
 1992 Bugatti EB 110
 1992 Buick Century
+1992 Buick LeSabre
 1992 Buick Riviera
 1992 Buick Roadmaster
+1992 Cadillac De Ville
 1992 Chevrolet Astro
 1992 Chevrolet Cavalier Z24
 1992 Chevrolet S-10
@@ -2810,9 +2973,11 @@
 1993 BMW M3 Sedan
 1993 Bugatti EB 110
 1993 Buick Century
+1993 Buick LeSabre
 1993 Buick Riviera
 1993 Buick Roadmaster
 1993 Cadillac Allanté
+1993 Cadillac De Ville
 1993 Chevrolet Astro
 1993 Chevrolet Cavalier Z24
 1993 Chevrolet S-10
@@ -2930,9 +3095,12 @@
 1994 BMW 3-Series E30
 1994 Bugatti EB 110
 1994 Buick Century
+1994 Buick LeSabre
 1994 Buick Roadmaster
+1994 Cadillac De Ville
 1994 Chevrolet Astro
 1994 Chevrolet Cavalier Z24
+1994 Chevrolet Impala
 1994 Chevrolet S-10 Blazer
 1994 Chevrolet Tahoe
 1994 Chrysler Concorde
@@ -3040,11 +3208,14 @@
 1995 Autozam AZ-1
 1995 Bugatti EB 110
 1995 Buick Century
+1995 Buick LeSabre
 1995 Buick Riviera
 1995 Buick Roadmaster
 1995 Buick Skylark
+1995 Cadillac De Ville
 1995 Chevrolet Cavalier
 1995 Chevrolet Corsica
+1995 Chevrolet Impala
 1995 Chevrolet Monte Carlo
 1995 Chevrolet S-10
 1995 Chevrolet Tahoe
@@ -3156,8 +3327,10 @@
 1996 Austin Mini
 1996 BMW 518i
 1996 Buick Century
+1996 Buick LeSabre
 1996 Buick Riviera
 1996 Buick Roadmaster Limited
+1996 Cadillac De Ville
 1996 Chevrolet Beretta
 1996 Chevrolet Caprice
 1996 Chevrolet Cavalier
@@ -3273,7 +3446,9 @@
 1997 Austin Metro
 1997 Austin Mini
 1997 Buick Century
+1997 Buick LeSabre
 1997 Buick Riviera
+1997 Cadillac De Ville
 1997 Chevrolet Cavalier
 1997 Chevrolet Malibu
 1997 Chevrolet S-10
@@ -3389,7 +3564,9 @@
 1998 BMW E36 M3 Sedan
 1998 BMW Z3 Coupe
 1998 Buick Century
+1998 Buick LeSabre
 1998 Buick Riviera
+1998 Cadillac De Ville
 1998 Chevrolet Blazer
 1998 Chevrolet Cavalier
 1998 Chevrolet Malibu
@@ -3513,9 +3690,11 @@
 1999 BMW Z3 Coupe
 1999 Buick Century
 1999 Buick GL8
+1999 Buick LeSabre
 1999 Buick Regal LS
 1999 Buick Riviera
 1999 Cadillac Catera
+1999 Cadillac De Ville
 1999 Chevrolet Astro
 1999 Chevrolet C/K 1500
 1999 Chevrolet Cavalier
@@ -3654,6 +3833,7 @@
 2000 BMW Z3 Coupe
 2000 Buick Century
 2000 Buick GL8
+2000 Buick LeSabre
 2000 Cadillac DeVille Base
 2000 Cadillac DeVille DHS
 2000 Cadillac DeVille DTS
@@ -3663,6 +3843,7 @@
 2000 Chevrolet C/K 2500
 2000 Chevrolet C/K 3500
 2000 Chevrolet Cavalier
+2000 Chevrolet Impala
 2000 Chevrolet Lumina
 2000 Chevrolet Metro Coupe
 2000 Chevrolet Metro Sedan
@@ -3789,8 +3970,11 @@
 2001 BMW Z3 Coupe
 2001 Buick Century
 2001 Buick GL8
+2001 Buick LeSabre
+2001 Cadillac De Ville
 2001 Chevrolet Cavalier
 2001 Chevrolet Corvette Z06
+2001 Chevrolet Impala
 2001 Chevrolet Malibu
 2001 Chevrolet Monte Carlo
 2001 Chevrolet S-10
@@ -3916,8 +4100,11 @@
 2002 BMW Z3 Coupe
 2002 Buick Century
 2002 Buick GL8
+2002 Buick LeSabre
+2002 Cadillac De Ville
 2002 Cadillac Eldorado
 2002 Chevrolet Cavalier
+2002 Chevrolet Impala
 2002 Chevrolet Malibu
 2002 Chevrolet Monte Carlo
 2002 Chevrolet Prizm
@@ -4047,10 +4234,13 @@
 2003 Audi TT
 2003 Buick Century
 2003 Buick GL8
+2003 Buick LeSabre
 2003 Cadillac CTS
+2003 Cadillac De Ville
 2003 Chevrolet Cavalier
 2003 Chevrolet Colorado
 2003 Chevrolet Corvette Z06
+2003 Chevrolet Impala
 2003 Chevrolet Malibu
 2003 Chevrolet Monte Carlo
 2003 Chevrolet Optra
@@ -4183,12 +4373,15 @@
 2004 Audi TT
 2004 Buick Century
 2004 Buick GL8
-2004 Cadillac Seville
+2004 Buick LeSabre
 2004 Cadillac CTS-V
+2004 Cadillac De Ville
+2004 Cadillac Seville
 2004 Cadillac XLR
 2004 Chevrolet Cavalier
 2004 Chevrolet Cobalt
 2004 Chevrolet Colorado
+2004 Chevrolet Impala
 2004 Chevrolet Malibu
 2004 Chevrolet Monte Carlo
 2004 Chevrolet Optra
@@ -4342,6 +4535,7 @@
 2005 Bugatti Veyron
 2005 Buick Century
 2005 Buick GL8
+2005 Buick LeSabre
 2005 Cadillac DeVille
 2005 Cadillac XLR
 2005 Chevrolet Astro
@@ -4349,6 +4543,7 @@
 2005 Chevrolet Cobalt
 2005 Chevrolet Colorado
 2005 Chevrolet Equinox
+2005 Chevrolet Impala
 2005 Chevrolet Malibu
 2005 Chevrolet Monte Carlo
 2005 Chevrolet Optra
@@ -4507,6 +4702,7 @@
 2006 Chevrolet Cobalt
 2006 Chevrolet Colorado
 2006 Chevrolet Equinox
+2006 Chevrolet Impala
 2006 Chevrolet Malibu
 2006 Chevrolet Monte Carlo
 2006 Chevrolet Optra
@@ -4991,6 +5187,7 @@
 2009 Chevrolet Corvette ZR1
 2009 Chevrolet Cruze
 2009 Chevrolet Equinox
+2009 Chevrolet Impala
 2009 Chevrolet Malibu
 2009 Chevrolet Optra
 2009 Chevrolet S-10
@@ -5170,6 +5367,7 @@
 2010 Chevrolet Colorado
 2010 Chevrolet Cruze
 2010 Chevrolet Equinox
+2010 Chevrolet Impala
 2010 Chevrolet Malibu
 2010 Chevrolet Optra
 2010 Chevrolet S-10
@@ -5338,6 +5536,7 @@
 2011 Chevrolet Cruze
 2011 Chevrolet Equinox
 2011 Chevrolet HHR
+2011 Chevrolet Impala
 2011 Chevrolet Malibu
 2011 Chevrolet Montana
 2011 Chevrolet Optra
@@ -5511,6 +5710,7 @@
 2012 Chevrolet Colorado
 2012 Chevrolet Cruze
 2012 Chevrolet Equinox
+2012 Chevrolet Impala
 2012 Chevrolet Malibu
 2012 Chevrolet Montana
 2012 Chevrolet Onix
