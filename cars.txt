@@ -41,6 +41,7 @@
 1934 Austin 16
 1934 Austin 7
 1934 Bugatti Type 49
+1934 Citroën Traction Avant
 1935 Auburn Speedster
 1935 Austin 10
 1935 Austin 12
@@ -118,6 +119,7 @@
 1941 Austin 8
 1941 Buick Century
 1941 Chrysler Newport
+1941 Nash 600
 1941 Pontiac Streamliner
 1941 Pontiac Torpedo
 1941 Volkswagen Beetle
@@ -125,18 +127,21 @@
 1942 Austin 12
 1942 Austin 8
 1942 Buick Century
+1942 DeSoto Series S-10
 1942 Pontiac Streamliner
 1942 Pontiac Torpedo
 1942 Volkswagen Beetle
 1943 Austin 10
 1943 Austin 12
 1943 Austin 8
+1943 DeSoto Series S-10
 1943 Pontiac Streamliner
 1943 Pontiac Torpedo
 1943 Volkswagen Beetle
 1944 Austin 10
 1944 Austin 12
 1944 Austin 8
+1944 DeSoto Series S-10
 1944 Pontiac Streamliner
 1944 Pontiac Torpedo
 1944 Volkswagen Beetle
@@ -145,6 +150,7 @@
 1945 Austin 16
 1945 Austin 8
 1945 Chevrolet Fleetline
+1945 DeSoto Series S-10
 1945 Pontiac Streamliner
 1945 Pontiac Torpedo
 1945 Volkswagen Beetle
@@ -154,6 +160,7 @@
 1946 Austin 8
 1946 Chevrolet Commercial
 1946 Crosley CC
+1946 DeSoto Series S-10
 1946 GAZ M20
 1946 Pontiac Streamliner
 1946 Pontiac Torpedo
@@ -166,6 +173,7 @@
 1947 Austin Princess
 1947 Austin Sheerline
 1947 Chevrolet Stylemaster
+1947 DeSoto Series S-10
 1947 Ford Anglia
 1947 Plymouth Special
 1947 Pontiac Streamliner
@@ -178,12 +186,15 @@
 1948 Austin A70
 1948 Austin Princess
 1948 Austin Sheerline
+1948 Citroën 2CV
+1948 DeSoto Series S-10
 1948 Holden 48-215
 1948 Jaguar XK120
 1948 Pontiac Streamliner
 1948 Pontiac Torpedo
 1948 Porsche 356A
 1948 Talbot Lago
+1948 Tucker Torpedo
 1948 Volkswagen Beetle
 1949 Aston Martin 2-Litre Sports
 1949 Austin 16
@@ -196,7 +207,9 @@
 1949 Cadillac Series 62
 1949 Chrysler Newport
 1949 Citroën 2CV
+1949 DeSoto Series S-10
 1949 DKW Schnellaster
+1949 Dodge Coronet
 1949 Ford F-1
 1949 Ford F-2
 1949 Ford F-3
@@ -228,7 +241,9 @@
 1950 Chrysler Imperial
 1950 Chrysler Newport
 1950 Citroën 2CV
+1950 DeSoto Series S-10
 1950 DKW Schnellaster
+1950 Dodge Coronet
 1950 Ford Consul
 1950 Ford F-1
 1950 Ford F-2
@@ -240,9 +255,11 @@
 1950 Ford F-8
 1950 Ford F-9
 1950 Ford Prefect
+1950 Henry J
 1950 Jaguar XK120
 1950 Lancia Aurelia B20
 1950 Mercury Eight
+1950 Muntz Jet
 1950 Nash Ambassador
 1950 Nash Statesman
 1950 Pontiac Catalina
@@ -265,7 +282,9 @@
 1951 Austin Sheerline
 1951 Buick Roadmaster
 1951 Citroën 2CV
+1951 DeSoto Series S-10
 1951 DKW Schnellaster
+1951 Dodge Coronet
 1951 Ford F-1
 1951 Ford F-2
 1951 Ford F-3
@@ -275,6 +294,7 @@
 1951 Ford F-7
 1951 Ford F-8
 1951 Ford F-9
+1951 Henry J
 1951 Hudson Hornet
 1951 Jaguar XK120
 1951 Kaiser-Frazer Vagabond
@@ -307,7 +327,9 @@
 1952 Cadillac Series 62 Club Coupè
 1952 Chevrolet Styleline
 1952 Citroën 2CV
+1952 DeSoto Series S-10
 1952 DKW Schnellaster
+1952 Dodge Coronet
 1952 Ferrari F430
 1952 Ford F-1
 1952 Ford F-2
@@ -318,6 +340,7 @@
 1952 Ford F-7
 1952 Ford F-8
 1952 Ford F-9
+1952 Henry J
 1952 Hudson Hornet A
 1952 Jaguar XK120
 1952 Kaiser Henry J. Corsair
@@ -346,9 +369,11 @@
 1953 Citroën 2CV
 1953 DKW Schnellaster
 1953 Dodge 108-A
+1953 Dodge Coronet
 1953 Ferrari 250
 1953 Ford Crestline Victoria
 1953 Ford F-100
+1953 Henry J
 1953 Holden FJ
 1953 Hudson Hornet
 1953 International Harvester
@@ -381,8 +406,10 @@
 1954 Chrysler Town & Country
 1954 Citroën 2CV
 1954 DKW Schnellaster
+1954 Dodge Coronet
 1954 Dodge Royal
 1954 Ford Crestline
+1954 Henry J
 1954 Hillman Husky
 1954 Holden FJ
 1954 Hudson Hornet
@@ -411,12 +438,15 @@
 1955 Chevrolet Corvette
 1955 Chrysler C-300
 1955 Citroën 2CV
+1955 Citroën DS
 1955 DKW Schnellaster
+1955 Dodge Coronet
 1955 Ford F-100
 1955 Ford Thunderbird
 1955 GAZ M-72
 1955 Hillman Husky
 1955 Holden FJ
+1955 Hudson Hornet
 1955 Lancia Aurelia B20
 1955 Mercedes-Benz 300SL Gullwing
 1955 MG MGA
@@ -446,15 +476,16 @@
 1956 Continental Mark II
 1956 DeSoto Diplomat Plaza
 1956 DKW Schnellaster
+1956 Dodge Coronet
 1956 Fiat 600 Multipla
 1956 Ford F-100 Panel Van
 1956 Ford F-250
 1956 Ford Thunderbird
 1956 Hillman Husky
 1956 Holden FJ
+1956 Hudson Hornet
 1956 Jaguar D-type
 1956 Lancia Aurelia B20
-1956 Lincoln Continental Mark II
 1956 Mercury M-100
 1956 MG MGA
 1956 Nash Metropolitan
@@ -487,15 +518,20 @@
 1957 Chrysler Plainsman
 1957 Chrysler New Yorker
 1957 Citroën 2CV
+1957 Continental Mark II
 1957 DeSoto Diplomat Plaza
 1957 DKW Schnellaster
+1957 Dodge Coronet
 1957 Fiat 600 Multipla
 1957 Ford Fairlane 500 Skyliner
 1957 Ford Mainline
 1957 Ford Ranchero
 1957 Hillman Husky
+1957 Hindustan Ambassador
+1957 Hudson Hornet
 1957 Lancia Aurelia B20
 1957 MG MGA
+1957 Nash Cosmopolitan
 1957 Nash Metropolitan
 1957 Nissan Patrol
 1957 Pontiac Chieftain
@@ -529,13 +565,16 @@
 1958 Chrysler Plainsman
 1958 Citroën 2CV
 1958 DKW Schnellaster
+1958 Dodge Coronet
 1958 Edsel Corsair
 1958 Edsel Bermuda
+1958 Edsel Ranger
 1958 Fiat 600 Multipla
 1958 Ford Fairlane 500 Skyliner
 1958 Ford Ranchero
 1958 Ford Thunderbird
 1958 Frisky Family Three
+1958 Hindustan Ambassador
 1958 Lancia Aurelia B20
 1958 Lincoln Capri
 1958 Mercury Commuter
@@ -573,6 +612,7 @@
 1959 Buick LeSabre
 1959 Cadillac De Ville
 1959 Cadillac Eldorado Convertible
+1959 Chevrolet Corvair
 1959 Chevrolet Corvette
 1959 Chevrolet Fleetside
 1959 Chevrolet Impala Convertible
@@ -581,26 +621,31 @@
 1959 Citroën 2CV
 1959 DAF 600
 1959 DKW Schnellaster
+1959 Dodge Coronet
 1959 Dodge Custom Royal Lancer
 1959 Edsel Corsair Convertible
+1959 Edsel Ranger
 1959 Fiat 500
 1959 Fiat 600 Multipla
 1959 Ford F-100
 1959 Ford Fairlane 500 Skyliner
+1959 Ford Falcon
 1959 Ford Galaxie 500 Skyliner
 1959 Ford Ranchero
 1959 GAZ Chaika
+1959 Hindustan Ambassador
 1959 MG MGA
 1959 Morris Major
 1959 Nash Metropolitan
 1959 Nissan Patrol
 1959 Plymouth Fury
+1959 Plymouth Valiant
 1959 Pontiac Bonneville
 1959 Porsche 356A
 1959 Rambler American
 1959 Renault Dauphine
 1959 Renault Frégate
-1959 Studebaker Lark
+1959 Studebaker Lark 2-Door Sedan
 1959 Subaru 360
 1959 Volkswagen Beetle
 1959 Volkswagen Kombi
@@ -628,10 +673,12 @@
 1960 Chrysler Newport
 1960 Citroën 2CV
 1960 DKW Schnellaster
+1960 Edsel Ranger
 1960 Fiat 600 Multipla
 1960 Ford Falcon
 1960 Ford Ranchero
 1960 Ford Zephyr
+1960 Hindustan Ambassador
 1960 Maserati 3500 GT
 1960 Mazda R360
 1960 Morris Major
@@ -641,6 +688,9 @@
 1960 Plymouth Valiant
 1960 Pontiac Bonneville
 1960 Renault Dauphine
+1960 Studebaker Lark 2-Door Wagon
+1960 Studebaker Lark 4-Door Wagon
+1960 Studebaker Lark 4-Door Sedan
 1960 Subaru 360
 1960 Volkswagen Beetle
 1960 Volkswagen Kombi
@@ -663,6 +713,7 @@
 1961 Chevrolet Corvette
 1961 Chevrolet Impala
 1961 Chrysler Newport
+1961 Citroën 2CV
 1961 DKW Schnellaster
 1961 Ferrari 250 GT Berlinetta
 1961 Fiat 1300
@@ -670,6 +721,7 @@
 1961 Ford F-100
 1961 Ford Falcon
 1961 Ford Ranchero
+1961 Hindustan Ambassador
 1961 Jaguar E-Type Coupe
 1961 Lincoln Continental Convertible
 1961 Mazda R360
@@ -679,11 +731,13 @@
 1961 Nash Metropolitan
 1961 Nissan Patrol
 1961 Opel Rekord
+1961 Plymouth Valiant
 1961 Pontiac Bonneville
 1961 Rambler Ambassador
 1961 Renault 4
 1961 Renault Dauphine
 1961 Renault R4
+1961 Studebaker Lark Convertible
 1961 Subaru 360
 1961 Toyota Publica
 1961 Volkswagen Beetle
@@ -709,6 +763,7 @@
 1962 Chevrolet Corvette
 1962 Chevrolet Impala
 1962 Chrysler Newport
+1962 Citroën 2CV
 1962 Datsun SP310
 1962 DKW Schnellaster
 1962 Fiat 600 Multipla
@@ -717,6 +772,7 @@
 1962 Ford Falcon
 1962 Ford Galaxie 500XL Sunliner
 1962 Ford Ranchero
+1962 Hindustan Ambassador
 1962 Jaguar E-Type
 1962 Jaguar Mark X
 1962 Land Rover Series IIA
@@ -729,10 +785,13 @@
 1962 Morris Major
 1962 Nash Metropolitan
 1962 Nissan Patrol
+1962 Plymouth Valiant
 1962 Pontiac Bonneville
 1962 Pontiac Grand Prix
 1962 Renault Dauphine
 1962 Rolls-Royce Silver Cloud III
+1962 Studebaker Lark 4-Door Sedan
+1962 Studebaker Lark Daytona Convertible
 1962 Subaru 360
 1962 Toyota Corona
 1962 Toyota Crown
@@ -762,6 +821,7 @@
 1963 Chevrolet Corvette
 1963 Chevrolet Impala
 1963 Chrysler Newport
+1963 Citroën 2CV 
 1963 Dodge Dart
 1963 Ferrari 250 GTO
 1963 Fiat 600 Multipla
@@ -781,12 +841,16 @@
 1963 Morris Major
 1963 Nissan Patrol
 1963 Peugeot 404
+1963 Plymouth Valiant
 1963 Pontiac Bonneville
 1963 Pontiac Grand Prix
 1963 Porsche 911
 1963 Renault Dauphine
 1963 Škoda Felicia
 1963 Studebaker Avanti
+1963 Studebaker Lark 2-Door Sedan
+1963 Studebaker Lark Daytona Hardtop
+1963 Studebaker Lark Regal 4-Door Sedan
 1963 Subaru 360
 1963 Toyota Crown
 1963 Toyota Publica
@@ -814,6 +878,7 @@
 1964 Chevrolet Impala
 1964 Chevrolet Nova Station Wagon
 1964 Chrysler Newport
+1964 Citroën 2CV
 1964 Fiat 600 Multipla
 1964 Ford Anglia
 1964 Ford Cortina GT
@@ -835,11 +900,15 @@
 1964 Oldsmobile 4-4-2
 1964 Oldsmobile Starfire
 1964 Plymouth Barracuda
+1964 Plymouth Valiant
 1964 Pontiac Bonneville
 1964 Pontiac Grand Prix
 1964 Pontiac GTO
 1964 Porsche 911
 1964 Renault Dauphine
+1964 Studebaker Lark 2-Door Sedan
+1964 Studebaker Lark Daytona 4-Door Sedan
+1964 Studebaker Lark Daytona Convertible
 1964 Studebaker Wagonaire
 1964 Subaru 360
 1964 Toyota Corona
@@ -867,11 +936,14 @@
 1965 Buick Riviera
 1965 Cadillac De Ville
 1965 Checker Marathon
+1965 Chevrolet Corvair
 1965 Chevrolet Corvette
 1965 Chevrolet Impala
 1965 Chrysler 300L
 1965 Chrysler New Yorker
 1965 Chrysler Newport
+1965 Citroën 2CV
+1965 Dodge Coronet
 1965 Fiat 600 Multipla
 1965 Ford Cortina
 1965 Ford Falcon
@@ -886,11 +958,13 @@
 1965 Mitsubishi Minica
 1965 Nissan Patrol
 1965 Oldsmobile 4-4-2
+1965 Plymouth Valiant
 1965 Pontiac Bonneville
 1965 Pontiac Grand Prix
 1965 Porsche 911
 1965 Renault 16
 1965 Renault Dauphine
+1965 Studebaker Lark
 1965 Subaru 360
 1965 Toyota Crown
 1965 Toyota Publica
@@ -919,6 +993,8 @@
 1966 Chevrolet Impala
 1966 Chrysler New Yorker
 1966 Chrysler Newport
+1966 Citroën 2CV
+1966 Dodge Coronet
 1966 Ferrari 330 GTC
 1966 Fiat 124
 1966 Fiat 600 Multipla
@@ -947,6 +1023,7 @@
 1966 Nissan Sunny
 1966 Oldsmobile 4-4-2
 1966 Plymouth Barracuda
+1966 Plymouth Valiant
 1966 Pontiac Bonneville
 1966 Pontiac Grand Prix
 1966 Pontiac GTO
@@ -954,6 +1031,7 @@
 1966 Renault Dauphine
 1966 Rolls-Royce Phantom V
 1966 Saab Sonett
+1966 Studebaker Lark 4-Door Sedan
 1966 Subaru 1000
 1966 Subaru 360
 1966 Toyota Corolla
@@ -985,12 +1063,15 @@
 1967 Chevrolet C10
 1967 Chevrolet Camaro
 1967 Chevrolet Chevelle
+1967 Chevrolet Corvair
 1967 Chevrolet Impala
 1967 Chrysler New Yorker
 1967 Chrysler Newport
+1967 Citroën 2CV
 1967 Citroën Dyane
 1967 Datsun Fairlady
 1967 Dodge A100 Van
+1967 Dodge Coronet
 1967 Fiat 124
 1967 Fiat 125
 1967 Fiat 600 Multipla
@@ -1017,6 +1098,7 @@
 1967 NSU Sport Prinz
 1967 Oldsmobile 4-4-2
 1967 Piaggio Ape Model D
+1967 Plymouth Valiant
 1967 Pontiac Bonneville
 1967 Pontiac Firebird
 1967 Pontiac Grand Prix
@@ -1053,11 +1135,15 @@
 1968 Checker Marathon
 1968 Chevrolet Camaro
 1968 Chevrolet Chevelle
+1968 Chevrolet Corvair
 1968 Chevrolet Impala
 1968 Chrysler New Yorker
 1968 Chrysler Newport
+1968 Citroën 2CV
 1968 Daimler DS420
+1968 Datsun 510
 1968 Datsun Fairlady
+1968 Dodge Coronet
 1968 Ferrari 365 GTB/4 Daytona
 1968 Fiat 124
 1968 Fiat 600 Multipla
@@ -1085,6 +1171,7 @@
 1968 Oldsmobile 4-4-2
 1968 Peugeot 504
 1968 Plymouth Barracuda Formula S
+1968 Plymouth Valiant
 1968 Pontiac Bonneville
 1968 Pontiac Grand Prix
 1968 Pontiac GTO
@@ -1124,10 +1211,13 @@
 1969 Checker Marathon
 1969 Chevrolet Camaro SS
 1969 Chevrolet Chevelle
+1969 Chevrolet Corvair
 1969 Chevrolet Corvette Stingray
 1969 Chevrolet El Camino
 1969 Chevrolet Impala
 1969 Chrysler Newport
+1969 Citroën 2CV
+1969 Dacia 1300
 1969 Daihatsu Consorte
 1969 Datsun Fairlady 2000
 1969 Dodge Charger
@@ -1158,6 +1248,7 @@
 1969 Nissan Patrol
 1969 Nissan Sunny
 1969 Oldsmobile 4-4-2
+1969 Plymouth Valiant
 1969 Pontiac Bonneville
 1969 Pontiac Grand Prix
 1969 Pontiac GTO Judge
@@ -1203,6 +1294,8 @@
 1970 Chrysler 180
 1970 Chrysler Newport
 1970 Chrysler Valiant
+1970 Citroën 2CV
+1970 Dacia 1300
 1970 Daihatsu Consorte
 1970 Datsun 240Z
 1970 Datsun Fairlady
@@ -1232,6 +1325,7 @@
 1970 Oldsmobile 4-4-2
 1970 Plymouth GTX 400
 1970 Plymouth Superbird
+1970 Plymouth Valiant
 1970 Pontiac Bonneville
 1970 Pontiac Grand Prix
 1970 Pontiac GTO
@@ -1274,6 +1368,7 @@
 1971 Buick Riviera
 1971 Cadillac De Ville
 1971 Checker Marathon
+1971 Chevrolet Camaro
 1971 Chevrolet El Camino
 1971 Chevrolet Impala
 1971 Chevrolet Nova SS
@@ -1281,11 +1376,15 @@
 1971 Chrysler 180
 1971 Chrysler Newport
 1971 Chrysler Valiant Charger
+1971 Citroën 2CV
 1971 Continental Mark II
+1971 Dacia 1300
 1971 Daihatsu Consorte
 1971 Datsun 240Z
+1971 De Tomaso Pantera
 1971 Dodge Challenger R/T
 1971 Dodge Charger R/T
+1971 Dodge Coronet
 1971 Dodge Demon
 1971 Dodge Hemi Challenger
 1971 Fiat 124
@@ -1310,12 +1409,14 @@
 1971 Nissan Patrol
 1971 Nissan Sunny
 1971 Oldsmobile 4-4-2
+1971 Plymouth Valiant
 1971 Pontiac Bonneville
 1971 Pontiac Grand Prix
 1971 Porsche 911
 1971 Renault 16
 1971 Renault Scimitar GTE
 1971 Saab Sonett
+1971 Stutz Blackhawk
 1971 Suzuki Fronte
 1971 Suzuki Jimney
 1971 Toyota Corolla
@@ -1354,11 +1455,15 @@
 1972 Chrysler 180
 1972 Chrysler Newport
 1972 Chrysler Valiant Charger
+1972 Citroën 2CV
 1972 Citroën DS
+1972 Dacia 1300
 1972 Daihatsu Consorte
 1972 Daihatsu Fellow Max
 1972 Datsun 240Z
+1972 De Tomaso Pantera
 1972 Dodge Challenger
+1972 Dodge Coronet
 1972 Fiat 126
 1972 Fiat 124
 1972 Ford Cortina
@@ -1386,11 +1491,13 @@
 1972 Nissan Patrol
 1972 Nissan Sunny
 1972 Oldsmobile 4-4-2
+1972 Plymouth Valiant
 1972 Pontiac Bonneville
 1972 Pontiac Grand Prix
 1972 Porsche 911
 1972 Renault Scimitar GTE
 1972 Saab Sonett
+1972 Stutz Blackhawk
 1972 Subaru Leone Estate
 1972 Suzuki Fronte
 1972 Suzuki Jimney
@@ -1421,15 +1528,20 @@
 1973 Buick LeSabre
 1973 Cadillac De Ville
 1973 Checker Marathon
+1973 Chevrolet Camaro
 1973 Chevrolet Chevette
 1973 Chevrolet Impala
 1973 Chevrolet Vega GT
 1973 Chrysler 180
 1973 Chrysler Newport
 1973 Chrysler Valiant Charger
+1973 Citroën 2CV
+1973 Dacia 1300
 1973 Daihatsu Consorte
 1973 Datsun 240Z
+1973 De Tomaso Pantera
 1973 Dodge Charger
+1973 Dodge Coronet
 1973 Ferrari 512 BB
 1973 Fiat 124
 1973 Fiat 126
@@ -1454,6 +1566,7 @@
 1973 Nissan Patrol
 1973 Nissan Sunny
 1973 Oldsmobile 4-4-2
+1973 Plymouth Valiant
 1973 Pontiac Bonneville
 1973 Pontiac Firebird Trans Am
 1973 Pontiac Grand Prix
@@ -1461,6 +1574,7 @@
 1973 Reliant Robin
 1973 Renault Scimitar GTE
 1973 Saab Sonett
+1973 Stutz Blackhawk
 1973 Suzuki Fronte
 1973 Toyota Celica
 1973 Toyota Corolla
@@ -1491,20 +1605,26 @@
 1974 Austin Maxi
 1974 Austin Mini
 1974 Autobianchi A112
+1974 Bricklin SV-1
 1974 Buick Century
 1974 Buick LeSabre
 1974 Cadillac De Ville
 1974 Chrysler 180
 1974 Checker Marathon
+1974 Chevrolet Camaro
 1974 Chevrolet Impala
 1974 Chevrolet Monte Carlo
 1974 Chrysler Newport
+1974 Citroën 2CV
 1974 Citroën CX
 1974 Citroën DS 20
 1974 Citroën DS 23
+1974 Dacia 1300
 1974 Daihatsu Consorte
 1974 Datsun 100A
 1974 Datsun 240Z
+1974 De Tomaso Pantera
+1974 Dodge Coronet
 1974 Ferrari 246 Dino
 1974 Fiat 124
 1974 Fiat 126
@@ -1536,11 +1656,13 @@
 1974 Nissan Patrol
 1974 Nissan Sunny
 1974 Oldsmobile 4-4-2
+1974 Plymouth Valiant
 1974 Pontiac Bonneville
 1974 Pontiac Grand Prix
 1974 Porsche 911
 1974 Renault Scimitar GTE
 1974 Saab Sonett
+1974 Stutz Blackhawk
 1974 Suzuki Fronte
 1974 Toyota Corolla
 1974 Toyota Hilux
@@ -1570,11 +1692,13 @@
 1975 Austin Maxi
 1975 Austin Mini
 1975 Autobianchi A112
+1975 Bricklin SV-1
 1975 Buick Century
 1975 Buick Electra
 1975 Buick LeSabre
 1975 Cadillac Coupé De Ville
 1975 Checker Marathon
+1975 Chevrolet Camaro
 1975 Chevrolet Impala
 1975 Chrysler 150
 1975 Chrysler 180
@@ -1584,7 +1708,10 @@
 1975 Chrysler Newport
 1975 Citroën 2CV
 1975 Citroën CX
+1975 Dacia 1300
 1975 Daihatsu Consorte
+1975 De Tomaso Pantera
+1975 Dodge Coronet
 1975 Dodge Dart
 1975 Fiat 126
 1975 Ford Cortina
@@ -1610,6 +1737,7 @@
 1975 Nissan Sunny
 1975 Oldsmobile 4-4-2
 1975 Peugeot 504 Coupe
+1975 Plymouth Valiant
 1975 Pontiac Bonneville
 1975 Pontiac Firebird Trans Am
 1975 Pontiac Grand Prix
@@ -1617,6 +1745,7 @@
 1975 Reliant Robin
 1975 Renault Scimitar GTE
 1975 Rover 3500
+1975 Stutz Blackhawk
 1975 Suzuki Fronte
 1975 Toyota Corolla
 1975 Toyota Hilux
@@ -1646,6 +1775,7 @@
 1976 Cadillac De Ville
 1976 Cadillac Eldorado
 1976 Checker Marathon
+1976 Chevrolet Camaro
 1976 Chevrolet Caprice
 1976 Chevrolet Impala
 1976 Chrysler 180
@@ -1657,8 +1787,12 @@
 1976 Chrysler Newport
 1976 Chrysler Regal
 1976 Chrysler Scorpion
+1976 Citroën 2CV
 1976 Citroën CX
+1976 Dacia 1300
 1976 Daihatsu Consorte
+1976 De Tomaso Pantera
+1976 Dodge Coronet
 1976 Dodge Monaco
 1976 Fiat 126
 1976 Ford Cortina
@@ -1683,9 +1817,11 @@
 1976 Nissan Patrol
 1976 Nissan Sunny
 1976 Oldsmobile 4-4-2
+1976 Plymouth Valiant
 1976 Pontiac Bonneville
 1976 Pontiac Grand Prix
 1976 Porsche 911
+1976 Stutz Blackhawk
 1976 Suzuki Fronte
 1976 Toyota Celica GT
 1976 Toyota Corolla
@@ -1733,13 +1869,17 @@
 1977 Chrysler Sigma
 1977 Chrysler Sunbeam
 1977 Checker Marathon
+1977 Chevrolet Camaro
 1977 Chevrolet Chevelle
 1977 Chevrolet Chevette
 1977 Chevrolet Impala
 1977 Chevrolet Malibu
 1977 Chevrolet Monte Carlo
+1977 Citroën 2CV
 1977 Citroën CX
+1977 Dacia 1300
 1977 Daihatsu Consorte
+1977 De Tomaso Pantera
 1977 Fiat 126
 1977 Ford Cortina
 1977 Ford Escort
@@ -1776,6 +1916,7 @@
 1977 Pontiac Grand Prix
 1977 Porsche 911
 1977 Rover 3500
+1977 Stutz Blackhawk
 1977 Suzuki Cervo
 1977 Toyota Corolla
 1977 Toyota Hilux
@@ -1805,6 +1946,7 @@
 1978 Cadillac Fleetwood
 1978 Cadillac Seville
 1978 Checker Marathon
+1978 Chevrolet Camaro
 1978 Chevrolet Impala
 1978 Chrysler 180
 1978 Chrysler Alpine
@@ -1821,7 +1963,10 @@
 1978 Chrysler Scorpion
 1978 Chrysler Sigma
 1978 Chrysler Sunbeam
+1978 Citroën 2CV
 1978 Citroën CX
+1978 Dacia 1300
+1978 De Tomaso Pantera
 1978 Fiat 126
 1978 Ford Bronco
 1978 Ford Cortina
@@ -1839,6 +1984,7 @@
 1978 Ford Ranchero
 1978 Ford Taunus TC
 1978 Ford Transit
+1978 Holden Commodore
 1978 Lada Niva
 1978 Mercedes-Benz 450SL
 1978 Mitsubishi Colt
@@ -1854,6 +2000,7 @@
 1978 Pontiac Grand Prix
 1978 Porsche 911
 1978 Saab 900
+1978 Stutz Blackhawk
 1978 Suzuki Cervo
 1978 Toyota Corolla
 1978 Toyota Hilux
@@ -1879,6 +2026,7 @@
 1979 Buick LeSabre
 1979 Cadillac De Ville
 1979 Checker Marathon
+1979 Chevrolet Camaro
 1979 Chevrolet Impala
 1979 Chrysler 180
 1979 Chrysler Alpine
@@ -1894,7 +2042,10 @@
 1979 Chrysler Scorpion
 1979 Chrysler Sigma
 1979 Chrysler Sunbeam
+1979 Citroën 2CV
 1979 Citroën CX
+1979 Dacia 1300
+1979 De Tomaso Pantera
 1979 Fiat 126
 1979 Ford Bronco
 1979 Ford Cortina
@@ -1912,6 +2063,7 @@
 1979 Ford Ranchero
 1979 Ford Taunus TC
 1979 Ford Transit
+1979 Holden Commodore
 1979 Lada Niva
 1979 Mercedes-Benz 300D
 1979 Mercedes-Benz 450SL
@@ -1928,6 +2080,7 @@
 1979 Pontiac Grand Prix
 1979 Porsche 911
 1979 Saab 900
+1979 Stutz Blackhawk
 1979 Suzuki Alto
 1979 Suzuki Cervo
 1979 Toyota Corolla
@@ -1955,6 +2108,7 @@
 1980 Cadillac De Ville
 1980 Cadillac Fleetwood Brougham
 1980 Checker Marathon
+1980 Chevrolet Camaro
 1980 Chevrolet Corvette
 1980 Chevrolet Impala
 1980 Chrysler 150
@@ -1967,7 +2121,10 @@
 1980 Chrysler Regal
 1980 Chrysler Scorpion
 1980 Chrysler Sigma
+1980 Citroën 2CV
 1980 Citroën CX
+1980 Dacia 1300
+1980 De Tomaso Pantera
 1980 Fiat 126
 1980 Ford Cortina
 1980 Ford Escort
@@ -1983,6 +2140,7 @@
 1980 Ford Mustang
 1980 Ford Taunus TC
 1980 Ford Transit
+1980 Holden Commodore
 1980 Holden HZ
 1980 Lada Niva
 1980 Lincoln Town Car
@@ -2001,6 +2159,7 @@
 1980 Porsche 911 Turbo
 1980 Renault Trafic
 1980 Saab 900
+1980 Stutz Blackhawk
 1980 Suzuki Alto
 1980 Suzuki Cervo
 1980 Toyota Corolla
@@ -2030,6 +2189,7 @@
 1981 Buick LeSabre
 1981 Cadillac De Ville
 1981 Checker Marathon
+1981 Chevrolet Camaro
 1981 Chevrolet Cavalier
 1981 Chevrolet Impala
 1981 Chrysler 180
@@ -2039,7 +2199,11 @@
 1981 Chrysler Newport
 1981 Chrysler Regal
 1981 Chrysler Scorpion
+1981 Citroën 2CV
 1981 Citroën CX
+1981 Dacia 1300
+1981 De Tomaso Pantera
+1981 DMC DeLorean
 1981 Fiat 126
 1981 Fiat Ducato
 1981 Ford Cortina
@@ -2053,6 +2217,7 @@
 1981 Ford Mustang
 1981 Ford Taunus TC
 1981 Ford Transit
+1981 Holden Commodore
 1981 Lada Niva
 1981 Mercury Capri RS
 1981 Mitsubishi Colt
@@ -2066,6 +2231,7 @@
 1981 Porsche 911
 1981 Renault Trafic
 1981 Saab 900
+1981 Stutz Blackhawk
 1981 Suzuki Alto
 1981 Suzuki Cervo
 1981 Toyota Corolla
@@ -2098,6 +2264,7 @@
 1982 Buick LeSabre
 1982 Cadillac De Ville
 1982 Checker Marathon
+1982 Chevrolet Camaro
 1982 Chevrolet Cavalier
 1982 Chevrolet Impala
 1982 Chevrolet S-10
@@ -2106,7 +2273,10 @@
 1982 Chrysler Horizon
 1982 Chrysler LeBaron
 1982 Chrysler Scorpion
+1982 Citroën 2CV
 1982 Citroën CX
+1982 Dacia 1300
+1982 De Tomaso Pantera
 1982 DMC DeLorean
 1982 Fiat 126
 1982 Fiat Ducato
@@ -2122,6 +2292,7 @@
 1982 Ford Mustang
 1982 Ford Taunus TC
 1982 Ford Transit
+1982 Holden Commodore
 1982 Jaguar XJ-S
 1982 Lada Niva
 1982 Lincoln Town Car
@@ -2136,6 +2307,7 @@
 1982 Reliant Rialto
 1982 Renault Trafic
 1982 Saab 900
+1982 Stutz Blackhawk
 1982 Suzuki Alto
 1982 Suzuki Cervo
 1982 Toyota Camry
@@ -2166,6 +2338,7 @@
 1983 Buick Century
 1983 Buick LeSabre
 1983 Cadillac De Ville
+1983 Chevrolet Camaro
 1983 Chevrolet Cavalier
 1983 Chevrolet Impala
 1983 Chevrolet S-10
@@ -2174,7 +2347,10 @@
 1983 Chrysler Horizon
 1983 Chrysler LeBaron
 1983 Chrysler Scorpion
+1983 Citroën 2CV
 1983 Citroën CX
+1983 Dacia 1300
+1983 De Tomaso Pantera
 1983 Fiat 126
 1983 Fiat Ducato
 1983 Fiat Uno
@@ -2189,6 +2365,7 @@
 1983 Ford Mustang
 1983 Ford Transit
 1983 GMC Jimmy
+1983 Holden Commodore
 1983 Hyundai Stellar
 1983 Lada Niva
 1983 Lincoln Town Car
@@ -2203,6 +2380,7 @@
 1983 Porsche 911
 1983 Renault Trafic
 1983 Saab 900
+1983 Stutz Blackhawk
 1983 Suzuki Alto
 1983 Toyota 4Runner
 1983 Toyota Camry
@@ -2232,6 +2410,7 @@
 1984 Buick Century
 1984 Buick LeSabre
 1984 Cadillac De Ville
+1984 Chevrolet Camaro
 1984 Chevrolet Cavalier
 1984 Chevrolet Impala
 1984 Chevrolet S-10
@@ -2242,7 +2421,10 @@
 1984 Chrysler Laser
 1984 Chrysler LeBaron
 1984 Chrysler Scorpion
+1984 Citroën 2CV
 1984 Citroën CX
+1984 Dacia 1300
+1984 De Tomaso Pantera
 1984 Dodge Aries
 1984 Dodge Caravan
 1984 Fiat 126
@@ -2257,6 +2439,7 @@
 1984 Ford Granada
 1984 Ford Transit
 1984 GMC Jimmy
+1984 Holden Commodore
 1984 Hyundai Stellar
 1984 Jeep Grand Wagoneer
 1984 Lada Niva
@@ -2275,6 +2458,7 @@
 1984 Renault Fuego
 1984 Saab 900
 1984 SEAT Ibiza
+1984 Stutz Blackhawk
 1984 Suzuki Alto
 1984 Toyota 4Runner
 1984 Toyota Camry
@@ -2302,6 +2486,7 @@
 1985 Buick LeSabre
 1985 Cadillac De Ville
 1985 Cadillac Eldorado
+1985 Chevrolet Camaro
 1985 Chevrolet Cavalier
 1985 Chevrolet Impala
 1985 Chevrolet S-10
@@ -2310,7 +2495,10 @@
 1985 Chrysler Horizon
 1985 Chrysler Laser
 1985 Chrysler LeBaron GTS
+1985 Citroën 2CV
 1985 Citroën CX
+1985 Dacia 1300
+1985 De Tomaso Pantera
 1985 Dodge Caravan
 1985 Fiat 126
 1985 Fiat Ducato
@@ -2325,6 +2513,7 @@
 1985 Ford Mustang
 1985 Ford Transit
 1985 GMC Jimmy
+1985 Holden Commodore
 1985 Hyundai Sonata
 1985 Hyundai Stellar
 1985 Jeep Cherokee
@@ -2347,6 +2536,7 @@
 1985 Renault Espace
 1985 Saab 900
 1985 SEAT Ibiza
+1985 Stutz Blackhawk
 1985 Suzuki Alto
 1985 Toyota 4Runner
 1985 Toyota Camry
@@ -2376,6 +2566,7 @@
 1986 Buick LeSabre
 1986 Cadillac De Ville
 1986 Cadillac Eldorado
+1986 Chevrolet Camaro
 1986 Chevrolet Cavalier
 1986 Chevrolet Corvette
 1986 Chevrolet S-10
@@ -2384,6 +2575,9 @@
 1986 Chrysler Horizon
 1986 Chrysler Laser
 1986 Chrysler LeBaron GTS
+1986 Citroën 2CV
+1986 Dacia 1300
+1986 De Tomaso Pantera
 1986 Dodge Caravan
 1986 Fiat 126
 1986 Fiat Ducato
@@ -2400,6 +2594,7 @@
 1986 Ford Taurus
 1986 Ford Transit
 1986 GMC Jimmy
+1986 Holden Commodore
 1986 Honda Civic
 1986 Hyundai Sonata
 1986 Hyundai Stellar
@@ -2422,6 +2617,7 @@
 1986 Rolls-Royce Corniche
 1986 Saab 900
 1986 SEAT Ibiza
+1986 Stutz Blackhawk
 1986 Suzuki Alto
 1986 Toyota 4Runner
 1986 Toyota Camry
@@ -2452,6 +2648,7 @@
 1987 Buick Regal GNX
 1987 Cadillac Allante
 1987 Cadillac De Ville
+1987 Chevrolet Camaro
 1987 Chevrolet Caprice Wagon
 1987 Chevrolet Cavalier
 1987 Chevrolet Corvette
@@ -2461,6 +2658,9 @@
 1987 Chrysler Fifth Avenue
 1987 Chrysler LeBaron GTS
 1987 Chrysler Phantom
+1987 Citroën 2CV
+1987 Dacia 1300
+1987 De Tomaso Pantera
 1987 Dodge Caravan
 1987 Ferrari F40
 1987 Ferrari Testarossa
@@ -2476,6 +2676,7 @@
 1987 Ford Taurus
 1987 Ford Transit
 1987 GMC Jimmy
+1987 Holden Commodore
 1987 Honda Civic
 1987 Hyundai Sonata
 1987 Hyundai Stellar
@@ -2497,6 +2698,7 @@
 1987 Renault Espace
 1987 Saab 900
 1987 SEAT Ibiza
+1987 Stutz Blackhawk
 1987 Suzuki Alto
 1987 Toyota 4Runner
 1987 Toyota Camry
@@ -2525,6 +2727,7 @@
 1988 Buick LeSabre
 1988 Cadillac Cimarron
 1988 Cadillac De Ville
+1988 Chevrolet Camaro
 1988 Chevrolet Cavalier Z24
 1988 Chevrolet S-10
 1988 Chrysler Conquest
@@ -2536,6 +2739,9 @@
 1988 Chrysler Phantom
 1988 Chrysler Shadow
 1988 Chrysler Grand Voyager
+1988 Citroën 2CV
+1988 Dacia 1300
+1988 De Tomaso Pantera
 1988 Dodge Caravan
 1988 Ferrari F40
 1988 Ferrari Testarossa
@@ -2553,6 +2759,7 @@
 1988 Ford Tempo
 1988 Ford Transit
 1988 GMC Jimmy
+1988 Holden Commodore
 1988 Hyundai Sonata
 1988 Hyundai Stellar
 1988 Lada Niva
@@ -2603,6 +2810,7 @@
 1989 Buick Reatta
 1989 Buick Riviera
 1989 Cadillac De Ville
+1989 Chevrolet Camaro
 1989 Chevrolet Cavalier Z24
 1989 Chevrolet S-10
 1989 Chrysler Conquest
@@ -2615,6 +2823,9 @@
 1989 Chrysler Phantom
 1989 Chrysler Shadow
 1989 Chrysler Voyager
+1989 Citroën 2CV
+1989 Dacia 1300
+1989 De Tomaso Pantera
 1989 Dodge Caravan
 1989 Ferrari F40
 1989 Fiat 126
@@ -2634,6 +2845,7 @@
 1989 Geo Spectrum
 1989 Geo Tracker
 1989 GMC Jimmy
+1989 Holden Commodore
 1989 Honda Accord
 1989 Honda Prelude
 1989 Hyundai Sonata
@@ -2687,6 +2899,7 @@
 1990 Buick Riviera
 1990 Cadillac De Ville
 1990 Chevrolet Astro
+1990 Chevrolet Camaro
 1990 Chevrolet Cavalier Z24
 1990 Chrysler Daytona
 1990 Chrysler Dynasty
@@ -2697,7 +2910,11 @@
 1990 Chrysler Shadow
 1990 Chrysler Spirit
 1990 Chrysler Voyager
+1990 Citroën 2CV
+1990 Dacia 1300
+1990 De Tomaso Pantera
 1990 Dodge Caravan
+1990 Eagle Talon
 1990 Ferrari F40
 1990 Fiat 126
 1990 Fiat Uno
@@ -2717,6 +2934,7 @@
 1990 Geo Storm
 1990 Geo Tracker
 1990 GMC Jimmy
+1990 Holden Commodore
 1990 Honda NSX
 1990 Hyundai Elantra
 1990 Hyundai Scoupe
@@ -2780,6 +2998,7 @@
 1991 Buick Roadmaster
 1991 Cadillac De Ville
 1991 Chevrolet Astro
+1991 Chevrolet Camaro
 1991 Chevrolet Cavalier Z24
 1991 Chevrolet S-10
 1991 Chrysler Daytona
@@ -2791,6 +3010,9 @@
 1991 Chrysler Shadow
 1991 Chrysler Spirit
 1991 Chrysler Voyager
+1991 Dacia 1300
+1991 De Tomaso Pantera
+1991 Eagle Talon
 1991 Ferrari F40
 1991 Fiat 126
 1991 Fiat Ducato
@@ -2811,6 +3033,7 @@
 1991 GMC Jimmy
 1991 GMC Syclone
 1991 GMC Typhoon
+1991 Holden Commodore
 1991 Honda Beat
 1991 Honda NSX
 1991 Hyundai Elantra
@@ -2869,6 +3092,7 @@
 1992 Buick Roadmaster
 1992 Cadillac De Ville
 1992 Chevrolet Astro
+1992 Chevrolet Camaro
 1992 Chevrolet Cavalier Z24
 1992 Chevrolet S-10
 1992 Chevrolet Suburban
@@ -2882,9 +3106,12 @@
 1992 Chrysler Spirit
 1992 Chrysler Vision
 1992 Chrysler Voyager
+1992 Dacia 1300
 1992 Daihatsu Charade
 1992 Daihatsu Rocky
+1992 De Tomaso Pantera
 1992 Dodge Monaco
+1992 Eagle Talon
 1992 Eagle Premier
 1992 Ferrari F40
 1992 Fiat 126
@@ -2909,6 +3136,7 @@
 1992 GMC Syclone
 1992 GMC Typhoon
 1992 GMC Yukon
+1992 Holden Commodore
 1992 Honda Beat
 1992 Honda CR-X del Sol
 1992 Honda NSX
@@ -2979,6 +3207,7 @@
 1993 Cadillac Allanté
 1993 Cadillac De Ville
 1993 Chevrolet Astro
+1993 Chevrolet Camaro
 1993 Chevrolet Cavalier Z24
 1993 Chevrolet S-10
 1993 Chrysler Concorde
@@ -2993,6 +3222,7 @@
 1993 Chrysler Spirit
 1993 Chrysler Vision
 1993 Chrysler Voyager
+1993 Dacia 1300
 1993 Dodge Daytona
 1993 Dodge Dynasty
 1993 Dodge Ramcharger
@@ -3000,6 +3230,7 @@
 1993 Dodge Ram 250
 1993 Dodge Ram 350
 1993 Dodge Ram 50 Pickup
+1993 Eagle Talon
 1993 Fiat 126
 1993 Fiat Ducato
 1993 Fiat Uno
@@ -3023,6 +3254,7 @@
 1993 GMC Magnavan 6.2L V8 Diesel
 1993 GMC Typhoon
 1993 GMC Yukon
+1993 Holden Commodore
 1993 Holden Commodore SS
 1993 Honda Beat
 1993 Honda CR-X del Sol
@@ -3099,6 +3331,7 @@
 1994 Buick Roadmaster
 1994 Cadillac De Ville
 1994 Chevrolet Astro
+1994 Chevrolet Camaro
 1994 Chevrolet Cavalier Z24
 1994 Chevrolet Impala
 1994 Chevrolet S-10 Blazer
@@ -3113,8 +3346,10 @@
 1994 Chrysler Spirit
 1994 Chrysler Vision
 1994 Citroën Evasion
+1994 Dacia 1300
 1994 Dodge Colt
 1994 Dodge Shadow
+1994 Eagle Talon
 1994 Fiat 126
 1994 Fiat Ducato	
 1994 Fiat Uno
@@ -3134,6 +3369,7 @@
 1994 Geo Tracker
 1994 GMC Jimmy
 1994 GMC Yukon
+1994 Holden Commodore
 1994 Honda Accord
 1994 Honda Beat
 1994 Honda CR-X del Sol
@@ -3213,6 +3449,7 @@
 1995 Buick Roadmaster
 1995 Buick Skylark
 1995 Cadillac De Ville
+1995 Chevrolet Camaro
 1995 Chevrolet Cavalier
 1995 Chevrolet Corsica
 1995 Chevrolet Impala
@@ -3232,7 +3469,9 @@
 1995 Chrysler Vision
 1995 Chrysler Voyager
 1995 Citroën Evasion
+1995 Dacia 1300
 1995 Dodge Spirit
+1995 Eagle Talon
 1995 Ferrari F50
 1995 Fiat 126
 1995 Fiat Ducato
@@ -3253,6 +3492,7 @@
 1995 Geo Tracker
 1995 GMC Jimmy
 1995 GMC Yukon
+1995 Holden Commodore
 1995 Honda Accord
 1995 Honda Beat
 1995 Honda Civic
@@ -3332,6 +3572,7 @@
 1996 Buick Roadmaster Limited
 1996 Cadillac De Ville
 1996 Chevrolet Beretta
+1996 Chevrolet Camaro
 1996 Chevrolet Caprice
 1996 Chevrolet Cavalier
 1996 Chevrolet Corsica
@@ -3353,8 +3594,10 @@
 1996 Chrysler Vision
 1996 Chrysler Voyager
 1996 Citroën Evasion
+1996 Dacia 1300
 1996 Dodge Caravan
 1996 Dodge Stealth
+1996 Eagle Talon
 1996 Fiat 126
 1996 Fiat Ducato
 1996 Fiat Uno
@@ -3375,6 +3618,7 @@
 1996 GMC Rally Wagon G3500
 1996 GMC Rally Wagon G3500 H.D.
 1996 GMC Yukon
+1996 Holden Commodore
 1996 Honda Beat
 1996 Honda CR-X del Sol
 1996 Honda NSX
@@ -3449,6 +3693,7 @@
 1997 Buick LeSabre
 1997 Buick Riviera
 1997 Cadillac De Ville
+1997 Chevrolet Camaro
 1997 Chevrolet Cavalier
 1997 Chevrolet Malibu
 1997 Chevrolet S-10
@@ -3465,6 +3710,8 @@
 1997 Chrysler Vision
 1997 Chrysler Voyager
 1997 Citroën Evasion
+1997 Dacia 1300
+1997 Eagle Talon
 1997 Eagle Vision
 1997 Ferrari F40
 1997 Fiat 126
@@ -3490,6 +3737,7 @@
 1997 Geo Tracker
 1997 GMC Jimmy
 1997 GMC Yukon
+1997 Holden Commodore
 1997 Honda CR-V
 1997 Honda CR-X del Sol
 1997 Honda NSX
@@ -3568,6 +3816,7 @@
 1998 Buick Riviera
 1998 Cadillac De Ville
 1998 Chevrolet Blazer
+1998 Chevrolet Camaro
 1998 Chevrolet Cavalier
 1998 Chevrolet Malibu
 1998 Chevrolet S-10
@@ -3585,6 +3834,7 @@
 1998 Chrysler Viper
 1998 Chrysler Voyager
 1998 Citroën Evasion
+1998 Dacia 1300
 1998 Eagle Talon
 1998 Ferrari F355
 1998 Ferrari F550 Marenello
@@ -3607,6 +3857,7 @@
 1998 Ford XH Falcon
 1998 GMC Jimmy
 1998 GMC Yukon
+1998 Holden Commodore
 1998 Honda CR-V
 1998 Honda CR-X del Sol
 1998 Honda NSX
@@ -3697,6 +3948,7 @@
 1999 Cadillac De Ville
 1999 Chevrolet Astro
 1999 Chevrolet C/K 1500
+1999 Chevrolet Camaro
 1999 Chevrolet Cavalier
 1999 Chevrolet Malibu
 1999 Chevrolet Monte Carlo
@@ -3715,9 +3967,11 @@
 1999 Chrysler Viper
 1999 Chrysler Voyager
 1999 Citroën Evasion
+1999 Dacia 1300
 1999 Dodge Ram Van 1500
 1999 Dodge Ram Van 2500
 1999 Dodge Ram Van 3500
+1999 Ferrari 360
 1999 Fiat 126
 1999 Fiat Ducato
 1999 Fiat Uno
@@ -3744,6 +3998,7 @@
 1999 GMC Suburban 2500 SLE
 1999 GMC Suburban 2500 SLT
 1999 GMC Yukon
+1999 Holden Commodore
 1999 Holden Commodore Acclaim
 1999 Honda Civic
 1999 Honda CR-V
@@ -3842,6 +4097,7 @@
 2000 Chevrolet Monte Carlo SS
 2000 Chevrolet C/K 2500
 2000 Chevrolet C/K 3500
+2000 Chevrolet Camaro
 2000 Chevrolet Cavalier
 2000 Chevrolet Impala
 2000 Chevrolet Lumina
@@ -3865,6 +4121,8 @@
 2000 Chrysler Viper
 2000 Chrysler Voyager
 2000 Citroën Evasion
+2000 Dacia 1300
+2000 Ferrari 360
 2000 Fiat 126
 2000 Fiat Ducato
 2000 Fiat Uno
@@ -3893,6 +4151,7 @@
 2000 Ford Transit
 2000 GMC Jimmy
 2000 GMC Yukon
+2000 Holden Commodore
 2000 Honda CR-V
 2000 Honda Insight
 2000 Honda NSX
@@ -3972,6 +4231,7 @@
 2001 Buick GL8
 2001 Buick LeSabre
 2001 Cadillac De Ville
+2001 Chevrolet Camaro
 2001 Chevrolet Cavalier
 2001 Chevrolet Corvette Z06
 2001 Chevrolet Impala
@@ -3992,8 +4252,10 @@
 2001 Chrysler Voyager
 2001 Citroën Berlingo
 2001 Citroën Evasion
+2001 Dacia 1300
 2001 Daihatsu Copen
 2001 Dodge Ram 1500
+2001 Ferrari 360
 2001 Ferrari 550 Maranello
 2001 Fiat Ducato
 2001 Fiat Uno
@@ -4016,6 +4278,7 @@
 2001 GMC Jimmy SLE
 2001 GMC Jimmy SLS
 2001 GMC Yukon
+2001 Holden Commodore
 2001 Honda CR-V
 2001 Honda Insight
 2001 Honda NSX
@@ -4103,6 +4366,7 @@
 2002 Buick LeSabre
 2002 Cadillac De Ville
 2002 Cadillac Eldorado
+2002 Chevrolet Camaro
 2002 Chevrolet Cavalier
 2002 Chevrolet Impala
 2002 Chevrolet Malibu
@@ -4122,8 +4386,10 @@
 2002 Chrysler Viper
 2002 Chrysler Voyager
 2002 Citroën Evasion
+2002 Dacia 1300
 2002 Daihatsu Copen
 2002 Dodge Ram Wagon
+2002 Ferrari 360
 2002 Ferrari Enzo
 2002 Fiat Ducato
 2002 Fiat Uno
@@ -4143,6 +4409,7 @@
 2002 Ford Transit
 2002 GMC Jimmy
 2002 GMC Yukon
+2002 Holden Commodore
 2002 Honda CR-V
 2002 Honda Insight
 2002 Honda NSX
@@ -4259,9 +4526,11 @@
 2003 Chrysler Sebring
 2003 Chrysler Viper
 2003 Chrysler Voyager
+2003 Dacia 1300
 2003 Daihatsu Copen
 2003 Dodge Neon SRT-4
 2003 Dodge Ram Van
+2003 Ferrari 360
 2003 Ferrari Enzo
 2003 Fiat Ducato
 2003 Fiat Uno
@@ -4285,6 +4554,7 @@
 2003 GMC Canyon
 2003 GMC Jimmy
 2003 GMC Yukon
+2003 Holden Commodore
 2003 Honda CR-V
 2003 Honda Insight
 2003 Honda NSX
@@ -4401,6 +4671,7 @@
 2004 Chrysler PT Cruiser
 2004 Chrysler Sebring
 2004 Chrysler Voyager
+2004 Dacia 1300
 2004 Daihatsu Copen
 2004 Dodge Durango
 2004 Dodge Intrepid
@@ -4429,6 +4700,7 @@
 2004 GMC Sierra 2500 Crew Cab
 2004 GMC Sierra 2500 Regular Cab
 2004 GMC Yukon
+2004 Holden Commodore
 2004 Honda CR-V
 2004 Honda Elysion
 2004 Honda Insight
@@ -4561,6 +4833,7 @@
 2005 Chrysler PT Cruiser
 2005 Chrysler Sebring
 2005 Chrysler Voyager
+2005 Dacia 1300
 2005 Daihatsu Copen
 2005 Dodge Neon SRT-4
 2005 Fiat Uno
@@ -4586,6 +4859,7 @@
 2005 GMC Jimmy
 2005 GMC Safari
 2005 GMC Yukon
+2005 Holden Commodore
 2005 Holden Ute
 2005 Honda CR-V
 2005 Honda Elysion
@@ -4720,6 +4994,7 @@
 2006 Chrysler Sebring
 2006 Chrysler Voyager
 2006 Citroën C4 Picasso
+2006 Dacia 1300
 2006 Daihatsu Copen
 2006 Dodge Ram 2500
 2006 Dodge Stratus
@@ -4749,6 +5024,7 @@
 2006 GMC Sierra 1500HD SLE2
 2006 GMC Sierra 1500HD SLT
 2006 GMC Yukon
+2006 Holden Commodore
 2006 Holden Ute
 2006 Honda CR-V
 2006 Honda Elysion
@@ -4916,6 +5192,7 @@
 2007 GMC Sierra 3500 Crew Cab
 2007 GMC Sierra 3500 Regular Cab
 2007 GMC Yukon
+2007 Holden Commodore
 2007 Honda Civic Type R
 2007 Honda CR-V
 2007 Honda Elysion
@@ -5065,6 +5342,7 @@
 2008 GMC Acadia
 2008 GMC Canyon
 2008 GMC Yukon
+2008 Holden Commodore
 2008 Honda Civic
 2008 Honda CR-V
 2008 Honda Elysion
@@ -5229,6 +5507,7 @@
 2009 GMC Envoy SLT
 2009 GMC Terrain
 2009 GMC Yukon
+2009 Holden Commodore
 2009 Honda CR-V
 2009 Honda Elysion
 2009 HUMMER H2
@@ -5407,6 +5686,7 @@
 2010 GMC Canyon
 2010 GMC Terrain
 2010 GMC Yukon
+2010 Holden Commodore
 2010 Holden UTE SSV
 2010 Honda Accord Sedan
 2010 Honda Civic Coupe
@@ -5580,6 +5860,7 @@
 2011 GMC Canyon
 2011 GMC Terrain
 2011 GMC Yukon
+2011 Holden Commodore
 2011 Honda Civic
 2011 Honda CR-V
 2011 Honda Element
@@ -5752,6 +6033,7 @@
 2012 GMC Canyon
 2012 GMC Terrain
 2012 GMC Yukon
+2012 Holden Commodore
 2012 Honda CR-V
 2012 Honda Elysion
 2012 Hyundai Elantra
@@ -5961,6 +6243,7 @@
 2013 GMC Terrain
 2013 GMC Yukon Hybrid Base
 2013 GMC Yukon Hybrid Denali
+2013 Holden Commodore
 2013 Honda Accord EX-L V6
 2013 Honda Civic Hybrid
 2013 Honda Civic Natural Gas
@@ -6377,6 +6660,7 @@
 2015 GMC Acadia
 2015 GMC Terrain
 2015 GMC Yukon
+2015 Holden Commodore
 2015 Honda Accord Coupe
 2015 Honda Accord Sedan
 2015 Honda CR-V
@@ -6600,6 +6884,7 @@
 2016 GMC Savana 3500 Cargo Van
 2016 GMC Terrain
 2016 GMC Yukon
+2016 Holden Commodore
 2016 Honda Accord
 2016 Honda Civic
 2016 Honda CR-V
@@ -6811,6 +7096,7 @@
 2017 GMC Acadia Limited AWD
 2017 GMC Terrain
 2017 GMC Yukon
+2017 Holden Commodore
 2017 Holden Commodore
 2017 Honda Civic Type R
 2017 Honda CR-V
@@ -7038,6 +7324,7 @@
 2018 GMC Acadia
 2018 GMC Terrain
 2018 GMC Yukon
+2018 Holden Commodore
 2018 Honda CR-V
 2018 Honda Elysion
 2018 Honda Odyssey
@@ -7289,6 +7576,7 @@
 2019 GMC Sierra 1500 Limited SLE
 2019 GMC Terrain
 2019 GMC Yukon
+2019 Holden Commodore
 2019 Honda CR-V
 2019 Honda Elysion
 2019 Honda Odyssey
