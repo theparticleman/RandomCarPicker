@@ -306,6 +306,7 @@
 1951 Mercedes-Benz 300
 1951 Mercury Eight
 1951 Nash Rambler
+1951 Nash Statesman
 1951 Nissan Patrol
 1951 Packard 200
 1951 Pontiac Catalina
@@ -350,6 +351,7 @@
 1952 Kaiser Henry J. Corsair
 1952 Lancia Aurelia B20
 1952 Nash Rambler
+1952 Nash Statesman
 1952 International Harvester AL-110 Deluxe
 1952 Nissan Patrol
 1952 Pontiac Chieftain
@@ -389,6 +391,7 @@
 1953 Mercury M-100
 1953 MG TD
 1953 Morris Minor
+1953 Nash Statesman
 1953 Nissan Patrol
 1953 Packard Caribbean
 1953 Pontiac Chieftain
@@ -417,6 +420,7 @@
 1954 Hillman Husky
 1954 Holden FJ
 1954 Hudson Hornet
+1954 Hudson Metropolitan
 1954 Jaguar XK120
 1954 Kaiser Darrin
 1954 Lancia Aurelia B20
@@ -426,6 +430,7 @@
 1954 Mercedes-Benz W196
 1954 Mercury Monterey
 1954 Nash Metropolitan
+1954 Nash Statesman
 1954 Nissan Patrol
 1954 Pontiac Chieftain
 1954 Rolls-Royce Phantom IV
@@ -451,10 +456,13 @@
 1955 Hillman Husky
 1955 Holden FJ
 1955 Hudson Hornet
+1955 Hudson Metropolitan
 1955 Lancia Aurelia B20
 1955 Mercedes-Benz 300SL Gullwing
+1955 Messerschmitt KR200
 1955 MG MGA
 1955 Nash Metropolitan
+1955 Nash Statesman
 1955 Nissan Patrol
 1955 Pontiac Chieftain
 1955 Pontiac Star Chief
@@ -488,11 +496,14 @@
 1956 Hillman Husky
 1956 Holden FJ
 1956 Hudson Hornet
+1956 Hudson Metropolitan
 1956 Jaguar D-type
 1956 Lancia Aurelia B20
 1956 Mercury M-100
+1956 Messerschmitt KR200
 1956 MG MGA
 1956 Nash Metropolitan
+1956 Nash Statesman
 1956 Nissan Patrol
 1956 Pontiac Chieftain
 1956 Porsche 356A
@@ -533,7 +544,9 @@
 1957 Hillman Husky
 1957 Hindustan Ambassador
 1957 Hudson Hornet
+1957 Hudson Metropolitan
 1957 Lancia Aurelia B20
+1957 Messerschmitt KR200
 1957 MG MGA
 1957 Nash Cosmopolitan
 1957 Nash Metropolitan
@@ -550,6 +563,7 @@
 1957 Zündapp Janus
 1958 AC Ace-Bristol
 1958 AMC Ambassador
+1958 AMC Metropolitan
 1958 Aston Martin DB Mark III
 1958 Aston Martin DB4
 1958 Austin A35
@@ -582,6 +596,7 @@
 1958 Lancia Aurelia B20
 1958 Lincoln Capri
 1958 Mercury Commuter
+1958 Messerschmitt KR200
 1958 MG MGA
 1958 Morris Major
 1958 Morris Minor
@@ -601,6 +616,7 @@
 1958 Volvo Amazon
 1959 AC Ace-Bristol
 1959 AMC Ambassador
+1959 AMC Metropolitan
 1959 Aston Martin DB Mark III
 1959 Aston Martin DB4
 1959 Austin A35
@@ -638,6 +654,7 @@
 1959 Ford Ranchero
 1959 GAZ Chaika
 1959 Hindustan Ambassador
+1959 Messerschmitt KR200
 1959 MG MGA
 1959 Morris Major
 1959 Nash Metropolitan
@@ -656,6 +673,7 @@
 1959 Volvo Amazon
 1960 AC Ace-Bristol
 1960 AMC Ambassador
+1960 AMC Metropolitan
 1960 Aston Martin DB4
 1960 Austin A35
 1960 Austin A40 Farina
@@ -685,6 +703,7 @@
 1960 Hindustan Ambassador
 1960 Maserati 3500 GT
 1960 Mazda R360
+1960 Messerschmitt KR200
 1960 Morris Major
 1960 Nash Metropolitan
 1960 Nissan Patrol
@@ -701,6 +720,7 @@
 1960 Volvo Amazon
 1961 AC Ace-Bristol
 1961 AMC Ambassador
+1961 AMC Metropolitan
 1961 Aston Martin DB4
 1961 Austin A35
 1961 Austin A40 Farina
@@ -730,6 +750,7 @@
 1961 Lincoln Continental Convertible
 1961 Mazda R360
 1961 Mercedes-Benz E-Class
+1961 Messerschmitt KR200
 1961 Mini Cooper
 1961 Morris Major
 1961 Nash Metropolitan
@@ -752,6 +773,7 @@
 1962 AC Ace
 1962 Alfa Romeo Giulia
 1962 AMC Ambassador
+1962 AMC Metropolitan
 1962 Aston Martin DB4
 1962 Austin A35
 1962 Austin A40 Farina
@@ -784,6 +806,7 @@
 1962 Mazda R360
 1962 Mercedes-Benz 220 SE Coupe
 1962 Mercury M-100
+1962 Messerschmitt KR200
 1962 Mitsubishi Colt
 1962 Mitsubishi Minica
 1962 Morris Major
@@ -837,9 +860,10 @@
 1963 Hillman Imp
 1963 Jaguar E-Type
 1963 Lancia Fulvia
-1963 Mazda Famila
+1963 Mazda Familia
 1963 Mazda R360
 1963 Mercedes-Benz 600
+1963 Messerschmitt KR200
 1963 Mitsubishi Colt
 1963 Mitsubishi Minica
 1963 Morris Major
@@ -893,9 +917,10 @@
 1964 Ford Thunderbolt
 1964 Jaguar E-Type
 1964 Lincoln Continental
-1964 Mazda Famila
+1964 Mazda Familia
 1964 Mazda R360
 1964 Mercedes-Benz SL
+1964 Messerschmitt KR200
 1964 Mini Cooper
 1964 Mitsubishi Colt
 1964 Mitsubishi Minica
@@ -956,12 +981,14 @@
 1965 Ford Ranchero
 1965 Ford Transit
 1965 Jaguar E-Type
-1965 Mazda Famila
+1965 Mazda Familia
 1965 Mazda R360
 1965 Mitsubishi Colt
 1965 Mitsubishi Minica
 1965 Nissan Patrol
 1965 Oldsmobile 4-4-2
+1965 Oldsmobile Cutlass Supreme
+1965 Peel Trident
 1965 Plymouth Valiant
 1965 Pontiac Bonneville
 1965 Pontiac Grand Prix
@@ -1016,7 +1043,7 @@
 1966 Jaguar E-Type
 1966 Lamborghini 350 GT
 1966 Lamborghini Miura
-1966 Mazda Famila
+1966 Mazda Familia
 1966 Mazda R360
 1966 Mercury M-100
 1966 Mercury M-350
@@ -1026,6 +1053,8 @@
 1966 Nissan Patrol
 1966 Nissan Sunny
 1966 Oldsmobile 4-4-2
+1996 Oldsmobile Cutlass Supreme
+1966 Peel Trident
 1966 Plymouth Barracuda
 1966 Plymouth Valiant
 1966 Pontiac Bonneville
@@ -1093,14 +1122,16 @@
 1967 Lamborghini Miura
 1967 Lotus 49
 1967 Mazda Cosmo
-1967 Mazda Famila
+1967 Mazda Familia
 1967 Mazda R360
+1967 Mercury Cougar
 1967 Mitsubishi Colt
 1967 Mitsubishi Minica
 1967 Nissan Patrol
 1967 Nissan Sunny
 1967 NSU Sport Prinz
 1967 Oldsmobile 4-4-2
+1967 Oldsmobile Cutlass Supreme
 1967 Piaggio Ape Model D
 1967 Plymouth Valiant
 1967 Pontiac Bonneville
@@ -1164,7 +1195,7 @@
 1968 Jaguar E-Type
 1968 Lamborghini Miura
 1968 Mazda Cosmo
-1968 Mazda Famila
+1968 Mazda Familia
 1968 Mazda R360
 1968 Mercedes-Benz E-Class
 1968 Mercury Cougar
@@ -1173,6 +1204,7 @@
 1968 Nissan Patrol
 1968 Nissan Sunny
 1968 Oldsmobile 4-4-2
+1968 Oldsmobile Cutlass Supreme
 1968 Peugeot 504
 1968 Plymouth Barracuda Formula S
 1968 Plymouth Valiant
@@ -1243,7 +1275,9 @@
 1969 Holden Monaro
 1969 Honda N360
 1969 Lamborghini Miura
+1969 Mazda Familia
 1969 Mazda R360
+1969 Mercury Cougar
 1969 Mercury Cyclone
 1969 Mercury Marauder
 1969 MG MGB
@@ -1252,6 +1286,7 @@
 1969 Nissan Patrol
 1969 Nissan Sunny
 1969 Oldsmobile 4-4-2
+1969 Oldsmobile Cutlass Supreme
 1969 Plymouth Valiant
 1969 Pontiac Bonneville
 1969 Pontiac Grand Prix
@@ -1320,6 +1355,7 @@
 1970 Honda N360
 1970 Lamborghini Miura
 1970 Lotus Elan Sprint
+1970 Mazda Familia
 1970 Mercury Cougar
 1970 Mitsubishi Colt Galant GTO
 1970 Mitsubishi Minica
@@ -1327,6 +1363,7 @@
 1970 Nissan Patrol
 1970 Nissan Sunny
 1970 Oldsmobile 4-4-2
+1970 Oldsmobile Cutlass Supreme
 1970 Plymouth GTX 400
 1970 Plymouth Superbird
 1970 Plymouth Valiant
@@ -1406,6 +1443,8 @@
 1971 Lamborghini Miura
 1971 Lincoln Continental
 1971 Lotus Elan Sprint
+1971 Mazda Familia
+1971 Mercury Cougar
 1971 Mitsubishi Colt Galant GTO
 1971 Mitsubishi Minica
 1971 Morris 1300
@@ -1413,6 +1452,7 @@
 1971 Nissan Patrol
 1971 Nissan Sunny
 1971 Oldsmobile 4-4-2
+1971 Oldsmobile Cutlass Supreme
 1971 Plymouth Valiant
 1971 Pontiac Bonneville
 1971 Pontiac Grand Prix
@@ -1488,6 +1528,8 @@
 1972 Lamborghini Miura
 1972 Lincoln Continental Mk IV
 1972 Lotus Elan Sprint
+1972 Mazda Familia
+1972 Mercury Cougar
 1972 Mitsubishi Colt Galant GTO
 1972 Mitsubishi Minica
 1972 Morris 1300
@@ -1495,6 +1537,7 @@
 1972 Nissan Patrol
 1972 Nissan Sunny
 1972 Oldsmobile 4-4-2
+1972 Oldsmobile Cutlass Supreme
 1972 Plymouth Valiant
 1972 Pontiac Bonneville
 1972 Pontiac Grand Prix
@@ -1563,13 +1606,17 @@
 1973 Honda Life Step Van
 1973 Lamborghini Miura
 1973 Lotus Elan Sprint
+1973 Mazda Familia
+1973 Mercury Cougar
 1973 Mitsubishi Colt Galant GTO
+1973 Mitsubishi Lancer
 1973 Mitsubishi Minica
 1973 Morris 1300
 1973 Morris Marina
 1973 Nissan Patrol
 1973 Nissan Sunny
 1973 Oldsmobile 4-4-2
+1973 Oldsmobile Cutlass Supreme
 1973 Plymouth Valiant
 1973 Pontiac Bonneville
 1973 Pontiac Firebird Trans Am
@@ -1641,7 +1688,6 @@
 1974 Ford F-600
 1974 Ford F-700
 1974 Ford Falcon
-1974 Ford Fiesta
 1974 Ford Mustang
 1974 Ford Ranchero
 1974 Ford Taunus TC
@@ -1652,14 +1698,18 @@
 1974 Lamborghini Countach LP 400
 1974 Leyland P76
 1974 Lincoln Continental Mark IV
+1974 Mazda Familia
 1974 Mercedes-Benz 450SL
+1974 Mercury Cougar
 1974 Mitsubishi Colt Galant GTO
+1974 Mitsubishi Lancer
 1974 Mitsubishi Minica
 1974 Morris 1300
 1974 Morris Marina
 1974 Nissan Patrol
 1974 Nissan Sunny
 1974 Oldsmobile 4-4-2
+1974 Oldsmobile Cutlass Supreme
 1974 Plymouth Valiant
 1974 Pontiac Bonneville
 1974 Pontiac Grand Prix
@@ -1733,13 +1783,17 @@
 1975 Ford Transit
 1975 Holden HJ
 1975 Honda Civic RS
+1975 Mazda Familia
 1975 Mercedes-Benz 450SL
+1975 Mercury Cougar
 1975 Mitsubishi Colt Galant GTO
+1975 Mitsubishi Lancer
 1975 Mitsubishi Minica
 1975 Morris Marina
 1975 Nissan Patrol
 1975 Nissan Sunny
 1975 Oldsmobile 4-4-2
+1975 Oldsmobile Cutlass Supreme
 1975 Peugeot 504 Coupe
 1975 Plymouth Valiant
 1975 Pontiac Bonneville
@@ -1813,14 +1867,18 @@
 1976 Ford Taunus TC
 1976 Ford Transit
 1976 Honda Civic
+1976 Mazda Familia
 1976 Mercedes-Benz 450SL
 1976 Mercedes-Benz E-Class
+1976 Mercury Cougar
 1976 Mitsubishi Colt Galant GTO
+1976 Mitsubishi Lancer
 1976 Mitsubishi Minica
 1976 Morris Marina
 1976 Nissan Patrol
 1976 Nissan Sunny
 1976 Oldsmobile 4-4-2
+1976 Oldsmobile Cutlass Supreme
 1976 Plymouth Valiant
 1976 Pontiac Bonneville
 1976 Pontiac Grand Prix
@@ -1907,8 +1965,11 @@
 1977 Honda Civic
 1977 Lada Niva
 1977 Matra Rancho
+1977 Mazda Familia
 1977 Mercedes-Benz 450SL
+1977 Mercury Cougar
 1977 Mitsubishi Colt Galant GTO
+1977 Mitsubishi Lancer
 1977 Mitsubishi Minica
 1977 Morris Marina
 1977 Nissan Patrol
@@ -1990,14 +2051,18 @@
 1978 Ford Transit
 1978 Holden Commodore
 1978 Lada Niva
+1978 Mazda Familia
 1978 Mercedes-Benz 450SL
+1978 Mercury Cougar
 1978 Mitsubishi Colt
+1978 Mitsubishi Lancer
 1978 Mitsubishi Minica
 1978 Morris Marina
 1978 Nissan Patrol
+1978 Nissan Pulsar
 1978 Nissan Sunny
 1978 Oldsmobile 4-4-2
-1978 Oldsmobile Cutlass
+1978 Oldsmobile Cutlass Supreme
 1978 Plymouth Sapporo
 1978 Pontiac Firebird
 1978 Pontiac Bonneville
@@ -2069,16 +2134,20 @@
 1979 Ford Transit
 1979 Holden Commodore
 1979 Lada Niva
+1979 Mazda Familia
 1979 Mercedes-Benz 300D
 1979 Mercedes-Benz 450SL
 1979 Mercury Capri RS
+1979 Mercury Cougar
 1979 Mitsubishi Colt
+1979 Mitsubishi Lancer
 1979 Mitsubishi Minica
 1979 Morris Marina
 1979 Nissan Patrol
+1979 Nissan Pulsar
 1979 Nissan Sunny
 1979 Oldsmobile 4-4-2
-1979 Oldsmobile Cutlass
+1979 Oldsmobile Cutlass Supreme
 1979 Plymouth Sapporo
 1979 Pontiac Bonneville
 1979 Pontiac Grand Prix
@@ -2148,15 +2217,19 @@
 1980 Holden HZ
 1980 Lada Niva
 1980 Lincoln Town Car
+1980 Mazda Familia
 1980 Mercedes-Benz 450SL
 1980 Mercury Capri RS
+1980 Mercury Cougar
 1980 Mitsubishi Colt
+1980 Mitsubishi Lancer
 1980 Mitsubishi Minica
 1980 Morris Marina
 1980 Nissan Patrol
+1980 Nissan Pulsar
 1980 Nissan Sunny
 1980 Oldsmobile 4-4-2
-1980 Oldsmobile Cutlass
+1980 Oldsmobile Cutlass Supreme
 1980 Plymouth Sapporo
 1980 Pontiac Grand Prix
 1980 Pontiac Bonneville
@@ -2223,12 +2296,18 @@
 1981 Ford Transit
 1981 Holden Commodore
 1981 Lada Niva
+1981 Lincoln Town Car
+1981 Maserati Biturbo
+1981 Mazda Familia
 1981 Mercury Capri RS
+1981 Mercury Cougar
 1981 Mitsubishi Colt
+1981 Mitsubishi Lancer
 1981 Mitsubishi Minica
 1981 Nissan Patrol
+1981 Nissan Pulsar
 1981 Nissan Sunny
-1981 Oldsmobile Cutlass
+1981 Oldsmobile Cutlass Supreme
 1981 Oldsmobile Delta
 1981 Pontiac Grand Prix
 1981 Pontiac Bonneville
@@ -2300,11 +2379,19 @@
 1982 Jaguar XJ-S
 1982 Lada Niva
 1982 Lincoln Town Car
+1982 Maserati Biturbo
+1982 Mazda Familia
 1982 Mercury Capri RS
+1982 Mercury Cougar
 1982 Mitsubishi Colt
+1982 Mitsubishi Lancer
 1982 Mitsubishi Minica
 1982 Nissan Patrol
+1982 Nissan Pulsar
+1982 Nissan Sentra
 1982 Nissan Sunny
+1982 Oldsmobile Cutlass Supreme
+1982 Opel Corsa
 1982 Pontiac Bonneville
 1982 Pontiac Grand Prix
 1982 Porsche 911
@@ -2371,14 +2458,23 @@
 1983 GMC Jimmy
 1983 Holden Commodore
 1983 Hyundai Stellar
+1983 Jeep Cherokee
 1983 Lada Niva
 1983 Lincoln Town Car
+1983 Maserati Biturbo
+1983 Mazda Familia
 1983 Mercedes-Benz 380SL
 1983 Mercury Capri RS
+1983 Mercury Cougar
 1983 Mitsubishi Colt
+1983 Mitsubishi Lancer
 1983 Mitsubishi Minica
 1983 Nissan Patrol
+1983 Nissan Pulsar
+1983 Nissan Sentra
 1983 Nissan Sunny
+1983 Oldsmobile Cutlass Supreme
+1983 Opel Corsa
 1983 Pontiac Bonneville
 1983 Pontiac Grand Prix
 1983 Porsche 911
@@ -2445,15 +2541,24 @@
 1984 GMC Jimmy
 1984 Holden Commodore
 1984 Hyundai Stellar
+1984 Jeep Cherokee
 1984 Jeep Grand Wagoneer
 1984 Lada Niva
 1984 Leyland P76
 1984 Lincoln Town Car
+1984 Maserati Biturbo
+1984 Mazda Familia
 1984 Mercury Colony Park
+1984 Mercury Cougar
 1984 Mitsubishi Colt
+1984 Mitsubishi Lancer
 1984 Mitsubishi Minica
 1984 Nissan Patrol
+1984 Nissan Pulsar
+1984 Nissan Sentra
 1984 Nissan Sunny
+1984 Oldsmobile Cutlass Supreme
+1984 Opel Corsa
 1984 Pontiac Bonneville
 1984 Pontiac Firebird Trans Am
 1984 Pontiac Grand Prix
@@ -2524,15 +2629,23 @@
 1985 Jeep Grand Cherokee
 1985 Lada Niva
 1985 Lincoln Town Car
+1985 Maserati Biturbo
+1985 Mazda Familia
 1985 Mitsubishi Colt
+1985 Mitsubishi Lancer
 1985 Mitsubishi Minica
 1985 Mitsubishi Starion
 1985 Mercedes-Benz E-Class
+1985 Mercury Cougar
 1985 Nissan Pathfinder
 1985 Nissan Patrol
+1985 Nissan Pulsar
+1985 Nissan Sentra
 1985 Nissan Sunny
 1985 Oldsmobile 4-4-2
 1985 Oldsmobile Cutlass Ciera
+1985 Oldsmobile Cutlass Supreme
+1985 Opel Corsa
 1985 Peugeot 205 T16
 1985 Pontiac Bonneville
 1985 Pontiac Grand Prix
@@ -2602,17 +2715,26 @@
 1986 Honda Civic
 1986 Hyundai Sonata
 1986 Hyundai Stellar
+1986 Jeep Cherokee
 1986 Jeep Wrangler
 1986 Lada Niva
 1986 Lamborghini LM002
 1986 Lincoln Town Car
+1986 Maserati Biturbo
+1986 Mazda Familia
+1986 Mercury Cougar
 1986 Mitsubishi Colt
+1986 Mitsubishi Lancer
 1986 Mitsubishi Minica
 1986 Nissan Pathfinder
 1986 Nissan Patrol
+1986 Nissan Pulsar
+1986 Nissan Sentra
 1986 Nissan Sunny
 1986 Oldsmobile 4-4-2
+1986 Oldsmobile Cutlass Supreme
 1986 Opel Ascona
+1986 Opel Corsa
 1986 Plymouth Reliant
 1986 Pontiac Bonneville
 1986 Pontiac Grand Prix
@@ -2684,17 +2806,25 @@
 1987 Honda Civic
 1987 Hyundai Sonata
 1987 Hyundai Stellar
+1987 Jeep Cherokee
 1987 Jeep Wrangler
 1987 Lada Niva
 1987 Lancia Delta Integrale
 1987 Lincoln Town Car
+1987 Maserati Biturbo
+1987 Mazda Familia
 1987 Mercury Cougar
 1987 Mitsubishi Colt
+1987 Mitsubishi Lancer
 1987 Mitsubishi Minica
 1987 Nissan Pathfinder
 1987 Nissan Patrol
+1987 Nissan Pulsar
+1987 Nissan Sentra
 1987 Nissan Sunny
 1987 Oldsmobile 4-4-2
+1987 Oldsmobile Cutlass Supreme
+1987 Opel Corsa
 1987 Plymouth Reliant
 1987 Pontiac Bonneville
 1987 Pontiac Grand Prix
@@ -2762,20 +2892,29 @@
 1988 Ford Taurus
 1988 Ford Tempo
 1988 Ford Transit
+1988 Geo Spectrum
 1988 GMC Jimmy
 1988 Holden Commodore
 1988 Hyundai Sonata
 1988 Hyundai Stellar
+1988 Jeep Cherokee
 1988 Lada Niva
 1988 Lamborghini Jalpa
 1988 Land Rover Defender series II
 1988 Lincoln Town Car
+1988 Maserati Biturbo
+1988 Mazda Familia
 1988 Mercury Cougar
 1988 Mitsubishi Colt
+1988 Mitsubishi Lancer
 1988 Mitsubishi Minica
 1988 Nissan Pathfinder
 1988 Nissan Patrol
+1988 Nissan Pulsar
+1988 Nissan Sentra
 1988 Nissan Sunny
+1988 Oldsmobile Cutlass Supreme
+1988 Opel Corsa
 1988 Plymouth Reliant
 1988 Pontiac Bonneville
 1988 Pontiac Grand Prix
@@ -2854,19 +2993,28 @@
 1989 Honda Prelude
 1989 Hyundai Sonata
 1989 Hyundai Stellar
+1989 Jeep Cherokee
 1989 Jeep Wrangler
 1989 Lada Niva
 1989 Land Rover Discovery
 1989 Lincoln Town Car
+1989 Maserati Biturbo
+1989 Mazda Familia
 1989 Mazda MX-5 Miata
+1989 Mercury Cougar
 1989 Mitsubishi Colt
+1989 Mitsubishi Lancer
 1989 Mitsubishi Minica
 1989 Nissan 240SX
 1989 Nissan Pathfinder
 1989 Nissan Patrol
+1989 Nissan Pulsar
+1989 Nissan Sentra
 1989 Nissan Silvia S13
 1989 Nissan Skyline GT-R
 1989 Nissan Sunny
+1989 Oldsmobile Cutlass Supreme
+1989 Opel Corsa
 1989 Pontiac Bonneville
 1989 Pontiac Grand Prix
 1989 Porsche 911
@@ -2945,21 +3093,30 @@
 1990 Hyundai Sonata
 1990 Hyundai Stellar
 1990 Jaguar XJR-15
+1990 Jeep Cherokee
 1990 Jeep Wrangler
 1990 Lada Niva
 1990 Lamborghini Diablo
 1990 Land Rover Discovery
 1990 Lincoln Town Car
+1990 Maserati Biturbo
+1990 Mazda Familia
 1990 Mazda MX-5 Miata
+1990 Mercury Cougar
 1990 Mercury Sable
 1990 Mitsubishi Colt
+1990 Mitsubishi Lancer
 1990 Mitsubishi Minica
 1990 Nissan 300ZX
 1990 Nissan Pathfinder
 1990 Nissan Patrol
+1990 Nissan Pulsar
+1990 Nissan Sentra
 1990 Nissan Skyline GT-R
 1990 Nissan Sunny
 1990 Oldsmobile 4-4-2
+1990 Oldsmobile Cutlass Supreme
+1990 Opel Corsa
 1990 Pontiac Bonneville
 1990 Pontiac Grand Prix
 1990 Porsche 911
@@ -3043,18 +3200,27 @@
 1991 Hyundai Elantra
 1991 Hyundai Sonata
 1991 Hyundai Stellar
+1991 Jeep Cherokee
 1991 Jeep Wrangler
 1991 Lada Niva
 1991 Land Rover Discovery
 1991 Lincoln Town Car
+1991 Maserati Biturbo
+1991 Mazda Familia
 1991 Mazda MX-5 Miata
+1991 Mercury Cougar
 1991 Mitsubishi Colt
+1991 Mitsubishi Lancer
 1991 Mitsubishi Minica
 1991 Nissan 300ZX
 1991 Nissan Pathfinder
 1991 Nissan Patrol
+1991 Nissan Pulsar
+1991 Nissan Sentra
 1991 Nissan Sunny
 1991 Oldsmobile 4-4-2
+1991 Oldsmobile Cutlass Supreme
+1991 Opel Corsa
 1991 Pontiac Bonneville
 1991 Pontiac Grand Prix
 1991 Porsche 911
@@ -3150,6 +3316,7 @@
 1992 Infiniti M30
 1992 Isuzu Impulse Coupe
 1992 Isuzu Impulse Hatchback
+1992 Jeep Cherokee
 1992 Jeep Grand Cherokee
 1992 Jeep Wrangler
 1992 Lada Niva
@@ -3157,15 +3324,22 @@
 1992 Land Rover Discovery
 1992 Lincoln Town Car
 1992 Maserati Biturbo
+1992 Mazda Familia
 1992 Mazda MX-5 Miata
 1992 McLaren F1
 1992 Mercury Grand Marquis
+1992 Mercury Cougar
 1992 Mitsubishi Colt
+1992 Mitsubishi Lancer
 1992 Mitsubishi Minica
 1992 Nissan 300ZX
 1992 Nissan Pathfinder
 1992 Nissan Patrol
+1992 Nissan Pulsar
+1992 Nissan Sentra
 1992 Nissan Sunny
+1992 Oldsmobile Cutlass Supreme
+1992 Opel Corsa
 1992 Pontiac Bonneville
 1992 Pontiac Grand Prix
 1992 Porsche 911
@@ -3266,11 +3440,14 @@
 1993 Hyundai Elantra
 1993 Hyundai Sonata
 1993 Isuzu Stylus
+1993 Jeep Cherokee
 1993 Jeep Grand Cherokee
 1993 Jeep Wrangler
 1993 Lada Niva
 1993 Land Rover Discovery
 1993 Lincoln Town Car
+1993 Maserati Biturbo
+1993 Mazda Familia
 1993 Mazda MX-5 Miata
 1993 McLaren F1
 1993 Mercedes-Benz 190E
@@ -3279,13 +3456,20 @@
 1993 Mercedes-Benz 500E
 1993 Mercedes-Benz 500-Class
 1993 Mercedes-Benz 600-Class
-1993 Mitsubishi Colt2
+1993 Mercedes-Benz C-Class
+1993 Mercury Cougar
+1993 Mitsubishi Colt
+1993 Mitsubishi Lancer
 1993 Mitsubishi Minica
 1993 Nissan 300ZX
 1993 Nissan Pathfinder
 1993 Nissan Patrol
+1993 Nissan Pulsar
+1993 Nissan Sentra
 1993 Nissan Sunny
 1993 Nissan Terrano II
+1993 Oldsmobile Cutlass Supreme
+1993 Opel Corsa
 1993 Peugeot 205 GTI
 1993 Pontiac Bonneville
 1993 Pontiac Grand Prix
@@ -3381,23 +3565,33 @@
 1994 Hyundai Elantra
 1994 Hyundai Sonata
 1994 Jaguar XJ220
+1994 Jeep Cherokee
 1994 Jeep Grand Cherokee
 1994 Jeep Wrangler
 1994 Lada Niva
 1994 Land Rover Discovery
 1994 Lincoln Town Car
+1994 Maserati Biturbo
 1994 Mazda 323
+1994 Mazda Familia
 1994 Mazda MX-5 Miata
 1994 Mazda Navajo
 1994 McLaren F1
+1994 Mercedes-Benz C-Class
+1994 Mercury Cougar
 1994 Mitsubishi Colt
 1994 Mitsubishi Eclipse GSX
+1994 Mitsubishi Lancer
 1994 Mitsubishi Minica
 1994 Nissan 300ZX
 1994 Nissan Pathfinder
 1994 Nissan Patrol
+1994 Nissan Pulsar
+1994 Nissan Sentra
 1994 Nissan Sunny
 1994 Nissan Terrano II
+1994 Oldsmobile Cutlass Supreme
+1994 Opel Corsa
 1994 Opel Omega
 1994 Peugeot 205 GTI
 1994 Plymouth Sundance
@@ -3506,6 +3700,7 @@
 1995 Hyundai Elantra
 1995 Hyundai Scoupe
 1995 Hyundai Sonata
+1995 Jeep Cherokee
 1995 Jeep Grand Cherokee
 1995 Jeep Wrangler
 1995 Lada Niva
@@ -3514,19 +3709,27 @@
 1995 Land Rover Range Rover
 1995 Lincoln Town Car
 1995 Mazda 929
+1995 Mazda Familia
 1995 Mazda MX-3
 1995 Mazda MX-5 Miata
 1995 Mazda RX-7
-1995 Mercury Cougar XR7
 1995 McLaren F1
+1995 Mercedes-Benz C-Class
+1995 Mercury Cougar
 1995 Mitsubishi Colt
+1995 Mitsubishi Lancer
 1995 Mitsubishi Mighty Max Pickup
 1995 Mitsubishi Minica
 1995 Nissan 300ZX
+1995 Nissan Almera
 1995 Nissan Pathfinder
 1995 Nissan Patrol
+1995 Nissan Pulsar
+1995 Nissan Sentra
 1995 Nissan Sunny
 1995 Nissan Terrano II
+1995 Oldsmobile Cutlass Supreme
+1995 Opel Corsa
 1995 Peugeot 205 GTI
 1995 Peugeot 406
 1995 Pontiac Bonneville
@@ -3629,24 +3832,35 @@
 1996 Hyundai Elantra
 1996 Hyundai Sonata
 1996 Jaguar XJS
+1996 Jeep Cherokee
 1996 Jeep Grand Cherokee
 1996 Jeep Wrangler
 1996 Lada Niva
+1996 Lancia Ypsilon
 1996 Land Rover Discovery
 1996 Lotus Elise
 1996 Lincoln Town Car
 1996 Mazda 626 Cronos
+1996 Mazda Familia
 1996 Mazda MX-5 Miata
 1996 Mazda Xedos 6
 1996 McLaren F1
+1996 Mercedes-Benz C-Class
+1996 Mercury Cougar
 1996 Mitsubishi Colt
+1996 Mitsubishi Lancer
 1996 Mitsubishi Minica
 1996 Nissan 200SX
 1996 Nissan 300ZX
+1996 Nissan Almera
 1996 Nissan Pathfinder
 1996 Nissan Patrol
+1996 Nissan Pulsar
+1996 Nissan Sentra
 1996 Nissan Sunny
 1996 Nissan Terrano II
+1996 Oldsmobile Cutlass Supreme
+1996 Opel Corsa
 1996 Peugeot 205 GTI
 1996 Pontiac Bonneville
 1996 Pontiac Firebird
@@ -3748,23 +3962,34 @@
 1997 Hyundai Elantra
 1997 Hyundai Sonata
 1997 Isuzu Rodeo
+1997 Jeep Cherokee
 1997 Jeep Grand Cherokee
 1997 Jeep Wrangler
 1997 Lada Niva
+1997 Lancia Ypsilon
 1997 Land Rover Defender 90
 1997 Land Rover Discovery
 1997 Lincoln Navigator
 1997 Lincoln Town Car
 1997 Lotus Elise
+1997 Mazda Familia
 1997 Mazda MX-5 Miata
 1997 McLaren F1
+1997 Mercedes-Benz C-Class
+1997 Mercury Cougar
 1997 Mitsubishi Colt
+1997 Mitsubishi Lancer
 1997 Mitsubishi Minica
+1997 Nissan Almera
 1997 Nissan Elgrand
 1997 Nissan Pathfinder
 1997 Nissan Patrol
+1997 Nissan Pulsar
+1997 Nissan Sentra
 1997 Nissan Sunny
 1997 Nissan Terrano II
+1997 Oldsmobile Cutlass Supreme
+1997 Opel Corsa
 1997 Peugeot 205 GTI
 1997 Pontiac Bonneville
 1997 Pontiac Grand Prix
@@ -3867,25 +4092,35 @@
 1998 Honda NSX
 1998 Hyundai Elantra
 1998 Hyundai Sonata
+1998 Jeep Cherokee
 1998 Jeep Grand Cherokee
 1998 Jeep Wrangler
 1998 Lada Niva
+1998 Lancia Ypsilon
 1998 Land Rover Discovery
 1998 Lexus IS
 1998 Lincoln Navigator
 1998 Lincoln Town Car
 1998 Lotus Elise
 1998 Lotus Esprit
+1998 Mazda Familia
 1998 Mazda MX-5 Miata
 1998 McLaren F1
+1998 Mercedes-Benz C-Class
 1998 Mitsubishi Colt
+1998 Mitsubishi Lancer
 1998 Mitsubishi Minica
 1998 Nissan 240SX
+1998 Nissan Almera
 1998 Nissan Elgrand
 1998 Nissan Pathfinder
 1998 Nissan Patrol
+1998 Nissan Pulsar
+1998 Nissan Sentra
+1998 Nissan Sunny
 1998 Nissan Terrano II
 1998 Oldsmobile Achieva
+1998 Opel Corsa
 1998 Peugeot 205 GTI
 1998 Pontiac Bonneville
 1998 Pontiac Grand Prix
@@ -4010,25 +4245,35 @@
 1999 Hyundai Elantra
 1999 Hyundai Sonata
 1999 Isuzu Oasis
+1999 Jeep Cherokee
 1999 Jeep Grand Cherokee
 1999 Jeep Wrangler
 1999 Lada Niva
+1999 Lancia Ypsilon
 1999 Lincoln Navigator
 1999 Lincoln Town Car
 1999 Lotus Elise
 1999 Mazda B2500
+1999 Mazda Familia
 1999 Mazda MX-5 Miata
+1999 Mercedes-Benz C-Class
+1999 Mercury Cougar
 1999 Mercury Tracer
 1999 Mitsubishi Colt
+1999 Mitsubishi Lancer
 1999 Mitsubishi Minica
+1999 Nissan Almera
 1999 Nissan Altima
 1999 Nissan Elgrand
 1999 Nissan GT-R
 1999 Nissan Pathfinder
 1999 Nissan Patrol
+1999 Nissan Pulsar
+1999 Nissan Sentra
 1999 Nissan Sunny
 1999 Nissan Terrano II
 1999 Oldsmobile Aurora
+1999 Opel Corsa
 1999 Pagani Zonda
 1999 Peugeot 607
 1999 Pontiac Bonneville
@@ -4166,20 +4411,30 @@
 2000 Isuzu Amigo S 2.2L Soft Top
 2000 Isuzu Hombre Regular Cab
 2000 Isuzu Hombre Space Cab
+2000 Jeep Cherokee
 2000 Jeep Grand Cherokee
 2000 Jeep Wrangler
 2000 Lada Niva
+2000 Lancia Ypsilon
 2000 Lincoln Navigator
 2000 Lincoln Town Car
 2000 Lotus Elise
+2000 Mazda Familia
 2000 Mazda MX-5 Miata
+2000 Mercedes-Benz C-Class
+2000 Mercury Cougar
 2000 Mitsubishi Colt
+2000 Mitsubishi Lancer
 2000 Mitsubishi Minica
+2000 Nissan Almera
 2000 Nissan Elgrand
 2000 Nissan Pathfinder
 2000 Nissan Patrol
+2000 Nissan Pulsar
+2000 Nissan Sentra
 2000 Nissan Sunny
 2000 Nissan Terrano II
+2000 Opel Corsa
 2000 Peugeot 607
 2000 Plymouth Breeze
 2000 Plymouth Voyager
@@ -4296,24 +4551,34 @@
 2001 Infiniti I30 Touring
 2001 Isuzu VehiCROSS
 2001 Jaguar XKR Silverstone
+2001 Jeep Cherokee
 2001 Jeep Grand Cherokee
 2001 Jeep Wrangler
 2001 Kia Sephia
 2001 Lada Niva
+2001 Lancia Ypsilon
 2001 Lexus SC
 2001 Lincoln Navigator
 2001 Lincoln Town Car
 2001 Lotus Elise
+2001 Mazda Familia
 2001 Mazda MX-5 Miata
+2001 Mercedes-Benz C-Class
 2001 Mercedes-Benz E55 AMG
+2001 Mercury Cougar
 2001 Mitsubishi Colt
+2001 Mitsubishi Lancer
 2001 Mitsubishi Minica
 2001 Morgan Aero 8
+2001 Nissan Almera
 2001 Nissan Elgrand
 2001 Nissan Pathfinder
 2001 Nissan Patrol
+2001 Nissan Pulsar
+2001 Nissan Sentra
 2001 Nissan Sunny
 2001 Nissan Terrano II
+2001 Opel Corsa
 2001 Peugeot 607
 2001 Plymouth Neon
 2001 Plymouth Prowler
@@ -4432,23 +4697,33 @@
 2002 Jeep Wrangler
 2002 Koenigsegg CC8S
 2002 Lada Niva
+2002 Lancia Ypsilon
 2002 Land Rover Discovery Series II
 2002 Lexus SC
 2002 Lincoln Blackwood
 2002 Lincoln Navigator
 2002 Lincoln Town Car
+2002 Lotus Elise
 2002 Mazda 626
+2002 Mazda Familia
 2002 Mazda Millenia
 2002 Mazda MX-5 Miata
+2002 Mercedes-Benz C-Class
 2002 Mercedes-Benz G500
+2002 Mercury Cougar
 2002 Mitsubishi Colt
 2002 Mitsubishi Gallant
+2002 Mitsubishi Lancer
 2002 Mitsubishi Minica
+2002 Nissan Almera
 2002 Nissan Elgrand
 2002 Nissan Pathfinder
 2002 Nissan Patrol
+2002 Nissan Pulsar
+2002 Nissan Sentra
 2002 Nissan Sunny
 2002 Nissan Terrano II
+2002 Opel Corsa
 2002 Peugeot 607
 2002 Pontiac Bonneville
 2002 Pontiac Grand Prix
@@ -4478,6 +4753,7 @@
 2002 Toyota Highlander
 2002 Toyota Hilux
 2002 Toyota Prius
+2002 Toyota Probox
 2002 Toyota RAV4
 2002 Toyota Sienna
 2002 Toyota Vios
@@ -4575,26 +4851,34 @@
 2003 Jeep Wrangler
 2003 Lada Niva
 2003 Lamborghini Gallardo
+2003 Lancia Ypsilon
 2003 Land Rover Range Rover
 2003 Lexus SC
 2003 Lincoln Navigator
 2003 Lincoln Town Car
+2003 Lotus Elise
 2003 Mazda5
+2003 Mazda Familia
 2003 Mazda MX-5 Miata
 2003 Mazda Protege
 2003 Mazda Protege5
+2003 Mercedes-Benz C-Class
 2003 Mercedes-Benz SLR McLaren
 2003 Mini Cooper S
 2003 Mitsubishi Colt
 2003 Mitsubishi Lancer Evolution
 2003 Mitsubishi Minica
+2003 Nissan Almera
 2003 Nissan Armada
 2003 Nissan Elgrand
 2003 Nissan Pathfinder
 2003 Nissan Patrol
+2003 Nissan Pulsar
+2003 Nissan Sentra
 2003 Nissan Sunny
 2003 Nissan Terrano II
 2003 Nissan Titan
+2003 Opel Corsa
 2003 Opel Meriva
 2003 Peugeot 607
 2003 Pontiac Aztek
@@ -4730,28 +5014,36 @@
 2004 Jeep Wrangler
 2004 Koenigsegg CCR
 2004 Lada Niva
+2004 Lamborghini Gallardo
+2004 Lancia Ypsilon
 2004 Lexus SC
 2004 Lincoln Navigator
 2004 Lincoln Town Car
+2004 Lotus Elise
 2004 Lotus Esprit
 2004 Lotus Exige
 2004 Mazda5
 2004 Mazda MX-5 Miata
 2004 Mercedes-Benz A-Class
+2004 Mercedes-Benz C-Class
 2004 Mercedes-Benz S550
 2004 Mercury Grand Marquis
 2004 Mitsubishi Colt
 2004 Mitsubishi Lancer Evolution
 2004 Mitsubishi Minica
+2004 Nissan Almera
 2004 Nissan Armada
 2004 Nissan Elgrand
 2004 Nissan Pathfinder
 2004 Nissan Patrol
+2004 Nissan Pulsar
+2004 Nissan Sentra
 2004 Nissan Sunny
 2004 Nissan Terrano II
 2004 Nissan Titan
 2004 Oldsmobile Alero
 2004 Opel Astra H
+2004 Opel Corsa
 2004 Opel Meriva
 2004 Peugeot 607
 2004 Pontiac Bonneville
@@ -4894,6 +5186,8 @@
 2005 Jeep Wrangler X
 2005 Koenigsegg CCX
 2005 Lada Niva
+2005 Lamborghini Gallardo
+2005 Lancia Ypsilon
 2005 Land Rover Freelander
 2005 Land Rover Range Rover Sport
 2005 Lexus RX330
@@ -4904,15 +5198,21 @@
 2005 Lotus Elise
 2005 Lotus Exige
 2005 Mazda MX-5 Miata
+2005 Mercedes-Benz C-Class
 2005 Mitsubishi Colt
+2005 Mitsubishi Lancer
 2005 Mitsubishi Minica
+2005 Nissan Almera
 2005 Nissan Armada
 2005 Nissan Elgrand
 2005 Nissan Pathfinder
 2005 Nissan Patrol
+2005 Nissan Pulsar
+2005 Nissan Sentra
 2005 Nissan Sunny
 2005 Nissan Terrano II
 2005 Nissan Titan
+2005 Opel Corsa
 2005 Opel Meriva
 2005 Perodua Myvi
 2005 Peugeot 107
@@ -5054,8 +5354,10 @@
 2006 Infiniti QX80
 2006 Jeep Grand Cherokee
 2006 Jeep Wrangler
-2006 Koenigsegg CCX-R
+2006 Koenigsegg CCXR
 2006 Lada Niva
+2006 Lamborghini Gallardo
+2006 Lancia Ypsilon
 2006 Land Rover Range Rover
 2006 Lexus SC
 2006 Lincoln Mark LT
@@ -5066,16 +5368,21 @@
 2006 Mazda MX-5 Miata
 2006 Mazda MPV
 2006 Maserati Quattroporte
+2006 Mercedes-Benz C-Class
 2006 Mercedes-Benz CLS55
 2006 Mercedes-Benz E-Class
 2006 Mitsubishi Colt
+2006 Mitsubishi Lancer
 2006 Mitsubishi Minica
+2006 Nissan Almera
 2006 Nissan Armada
 2006 Nissan Elgrand
 2006 Nissan Pathfinder
 2006 Nissan Patrol
+2006 Nissan Sentra
 2006 Nissan Sunny
 2006 Nissan Titan
+2006 Opel Corsa
 2006 Opel Meriva
 2006 Panoz Esperante
 2006 Perodua Myvi
@@ -5223,7 +5530,10 @@
 2007 Infiniti QX80
 2007 Jeep Grand Cherokee
 2007 Jeep Wrangler
+2007 Koenigsegg CCX
 2007 Lada Niva
+2007 Lamborghini Gallardo
+2007 Lancia Ypsilon
 2007 Lexus ES
 2007 Lexus SC
 2007 Lincoln Mark LT
@@ -5233,15 +5543,20 @@
 2007 Lotus Exige
 2007 Mazda MX-5 Miata
 2007 Mazda6
+2007 Mercedes-Benz C-Class
 2007 Mercedes-Benz E63 AMG
 2007 Mercury Monterey
 2007 Mitsubishi Colt
+2007 Mitsubishi Lancer
 2007 Mitsubishi Minica
+2007 Nissan Almera
 2007 Nissan Armada
 2007 Nissan Elgrand
 2007 Nissan Pathfinder
 2007 Nissan Patrol
+2007 Nissan Sentra
 2007 Nissan Titan
+2007 Opel Corsa
 2007 Opel Meriva
 2007 Perodua Myvi
 2007 Peugeot 107
@@ -5387,7 +5702,10 @@
 2008 Kia Sedona Base
 2008 Kia Sedona EX
 2008 Kia Soul
+2008 Koenigsegg CCX
 2008 Lada Niva
+2008 Lamborghini Gallardo
+2008 Lancia Ypsilon
 2008 Lexus SC
 2008 Lincoln Navigator
 2008 Lincoln Town Car
@@ -5396,13 +5714,18 @@
 2008 Mazda 2
 2008 Mazda MX-5 Miata
 2008 Mazda RX-8
+2008 Mercedes-Benz C-Class
 2008 Mitsubishi Colt
+2008 Mitsubishi Lancer
+2008 Nissan Almera
 2008 Nissan Armada
 2008 Nissan Elgrand
 2008 Nissan Pathfinder
 2008 Nissan Patrol
 2008 Nissan Rogue
+2008 Nissan Sentra
 2008 Nissan Titan
+2008 Opel Corsa
 2008 Opel Meriva
 2008 Perodua Myvi
 2008 Peugeot 107
@@ -5552,7 +5875,10 @@
 2009 Kia Soul
 2009 Kia Spectra
 2009 Kia Venga
+2009 Koenigsegg CCX
 2009 Lada Niva
+2009 Lamborghini Gallardo
+2009 Lancia Ypsilon
 2009 Land Rover LR3
 2009 Lexus RX
 2009 Lexus SC
@@ -5564,9 +5890,11 @@
 2009 Mazda B-Series Pickup
 2009 Mazda MX-5 Miata
 2009 Mazda Tribute Hybrid
+2009 Mercedes-Benz C-Class
 2009 Mercedes-Benz CLK-Class
 2009 Mercedes-Benz SLR McLaren
 2009 Mitsubishi Colt
+2009 Mitsubishi Lancer
 2009 Mitsubishi Raider
 2009 Morgan AeroMax
 2009 Nissan Armada
@@ -5576,6 +5904,7 @@
 2009 Nissan Pathfinder
 2009 Nissan Patrol
 2009 Nissan Rogue
+2009 Nissan Sentra
 2009 Nissan Titan
 2009 Noble M600
 2009 Opel Corsa
@@ -5728,8 +6057,11 @@
 2010 Jeep Wrangler
 2010 Kia Soul
 2010 Kia Venga
+2010 Koenigsegg CCX
 2010 Lada Niva
+2010 Lamborghini Gallardo
 2010 Lamborghini Murcielago
+2010 Lancia Ypsilon
 2010 Lexus LFA
 2010 Lexus SC
 2010 Lincoln MKT
@@ -5740,8 +6072,10 @@
 2010 Luxgen M7
 2010 Mazda MX-5 Miata
 2010 Mazda RX-8
+2010 Mercedes-Benz C-Class
 2010 Mini Cooper S Cabriolet
 2010 Mitsubishi Colt
+2010 Mitsubishi Lancer
 2010 Nissan Armada
 2010 Nissan Cube
 2010 Nissan Elgrand
@@ -5749,7 +6083,9 @@
 2010 Nissan Pathfinder
 2010 Nissan Patrol
 2010 Nissan Rogue
+2010 Nissan Sentra
 2010 Nissan Titan
+2010 Opel Corsa
 2010 Opel Meriva
 2010 Perodua Myvi
 2010 Peugeot 107
@@ -5903,6 +6239,8 @@
 2011 Lada Granta
 2011 Lada Niva
 2011 Lamborghini Aventador
+2011 Lamborghini Gallardo
+2011 Lancia Ypsilon
 2011 Lincoln MKT
 2011 Lincoln Navigator
 2011 Lincoln Town Car
@@ -5913,8 +6251,11 @@
 2011 Mazda RX-8
 2011 Mazda Tribute
 2011 McLaren 12C
+2011 Mercedes-Benz C-Class
 2011 Mercedes-Benz GL450
 2011 Mitsubishi Colt
+2011 Mitsubishi Lancer
+2011 Nissan Almera
 2011 Nissan Armada
 2011 Nissan Cube
 2011 Nissan Elgrand
@@ -5924,7 +6265,9 @@
 2011 Nissan Pathfinder
 2011 Nissan Patrol
 2011 Nissan Rogue
+2011 Nissan Sentra
 2011 Nissan Titan
+2011 Opel Corsa
 2011 Opel Meriva
 2011 Pagani Huayra
 2011 Perodua Myvi
@@ -6078,19 +6421,26 @@
 2012 Kia Venga
 2012 Lada Granta
 2012 Lada Niva
+2012 Lamborghini Gallardo
+2012 Lancia Ypsilon
 2012 Land Rover Range Rover L322
 2012 Lexus HS
 2012 Lexus LFA
 2012 Lincoln MKT
 2012 Lincoln Navigator
+2012 Lotus Elise
 2012 Lotus Exige
 2012 Luxgen M7
 2012 Mazda CX-5
 2012 Mazda CX-7
 2012 Mazda MX-5 Miata
+2012 McLaren 12C
+2012 Mercedes-Benz C-Class
 2012 Mercedes-Benz E63 AMG
 2012 Mercedes-Benz R-Class
 2012 Mitsubishi Colt
+2012 Mitsubishi Lancer
+2012 Nissan Almera
 2012 Nissan Altima
 2012 Nissan Armada
 2012 Nissan Cube
@@ -6099,7 +6449,9 @@
 2012 Nissan Pathfinder
 2012 Nissan Patrol
 2012 Nissan Rogue
+2012 Nissan Sentra
 2012 Nissan Titan
+2012 Opel Corsa
 2012 Opel Meriva
 2012 Opel Vivaro
 2012 Perodua Myvi
@@ -6299,22 +6651,29 @@
 2013 Kia Venga
 2013 Lada Granta
 2013 Lada Niva
+2013 Lamborghini Gallardo
+2013 Lancia Ypsilon
 2013 Land Rover Range Rover
 2013 Lincoln MKT
 2013 Lincoln Navigator
+2013 Lotus Elise
 2013 Luxgen M7
 2013 Maserati Ghibli
 2013 Maserati Quattroporte
 2013 Mazda 3
 2013 Mazda CX-5
 2013 Mazda MX-5 Miata
+2013 McLaren 12C
 2013 McLaren P1
+2013 Mercedes-Benz C-Class
 2013 Mercedes-Benz CLS
 2013 Mercedes-Benz SLS AMG
 2013 Mini Cooper Convertible
 2013 Mini Cooper Coupe
 2013 Mini Cooper Hatchback
 2013 Mitsubishi Colt
+2013 Mitsubishi Lancer
+2013 Nissan Almera
 2013 Nissan Altima
 2013 Nissan Armada
 2013 Nissan Cube
@@ -6324,9 +6683,11 @@
 2013 Nissan Murano CrossCabriolet
 2013 Nissan Pathfinder
 2013 Nissan Patrol
+2013 Nissan Pulsar
 2013 Nissan Rogue
 2013 Nissan Sentra
 2013 Nissan Titan
+2013 Opel Corsa
 2013 Opel Insignia
 2013 Opel Meriva
 2013 Opel Vivaro
@@ -6507,9 +6868,11 @@
 2014 Kia Venga
 2014 Lada Granta
 2014 Lada Niva
+2014 Lancia Ypsilon
 2014 Lexus IS
 2014 Lincoln MKT
 2014 Lincoln Navigator
+2014 Lotus Elise
 2014 Lotus Evora
 2014 Luxgen M7
 2014 Maserati Ghibli
@@ -6517,20 +6880,26 @@
 2014 Mazda 2
 2014 Mazda CX-5
 2014 Mazda MX-5 Miata
+2014 McLaren 12C
 2014 McLaren 650S
 2014 Mercedes-AMG GT
 2014 Mercedes-Benz C-Class
 2014 Mercedes-Benz CL-Class
 2014 Mini Cooper
 2014 Mitsubishi Colt
+2014 Mitsubishi Lancer
 2014 Nissan Murano CrossCabriolet
+2014 Nissan Almera
 2014 Nissan Armada
 2014 Nissan Cube
 2014 Nissan Leaf
 2014 Nissan Pathfinder
 2014 Nissan Patrol
+2014 Nissan Pulsar
 2014 Nissan Rogue
+2014 Nissan Sentra
 2014 Nissan Titan
+2014 Opel Corsa
 2014 Opel Meriva
 2014 Opel Vivaro
 2014 Perodua Myvi
@@ -6710,13 +7079,16 @@
 2015 Lada Niva
 2015 Lada Vesta
 2015 Lamborghini Huracan
+2015 Lancia Ypsilon
 2015 Landwind X7
+2015 Land Rover Defender
 2015 Land Rover Discovery Sport
 2015 Land Rover LR2
 2015 Land Rover LR4
 2015 Land Rover Range Rover
 2015 Lincoln MKT
 2015 Lincoln Navigator
+2015 Lotus Elise
 2015 Luxgen M7
 2015 Maserati Ghibli
 2015 Maserati Quattroporte
@@ -6725,20 +7097,26 @@
 2015 Mazda MX-5 Miata
 2015 McLaren 650S
 2015 Mercedes-AMG GT S
+2015 Mercedes-Benz C-Class
 2015 Mercedes-Benz E-Class
 2015 Mercedes-Benz GLK-Class
 2015 Mercedes-Benz M-Class
 2015 Mercedes-Benz SLS AMG
 2015 Mini Cooper
 2015 Mitsubishi Colt
+2015 Mitsubishi Lancer
+2015 Nissan Almera
 2015 Nissan Armada
 2015 Nissan Elgrand
 2015 Nissan Leaf
 2015 Nissan Pathfinder
 2015 Nissan Patrol
+2015 Nissan Pulsar
 2015 Nissan Rogue
+2015 Nissan Sentra
 2015 Nissan Titan
 2015 Opel Astra
+2015 Opel Corsa
 2015 Opel Meriva
 2015 Opel Vivaro
 2015 Perodua Myvi
@@ -6931,10 +7309,12 @@
 2016 Lada Niva
 2016 Lada Vesta
 2016 Lada XRAY
+2016 Lancia Ypsilon
 2016 Land Rover LR4
 2016 Lexus GS
 2016 Lincoln MKT
 2016 Lincoln Navigator
+2016 Lotus Elise
 2016 Luxgen M7
 2016 Maserati Ghibli
 2016 Maserati Quattroporte
@@ -6944,17 +7324,22 @@
 2016 McLaren 570S
 2016 McLaren 675LT
 2016 Mercedes-AMG GT S
+2016 Mercedes-Benz C-Class
 2016 Mini Cooper
 2016 Mitsubishi Colt
+2016 Mitsubishi Lancer
+2016 Nissan Almera
 2016 Nissan Armada
 2016 Nissan Elgrand
 2016 Nissan Leaf
 2016 Nissan Pathfinder
 2016 Nissan Patrol
+2016 Nissan Pulsar
 2016 Nissan Rogue
 2016 Nissan Sentra
 2016 Nissan Titan
 2016 Opel Astra
+2016 Opel Corsa
 2016 Opel Meriva
 2016 Opel Vivaro
 2016 Perodua Myvi
@@ -7147,12 +7532,14 @@
 2017 Lada Niva
 2017 Lada Vesta
 2017 Lada XRAY
+2017 Lancia Ypsilon
 2017 Lexus CT
 2017 Lexus LC 500
 2017 Lexus LS
 2017 Lincoln Continental
 2017 Lincoln MKT
 2017 Lincoln Navigator
+2017 Lotus Elise
 2017 Luxgen M7
 2017 Maserati Ghibli
 2017 Maserati Levante
@@ -7163,19 +7550,25 @@
 2017 McLaren Senna
 2017 Mercedes-AMG GT S
 2017 Mercedes-Benz B-Class
+2017 Mercedes-Benz C-Class
 2017 Mercedes-Benz E-Class
 2017 Mercedes-Benz Metris
 2017 Mini Cooper
 2017 Mitsubishi Colt
+2017 Mitsubishi Lancer
 2017 Mitsubishi Triton
+2017 Nissan Almera
 2017 Nissan Armada
 2017 Nissan Elgrand
 2017 Nissan Leaf
 2017 Nissan Pathfinder
 2017 Nissan Patrol
+2017 Nissan Pulsar
 2017 Nissan Rogue
+2017 Nissan Sentra
 2017 Nissan Titan
 2017 Opel Astra
+2017 Opel Corsa
 2017 Opel Insignia
 2017 Opel Meriva
 2017 Opel Vivaro
@@ -7375,12 +7768,14 @@
 2018 Lada Vesta
 2018 Lada XRAY
 2018 Lamborghini Urus
+2018 Lancia Ypsilon
 2018 Lexus ES
 2018 Lexus LC500
 2018 Lexus LS
 2018 Lincoln Continental
 2018 Lincoln MKT
 2018 Lincoln Navigator
+2018 Lotus Elise
 2018 Lotus Evora 400
 2018 Luxgen M7
 2018 Maserati Ghibli
@@ -7391,20 +7786,26 @@
 2018 McLaren 720S
 2018 Mercedes-AMG GT S
 2018 Mercedes-Benz A-Class
+2018 Mercedes-Benz C-Class
 2018 Mercedes-Benz CLS-Class
 2018 Mercedes-Benz E63S AMG
 2018 Mini Cooper
 2018 Mitsubishi Colt
+2018 Mitsubishi Lancer
 2018 Mitsubishi Mirage
 2018 NIO ES8
+2018 Nissan Almera
 2018 Nissan Armada
 2018 Nissan Elgrand
 2018 Nissan Leaf
 2018 Nissan Pathfinder
 2018 Nissan Patrol
+2018 Nissan Pulsar
 2018 Nissan Rogue
+2018 Nissan Sentra
 2018 Nissan Titan
 2018 Opel Astra
+2018 Opel Corsa
 2018 Opel Insignia
 2018 Opel Vivaro
 2018 Perodua Myvi
@@ -7625,6 +8026,7 @@
 2019 Lada Vesta
 2019 Lada XRAY
 2019 Lamborghini Urus
+2019 Lancia Ypsilon
 2019 Lexus ES
 2019 Lexus IS
 2019 Lexus LS
@@ -7632,6 +8034,7 @@
 2019 Lincoln Continental
 2019 Lincoln MKT
 2019 Lincoln Navigator
+2019 Lotus Elise
 2019 Luxgen M7
 2019 Maserati Ghibli
 2019 Maserati Levante
@@ -7641,6 +8044,7 @@
 2019 McLaren Senna
 2019 Mercedes-AMG GT S
 2019 Mercedes-Benz A-Class
+2019 Mercedes-Benz C-Class
 2019 Mercedes-Benz CLA-Class
 2019 Mercedes-Benz CLS-Class
 2019 Mercedes-Benz E-Class
@@ -7648,7 +8052,9 @@
 2019 Mercedes-Benz Sprinter
 2019 Mini Cooper
 2019 Mitsubishi Colt
+2019 Mitsubishi Lancer
 2019 NIO ES8
+2019 Nissan Almera
 2019 Nissan Armada
 2019 Nissan Elgrand
 2019 Nissan Leaf
@@ -7656,6 +8062,7 @@
 2019 Nissan Patrol
 2019 Nissan Rogue
 2019 Nissan Rogue Hybrid
+2019 Nissan Sentra
 2019 Nissan Titan
 2019 Nissan Versa Note
 2019 Opel Astra
@@ -8076,6 +8483,7 @@
 2020 Lada Vesta
 2020 Lada XRAY
 2020 Lamborghini Urus
+2020 Lancia Ypsilon
 2020 Land Rover Defender 110 HSE
 2020 Land Rover Defender 110 S
 2020 Land Rover Defender 110 SE
@@ -8141,6 +8549,7 @@
 2020 Lincoln Corsair Reserve
 2020 Lincoln Corsair Standard
 2020 Lincoln Navigator
+2020 Lotus Elise
 2020 Lotus Evora GT Automatic
 2020 Lotus Evora GT Manual
 2020 Luxgen M7
@@ -8187,7 +8596,9 @@
 2020 Mercedes-Benz Sprinter
 2020 Mini Cooper
 2020 Mitsubishi Colt
+2020 Mitsubishi Lancer
 2020 NIO ES8
+2020 Nissan Almera
 2020 Nissan Altima 2.0 Platinum
 2020 Nissan Altima 2.0 SR
 2020 Nissan Altima 2.5 Platinum
@@ -8621,9 +9032,11 @@
 2021 Lada Vesta
 2021 Lada XRAY
 2021 Lamborghini Urus
+2021 Lancia Ypsilon
 2021 Lexus ES
 2021 Lexus LS
 2021 Lincoln Navigator
+2021 Lotus Elise
 2021 Luxgen M7
 2021 Maserati Ghibli
 2021 Maserati Levante
@@ -8638,12 +9051,15 @@
 2021 Mercedes-Benz S-Class
 2021 Mini Cooper
 2021 Mitsubishi Colt
+2021 Mitsubishi Lancer
 2021 NIO ES8
+2021 Nissan Almera
 2021 Nissan Armada
 2021 Nissan Elgrand
 2021 Nissan Leaf
 2021 Nissan Pathfinder
 2021 Nissan Patrol
+2021 Nissan Sentra
 2021 Nissan Titan
 2021 Opel Astra
 2021 Opel Corsa
