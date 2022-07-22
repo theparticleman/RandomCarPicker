@@ -35,6 +35,7 @@
 1933 Bugatti Royale
 1933 Bugatti Type 49
 1933 Hudson Super Six
+1933 Willys 77
 1934 Austin 10
 1934 Austin 12
 1934 Austin 12/4
@@ -43,6 +44,7 @@
 1934 Austin 7
 1934 Bugatti Type 49
 1934 Citroën Traction Avant
+1934 Willys 77
 1935 Auburn Speedster
 1935 Austin 10
 1935 Austin 12
@@ -54,6 +56,7 @@
 1935 Ford Model 48
 1935 Peugeot 402 
 1935 Škoda Rapid
+1935 Willys 77
 1936 Austin 10
 1936 Austin 12
 1936 Austin 12/4
@@ -73,6 +76,8 @@
 1936 MG TA Midget
 1936 Morris 8
 1936 Packard One-Twenty
+1936 Peugeot 402
+1936 Willys 77
 1937 Austin 10
 1937 Austin 12
 1937 Austin 12/4
@@ -85,6 +90,7 @@
 1937 Cord 812
 1937 Fiat Topolino
 1937 Ford Model Y
+1937 Peugeot 402
 1938 Alfa Romeo 8C 2900B
 1938 Austin 10
 1938 Austin 12
@@ -105,7 +111,9 @@
 1939 Austin 8
 1939 Buick Century
 1939 Cadillac Series 60 Special
+1939 Peugeot 402
 1939 Pontiac Torpedo
+1939 Studebaker Champion
 1940 Austin 10
 1940 Austin 12
 1940 Austin 8
@@ -113,7 +121,9 @@
 1940 Chrysler Newport
 1940 Ford Deluxe
 1940 Packard 180
+1940 Peugeot 402
 1940 Pontiac Torpedo
+1940 Studebaker Champion
 1940 Volkswagen Beetle
 1941 Austin 10
 1941 Austin 12
@@ -121,16 +131,20 @@
 1941 Buick Century
 1941 Chrysler Newport
 1941 Nash 600
+1941 Peugeot 402
 1941 Pontiac Streamliner
 1941 Pontiac Torpedo
+1941 Studebaker Champion
 1941 Volkswagen Beetle
 1942 Austin 10
 1942 Austin 12
 1942 Austin 8
 1942 Buick Century
 1942 DeSoto Series S-10
+1942 Peugeot 402
 1942 Pontiac Streamliner
 1942 Pontiac Torpedo
+1942 Studebaker Champion
 1942 Volkswagen Beetle
 1943 Austin 10
 1943 Austin 12
@@ -165,6 +179,7 @@
 1946 GAZ M20
 1946 Pontiac Streamliner
 1946 Pontiac Torpedo
+1946 Studebaker Champion
 1946 Volkswagen Beetle
 1947 Austin 10
 1947 Austin 12
@@ -179,6 +194,7 @@
 1947 Plymouth Special
 1947 Pontiac Streamliner
 1947 Pontiac Torpedo
+1947 Studebaker Champion
 1947 Volkswagen Beetle
 1948 Aston Martin 2-Litre Sports
 1948 Austin 16
@@ -195,6 +211,7 @@
 1948 Pontiac Streamliner
 1948 Pontiac Torpedo
 1948 Porsche 356A
+1948 Studebaker Champion
 1948 Talbot Lago
 1948 Tucker Torpedo
 1948 Volkswagen Beetle
@@ -231,6 +248,7 @@
 1949 Pontiac Chieftain
 1949 Pontiac Streamliner
 1949 Saab 92
+1949 Studebaker Champion
 1949 Triumph Mayflower
 1949 Volkswagen Beetle
 1950 Aston Martin 2-Litre Sports
@@ -356,6 +374,7 @@
 1952 Nissan Patrol
 1952 Pontiac Chieftain
 1952 Rolls-Royce Phantom IV
+1952 Studebaker Champion
 1952 Triumph Mayflower
 1952 Volkswagen Beetle
 1952 Volkswagen Kombi
@@ -396,6 +415,7 @@
 1953 Packard Caribbean
 1953 Pontiac Chieftain
 1953 Rolls-Royce Phantom IV
+1953 Studebaker Champion
 1953 Triumph Mayflower
 1953 Volkswagen Beetle
 1953 Volkswagen Kombi
@@ -434,6 +454,7 @@
 1954 Nissan Patrol
 1954 Pontiac Chieftain
 1954 Rolls-Royce Phantom IV
+1954 Studebaker Champion
 1954 Volkswagen Beetle
 1954 Volkswagen Kombi
 1955 AC Ace
@@ -470,6 +491,7 @@
 1955 Porsche 550 Spyder
 1955 Rolls-Royce Phantom IV
 1955 Saab Sonett
+1955 Studebaker Champion
 1955 Volkswagen Beetle
 1955 Volkswagen Kombi
 1956 AC Ace-Bristol
@@ -511,6 +533,7 @@
 1956 Renault Dauphine
 1956 Rolls-Royce Phantom IV
 1956 Saab Sonett
+1956 Studebaker Champion
 1956 Volkswagen Beetle
 1956 Volkswagen Kombi
 1956 Volvo Amazon
@@ -556,6 +579,7 @@
 1957 Rambler Rebel
 1957 Renault Dauphine
 1957 Saab Sonett
+1957 Studebaker Champion
 1957 Studebaker Silver Hawk
 1957 Volkswagen Beetle
 1957 Volkswagen Kombi
@@ -609,6 +633,7 @@
 1958 Porsche 356A
 1958 Renault Dauphine
 1958 Rambler Ambassador
+1958 Studebaker Champion
 1958 Subaru 360
 1958 Suzuki Sunlight SS
 1958 Volkswagen Beetle
@@ -708,6 +733,7 @@
 1960 Nash Metropolitan
 1960 Nissan Patrol
 1960 Peugeot 404
+1960 Plymouth Fury
 1960 Plymouth Valiant
 1960 Pontiac Bonneville
 1960 Renault Dauphine
@@ -756,8 +782,10 @@
 1961 Nash Metropolitan
 1961 Nissan Patrol
 1961 Opel Rekord
+1961 Plymouth Fury
 1961 Plymouth Valiant
 1961 Pontiac Bonneville
+1961 Rambler Classic
 1961 Rambler Ambassador
 1961 Renault 4
 1961 Renault Dauphine
@@ -812,9 +840,11 @@
 1962 Morris Major
 1962 Nash Metropolitan
 1962 Nissan Patrol
+1962 Plymouth Fury
 1962 Plymouth Valiant
 1962 Pontiac Bonneville
 1962 Pontiac Grand Prix
+1962 Rambler Classic
 1962 Renault Dauphine
 1962 Rolls-Royce Silver Cloud III
 1962 Studebaker Lark 4-Door Sedan
@@ -869,10 +899,12 @@
 1963 Morris Major
 1963 Nissan Patrol
 1963 Peugeot 404
+1963 Plymouth Fury
 1963 Plymouth Valiant
 1963 Pontiac Bonneville
 1963 Pontiac Grand Prix
 1963 Porsche 911
+1963 Rambler Classic
 1963 Renault Dauphine
 1963 Škoda Felicia
 1963 Studebaker Avanti
@@ -929,11 +961,13 @@
 1964 Oldsmobile 4-4-2
 1964 Oldsmobile Starfire
 1964 Plymouth Barracuda
+1964 Plymouth Fury
 1964 Plymouth Valiant
 1964 Pontiac Bonneville
 1964 Pontiac Grand Prix
 1964 Pontiac GTO
 1964 Porsche 911
+1964 Rambler Classic
 1964 Renault Dauphine
 1964 Studebaker Lark 2-Door Sedan
 1964 Studebaker Lark Daytona 4-Door Sedan
@@ -989,10 +1023,12 @@
 1965 Oldsmobile 4-4-2
 1965 Oldsmobile Cutlass Supreme
 1965 Peel Trident
+1965 Plymouth Fury
 1965 Plymouth Valiant
 1965 Pontiac Bonneville
 1965 Pontiac Grand Prix
 1965 Porsche 911
+1965 Rambler Classic
 1965 Renault 16
 1965 Renault Dauphine
 1965 Studebaker Lark
@@ -1056,6 +1092,7 @@
 1996 Oldsmobile Cutlass Supreme
 1966 Peel Trident
 1966 Plymouth Barracuda
+1966 Plymouth Fury
 1966 Plymouth Valiant
 1966 Pontiac Bonneville
 1966 Pontiac Grand Prix
@@ -1133,6 +1170,7 @@
 1967 Oldsmobile 4-4-2
 1967 Oldsmobile Cutlass Supreme
 1967 Piaggio Ape Model D
+1967 Plymouth Fury
 1967 Plymouth Valiant
 1967 Pontiac Bonneville
 1967 Pontiac Firebird
@@ -1140,7 +1178,7 @@
 1967 Porsche 911
 1967 Renault Dauphine
 1967 Saab Sonett
-1967 Simca
+1967 Simca 1100
 1967 Subaru 360
 1967 Toyota Corolla
 1967 Toyota Crown
@@ -1207,6 +1245,7 @@
 1968 Oldsmobile Cutlass Supreme
 1968 Peugeot 504
 1968 Plymouth Barracuda Formula S
+1968 Plymouth Fury
 1968 Plymouth Valiant
 1968 Pontiac Bonneville
 1968 Pontiac Grand Prix
@@ -1214,6 +1253,7 @@
 1968 Porsche 911
 1968 Renault Scimitar GTE
 1968 Saab Sonett
+1968 Simca 1100
 1968 Subaru 360
 1968 Toyota Corolla
 1968 Toyota Hilux
@@ -1287,6 +1327,7 @@
 1969 Nissan Sunny
 1969 Oldsmobile 4-4-2
 1969 Oldsmobile Cutlass Supreme
+1969 Plymouth Fury
 1969 Plymouth Valiant
 1969 Pontiac Bonneville
 1969 Pontiac Grand Prix
@@ -1295,6 +1336,7 @@
 1969 Renault 12
 1969 Renault Scimitar GTE
 1969 Saab Sonett
+1969 Simca 1100
 1969 Subaru 360
 1969 Subaru Sambar
 1969 Toyota Corolla
@@ -1364,6 +1406,7 @@
 1970 Nissan Sunny
 1970 Oldsmobile 4-4-2
 1970 Oldsmobile Cutlass Supreme
+1970 Plymouth Fury
 1970 Plymouth GTX 400
 1970 Plymouth Superbird
 1970 Plymouth Valiant
@@ -1373,6 +1416,7 @@
 1970 Porsche 911
 1970 Renault Scimitar GTE
 1970 Saab Sonett
+1970 Simca 1100
 1970 Subaru 360
 1970 Suzuki Jimny LJ10
 1970 Toyota Corolla
@@ -1453,6 +1497,7 @@
 1971 Nissan Sunny
 1971 Oldsmobile 4-4-2
 1971 Oldsmobile Cutlass Supreme
+1971 Plymouth Fury
 1971 Plymouth Valiant
 1971 Pontiac Bonneville
 1971 Pontiac Grand Prix
@@ -1460,6 +1505,7 @@
 1971 Renault 16
 1971 Renault Scimitar GTE
 1971 Saab Sonett
+1971 Simca 1100
 1971 Stutz Blackhawk
 1971 Suzuki Fronte
 1971 Suzuki Jimney
@@ -1538,12 +1584,14 @@
 1972 Nissan Sunny
 1972 Oldsmobile 4-4-2
 1972 Oldsmobile Cutlass Supreme
+1972 Plymouth Fury
 1972 Plymouth Valiant
 1972 Pontiac Bonneville
 1972 Pontiac Grand Prix
 1972 Porsche 911
 1972 Renault Scimitar GTE
 1972 Saab Sonett
+1972 Simca 1100
 1972 Stutz Blackhawk
 1972 Subaru Leone Estate
 1972 Suzuki Fronte
@@ -1617,14 +1665,17 @@
 1973 Nissan Sunny
 1973 Oldsmobile 4-4-2
 1973 Oldsmobile Cutlass Supreme
+1973 Plymouth Fury
 1973 Plymouth Valiant
 1973 Pontiac Bonneville
 1973 Pontiac Firebird Trans Am
+1973 Pontiac Grand Am
 1973 Pontiac Grand Prix
 1973 Porsche 911
 1973 Reliant Robin
 1973 Renault Scimitar GTE
 1973 Saab Sonett
+1973 Simca 1100
 1973 Stutz Blackhawk
 1973 Suzuki Fronte
 1973 Toyota Celica
@@ -1710,12 +1761,15 @@
 1974 Nissan Sunny
 1974 Oldsmobile 4-4-2
 1974 Oldsmobile Cutlass Supreme
+1974 Plymouth Fury
 1974 Plymouth Valiant
 1974 Pontiac Bonneville
+1974 Pontiac Grand Am
 1974 Pontiac Grand Prix
 1974 Porsche 911
 1974 Renault Scimitar GTE
 1974 Saab Sonett
+1974 Simca 1100
 1974 Stutz Blackhawk
 1974 Suzuki Fronte
 1974 Toyota Corolla
@@ -1795,14 +1849,17 @@
 1975 Oldsmobile 4-4-2
 1975 Oldsmobile Cutlass Supreme
 1975 Peugeot 504 Coupe
+1975 Plymouth Fury
 1975 Plymouth Valiant
 1975 Pontiac Bonneville
 1975 Pontiac Firebird Trans Am
+1975 Pontiac Grand Am
 1975 Pontiac Grand Prix
 1975 Porsche 911
 1975 Reliant Robin
 1975 Renault Scimitar GTE
 1975 Rover 3500
+1975 Simca 1100
 1975 Stutz Blackhawk
 1975 Suzuki Fronte
 1975 Toyota Corolla
@@ -1813,6 +1870,7 @@
 1975 Volkswagen Beetle
 1975 Volkswagen Golf GTI
 1975 Volvo 240
+1975 Volvo 264 GL
 1976 Alfa Romeo Alfasud
 1976 Alfa Romeo Giulia
 1976 Alfa Romeo Spider
@@ -1879,10 +1937,12 @@
 1976 Nissan Sunny
 1976 Oldsmobile 4-4-2
 1976 Oldsmobile Cutlass Supreme
+1976 Plymouth Fury
 1976 Plymouth Valiant
 1976 Pontiac Bonneville
 1976 Pontiac Grand Prix
 1976 Porsche 911
+1976 Simca 1100
 1976 Stutz Blackhawk
 1976 Suzuki Fronte
 1976 Toyota Celica GT
@@ -1895,6 +1955,8 @@
 1976 Volkswagen Golf GTI
 1976 Volkswagen Scirocco
 1976 Volvo 240
+1976 Volvo 264 GL
+1976 Volvo 265 DL
 1977 Alfa Romeo Alfasud
 1977 Alfa Romeo Giulia
 1977 Alfa Romeo Spider
@@ -1976,11 +2038,14 @@
 1977 Nissan Sunny
 1977 Oldsmobile 4-4-2
 1977 Oldsmobile Cutlass Supreme
+1977 Plymouth Fury
 1977 Pontiac Bonneville
 1977 Pontiac Firebird T/A
+1977 Pontiac Grand Am
 1977 Pontiac Grand Prix
 1977 Porsche 911
 1977 Rover 3500
+1977 Simca 1100
 1977 Stutz Blackhawk
 1977 Suzuki Cervo
 1977 Toyota Corolla
@@ -1991,6 +2056,8 @@
 1977 Volkswagen Beetle
 1977 Volkswagen Golf GTI
 1977 Volvo 240
+1977 Volvo 264 GL
+1977 Volvo 265 DL
 1978 Alfa Romeo Alfasud
 1978 Alfa Romeo Giulia
 1978 Alfa Romeo Spider
@@ -2052,6 +2119,7 @@
 1978 Holden Commodore
 1978 Lada Niva
 1978 Mazda Familia
+1978 Mazda RX-7
 1978 Mercedes-Benz 450SL
 1978 Mercury Cougar
 1978 Mitsubishi Colt
@@ -2063,12 +2131,15 @@
 1978 Nissan Sunny
 1978 Oldsmobile 4-4-2
 1978 Oldsmobile Cutlass Supreme
+1978 Plymouth Fury
 1978 Plymouth Sapporo
 1978 Pontiac Firebird
 1978 Pontiac Bonneville
+1978 Pontiac Grand Am
 1978 Pontiac Grand Prix
 1978 Porsche 911
 1978 Saab 900
+1978 Simca 1100
 1978 Stutz Blackhawk
 1978 Suzuki Cervo
 1978 Toyota Corolla
@@ -2079,6 +2150,8 @@
 1978 Volkswagen Beetle
 1978 Volkswagen Golf GTI
 1978 Volvo 240
+1978 Volvo 262C
+1978 Volvo 264 GL
 1979 Alfa Romeo Alfasud
 1979 Alpine A310
 1979 AMC Concord
@@ -2135,6 +2208,7 @@
 1979 Holden Commodore
 1979 Lada Niva
 1979 Mazda Familia
+1979 Mazda RX-7
 1979 Mercedes-Benz 300D
 1979 Mercedes-Benz 450SL
 1979 Mercury Capri RS
@@ -2150,9 +2224,11 @@
 1979 Oldsmobile Cutlass Supreme
 1979 Plymouth Sapporo
 1979 Pontiac Bonneville
+1979 Pontiac Grand Am
 1979 Pontiac Grand Prix
 1979 Porsche 911
 1979 Saab 900
+1979 Simca 1100
 1979 Stutz Blackhawk
 1979 Suzuki Alto
 1979 Suzuki Cervo
@@ -2163,6 +2239,9 @@
 1979 Volkswagen Beetle
 1979 Volkswagen Golf GTI
 1979 Volvo 240
+1979 Volvo 242 DL
+1979 Volvo 244 GLE
+1979 Volvo 264 GL
 1980 Alfa Romeo Alfasud
 1980 Alpine A310
 1980 AMC Concord
@@ -2218,6 +2297,7 @@
 1980 Lada Niva
 1980 Lincoln Town Car
 1980 Mazda Familia
+1980 Mazda RX-7
 1980 Mercedes-Benz 450SL
 1980 Mercury Capri RS
 1980 Mercury Cougar
@@ -2231,11 +2311,13 @@
 1980 Oldsmobile 4-4-2
 1980 Oldsmobile Cutlass Supreme
 1980 Plymouth Sapporo
+1980 Pontiac Grand Am
 1980 Pontiac Grand Prix
 1980 Pontiac Bonneville
 1980 Porsche 911 Turbo
 1980 Renault Trafic
 1980 Saab 900
+1980 Simca 1100
 1980 Stutz Blackhawk
 1980 Suzuki Alto
 1980 Suzuki Cervo
@@ -2247,6 +2329,9 @@
 1980 Volkswagen Gol
 1980 Volkswagen Golf GTI
 1980 Volvo 240
+1980 Volvo 242
+1980 Volvo 244 GLE
+1980 Volvo 264 GL
 1981 Alfa Romeo Alfasud
 1981 Alpine A310
 1981 AMC Concord
@@ -2299,6 +2384,7 @@
 1981 Lincoln Town Car
 1981 Maserati Biturbo
 1981 Mazda Familia
+1981 Mazda RX-7
 1981 Mercury Capri RS
 1981 Mercury Cougar
 1981 Mitsubishi Colt
@@ -2314,6 +2400,7 @@
 1981 Porsche 911
 1981 Renault Trafic
 1981 Saab 900
+1981 Simca 1100
 1981 Stutz Blackhawk
 1981 Suzuki Alto
 1981 Suzuki Cervo
@@ -2326,6 +2413,8 @@
 1981 Volkswagen Gol
 1981 Volkswagen Golf GTI
 1981 Volvo 240
+1981 Volvo 244 GL
+1981 Volvo 245 GL
 1982 Alfa Romeo Alfasud
 1982 Alpine A310
 1982 AMC Concord
@@ -2381,6 +2470,7 @@
 1982 Lincoln Town Car
 1982 Maserati Biturbo
 1982 Mazda Familia
+1982 Mazda RX-7
 1982 Mercury Capri RS
 1982 Mercury Cougar
 1982 Mitsubishi Colt
@@ -2398,6 +2488,7 @@
 1982 Reliant Rialto
 1982 Renault Trafic
 1982 Saab 900
+1982 Simca 1100
 1982 Stutz Blackhawk
 1982 Suzuki Alto
 1982 Suzuki Cervo
@@ -2411,6 +2502,7 @@
 1982 Volkswagen Gol
 1982 Volkswagen Golf GTI
 1982 Volvo 240
+1982 Volvo 245 GL
 1983 Alfa Romeo Alfasud
 1983 Alpine A310
 1983 AMC Concord
@@ -2463,6 +2555,7 @@
 1983 Lincoln Town Car
 1983 Maserati Biturbo
 1983 Mazda Familia
+1983 Mazda RX-7
 1983 Mercedes-Benz 380SL
 1983 Mercury Capri RS
 1983 Mercury Cougar
@@ -2480,6 +2573,7 @@
 1983 Porsche 911
 1983 Renault Trafic
 1983 Saab 900
+1983 Simca 1100
 1983 Stutz Blackhawk
 1983 Suzuki Alto
 1983 Toyota 4Runner
@@ -2492,6 +2586,7 @@
 1983 Volkswagen Gol
 1983 Volkswagen Golf GTI
 1983 Volvo 240
+1983 Volvo 245 GL
 1984 Alfa Romeo Alfasud
 1984 Alpine A310
 1984 AMC Eagle
@@ -2548,6 +2643,7 @@
 1984 Lincoln Town Car
 1984 Maserati Biturbo
 1984 Mazda Familia
+1984 Mazda RX-7
 1984 Mercury Colony Park
 1984 Mercury Cougar
 1984 Mitsubishi Colt
@@ -2561,12 +2657,14 @@
 1984 Opel Corsa
 1984 Pontiac Bonneville
 1984 Pontiac Firebird Trans Am
+1984 Pontiac Grand Am
 1984 Pontiac Grand Prix
 1984 Porsche 911
 1984 Renault Espace
 1984 Renault Fuego
 1984 Saab 900
 1984 SEAT Ibiza
+1984 Simca 1100
 1984 Stutz Blackhawk
 1984 Suzuki Alto
 1984 Toyota 4Runner
@@ -2579,6 +2677,7 @@
 1984 Volkswagen Gol
 1984 Volkswagen Golf
 1984 Volvo 240
+1984 Volvo 245 GL
 1985 Alfa Romeo Alfasud
 1985 AMC Eagle
 1985 ARO 10
@@ -2631,6 +2730,7 @@
 1985 Lincoln Town Car
 1985 Maserati Biturbo
 1985 Mazda Familia
+1985 Mazda RX-7
 1985 Mitsubishi Colt
 1985 Mitsubishi Lancer
 1985 Mitsubishi Minica
@@ -2648,11 +2748,13 @@
 1985 Opel Corsa
 1985 Peugeot 205 T16
 1985 Pontiac Bonneville
+1985 Pontiac Grand Am
 1985 Pontiac Grand Prix
 1985 Porsche 911
 1985 Renault Espace
 1985 Saab 900
 1985 SEAT Ibiza
+1985 Simca 1100
 1985 Stutz Blackhawk
 1985 Suzuki Alto
 1985 Toyota 4Runner
@@ -2679,6 +2781,7 @@
 1986 Austin Montego
 1986 Autobianchi A112
 1986 BMW E23 7-Series
+1986 BMW M3
 1986 Buick Century
 1986 Buick LeSabre
 1986 Cadillac De Ville
@@ -2722,6 +2825,7 @@
 1986 Lincoln Town Car
 1986 Maserati Biturbo
 1986 Mazda Familia
+1986 Mazda RX-7
 1986 Mercury Cougar
 1986 Mitsubishi Colt
 1986 Mitsubishi Lancer
@@ -2737,6 +2841,7 @@
 1986 Opel Corsa
 1986 Plymouth Reliant
 1986 Pontiac Bonneville
+1986 Pontiac Grand Am
 1986 Pontiac Grand Prix
 1986 Porsche 911
 1986 Renault Espace
@@ -2754,6 +2859,7 @@
 1986 Volkswagen Gol
 1986 Volkswagen Golf
 1986 Volvo 240
+1986 Volvo 244 GL
 1987 Acura Integra
 1987 Acura Legend
 1987 Alfa Romeo Alfasud
@@ -2767,6 +2873,7 @@
 1987 Austin Metro
 1987 Austin Mini
 1987 Austin Montego
+1987 BMW M3
 1987 BMW M5 E28
 1987 Buick Century
 1987 Buick LeSabre
@@ -2813,6 +2920,7 @@
 1987 Lincoln Town Car
 1987 Maserati Biturbo
 1987 Mazda Familia
+1987 Mazda RX-7
 1987 Mercury Cougar
 1987 Mitsubishi Colt
 1987 Mitsubishi Lancer
@@ -2827,6 +2935,7 @@
 1987 Opel Corsa
 1987 Plymouth Reliant
 1987 Pontiac Bonneville
+1987 Pontiac Grand Am
 1987 Pontiac Grand Prix
 1987 Porsche 911
 1987 Renault Espace
@@ -2857,6 +2966,7 @@
 1988 Austin Metro
 1988 Austin Mini
 1988 Austin Montego
+1988 BMW M3
 1988 Buick Century
 1988 Buick LeSabre
 1988 Cadillac Cimarron
@@ -2904,6 +3014,7 @@
 1988 Lincoln Town Car
 1988 Maserati Biturbo
 1988 Mazda Familia
+1988 Mazda RX-7
 1988 Mercury Cougar
 1988 Mitsubishi Colt
 1988 Mitsubishi Lancer
@@ -2917,10 +3028,12 @@
 1988 Opel Corsa
 1988 Plymouth Reliant
 1988 Pontiac Bonneville
+1988 Pontiac Grand Am
 1988 Pontiac Grand Prix
 1988 Pontiac Sunbird
 1988 Porsche 911
 1988 Renault Espace
+1988 Saab 900
 1988 SEAT Ibiza
 1988 Suzuki Alto
 1988 Suzuki Vitara
@@ -2948,6 +3061,7 @@
 1989 Austin Metro
 1989 Austin Mini
 1989 Austin Montego
+1989 BMW M3
 1989 Buick Century
 1989 Buick LeSabre
 1989 Buick Reatta
@@ -3001,6 +3115,7 @@
 1989 Maserati Biturbo
 1989 Mazda Familia
 1989 Mazda MX-5 Miata
+1989 Mazda RX-7
 1989 Mercury Cougar
 1989 Mitsubishi Colt
 1989 Mitsubishi Lancer
@@ -3016,12 +3131,15 @@
 1989 Oldsmobile Cutlass Supreme
 1989 Opel Corsa
 1989 Pontiac Bonneville
+1989 Pontiac Grand Am
 1989 Pontiac Grand Prix
 1989 Porsche 911
 1989 Renault Espace
 1989 Rover 200
+1989 Saab 900
 1989 SEAT Ibiza
 1989 Subaru Brumby
+1989 Subaru Legacy
 1989 Suzuki Alto
 1989 Suzuki Vitara
 1989 Toyota 4Runner
@@ -3032,7 +3150,7 @@
 1989 Volkswagen Beetle
 1989 Volkswagen Gol
 1989 Volkswagen Golf
-1989 Volvo 240
+1989 Volvo 240 DL
 1990 Acura Integra
 1990 Acura Legend
 1990 ARO 10
@@ -3046,6 +3164,7 @@
 1990 Austin Metro
 1990 Austin Mini
 1990 Austin Montego
+1990 BMW M3
 1990 Buick Century
 1990 Buick LeSabre
 1990 Buick Riviera
@@ -3102,6 +3221,7 @@
 1990 Maserati Biturbo
 1990 Mazda Familia
 1990 Mazda MX-5 Miata
+1990 Mazda RX-7
 1990 Mercury Cougar
 1990 Mercury Sable
 1990 Mitsubishi Colt
@@ -3118,10 +3238,13 @@
 1990 Oldsmobile Cutlass Supreme
 1990 Opel Corsa
 1990 Pontiac Bonneville
+1990 Pontiac Grand Am
 1990 Pontiac Grand Prix
 1990 Porsche 911
 1990 Renault Espace
 1990 Rover 200
+1990 Saab 900
+1990 Saturn SC
 1990 SEAT Ibiza
 1990 Subaru Legacy
 1990 Suzuki Alto
@@ -3152,6 +3275,7 @@
 1991 Austin Mini
 1991 Austin Montego
 1991 Bentley Continental R
+1991 BMW M3
 1991 Bugatti EB 110
 1991 Buick Century
 1991 Buick LeSabre
@@ -3208,6 +3332,7 @@
 1991 Maserati Biturbo
 1991 Mazda Familia
 1991 Mazda MX-5 Miata
+1991 Mazda RX-7
 1991 Mercury Cougar
 1991 Mitsubishi Colt
 1991 Mitsubishi Lancer
@@ -3222,14 +3347,20 @@
 1991 Oldsmobile Cutlass Supreme
 1991 Opel Corsa
 1991 Pontiac Bonneville
+1991 Pontiac Grand Am
 1991 Pontiac Grand Prix
 1991 Porsche 911
 1991 Renault Espace
 1991 Rover 200
+1991 Saab 900
 1991 Saab 9000
+1991 Saturn SC
+1991 Saturn SL
 1991 Saturn SL1
+1991 Saturn SL2
 1991 SEAT Ibiza
 1991 SEAT Toledo
+1991 Subaru Legacy
 1991 Suzuki Alto
 1991 Suzuki Cappuccino
 1991 Suzuki Vitara
@@ -3255,6 +3386,7 @@
 1992 Austin Metro
 1992 Austin Mini
 1992 Austin Montego
+1992 BMW M3
 1992 Bugatti EB 110
 1992 Buick Century
 1992 Buick LeSabre
@@ -3326,6 +3458,7 @@
 1992 Maserati Biturbo
 1992 Mazda Familia
 1992 Mazda MX-5 Miata
+1992 Mazda RX-7
 1992 McLaren F1
 1992 Mercury Grand Marquis
 1992 Mercury Cougar
@@ -3341,13 +3474,20 @@
 1992 Oldsmobile Cutlass Supreme
 1992 Opel Corsa
 1992 Pontiac Bonneville
+1992 Pontiac Grand Am
 1992 Pontiac Grand Prix
 1992 Porsche 911
 1992 Renault Espace
 1992 Renault Twingo
 1992 Rover 200
+1992 Saab 900
 1992 Saab 9000
+1992 Saturn SC
+1992 Saturn SL
+1992 Saturn SL1
+1992 Saturn SL2
 1992 SEAT Ibiza
+1992 Subaru Legacy
 1992 Suzuki Alto
 1992 Suzuki Cappuccino
 1992 Suzuki Vitara
@@ -3449,6 +3589,7 @@
 1993 Maserati Biturbo
 1993 Mazda Familia
 1993 Mazda MX-5 Miata
+1993 Mazda RX-7
 1993 McLaren F1
 1993 Mercedes-Benz 190E
 1993 Mercedes-Benz 300-Class
@@ -3472,13 +3613,20 @@
 1993 Opel Corsa
 1993 Peugeot 205 GTI
 1993 Pontiac Bonneville
+1993 Pontiac Grand Am
 1993 Pontiac Grand Prix
 1993 Porsche 911
 1993 Renault Espace
 1993 Renault Twingo
 1993 Rover 200
+1993 Saab 900
 1993 Saab 9000
+1993 Saturn SC1
+1993 Saturn SC2
+1993 Saturn SW1
+1993 Saturn SW2
 1993 SEAT Ibiza
+1993 Subaru Legacy
 1993 Suzuki Alto
 1993 Suzuki Cappuccino
 1993 Suzuki Vitara
@@ -3490,7 +3638,7 @@
 1993 Volkswagen Gol
 1993 Volkswagen Golf
 1993 Volkswagen Fox
-1993 Volvo 240
+1993 Volvo 240 SE
 1994 Acura Integra
 1994 Acura Legend
 1994 Acura Vigor
@@ -3513,6 +3661,7 @@
 1994 Austin Montego
 1994 Autozam AZ-1
 1994 BMW 3-Series E30
+1994 BMW M3
 1994 Bugatti EB 110
 1994 Buick Century
 1994 Buick LeSabre
@@ -3530,6 +3679,7 @@
 1994 Chrysler LeBaron
 1994 Chrysler LHS
 1994 Chrysler Phantom
+1994 Chrysler Sebring
 1994 Chrysler Shadow
 1994 Chrysler Spirit
 1994 Chrysler Vision
@@ -3576,6 +3726,7 @@
 1994 Mazda Familia
 1994 Mazda MX-5 Miata
 1994 Mazda Navajo
+1994 Mazda RX-7
 1994 McLaren F1
 1994 Mercedes-Benz C-Class
 1994 Mercury Cougar
@@ -3602,9 +3753,14 @@
 1994 Renault Espace
 1994 Renault Twingo
 1994 Rover 200
+1994 Saab 900
 1994 Saab 9000
+1994 Saturn SC1
+1994 Saturn SC2
+1994 Saturn SL2
 1994 SEAT Ibiza
 1994 Subaru Justy
+1994 Subaru Legacy
 1994 Subaru Loyale
 1994 Suzuki Alto
 1994 Suzuki Cappuccino
@@ -3640,6 +3796,7 @@
 1995 Austin Mini
 1995 Austin Montego
 1995 Autozam AZ-1
+1995 BMW M3
 1995 Bugatti EB 110
 1995 Buick Century
 1995 Buick LeSabre
@@ -3733,6 +3890,7 @@
 1995 Peugeot 205 GTI
 1995 Peugeot 406
 1995 Pontiac Bonneville
+1995 Pontiac Grand Am
 1995 Pontiac Grand Prix
 1995 Porsche 911
 1995 Porsche 928
@@ -3740,7 +3898,11 @@
 1995 Renault Espace
 1995 Renault Twingo
 1995 Rover 200
+1995 Saab 900
+1995 Saturn SC1
+1995 Saturn SC2
 1995 SEAT Ibiza
+1995 Subaru Legacy
 1995 Suzuki Alto
 1995 Suzuki Cappuccino
 1995 Suzuki Vitara
@@ -3773,6 +3935,7 @@
 1996 Austin Metro
 1996 Austin Mini
 1996 BMW 518i
+1996 BMW M3
 1996 Buick Century
 1996 Buick LeSabre
 1996 Buick Riviera
@@ -3831,6 +3994,7 @@
 1996 Honda NSX
 1996 Hyundai Elantra
 1996 Hyundai Sonata
+1996 Hyundai Tiburon
 1996 Jaguar XJS
 1996 Jeep Cherokee
 1996 Jeep Grand Cherokee
@@ -3843,7 +4007,7 @@
 1996 Mazda 626 Cronos
 1996 Mazda Familia
 1996 Mazda MX-5 Miata
-1996 Mazda Xedos 6
+1996 Mazda RX-7
 1996 McLaren F1
 1996 Mercedes-Benz C-Class
 1996 Mercury Cougar
@@ -3864,6 +4028,7 @@
 1996 Peugeot 205 GTI
 1996 Pontiac Bonneville
 1996 Pontiac Firebird
+1996 Pontiac Grand Am
 1996 Pontiac Grand Prix
 1996 Porsche 986
 1996 Porsche Cayman
@@ -3871,9 +4036,14 @@
 1996 Renault Espace
 1996 Renault Scénic
 1996 Renault Twingo
+1996 Saab 900
+1996 Saturn SC1
+1996 Saturn SC2
+1996 Saturn SW1
 1996 SEAT Alhambra
 1996 SEAT Ibiza
 1996 Škoda Octavia
+1996 Subaru Legacy
 1996 Suzuki Alto
 1996 Suzuki Cappuccino
 1996 Suzuki Vitara
@@ -3907,6 +4077,7 @@
 1997 Audi S8
 1997 Austin Metro
 1997 Austin Mini
+1997 BMW M3
 1997 Buick Century
 1997 Buick LeSabre
 1997 Buick Riviera
@@ -3961,6 +4132,7 @@
 1997 Honda NSX
 1997 Hyundai Elantra
 1997 Hyundai Sonata
+1997 Hyundai Tiburon
 1997 Isuzu Rodeo
 1997 Jeep Cherokee
 1997 Jeep Grand Cherokee
@@ -3974,6 +4146,7 @@
 1997 Lotus Elise
 1997 Mazda Familia
 1997 Mazda MX-5 Miata
+1997 Mazda RX-7
 1997 McLaren F1
 1997 Mercedes-Benz C-Class
 1997 Mercury Cougar
@@ -3992,6 +4165,7 @@
 1997 Opel Corsa
 1997 Peugeot 205 GTI
 1997 Pontiac Bonneville
+1997 Pontiac Grand Am
 1997 Pontiac Grand Prix
 1997 Porsche 911
 1997 Porsche 986
@@ -4000,10 +4174,13 @@
 1997 Renault Kangoo
 1997 Renault Scénic
 1997 Renault Twingo
+1997 Saab 900
+1997 Saturn SW1
 1997 SEAT Alhambra
 1997 SEAT Ibiza
 1997 Škoda Octavia
 1997 Subaru Forester
+1997 Subaru Legacy
 1997 Subaru SVX
 1997 Suzuki Alto
 1997 Suzuki Vitara
@@ -4039,6 +4216,7 @@
 1998 Austin Metro
 1998 Austin Mini
 1998 BMW E36 M3 Sedan
+1998 BMW M3
 1998 BMW Z3 Coupe
 1998 Buick Century
 1998 Buick LeSabre
@@ -4092,6 +4270,7 @@
 1998 Honda NSX
 1998 Hyundai Elantra
 1998 Hyundai Sonata
+1998 Hyundai Tiburon
 1998 Jeep Cherokee
 1998 Jeep Grand Cherokee
 1998 Jeep Wrangler
@@ -4105,6 +4284,7 @@
 1998 Lotus Esprit
 1998 Mazda Familia
 1998 Mazda MX-5 Miata
+1998 Mazda RX-7
 1998 McLaren F1
 1998 Mercedes-Benz C-Class
 1998 Mitsubishi Colt
@@ -4122,7 +4302,9 @@
 1998 Oldsmobile Achieva
 1998 Opel Corsa
 1998 Peugeot 205 GTI
+1998 Peugeot 206
 1998 Pontiac Bonneville
+1998 Pontiac Grand Am
 1998 Pontiac Grand Prix
 1998 Porsche 911
 1998 Porsche 986
@@ -4131,12 +4313,16 @@
 1998 Renault Kangoo
 1998 Renault Scénic
 1998 Renault Twingo
+1998 Saab 900
 1998 Saab 9000
+1998 Saturn SC2
+1998 Saturn SW1
 1998 SEAT Alhambra
 1998 SEAT Ibiza
 1998 Škoda Octavia
 1998 Smart City-Coupe
 1998 Subaru Forester
+1998 Subaru Legacy
 1998 Suzuki Alto
 1998 Suzuki Sidekick JLX Sport
 1998 Suzuki Sidekick JS
@@ -4177,6 +4363,7 @@
 1999 Audi S8
 1999 Audi TT Roadster
 1999 Austin Mini
+1999 BMW M3
 1999 BMW Z3 Coupe
 1999 Buick Century
 1999 Buick GL8
@@ -4244,6 +4431,7 @@
 1999 Honda NSX
 1999 Hyundai Elantra
 1999 Hyundai Sonata
+1999 Hyundai Tiburon
 1999 Isuzu Oasis
 1999 Jeep Cherokee
 1999 Jeep Grand Cherokee
@@ -4256,6 +4444,7 @@
 1999 Mazda B2500
 1999 Mazda Familia
 1999 Mazda MX-5 Miata
+1999 Mazda RX-7
 1999 Mercedes-Benz C-Class
 1999 Mercury Cougar
 1999 Mercury Tracer
@@ -4275,8 +4464,10 @@
 1999 Oldsmobile Aurora
 1999 Opel Corsa
 1999 Pagani Zonda
+1999 Peugeot 206
 1999 Peugeot 607
 1999 Pontiac Bonneville
+1999 Pontiac Grand Am
 1999 Pontiac Grand Prix
 1999 Porsche 911
 1999 Porsche 986
@@ -4287,12 +4478,15 @@
 1999 Renault Scénic
 1999 Renault Symbol
 1999 Renault Twingo
+1999 Saturn SC2
+1999 Saturn SW1
 1999 SEAT Alhambra
 1999 SEAT Ibiza
 1999 Shelby Series 1
 1999 Škoda Octavia
+1999 Smart City-Coupe
 1999 Subaru Forester
-1999 Subaru Forester
+1999 Subaru Legacy
 1999 Suzuki Alto
 1999 Suzuki Grand Vitara
 1999 Toyota 4Runner
@@ -4335,6 +4529,7 @@
 2000 Audi S8
 2000 Audi TT
 2000 Austin Mini
+2000 BMW M3
 2000 BMW Z3 Coupe
 2000 Buick Century
 2000 Buick GL8
@@ -4407,6 +4602,7 @@
 2000 Honda NSX
 2000 Hyundai Elantra
 2000 Hyundai Sonata
+2000 Hyundai Tiburon
 2000 Isuzu Amigo S 2.2L Hard Top
 2000 Isuzu Amigo S 2.2L Soft Top
 2000 Isuzu Hombre Regular Cab
@@ -4421,6 +4617,7 @@
 2000 Lotus Elise
 2000 Mazda Familia
 2000 Mazda MX-5 Miata
+2000 Mazda RX-7
 2000 Mercedes-Benz C-Class
 2000 Mercury Cougar
 2000 Mitsubishi Colt
@@ -4435,10 +4632,12 @@
 2000 Nissan Sunny
 2000 Nissan Terrano II
 2000 Opel Corsa
+2000 Peugeot 206
 2000 Peugeot 607
 2000 Plymouth Breeze
 2000 Plymouth Voyager
 2000 Pontiac Bonneville
+2000 Pontiac Grand Am
 2000 Pontiac Grand Prix
 2000 Porsche 911
 2000 Porsche 986
@@ -4448,10 +4647,15 @@
 2000 Renault Scénic
 2000 Renault Symbol
 2000 Renault Twingo
+2000 Saturn SC1
+2000 Saturn SL1
+2000 Saturn SL2
 2000 SEAT Alhambra
 2000 SEAT Ibiza
 2000 Škoda Octavia
+2000 Smart City-Coupe
 2000 Subaru Forester
+2000 Subaru Legacy
 2000 Suzuki Alto
 2000 Suzuki Vitara
 2000 Toyota 4Runner
@@ -4546,6 +4750,7 @@
 2001 Hyundai Atos
 2001 Hyundai Elantra
 2001 Hyundai Sonata
+2001 Hyundai Tiburon
 2001 Hyundai XG300
 2001 Infiniti I30 Luxury
 2001 Infiniti I30 Touring
@@ -4563,6 +4768,7 @@
 2001 Lotus Elise
 2001 Mazda Familia
 2001 Mazda MX-5 Miata
+2001 Mazda RX-7
 2001 Mercedes-Benz C-Class
 2001 Mercedes-Benz E55 AMG
 2001 Mercury Cougar
@@ -4579,10 +4785,12 @@
 2001 Nissan Sunny
 2001 Nissan Terrano II
 2001 Opel Corsa
+2001 Peugeot 206
 2001 Peugeot 607
 2001 Plymouth Neon
 2001 Plymouth Prowler
 2001 Pontiac Bonneville
+2001 Pontiac Grand Am
 2001 Pontiac Grand Prix
 2001 Porsche 911 Turbo
 2001 Porsche 986
@@ -4592,10 +4800,17 @@
 2001 Renault Scénic
 2001 Renault Symbol
 2001 Renault Twingo
+2001 Saturn SC GT
+2001 Saturn SC1
+2001 Saturn SC2
+2001 Saturn SL1
+2001 Saturn SL2
 2001 SEAT Alhambra
 2001 SEAT Ibiza
 2001 Škoda Octavia
+2001 Smart City-Coupe
 2001 Subaru Forester
+2001 Subaru Legacy
 2001 Suzuki Alto
 2001 Suzuki Swift
 2001 Suzuki Vitara
@@ -4632,6 +4847,7 @@
 2002 Audi S8
 2002 Audi TT
 2002 BMW 330i
+2002 BMW M3
 2002 BMW Z3 Coupe
 2002 Buick Century
 2002 Buick GL8
@@ -4687,6 +4903,7 @@
 2002 Honda NSX
 2002 Hyundai Elantra
 2002 Hyundai Sonata
+2002 Hyundai Tiburon
 2002 IKCO Samand
 2002 Infiniti G20
 2002 Isuzu Trooper Limited
@@ -4708,6 +4925,7 @@
 2002 Mazda Familia
 2002 Mazda Millenia
 2002 Mazda MX-5 Miata
+2002 Mazda RX-7
 2002 Mercedes-Benz C-Class
 2002 Mercedes-Benz G500
 2002 Mercury Cougar
@@ -4724,8 +4942,10 @@
 2002 Nissan Sunny
 2002 Nissan Terrano II
 2002 Opel Corsa
+2002 Peugeot 206
 2002 Peugeot 607
 2002 Pontiac Bonneville
+2002 Pontiac Grand Am
 2002 Pontiac Grand Prix
 2002 Porsche 911 Carrera
 2002 Porsche 986
@@ -4736,12 +4956,16 @@
 2002 Renault Scénic
 2002 Renault Symbol
 2002 Renault Twingo
-2002 Saturn SC
+2002 Saturn SC GT
+2002 Saturn SL1
+2002 Saturn SL2
 2002 SEAT Alhambra
 2002 SEAT Ibiza
 2002 Škoda Octavia
+2002 Smart City-Coupe
 2002 Subaru Forester
 2002 Subaru Impreza WRX
+2002 Subaru Legacy
 2002 Subaru Outback
 2002 Suzuki Alto
 2002 Suzuki Esteem Sedan
@@ -4783,11 +5007,13 @@
 2003 Audi S3
 2003 Audi S4
 2003 Audi TT
+2003 BMW M3
 2003 Buick Century
 2003 Buick GL8
 2003 Buick LeSabre
 2003 Cadillac CTS
 2003 Cadillac De Ville
+2003 Cadillac XLR
 2003 Chevrolet Cavalier
 2003 Chevrolet Colorado
 2003 Chevrolet Corvette Z06
@@ -4806,7 +5032,6 @@
 2003 Chrysler Intrepid
 2003 Chrysler Neon
 2003 Chrysler PT Cruiser
-2003 Chrysler Sebring
 2003 Chrysler Sebring
 2003 Chrysler Viper
 2003 Chrysler Voyager
@@ -4844,6 +5069,7 @@
 2003 Honda NSX
 2003 Hyundai Elantra
 2003 Hyundai Sonata
+2003 Hyundai Tiburon
 2003 IKCO Samand
 2003 Infiniti QX4
 2003 Isuzu Rodeo Sport
@@ -4880,9 +5106,11 @@
 2003 Nissan Titan
 2003 Opel Corsa
 2003 Opel Meriva
+2003 Peugeot 206
 2003 Peugeot 607
 2003 Pontiac Aztek
 2003 Pontiac Bonneville
+2003 Pontiac Grand Am
 2003 Pontiac Grand Prix
 2003 Porsche 911
 2003 Porsche 986
@@ -4897,8 +5125,10 @@
 2003 SEAT Alhambra
 2003 SEAT Ibiza
 2003 Škoda Octavia
+2003 Smart City-Coupe
 2003 Smart Roadster
 2003 Subaru Forester
+2003 Subaru Legacy
 2003 Suzuki Alto
 2003 Suzuki Vitara
 2003 Toyota 4Runner
@@ -4935,6 +5165,8 @@
 2004 Audi RS 6 Plus
 2004 Audi S4
 2004 Audi TT
+2004 BMW 3 Series
+2004 BMW M3
 2004 Buick Century
 2004 Buick GL8
 2004 Buick LeSabre
@@ -5002,6 +5234,7 @@
 2004 Honda NSX
 2004 Hyundai Elantra
 2004 Hyundai Sonata
+2004 Hyundai Tiburon
 2004 Hyundai Tucson
 2004 IKCO Samand
 2004 Infiniti I35
@@ -5045,8 +5278,10 @@
 2004 Opel Astra H
 2004 Opel Corsa
 2004 Opel Meriva
+2004 Peugeot 206
 2004 Peugeot 607
 2004 Pontiac Bonneville
+2004 Pontiac Grand Am
 2004 Pontiac Grand Prix
 2004 Pontiac GTO
 2004 Porsche 911
@@ -5065,10 +5300,12 @@
 2004 SEAT Alhambra
 2004 SEAT Ibiza
 2004 Škoda Octavia
+2004 Smart Fortwo
 2004 Smart Forfour
 2004 Smart Roadster
 2004 Subaru Forester
 2004 Subaru Impreza
+2004 Subaru Legacy
 2004 Suzuki Alto
 2004 Suzuki Vitara
 2004 Toyota 4Runner
@@ -5108,6 +5345,8 @@
 2005 Audi S4
 2005 Audi TT
 2005 Bentley Continental Flying Spur
+2005 BMW 3 Series
+2005 BMW M3
 2005 Bugatti Veyron
 2005 Buick Century
 2005 Buick GL8
@@ -5174,6 +5413,7 @@
 2005 Hummer H3
 2005 Hyundai Elantra
 2005 Hyundai Sonata
+2005 Hyundai Tiburon
 2005 Hyundai Tucson
 2005 Hyundai XG350
 2005 IKCO Samand
@@ -5216,6 +5456,7 @@
 2005 Opel Meriva
 2005 Perodua Myvi
 2005 Peugeot 107
+2005 Peugeot 206
 2005 Peugeot 607
 2005 Pontiac Bonneville
 2005 Pontiac Grand Am
@@ -5232,10 +5473,12 @@
 2005 SEAT Alhambra
 2005 SEAT Ibiza
 2005 Škoda Octavia
+2005 Smart Fortwo
 2005 Smart Forfour
 2005 Smart Roadster
 2005 Subaru Forester
 2005 Subaru Impreza
+2005 Subaru Legacy
 2005 Subaru Outback
 2005 Suzuki Alto
 2005 Suzuki Vitara
@@ -5282,8 +5525,10 @@
 2006 Audi S6
 2006 Audi S8
 2006 Audi TT
+2006 BMW 3 Series
 2006 BMW 530xi
 2006 BMW 545i
+2006 BMW M3
 2006 Bugatti Veyron
 2006 Buick GL8
 2006 Cadillac XLR
@@ -5349,6 +5594,7 @@
 2006 Hummer H1
 2006 Hyundai Elantra
 2006 Hyundai Sonata
+2006 Hyundai Tiburon
 2006 Hyundai Tucson
 2006 IKCO Samand
 2006 Infiniti QX80
@@ -5387,6 +5633,7 @@
 2006 Panoz Esperante
 2006 Perodua Myvi
 2006 Peugeot 107
+2006 Peugeot 206
 2006 Peugeot 607
 2006 Pontiac Grand Prix
 2006 Pontiac GTO
@@ -5405,9 +5652,11 @@
 2006 SEAT Ibiza
 2006 Škoda Octavia
 2006 Smart Forfour
+2006 Smart Fortwo
 2006 Subaru Baja
 2006 Subaru Forester
 2006 Subaru Impreza
+2006 Subaru Legacy
 2006 Suzuki Alto
 2006 Suzuki Verona
 2006 Suzuki Vitara
@@ -5455,6 +5704,7 @@
 2007 Audi TT
 2007 BMW 120D Cabriolet
 2007 BMW 3 Series
+2007 BMW M3
 2007 Bugatti Veyron
 2007 Buick GL8
 2007 Buick Rendezvous
@@ -5524,6 +5774,7 @@
 2007 Honda Fit
 2007 Hyundai Elantra
 2007 Hyundai Sonata
+2007 Hyundai Tiburon
 2007 Hyundai Tucson
 2007 IKCO Samand
 2007 Infiniti G35
@@ -5560,6 +5811,7 @@
 2007 Opel Meriva
 2007 Perodua Myvi
 2007 Peugeot 107
+2007 Peugeot 206
 2007 Peugeot 607
 2007 Pontiac Grand Prix
 2007 Porsche 911
@@ -5578,6 +5830,7 @@
 2007 Smart Fortwo
 2007 Subaru Forester
 2007 Subaru Impreza
+2007 Subaru Legacy
 2007 Suzuki Aerio
 2007 Suzuki Alto
 2007 Suzuki Vitara
@@ -5729,6 +5982,7 @@
 2008 Opel Meriva
 2008 Perodua Myvi
 2008 Peugeot 107
+2008 Peugeot 206
 2008 Peugeot 607
 2008 Pontiac Grand Prix
 2008 Porsche 911
@@ -5743,6 +5997,7 @@
 2008 Škoda Octavia
 2008 Smart Forfour
 2008 Smart Fortwo
+2008 Subaru Legacy
 2008 Suzuki Alto
 2008 Suzuki Reno
 2008 Suzuki Vitara
@@ -5824,6 +6079,7 @@
 2009 Daihatsu Copen
 2009 Dodge Grand Caravan
 2009 Dodge Sprinter
+2009 Ferrari 458
 2009 Ferrari California
 2009 Ferrari F430
 2009 Fiat 500
@@ -5911,6 +6167,7 @@
 2009 Opel Meriva
 2009 Perodua Myvi
 2009 Peugeot 107
+2009 Peugeot 206
 2009 Peugeot 607
 2009 Pontiac G8 GXP
 2009 Porsche 911
@@ -5927,6 +6184,7 @@
 2009 Škoda Octavia
 2009 Smart Forfour
 2009 Smart Fortwo
+2009 Subaru Legacy
 2009 Subaru Outback
 2009 Suzuki Alto
 2009 Suzuki SX4
@@ -6002,6 +6260,7 @@
 2010 Chevrolet S-10
 2010 Chevrolet Spark
 2010 Chevrolet Tahoe
+2010 Chrysler 200
 2010 Chrysler 300
 2010 Chrysler PT Cruiser
 2010 Chrysler Sebring
@@ -6013,6 +6272,7 @@
 2010 Dodge Charger SRT8
 2010 Dodge Grand Caravan
 2010 Dodge Viper SRT10
+2010 Ferrari 458
 2010 Ferrari California
 2010 Fiat 500
 2010 Fiat Ducato
@@ -6089,6 +6349,7 @@
 2010 Opel Meriva
 2010 Perodua Myvi
 2010 Peugeot 107
+2010 Peugeot 206
 2010 Peugeot 607
 2010 Pontiac G6
 2010 Porsche 911
@@ -6105,6 +6366,7 @@
 2010 Škoda Octavia
 2010 Smart Forfour
 2010 Smart Fortwo
+2010 Subaru Legacy
 2010 Suzuki Alto
 2010 Suzuki Vitara
 2010 Tesla Roadster
@@ -6195,6 +6457,7 @@
 2011 Dodge Ram Pickup 1500
 2011 Dodge Ram Pickup 2500
 2011 Dodge Ram Pickup 3500
+2011 Ferrari 458
 2011 Ferrari California
 2011 Fiat 500
 2011 Fiat Ducato
@@ -6272,6 +6535,7 @@
 2011 Pagani Huayra
 2011 Perodua Myvi
 2011 Peugeot 107
+2011 Peugeot 206
 2011 Porsche 911 RSR Spyder
 2011 Porsche Cayman
 2011 Renault Espace
@@ -6287,6 +6551,7 @@
 2011 Škoda Octavia
 2011 Smart Forfour
 2011 Smart Fortwo
+2011 Subaru Legacy
 2011 Suzuki Alto
 2011 Suzuki Vitara
 2011 Tesla Roadster
@@ -6456,6 +6721,7 @@
 2012 Opel Vivaro
 2012 Perodua Myvi
 2012 Peugeot 107
+2012 Peugeot 206
 2012 Porsche 911
 2012 Porsche Cayman
 2012 Renault Espace
@@ -6476,6 +6742,7 @@
 2012 Smart Forfour
 2012 Smart Fortwo
 2012 Subaru Forester
+2012 Subaru Legacy
 2012 Suzuki Alto
 2012 Suzuki Equator
 2012 Suzuki Ertiga
@@ -6543,6 +6810,7 @@
 2013 BMW i3
 2013 BMW i8
 2013 BMW M3
+2013 BMW M4
 2013 BMW M5
 2013 BMW Z4
 2013 Bugatti Veyron
@@ -6673,6 +6941,7 @@
 2013 Mini Cooper Hatchback
 2013 Mitsubishi Colt
 2013 Mitsubishi Lancer
+2013 Mitsubishi Outlander P-HEV
 2013 Nissan Almera
 2013 Nissan Altima
 2013 Nissan Armada
@@ -6693,6 +6962,7 @@
 2013 Opel Vivaro
 2013 Perodua Myvi
 2013 Peugeot 107
+2013 Peugeot 206
 2013 Peugeot 308
 2013 Porsche 911
 2013 Porsche 918 Spyder
@@ -6718,6 +6988,7 @@
 2013 Smart Forfour
 2013 Smart Fortwo
 2013 Subaru Forester
+2013 Subaru Legacy
 2013 Suzuki Alto
 2013 Suzuki Ertiga
 2013 Suzuki Grand Vitara Base
@@ -6792,6 +7063,7 @@
 2014 BMW 4 Series
 2014 BMW i3
 2014 BMW i8
+2014 BMW M3
 2014 BMW M4
 2014 BMW Z4
 2014 Bugatti Veyron
@@ -6826,6 +7098,7 @@
 2014 Dodge Dart
 2014 Dodge Grand Caravan
 2014 Ferrari 458 Spider
+2014 Ferrari California
 2014 Fiat 500
 2014 Fiat 500L
 2014 Fiat Ducato
@@ -6888,6 +7161,7 @@
 2014 Mini Cooper
 2014 Mitsubishi Colt
 2014 Mitsubishi Lancer
+2014 Mitsubishi Outlander P-HEV
 2014 Nissan Murano CrossCabriolet
 2014 Nissan Almera
 2014 Nissan Armada
@@ -6905,6 +7179,7 @@
 2014 Perodua Myvi
 2014 Peugeot 107
 2014 Peugeot 108
+2014 Peugeot 206
 2014 Porsche 911
 2014 Porsche 918 Spyder
 2014 Porsche Cayenne Hybrid
@@ -6927,6 +7202,7 @@
 2014 Smart Fortwo
 2014 Subaru Forester
 2014 Subaru Impreza WRX
+2014 Subaru Legacy
 2014 Subaru Tribeca
 2014 Subaru XV Crosstrek
 2014 Suzuki Alto
@@ -7028,6 +7304,7 @@
 2015 Dodge Grand Caravan
 2015 Ferrari 458 Spider
 2015 Ferrari 488
+2015 Ferrari California
 2015 Ferrari LaFerrari
 2015 Fiat 500
 2015 Fiat 500L
@@ -7105,6 +7382,7 @@
 2015 Mini Cooper
 2015 Mitsubishi Colt
 2015 Mitsubishi Lancer
+2015 Mitsubishi Outlander P-HEV
 2015 Nissan Almera
 2015 Nissan Armada
 2015 Nissan Elgrand
@@ -7121,6 +7399,7 @@
 2015 Opel Vivaro
 2015 Perodua Myvi
 2015 Peugeot 108
+2015 Peugeot 206
 2015 Peugeot 308
 2015 Porsche 911
 2015 Porsche 918 Spyder
@@ -7146,10 +7425,11 @@
 2015 Smart Fortwo
 2015 Subaru BRZ
 2015 Subaru Forester
+2015 Subaru Legacy
+2015 Subaru WRX
 2015 Suzuki Alto
 2015 Suzuki Ertiga
 2015 Suzuki Vitara
-2015 Subaru WRX
 2015 Tesla Model S
 2015 Tesla Model X
 2015 Toyota 4Runner
@@ -7160,6 +7440,7 @@
 2015 Toyota Camry
 2015 Toyota Highlander
 2015 Toyota Hilux
+2015 Toyota Mirai
 2015 Toyota Prius
 2015 Toyota Prius Plug-in
 2015 Toyota RAV4
@@ -7211,6 +7492,7 @@
 2016 BMW i3
 2016 BMW i8
 2016 BMW M2
+2016 BMW M3
 2016 BMW M4 Convertible
 2016 BMW M4 GTS
 2016 BMW X3
@@ -7256,6 +7538,7 @@
 2016 Dodge Dart
 2016 Dodge Grand Caravan
 2016 Ferrari 488 Spider
+2016 Ferrari California
 2016 Fiat 124 Spider
 2016 Fiat 500
 2016 Fiat 500L
@@ -7328,6 +7611,7 @@
 2016 Mini Cooper
 2016 Mitsubishi Colt
 2016 Mitsubishi Lancer
+2016 Mitsubishi Outlander P-HEV
 2016 Nissan Almera
 2016 Nissan Armada
 2016 Nissan Elgrand
@@ -7344,6 +7628,7 @@
 2016 Opel Vivaro
 2016 Perodua Myvi
 2016 Peugeot 108
+2016 Peugeot 206
 2016 Peugeot 308
 2016 Porsche 911 GT3 RS
 2016 Porsche Boxster
@@ -7368,6 +7653,7 @@
 2016 Smart Forfour
 2016 Smart Fortwo
 2016 Subaru Forester
+2016 Subaru Legacy
 2016 Subaru Outback
 2016 Suzuki Alto
 2016 Suzuki Ertiga
@@ -7382,6 +7668,7 @@
 2016 Toyota Camry
 2016 Toyota Highlander
 2016 Toyota Hilux
+2016 Toyota Mirai
 2016 Toyota Prius
 2016 Toyota RAV4
 2016 Toyota Sienta
@@ -7432,6 +7719,7 @@
 2017 BMW i3
 2017 BMW i8
 2017 BMW M2
+2017 BMW M3
 2017 BMW M4
 2017 Bugatti Chiron
 2017 Buick GL8
@@ -7456,7 +7744,6 @@
 2017 Chevrolet Spark
 2017 Chevrolet Tahoe
 2017 Chevrolet SS
-2017 Chrysler 200
 2017 Chrysler 300C
 2017 Chrysler Pacifica
 2017 Chrysler Voyager
@@ -7473,6 +7760,7 @@
 2017 Dodge Grand Caravan
 2017 Dodge Viper
 2017 Ferrari 488
+2017 Ferrari California
 2017 Ferrari LaFerrari
 2017 Ferrari GT4Lusso
 2017 Fiat 124 Spider
@@ -7556,6 +7844,7 @@
 2017 Mini Cooper
 2017 Mitsubishi Colt
 2017 Mitsubishi Lancer
+2017 Mitsubishi Outlander P-HEV
 2017 Mitsubishi Triton
 2017 Nissan Almera
 2017 Nissan Armada
@@ -7574,6 +7863,7 @@
 2017 Opel Vivaro
 2017 Perodua Myvi
 2017 Peugeot 108
+2017 Peugeot 206
 2017 Peugeot 308
 2017 Porsche 911
 2017 Porsche Cayman
@@ -7598,6 +7888,7 @@
 2017 Smart Forfour
 2017 Smart Fortwo
 2017 Subaru Forester
+2017 Subaru Legacy
 2017 Suzuki Alto
 2017 Suzuki Ertiga
 2017 Suzuki Ignis
@@ -7614,6 +7905,7 @@
 2017 Toyota Camry
 2017 Toyota Highlander
 2017 Toyota Hilux
+2017 Toyota Mirai
 2017 Toyota Prius
 2017 Toyota RAV4
 2017 Toyota Sienta
@@ -7672,6 +7964,7 @@
 2018 BMW 8 Series Gran Coupé
 2018 BMW i3
 2018 BMW i8
+2018 BMW M3
 2018 BMW M4
 2018 BMW M760i
 2018 Bugatti Chiron
@@ -7793,6 +8086,7 @@
 2018 Mitsubishi Colt
 2018 Mitsubishi Lancer
 2018 Mitsubishi Mirage
+2018 Mitsubishi Outlander P-HEV
 2018 NIO ES8
 2018 Nissan Almera
 2018 Nissan Armada
@@ -7810,6 +8104,7 @@
 2018 Opel Vivaro
 2018 Perodua Myvi
 2018 Peugeot 108
+2018 Peugeot 206
 2018 Peugeot 308
 2018 Peugeot 508
 2018 Porsche 911
@@ -7836,6 +8131,7 @@
 2018 Smart Forfour
 2018 Smart Fortwo
 2018 Subaru Forester
+2018 Subaru Legacy
 2018 Suzuki Swift
 2018 Suzuki Alto
 2018 Suzuki Ertiga
@@ -7851,6 +8147,7 @@
 2018 Toyota Camry
 2018 Toyota Highlander
 2018 Toyota Hilux
+2018 Toyota Mirai
 2018 Toyota Prius
 2018 Toyota Tacoma
 2018 Toyota RAV4
@@ -8053,6 +8350,7 @@
 2019 Mini Cooper
 2019 Mitsubishi Colt
 2019 Mitsubishi Lancer
+2019 Mitsubishi Outlander P-HEV
 2019 NIO ES8
 2019 Nissan Almera
 2019 Nissan Armada
@@ -8071,6 +8369,7 @@
 2019 Opel Vivaro
 2019 Perodua Myvi
 2019 Peugeot 108
+2019 Peugeot 206
 2019 Peugeot 208
 2019 Peugeot 308
 2019 Peugeot 508
@@ -8101,6 +8400,7 @@
 2019 Smart Forfour
 2019 Smart Fortwo
 2019 Subaru Forester
+2019 Subaru Legacy
 2019 Subaru STI S209
 2019 Suzuki Alto
 2019 Suzuki Ertiga
@@ -8118,6 +8418,7 @@
 2019 Toyota Corolla Touring Sports
 2019 Toyota Highlander
 2019 Toyota Hilux
+2019 Toyota Mirai
 2019 Toyota Prius
 2019 Toyota Prius c
 2019 Toyota RAV4
@@ -8597,6 +8898,7 @@
 2020 Mini Cooper
 2020 Mitsubishi Colt
 2020 Mitsubishi Lancer
+2020 Mitsubishi Outlander P-HEV
 2020 NIO ES8
 2020 Nissan Almera
 2020 Nissan Altima 2.0 Platinum
@@ -8665,6 +8967,7 @@
 2020 Opel Vivaro
 2020 Perodua Myvi
 2020 Peugeot 108
+2020 Peugeot 206
 2020 Peugeot 208
 2020 Peugeot 308
 2020 Peugeot 508
@@ -9052,6 +9355,7 @@
 2021 Mini Cooper
 2021 Mitsubishi Colt
 2021 Mitsubishi Lancer
+2021 Mitsubishi Outlander P-HEV
 2021 NIO ES8
 2021 Nissan Almera
 2021 Nissan Armada
@@ -9066,6 +9370,7 @@
 2021 Opel Insignia
 2021 Opel Vivaro
 2021 Perodua Myvi
+2021 Peugeot 206
 2021 Peugeot 208
 2021 Peugeot 108
 2021 Peugeot 308
@@ -9116,6 +9421,7 @@
 2021 Toyota Camry XSE V6
 2021 Toyota Corolla
 2021 Toyota Hilux
+2021 Toyota Mirai
 2021 Toyota Sienna
 2021 Toyota Sienta
 2021 Toyota Vios
