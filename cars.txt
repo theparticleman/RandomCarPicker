@@ -5,6 +5,7 @@
 1930 Austin Twenty
 1930 BMW 3/15
 1930 Buick Series 40
+1930 Buick Series 50
 1930 Bugatti Royale
 1930 Bugatti Type 40
 1930 Bugatti Type 43
@@ -18,6 +19,7 @@
 1931 Bugatti Royale
 1931 Bugatti Type 43
 1931 Bugatti Type 49
+1931 Buick Series 50
 1931 Ford Model A
 1932 Austin 10
 1932 Austin 12
@@ -28,6 +30,7 @@
 1932 BMW 3/20
 1932 Bugatti Royale
 1932 Bugatti Type 49
+1932 Buick Series 50
 1932 Ford Model 18
 1932 Nash Ambassador
 1933 Austin 10
@@ -40,6 +43,7 @@
 1933 BMW 303
 1933 Bugatti Royale
 1933 Bugatti Type 49
+1933 Buick Series 50
 1933 Hudson Super Six
 1933 Willys 77
 1934 Austin 10
@@ -52,6 +56,7 @@
 1934 BMW 303
 1934 BMW 315
 1934 Bugatti Type 49
+1934 Buick Series 50 Station Wagon
 1934 Citroën Traction Avant
 1934 Willys 77
 1935 Auburn Speedster
@@ -64,6 +69,7 @@
 1935 BMW 315
 1935 BMW 319
 1935 Bugatti Type 57 SC Atlantic
+1935 Buick Series 50
 1935 Ford Model 48
 1935 Peugeot 402 
 1935 Škoda Rapid
@@ -81,6 +87,8 @@
 1936 BMW 328
 1936 Bugatti Type 57 SC Atlantic
 1936 Buick Century
+1936 Buick Limited
+1936 Buick Special
 1936 Cord 810
 1936 Delage D8
 1936 Dodge D2
@@ -107,6 +115,8 @@
 1937 BMW 328
 1937 BMW 329
 1937 Buick Century
+1937 Buick Limited
+1937 Buick Special
 1937 Cord 812
 1937 Fiat Topolino
 1937 Ford Model Y
@@ -124,6 +134,8 @@
 1938 BMW 327
 1938 BMW 328
 1938 Buick Century
+1938 Buick Limited
+1938 Buick Special
 1938 Citroën Traction Avant
 1938 Peugeot 402
 1938 Volkswagen Beetle
@@ -140,6 +152,8 @@
 1939 BMW 328
 1939 BMW 335
 1939 Buick Century
+1939 Buick Limited
+1939 Buick Special
 1939 Cadillac Series 60 Special
 1939 Peugeot 402
 1939 Pontiac Torpedo
@@ -153,6 +167,9 @@
 1940 BMW 328
 1940 BMW 335
 1940 Buick Century
+1940 Buick Limited
+1940 Buick Special
+1940 Buick Super Estate
 1940 Chrysler Newport
 1940 Ford Deluxe
 1940 Packard 180
@@ -168,6 +185,9 @@
 1941 BMW 327
 1941 BMW 335
 1941 Buick Century
+1941 Buick Limited
+1941 Buick Special Estate
+1941 Buick Super
 1941 Chrysler Newport
 1941 Nash 600
 1941 Peugeot 402
@@ -179,6 +199,8 @@
 1942 Austin 12
 1942 Austin 8
 1942 Buick Century
+1942 Buick Limited
+1942 Buick Special Estate
 1942 DeSoto Series S-10
 1942 Peugeot 402
 1942 Pontiac Streamliner
@@ -217,6 +239,8 @@
 1946 BMW 321
 1946 BMW 326
 1946 BMW 327
+1946 Buick Special
+1946 Buick Super
 1946 Chevrolet Commercial
 1946 Crosley CC
 1946 DeSoto Series S-10
@@ -234,9 +258,12 @@
 1947 Austin Sheerline
 1947 BMW 321
 1947 BMW 327
+1947 Buick Special
+1947 Buick Super
 1947 Chevrolet Stylemaster
 1947 DeSoto Series S-10
 1947 Ford Anglia
+1947 Maserati A6
 1947 Plymouth Special
 1947 Pontiac Streamliner
 1947 Pontiac Torpedo
@@ -251,11 +278,14 @@
 1948 Austin Sheerline
 1948 BMW 321
 1948 BMW 327
+1948 Buick Special
+1948 Buick Super
 1948 Citroën 2CV
 1948 DeSoto Series S-10
 1948 Holden 48-215
 1948 Hudson Super Six
 1948 Jaguar XK120
+1948 Maserati A6
 1948 Pontiac Streamliner
 1948 Pontiac Torpedo
 1948 Porsche 356A
@@ -273,7 +303,11 @@
 1949 BMW 321
 1949 BMW 327
 1949 BMW 340
+1949 Bond Minicar
+1949 Borgward Hansa 1500
 1949 Buick Roadmaster
+1949 Buick Special
+1949 Buick Super Estate
 1949 Cadillac Series 62
 1949 Chrysler Newport
 1949 Citroën 2CV
@@ -293,11 +327,13 @@
 1949 Jaguar XK120
 1949 Land Rover Series 1
 1949 Lincoln Cosmopolitan
+1949 Maserati A6
 1949 Mercury Eight
 1949 MG TC
 1949 Oldsmobile 88
 1949 Pontiac Chieftain
 1949 Pontiac Streamliner
+1949 Porsche 356
 1949 Saab 92
 1949 Studebaker Champion
 1949 Triumph Mayflower
@@ -313,6 +349,11 @@
 1950 BMW 321
 1950 BMW 327
 1950 BMW 340
+1950 Bond Minicar
+1950 Borgward Hansa 1500
+1950 Buick Roadmaster Estate
+1950 Buick Special
+1950 Buick Super
 1950 Chrysler Imperial
 1950 Chrysler Newport
 1950 Citroën 2CV
@@ -334,6 +375,7 @@
 1950 Hudson Super Six
 1950 Jaguar XK120
 1950 Lancia Aurelia B20
+1950 Maserati A6
 1950 Mercury Eight
 1950 Muntz Jet
 1950 Nash Ambassador
@@ -358,7 +400,11 @@
 1951 Austin Sheerline
 1951 BMW 327
 1951 BMW 340
+1951 Bond Minicar
+1951 Borgward Hansa 1500
 1951 Buick Roadmaster
+1951 Buick Special
+1951 Buick Super
 1951 Citroën 2CV
 1951 DeSoto Series S-10
 1951 DKW Schnellaster
@@ -377,6 +423,7 @@
 1951 Jaguar XK120
 1951 Kaiser-Frazer Vagabond
 1951 Lancia Aurelia B20 GT
+1951 Maserati A6
 1951 Mercedes-Benz 300
 1951 Mercury Eight
 1951 Nash Rambler
@@ -386,6 +433,7 @@
 1951 Pontiac Catalina
 1951 Pontiac Chieftain
 1951 Pontiac Streamliner
+1951 Porsche 356
 1951 Rolls-Royce Phantom IV
 1951 Standard Vanguard
 1951 Studebaker Champion
@@ -404,14 +452,19 @@
 1952 BMW 327
 1952 BMW 340
 1952 BMW 501
+1952 Bond Minicar
+1952 Borgward Hansa 1500
 1952 Borgward Hansa 1800
 1952 Borgward Hansa 2400
+1952 Buick Special
+1952 Buick Super Estate
 1952 Cadillac Series 62 Club Coupè
 1952 Chevrolet Styleline
 1952 Citroën 2CV
 1952 DeSoto Series S-10
 1952 DKW Schnellaster
 1952 Dodge Coronet
+1952 Fiat 8V
 1952 Ford F-1
 1952 Ford F-2
 1952 Ford F-3
@@ -426,17 +479,21 @@
 1952 Jaguar XK120
 1952 Kaiser Henry J. Corsair
 1952 Lancia Aurelia B20
+1952 Lotus Mark VI
+1952 Maserati A6
 1952 Nash Rambler
 1952 Nash Statesman
 1952 International Harvester AL-110 Deluxe
 1952 Nissan Patrol
 1952 Pontiac Chieftain
+1952 Porsche 356
 1952 Rolls-Royce Phantom IV
 1952 Studebaker Champion
 1952 Triumph Mayflower
 1952 Volkswagen Beetle
 1952 Volkswagen Kombi
 1953 AC Ace
+1953 Allard Clipper
 1953 Armstrong Siddeley Sapphire
 1953 Aston Martin DB2
 1953 Aston Martin DB2/4
@@ -449,6 +506,11 @@
 1953 BMW 327
 1953 BMW 340
 1953 BMW 501
+1953 Bond Minicar
+1953 Borgward Hansa 1500
+1953 Buick Roadmaster Skylark
+1953 Buick Special
+1953 Buick Super Estate
 1953 Cadillac Eldorado
 1953 Chevrolet Corvette
 1953 Chrysler Imperial
@@ -457,17 +519,19 @@
 1953 Dodge 108-A
 1953 Dodge Coronet
 1953 Ferrari 250
+1953 Fiat 8V
 1953 Ford Crestline Victoria
 1953 Ford F-100
 1953 Henry J
 1953 Holden FJ
 1953 Hudson Hornet
-1953 International Harvester
 1953 Iso Isetta
 1953 Jaguar XK120
 1953 Jeep CJ-3B
 1953 Lancia Aurelia B20
 1953 Lancia D23 Spyder
+1953 Lotus Mark VI
+1953 Maserati A6
 1953 Mercedes-Benz E-Class
 1953 Mercury M-100
 1953 MG TD
@@ -476,12 +540,14 @@
 1953 Nissan Patrol
 1953 Packard Caribbean
 1953 Pontiac Chieftain
+1953 Porsche 356
 1953 Rolls-Royce Phantom IV
 1953 Studebaker Champion
 1953 Triumph Mayflower
 1953 Volkswagen Beetle
 1953 Volkswagen Kombi
 1954 AC Ace
+1954 Allard Clipper
 1954 Aston Martin DB2/4
 1954 Austin A30
 1954 Austin A40 Somerset
@@ -493,13 +559,19 @@
 1954 BMW 327
 1954 BMW 340
 1954 BMW 501
+1954 Bond Minicar
+1954 Borgward Hansa 1500
 1954 Buick Century
+1954 Buick Roadmaster Skylark
+1954 Buick Special
+1954 Buick Super
 1954 Chevrolet Corvette
 1954 Chrysler Town & Country
 1954 Citroën 2CV
 1954 DKW Schnellaster
 1954 Dodge Coronet
 1954 Dodge Royal
+1954 Fiat 8V
 1954 Ford Crestline
 1954 Henry J
 1954 Hillman Husky
@@ -511,6 +583,8 @@
 1954 Jaguar XK120
 1954 Kaiser Darrin
 1954 Lancia Aurelia B20
+1954 Lotus Mark VI
+1954 Maserati A6
 1954 Maserati 250F
 1954 Mercedes-Benz 180
 1954 Mercedes-Benz 300SL
@@ -520,6 +594,7 @@
 1954 Nash Statesman
 1954 Nissan Patrol
 1954 Pontiac Chieftain
+1954 Porsche 356
 1954 Rolls-Royce Phantom IV
 1954 Studebaker Champion
 1954 Volkswagen Beetle
@@ -534,7 +609,10 @@
 1955 BMW 340
 1955 BMW 501
 1955 BMW Isetta 250
+1955 Bond Minicar
 1955 Buick Century
+1955 Buick Special Estate
+1955 Buick Super
 1955 Chevrolet Bel Air
 1955 Chevrolet Corvette
 1955 Chrysler C-300
@@ -552,6 +630,8 @@
 1955 Iso Autocarro
 1955 Iso Isetta
 1955 Lancia Aurelia B20
+1955 Lotus Mark VI
+1955 Maserati A6
 1955 Mercedes-Benz 300SL Gullwing
 1955 Messerschmitt KR200
 1955 MG MGA
@@ -580,7 +660,11 @@
 1956 BMW 503
 1956 BMW 507
 1956 BMW Isetta 300
+1956 Bond Minicar
+1956 Brütsch Mopetta
 1956 Buick Century
+1956 Buick Special Estate
+1956 Buick Super
 1956 Chevrolet Bel Air
 1956 Chevrolet Corvette
 1956 Chrysler New Yorker
@@ -601,6 +685,8 @@
 1956 Iso Isetta
 1956 Jaguar D-type
 1956 Lancia Aurelia B20
+1956 Lotus Mark VI
+1956 Maserati A6
 1956 Mercury M-100
 1956 Messerschmitt KR200
 1956 MG MGA
@@ -630,8 +716,12 @@
 1957 BMW 503
 1957 BMW 507
 1957 BMW Isetta 300
+1957 Bond Minicar
+1957 Brütsch Mopetta
+1957 Buick Century Caballero Estate
 1957 Buick Roadmaster
-1957 Buick Century
+1957 Buick Special
+1957 Buick Super
 1957 Chevrolet 3100 Stepside
 1957 Chevrolet Bel Air Convertible
 1957 Chevrolet Bel Air Coupe
@@ -656,6 +746,7 @@
 1957 Iso Autocarro
 1957 Lancia Aurelia B20
 1957 Lotus 7
+1957 Lotus Mark VI
 1957 Messerschmitt KR200
 1957 MG MGA
 1957 Nash Cosmopolitan
@@ -689,9 +780,13 @@
 1958 BMW 503
 1958 BMW 507
 1958 BMW Isetta 300
+1958 Bond Minicar
+1958 Brütsch Mopetta
 1958 Buick Limited Riviera
+1958 Buick Century Caballero Estate
 1958 Buick Roadmaster
-1958 Buick Century
+1958 Buick Special
+1958 Buick Super
 1958 Chevrolet Brookwood
 1958 Chevrolet Bel Air
 1958 Chevrolet Corvette
@@ -712,6 +807,7 @@
 1958 Iso Autocarro
 1958 Lancia Aurelia B20
 1958 Lincoln Capri
+1958 Lotus 7
 1958 Mercury Commuter
 1958 Messerschmitt KR200
 1958 MG MGA
@@ -753,7 +849,10 @@
 1959 BMW 507
 1959 BMW 700
 1959 BMW Isetta 300
-1959 Buick LeSabre
+1959 Bond Minicar
+1959 Buick Electra
+1959 Buick Invicta
+1959 Buick LeSabre Estate
 1959 Cadillac De Ville
 1959 Cadillac Eldorado Convertible
 1959 Chevrolet Corvair
@@ -779,6 +878,7 @@
 1959 GAZ Chaika
 1959 Goggomobil Dart
 1959 Hindustan Ambassador
+1959 Lotus 7
 1959 Messerschmitt KR200
 1959 MG MGA
 1959 Morris Major
@@ -813,6 +913,9 @@
 1960 BMW 507
 1960 BMW 700
 1960 BMW Isetta 300
+1960 Bond Minicar
+1960 Buick Electra
+1960 Buick Invicta
 1960 Buick LeSabre
 1960 Cadillac De Ville
 1960 Checker Marathon
@@ -832,6 +935,7 @@
 1960 Ford Zephyr
 1960 Goggomobil Dart
 1960 Hindustan Ambassador
+1960 Lotus 7
 1960 Maserati 3500 GT
 1960 Mazda R360
 1960 Messerschmitt KR200
@@ -842,6 +946,7 @@
 1960 Plymouth Fury
 1960 Plymouth Valiant
 1960 Pontiac Bonneville
+1960 Porsche 356
 1960 Renault Dauphine
 1960 Romi-Isetta
 1960 Studebaker Lark 2-Door Wagon
@@ -866,7 +971,11 @@
 1961 BMW 501
 1961 BMW 700
 1961 BMW Isetta 300
+1961 Bond Minicar
+1961 Buick Electra
+1961 Buick Invicta
 1961 Buick LeSabre
+1961 Buick Special Skylark
 1961 Cadillac De Ville
 1961 Checker Marathon
 1961 Chevrolet Corvair
@@ -885,6 +994,7 @@
 1961 Hindustan Ambassador
 1961 Jaguar E-Type Coupe
 1961 Lincoln Continental Convertible
+1961 Lotus 7
 1961 Mazda R360
 1961 Mercedes-Benz E-Class
 1961 Messerschmitt KR200
@@ -896,6 +1006,7 @@
 1961 Plymouth Fury
 1961 Plymouth Valiant
 1961 Pontiac Bonneville
+1961 Porsche 356
 1961 Rambler Classic
 1961 Rambler Ambassador
 1961 Renault 4
@@ -927,7 +1038,11 @@
 1962 BMW 501
 1962 BMW 700
 1962 BMW Isetta 300
+1962 Bond Minicar
+1962 Buick Electra
+1962 Buick Invicta
 1962 Buick LeSabre
+1962 Buick Special Skylark
 1962 Cadillac DeVille
 1962 Chevrolet Corvair
 1962 Chevrolet Corvette
@@ -947,6 +1062,7 @@
 1962 Jaguar Mark X
 1962 Land Rover Series IIA
 1962 Lincoln Continental
+1962 Lotus 7
 1962 Mazda R360
 1962 Mercedes-Benz 220 SE Coupe
 1962 Mercury M-100
@@ -960,6 +1076,7 @@
 1962 Plymouth Valiant
 1962 Pontiac Bonneville
 1962 Pontiac Grand Prix
+1962 Porsche 356
 1962 Rambler Classic
 1962 Renault Dauphine
 1962 Rolls-Royce Silver Cloud III
@@ -989,7 +1106,12 @@
 1963 Austin Westminster
 1963 BMW 3200 CS
 1963 BMW 700
+1963 Bond Minicar
+1963 Buick Electra
+1963 Buick Invicta Estate
 1963 Buick LeSabre
+1963 Buick Special Skylark
+1963 Buick Wildcat
 1963 Cadillac De Ville
 1963 Checker Marathon
 1963 Chevrolet Corvair
@@ -1008,6 +1130,7 @@
 1963 Hillman Imp
 1963 Jaguar E-Type
 1963 Lancia Fulvia
+1963 Lotus 7
 1963 Mazda Familia
 1963 Mazda R360
 1963 Mercedes-Benz 600
@@ -1021,7 +1144,7 @@
 1963 Plymouth Valiant
 1963 Pontiac Bonneville
 1963 Pontiac Grand Prix
-1963 Porsche 911
+1963 Porsche 356
 1963 Rambler Classic
 1963 Renault Dauphine
 1963 Škoda Felicia
@@ -1050,8 +1173,13 @@
 1964 Austin Westminster
 1964 BMW 3200 CS
 1964 BMW 700
-1964 Buick LeSabre
+1964 Bond Minicar
+1964 Buick Electra
+1964 Buick LeSabre Estate
 1964 Buick Riviera
+1964 Buick Skylark
+1964 Buick Special
+1964 Buick Wildcat
 1964 Cadillac De Ville
 1964 Checker Marathon
 1964 Chevrolet Corvair Monza
@@ -1069,6 +1197,7 @@
 1964 Ford Thunderbolt
 1964 Jaguar E-Type
 1964 Lincoln Continental
+1964 Lotus 7
 1964 Mazda Familia
 1964 Mazda R360
 1964 Mercedes-Benz SL
@@ -1086,6 +1215,7 @@
 1964 Pontiac Bonneville
 1964 Pontiac Grand Prix
 1964 Pontiac GTO
+1964 Porsche 356
 1964 Porsche 911
 1964 Rambler Classic
 1964 Renault Dauphine
@@ -1117,9 +1247,13 @@
 1965 BMW 1800
 1965 BMW 3200 CS
 1965 BMW 700
+1965 Bond Minicar
 1965 Buick Electra
 1965 Buick LeSabre
 1965 Buick Riviera
+1965 Buick Skylark
+1965 Buick Special
+1965 Buick Wildcat
 1965 Cadillac De Ville
 1965 Checker Marathon
 1965 Chevrolet Corvair
@@ -1138,6 +1272,7 @@
 1965 Ford Ranchero
 1965 Ford Transit
 1965 Jaguar E-Type
+1965 Lotus 7
 1965 Mazda Familia
 1965 Mazda R360
 1965 Mitsubishi Colt
@@ -1150,6 +1285,7 @@
 1965 Plymouth Valiant
 1965 Pontiac Bonneville
 1965 Pontiac Grand Prix
+1965 Porsche 356
 1965 Porsche 911
 1965 Rambler Classic
 1965 Renault 16
@@ -1174,7 +1310,12 @@
 1966 Austin Mini
 1966 Austin Princess
 1966 Austin Westminster
+1966 Bond Minicar
+1966 Buick Electra
 1966 Buick LeSabre
+1966 Buick Skylark
+1966 Buick Special
+1966 Buick Wildcat
 1966 Cadillac De Ville
 1966 Checker Marathon
 1966 Chevrolet Camaro
@@ -1202,6 +1343,7 @@
 1966 Jaguar E-Type
 1966 Lamborghini 350 GT
 1966 Lamborghini Miura
+1966 Lotus 7
 1966 Mazda Familia
 1966 Mazda R360
 1966 Mercury M-100
@@ -1250,7 +1392,11 @@
 1967 Austin Mini Van
 1967 Austin Princess
 1967 Austin Westminster
+1967 Buick Electra
 1967 Buick LeSabre
+1967 Buick Skylark
+1967 Buick Special
+1967 Buick Wildcat
 1967 Cadillac De Ville
 1967 Checker Marathon
 1967 Chevrolet C10
@@ -1281,6 +1427,7 @@
 1967 Jaguar E-Type
 1967 Lamborghini Miura
 1967 Lotus 49
+1967 Lotus 7
 1967 Mazda Cosmo
 1967 Mazda Familia
 1967 Mazda R360
@@ -1326,7 +1473,11 @@
 1968 Austin Princess
 1968 Austin Westminster
 1968 BMW 2002
+1968 Buick Electra
 1968 Buick LeSabre
+1968 Buick Skylark
+1968 Buick Special
+1968 Buick Wildcat
 1968 Cadillac De Ville
 1968 Cadillac Eldorado
 1968 Checker Marathon
@@ -1356,6 +1507,7 @@
 1968 Honda N360
 1968 Jaguar E-Type
 1968 Lamborghini Miura
+1968 Lotus 7
 1968 Mazda Cosmo
 1968 Mazda Familia
 1968 Mazda R360
@@ -1403,7 +1555,11 @@
 1969 Austin Mini
 1969 Austin Nomad
 1969 Autobianchi A112
+1969 Buick Electra
 1969 Buick LeSabre
+1969 Buick Skylark
+1969 Buick Special
+1969 Buick Wildcat
 1969 BMW 2002
 1969 BMW Isetta
 1969 BMW New Class Coupe
@@ -1440,6 +1596,7 @@
 1969 Holden Monaro
 1969 Honda N360
 1969 Lamborghini Miura
+1969 Lotus 7
 1969 Mazda Familia
 1969 Mazda R360
 1969 Mercury Cougar
@@ -1490,7 +1647,10 @@
 1970 Austin Nomad
 1970 Autobianchi A112
 1970 BMW 2002
+1970 Buick Electra
 1970 Buick LeSabre
+1970 Buick Skylark
+1970 Buick Wildcat
 1970 Cadillac De Ville
 1970 Checker Marathon
 1970 Chevrolet Camaro
@@ -1522,6 +1682,7 @@
 1970 Holden Monaro
 1970 Honda N360
 1970 Lamborghini Miura
+1970 Lotus 7
 1970 Lotus Elan Sprint
 1970 Mazda Familia
 1970 Mercury Cougar
@@ -1576,9 +1737,12 @@
 1971 Autobianchi A112
 1971 BMW 1802
 1971 BMW 2002 tii
+1971 Buick Centurion
+1971 Buick Electra
 1971 Buick Estate
 1971 Buick LeSabre
 1971 Buick Riviera
+1971 Buick Skylark
 1971 Cadillac De Ville
 1971 Checker Marathon
 1971 Chevrolet Camaro
@@ -1614,6 +1778,7 @@
 1971 Honda N360
 1971 Lamborghini Miura
 1971 Lincoln Continental
+1971 Lotus 7
 1971 Lotus Elan Sprint
 1971 Mazda Familia
 1971 Mercury Cougar
@@ -1666,8 +1831,11 @@
 1972 BMW 1802
 1972 BMW 2002 tii
 1972 BMW 5 Series
+1972 Buick Centurion
+1972 Buick Electra
 1972 Buick LeSabre
 1972 Buick Riviera
+1972 Buick Skylark
 1972 Cadillac De Ville
 1972 Cadillac Eldorado
 1972 Checker Marathon
@@ -1704,6 +1872,7 @@
 1972 Jeep Wagoneer
 1972 Lamborghini Miura
 1972 Lincoln Continental Mk IV
+1972 Lotus 7
 1972 Lotus Elan Sprint
 1972 Mazda Familia
 1972 Mercury Cougar
@@ -1754,10 +1923,14 @@
 1973 BMW 2002 tii
 1973 BMW 2002 Turbo
 1973 BMW 5 Series
+1973 Buick Apollo
+1973 Buick Centurion
 1973 Buick Century
+1973 Buick Electra
 1973 Buick LeSabre
 1973 Buick Regal
 1973 Cadillac De Ville
+1973 Caterham 7
 1973 Checker Marathon
 1973 Chevrolet Camaro
 1973 Chevrolet Chevette
@@ -1789,6 +1962,7 @@
 1973 Holden HQ
 1973 Honda Life Step Van
 1973 Lamborghini Miura
+1973 Lotus 7
 1973 Lotus Elan Sprint
 1973 Mazda Familia
 1973 Mercury Cougar
@@ -1848,10 +2022,14 @@
 1974 BMW 2002 Turbo
 1974 BMW 5 Series
 1974 Bricklin SV-1
+1974 Buick Apollo
 1974 Buick Century
+1974 Buick Electra
 1974 Buick LeSabre
 1974 Buick Regal
+1974 Buick Skyhawk
 1974 Cadillac De Ville
+1974 Caterham 7
 1974 Chrysler 180
 1974 Checker Marathon
 1974 Chevrolet Camaro
@@ -1947,11 +2125,15 @@
 1975 BMW 3-Series
 1975 BMW 5 Series
 1975 Bricklin SV-1
+1975 Buick Apollo
 1975 Buick Century
 1975 Buick Electra
 1975 Buick LeSabre
 1975 Buick Regal
+1975 Buick Skyhawk
+1975 Buick Skylark
 1975 Cadillac Coupé De Ville
+1975 Caterham 7
 1975 Checker Marathon
 1975 Chevrolet Camaro
 1975 Chevrolet Impala
@@ -2037,10 +2219,15 @@
 1976 BMW 5 Series
 1976 BMW 6-Series
 1976 Buick Century
+1976 Buick Electra
 1976 Buick LeSabre
+1976 Buick Opel
 1976 Buick Regal
+1976 Buick Skyhawk
+1976 Buick Skylark
 1976 Cadillac De Ville
 1976 Cadillac Eldorado
+1976 Caterham 7
 1976 Checker Marathon
 1976 Chevrolet Camaro
 1976 Chevrolet Caprice
@@ -2129,9 +2316,14 @@
 1977 BMW 6-Series
 1977 BMW 7-Series
 1977 Buick Century
+1977 Buick Electra
 1977 Buick LeSabre
+1977 Buick Opel
 1977 Buick Regal
+1977 Buick Skyhawk
+1977 Buick Skylark
 1977 Cadillac De Ville
+1977 Caterham 7
 1977 Chrysler 180
 1977 Chrysler Alpine
 1977 Chrysler Avenger
@@ -2234,11 +2426,16 @@
 1978 BMW 7-Series
 1978 BMW M1
 1978 Buick Century
+1978 Buick Electra
 1978 Buick LeSabre
+1978 Buick Opel
 1978 Buick Regal
+1978 Buick Skyhawk
+1978 Buick Skylark
 1978 Cadillac De Ville
 1978 Cadillac Fleetwood
 1978 Cadillac Seville
+1978 Caterham 7
 1978 Checker Marathon
 1978 Chevrolet Camaro
 1978 Chevrolet Impala
@@ -2332,9 +2529,14 @@
 1979 BMW 7-Series
 1979 BMW M1
 1979 Buick Century
+1979 Buick Electra
 1979 Buick LeSabre
+1979 Buick Opel
 1979 Buick Regal
+1979 Buick Skyhawk
+1979 Buick Skylark
 1979 Cadillac De Ville
+1979 Caterham 7
 1979 Checker Marathon
 1979 Chevrolet Camaro
 1979 Chevrolet Impala
@@ -2429,10 +2631,14 @@
 1980 BMW 7-Series
 1980 BMW M1
 1980 Buick Century
+1980 Buick Electra Estate
 1980 Buick LeSabre
 1980 Buick Regal
+1980 Buick Skyhawk
+1980 Buick Skylark
 1980 Cadillac De Ville
 1980 Cadillac Fleetwood Brougham
+1980 Caterham 7
 1980 Checker Marathon
 1980 Chevrolet Camaro
 1980 Chevrolet Corvette
@@ -2526,9 +2732,13 @@
 1981 BMW 7-Series
 1981 BMW M1
 1981 Buick Century
+1981 Buick Electra Estate
 1981 Buick LeSabre
 1981 Buick Regal
+1981 Buick Skyhawk
+1981 Buick Skylark
 1981 Cadillac De Ville
+1981 Caterham 7
 1981 Checker Marathon
 1981 Chevrolet Camaro
 1981 Chevrolet Cavalier
@@ -2615,9 +2825,13 @@
 1982 BMW 6-Series
 1982 BMW 7-Series
 1982 Buick Century
+1982 Buick Electra Estate
 1982 Buick LeSabre
 1982 Buick Regal
+1982 Buick Skyhawk
+1982 Buick Skylark
 1982 Cadillac De Ville
+1982 Caterham 7
 1982 Checker Marathon
 1982 Chevrolet Camaro
 1982 Chevrolet Cavalier
@@ -2706,9 +2920,13 @@
 1983 BMW 6-Series
 1983 BMW 7-Series
 1983 Buick Century
+1983 Buick Electra Estate
 1983 Buick LeSabre
 1983 Buick Regal
+1983 Buick Skyhawk
+1983 Buick Skylark
 1983 Cadillac De Ville
+1983 Caterham 7
 1983 Chevrolet Camaro
 1983 Chevrolet Cavalier
 1983 Chevrolet Impala
@@ -2795,9 +3013,14 @@
 1984 BMW 6-Series
 1984 BMW 7-Series
 1984 Buick Century
+1984 Buick Electra Estate
 1984 Buick LeSabre
 1984 Buick Regal
+1984 Buick Skyhawk
+1984 Buick Skylark
+1984 Buick Somerset
 1984 Cadillac De Ville
+1984 Caterham 7
 1984 Chevrolet Camaro
 1984 Chevrolet Cavalier
 1984 Chevrolet Impala
@@ -2888,10 +3111,15 @@
 1985 BMW 6-Series
 1985 BMW 7-Series
 1985 Buick Century
+1985 Buick Electra Estate
 1985 Buick LeSabre
 1985 Buick Regal
+1985 Buick Skyhawk
+1985 Buick Skylark
+1985 Buick Somerset
 1985 Cadillac De Ville
 1985 Cadillac Eldorado
+1985 Caterham 7
 1985 Chevrolet Camaro
 1985 Chevrolet Cavalier
 1985 Chevrolet Impala
@@ -2984,10 +3212,15 @@
 1986 BMW 7-Series
 1986 BMW M3
 1986 Buick Century
+1986 Buick Electra Estate
 1986 Buick LeSabre
 1986 Buick Regal
+1986 Buick Skyhawk
+1986 Buick Skylark
+1986 Buick Somerset
 1986 Cadillac De Ville
 1986 Cadillac Eldorado
+1986 Caterham 7
 1986 Chevrolet Camaro
 1986 Chevrolet Cavalier
 1986 Chevrolet Corvette
@@ -3082,12 +3315,16 @@
 1987 BMW M3
 1987 BMW M5 E28
 1987 Buick Century
+1987 Buick Electra Estate
 1987 Buick LeSabre
-1987 Buick Somerset
 1987 Buick Reatta
 1987 Buick Regal GNX
+1987 Buick Skyhawk
+1987 Buick Skylark
+1987 Buick Somerset
 1987 Cadillac Allante
 1987 Cadillac De Ville
+1987 Caterham 7
 1987 Chevrolet Camaro
 1987 Chevrolet Caprice Wagon
 1987 Chevrolet Cavalier
@@ -3179,11 +3416,15 @@
 1988 BMW 7-Series
 1988 BMW M3
 1988 Buick Century
+1988 Buick Electra Estate
 1988 Buick LeSabre
 1988 Buick Reatta
 1988 Buick Regal
+1988 Buick Skyhawk
+1988 Buick Skylark
 1988 Cadillac Cimarron
 1988 Cadillac De Ville
+1988 Caterham 7
 1988 Chevrolet Camaro
 1988 Chevrolet Cavalier Z24
 1988 Chevrolet S-10
@@ -3281,11 +3522,15 @@
 1989 BMW M3
 1989 BMW Z1
 1989 Buick Century
+1989 Buick Electra Estate
 1989 Buick LeSabre
 1989 Buick Reatta
 1989 Buick Regal
 1989 Buick Riviera
+1989 Buick Skyhawk
+1989 Buick Skylark
 1989 Cadillac De Ville
+1989 Caterham 7
 1989 Chevrolet Camaro
 1989 Chevrolet Cavalier Z24
 1989 Chevrolet S-10
@@ -3391,11 +3636,15 @@
 1990 BMW M3
 1990 BMW Z1
 1990 Buick Century
+1990 Buick Electra
 1990 Buick LeSabre
+1990 Buick Park Avenue
 1990 Buick Reatta
 1990 Buick Regal
 1990 Buick Riviera
+1990 Buick Skylark
 1990 Cadillac De Ville
+1990 Caterham 7
 1990 Chevrolet Astro
 1990 Chevrolet Camaro
 1990 Chevrolet Cavalier Z24
@@ -3512,11 +3761,14 @@
 1991 Bugatti EB 110
 1991 Buick Century
 1991 Buick LeSabre
+1991 Buick Park Avenue
 1991 Buick Reatta
 1991 Buick Regal
 1991 Buick Riviera
 1991 Buick Roadmaster
+1991 Buick Skylark
 1991 Cadillac De Ville
+1991 Caterham 7
 1991 Chevrolet Astro
 1991 Chevrolet Camaro
 1991 Chevrolet Cavalier Z24
@@ -3630,10 +3882,13 @@
 1992 Bugatti EB 110
 1992 Buick Century
 1992 Buick LeSabre
+1992 Buick Park Avenue
 1992 Buick Regal
 1992 Buick Riviera
 1992 Buick Roadmaster
+1992 Buick Skylark
 1992 Cadillac De Ville
+1992 Caterham 7
 1992 Chevrolet Astro
 1992 Chevrolet Camaro
 1992 Chevrolet Cavalier Z24
@@ -3767,11 +4022,14 @@
 1993 Bugatti EB 110
 1993 Buick Century
 1993 Buick LeSabre
+1993 Buick Park Avenue
 1993 Buick Regal
 1993 Buick Riviera
-1993 Buick Roadmaster
+1993 Buick Roadmaster Estate
+1993 Buick Skylark
 1993 Cadillac Allanté
 1993 Cadillac De Ville
+1993 Caterham 7
 1993 Chevrolet Astro
 1993 Chevrolet Camaro
 1993 Chevrolet Cavalier Z24
@@ -3918,9 +4176,12 @@
 1994 Bugatti EB 110
 1994 Buick Century
 1994 Buick LeSabre
+1994 Buick Park Avenue
 1994 Buick Regal
 1994 Buick Roadmaster
+1994 Buick Skylark
 1994 Cadillac De Ville
+1994 Caterham 7
 1994 Chevrolet Astro
 1994 Chevrolet Camaro
 1994 Chevrolet Cavalier Z24
@@ -4061,11 +4322,13 @@
 1995 Bugatti EB 110
 1995 Buick Century
 1995 Buick LeSabre
+1995 Buick Park Avenue
 1995 Buick Regal
 1995 Buick Riviera
 1995 Buick Roadmaster
 1995 Buick Skylark
 1995 Cadillac De Ville
+1995 Caterham 7
 1995 Chevrolet Camaro
 1995 Chevrolet Cavalier
 1995 Chevrolet Corsica
@@ -4206,10 +4469,13 @@
 1996 BMW Z3
 1996 Buick Century
 1996 Buick LeSabre
+1996 Buick Park Avenue
 1996 Buick Regal
 1996 Buick Riviera
 1996 Buick Roadmaster Limited
+1996 Buick Skylark
 1996 Cadillac De Ville
+1996 Caterham 7
 1996 Chevrolet Beretta
 1996 Chevrolet Camaro
 1996 Chevrolet Caprice
@@ -4356,9 +4622,12 @@
 1997 BMW Z3
 1997 Buick Century
 1997 Buick LeSabre
+1997 Buick Park Avenue
 1997 Buick Regal
 1997 Buick Riviera
+1997 Buick Skylark
 1997 Cadillac De Ville
+1997 Caterham 7
 1997 Chevrolet Camaro
 1997 Chevrolet Cavalier
 1997 Chevrolet Malibu
@@ -4502,9 +4771,12 @@
 1998 BMW Z3 Coupe
 1998 Buick Century
 1998 Buick LeSabre
+1998 Buick Park Avenue
 1998 Buick Regal
 1998 Buick Riviera
+1998 Buick Skylark
 1998 Cadillac De Ville
+1998 Caterham 7
 1998 Chevrolet Blazer
 1998 Chevrolet Camaro
 1998 Chevrolet Cavalier
@@ -4658,10 +4930,12 @@
 1999 Buick Century
 1999 Buick GL8
 1999 Buick LeSabre
+1999 Buick Park Avenue
 1999 Buick Regal LS
 1999 Buick Riviera
 1999 Cadillac Catera
 1999 Cadillac De Ville
+1999 Caterham 7
 1999 Chevrolet Astro
 1999 Chevrolet C/K 1500
 1999 Chevrolet Camaro
@@ -4832,10 +5106,13 @@
 2000 Buick Century
 2000 Buick GL8
 2000 Buick LeSabre
+2000 Buick Park Avenue
 2000 Buick Regal
+2000 Buick Sail
 2000 Cadillac DeVille Base
 2000 Cadillac DeVille DHS
 2000 Cadillac DeVille DTS
+2000 Caterham 7
 2000 Chevrolet Malibu
 2000 Chevrolet Monte Carlo LS
 2000 Chevrolet Monte Carlo SS
@@ -5002,8 +5279,12 @@
 2001 Buick Century
 2001 Buick GL8
 2001 Buick LeSabre
+2001 Buick Park Avenue
 2001 Buick Regal
+2001 Buick Rendezvous
+2001 Buick Sail
 2001 Cadillac De Ville
+2001 Caterham 7
 2001 Chevrolet Camaro
 2001 Chevrolet Cavalier
 2001 Chevrolet Corvette Z06
@@ -5168,9 +5449,13 @@
 2002 Buick Century
 2002 Buick GL8
 2002 Buick LeSabre
+2002 Buick Park Avenue
 2002 Buick Regal
+2002 Buick Rendezvous
+2002 Buick Sail
 2002 Cadillac De Ville
 2002 Cadillac Eldorado
+2002 Caterham 7
 2002 Chevrolet Camaro
 2002 Chevrolet Cavalier
 2002 Chevrolet Impala
@@ -5338,10 +5623,15 @@
 2003 Buick Excelle
 2003 Buick GL8
 2003 Buick LeSabre
+2003 Buick Park Avenue
+2003 Buick Rainier
 2003 Buick Regal
+2003 Buick Rendezvous
+2003 Buick Sail
 2003 Cadillac CTS
 2003 Cadillac De Ville
 2003 Cadillac XLR
+2003 Caterham 7
 2003 Chevrolet Cavalier
 2003 Chevrolet Colorado
 2003 Chevrolet Corvette Z06
@@ -5508,11 +5798,17 @@
 2004 Buick GL8
 2004 Buick LaCrosse
 2004 Buick LeSabre
+2004 Buick Park Avenue
+2004 Buick Rainier
 2004 Buick Regal
+2004 Buick Rendezvous
+2004 Buick Sail
+2004 Buick Terraza
 2004 Cadillac CTS-V
 2004 Cadillac De Ville
 2004 Cadillac Seville
 2004 Cadillac XLR
+2004 Caterham 7
 2004 Chevrolet Cavalier
 2004 Chevrolet Cobalt
 2004 Chevrolet Colorado
@@ -5700,9 +5996,16 @@
 2005 Buick GL8
 2005 Buick LaCrosse
 2005 Buick LeSabre
+2005 Buick Lucerne
+2005 Buick Park Avenue
+2005 Buick Rainier
 2005 Buick Regal
+2005 Buick Rendezvous
+2005 Buick Royaum
+2005 Buick Terraza
 2005 Cadillac DeVille
 2005 Cadillac XLR
+2005 Caterham 7
 2005 Chevrolet Astro
 2005 Chevrolet Cavalier
 2005 Chevrolet Cobalt
@@ -5891,8 +6194,14 @@
 2006 Buick Excelle
 2006 Buick GL8
 2006 Buick LaCrosse
+2006 Buick Lucerne
+2006 Buick Rainier
 2006 Buick Regal
+2006 Buick Rendezvous
+2006 Buick Royaum
+2006 Buick Terraza
 2006 Cadillac XLR
+2006 Caterham 7
 2006 Chevrolet Captiva
 2006 Chevrolet Cobalt
 2006 Chevrolet Colorado
@@ -6079,9 +6388,13 @@
 2007 Buick Excelle
 2007 Buick GL8
 2007 Buick LaCrosse
+2007 Buick Lucerne
+2007 Buick Rainier
 2007 Buick Regal
 2007 Buick Rendezvous
+2007 Buick Terraza
 2007 Cadillac XLR
+2007 Caterham 7
 2007 Chevrolet Captiva
 2007 Chevrolet Cobalt
 2007 Chevrolet Colorado
@@ -6266,8 +6579,10 @@
 2008 Buick Excelle
 2008 Buick GL8
 2008 Buick LaCrosse
+2008 Buick Lucerne
 2008 Buick Regal
 2008 Cadillac XLR
+2008 Caterham 7
 2008 Chevrolet Captiva
 2008 Chevrolet Cobalt
 2008 Chevrolet Colorado
@@ -6453,11 +6768,13 @@
 2009 Buick Excelle GT
 2009 Buick GL8
 2009 Buick LaCrosse
+2009 Buick Lucerne
 2009 Buick Regal
 2009 BYD e6
 2009 Cadillac CTS-V
 2009 Cadillac STS V8
 2009 Cadillac XLR
+2009 Caterham 7
 2009 Chevrolet Captiva
 2009 Chevrolet Cobalt
 2009 Chevrolet Colorado
@@ -6661,9 +6978,11 @@
 2010 Buick Excelle GT
 2010 Buick GL8
 2010 Buick LaCrosse
+2010 Buick Lucerne
 2010 Buick Regal
 2010 BYD e6
 2010 Cadillac CTS-V
+2010 Caterham 7
 2010 Chevrolet Captiva
 2010 Chevrolet Camaro
 2010 Chevrolet Colorado
@@ -6834,6 +7153,7 @@
 2011 Audi S6
 2011 Audi TT RS
 2011 Audi TTS
+2011 BAC Mono
 2011 Bentley Mulsanne
 2011 BMW 1-Series
 2011 BMW 3 Series
@@ -6853,10 +7173,12 @@
 2011 Buick Excelle GT
 2011 Buick GL8
 2011 Buick LaCrosse
+2011 Buick Lucerne
 2011 Buick Regal
 2011 BYD e6
 2011 Cadillac CTS-V
 2011 Cadillac CTS-V Wagon
+2011 Caterham 7
 2011 Chevrolet Aveo
 2011 Chevrolet Captiva
 2011 Chevrolet Cobalt
@@ -7038,6 +7360,7 @@
 2012 Audi S8
 2012 Audi TT RS
 2012 Audi TTS
+2012 BAC Mono
 2012 Bentley Mulsanne
 2012 BMW 1-Series
 2012 BMW 3 Series
@@ -7062,6 +7385,7 @@
 2012 Buick Verano
 2012 BYD e6
 2012 Cadillac CTS-V
+2012 Caterham 7
 2012 Chevrolet Captiva
 2012 Chevrolet Cobalt
 2012 Chevrolet Colorado
@@ -7132,6 +7456,7 @@
 2012 Kia Venga
 2012 KTM X-Bow
 2012 Lada Granta
+2012 Lada Largus
 2012 Lada Niva
 2012 Lamborghini Gallardo
 2012 Lancia Ypsilon
@@ -7251,6 +7576,7 @@
 2013 Audi S8
 2013 Audi TT RS
 2013 Audi TTS
+2013 BAC Mono
 2013 Bentley Continental
 2013 Bentley Mulsanne
 2013 BMW 1-Series
@@ -7281,6 +7607,7 @@
 2013 Buick Verano
 2013 BYD e6
 2013 Cadillac Escalade
+2013 Caterham 7
 2013 Chevrolet Avalanche
 2013 Chevrolet Camaro
 2013 Chevrolet Captiva
@@ -7381,6 +7708,7 @@
 2013 Kia Venga
 2013 KTM X-Bow
 2013 Lada Granta
+2013 Lada Largus
 2013 Lada Niva
 2013 Lamborghini Gallardo
 2013 Lancia Ypsilon
@@ -7524,6 +7852,7 @@
 2014 Audi S7
 2014 Audi TT RS
 2014 Audi TTS
+2014 BAC Mono
 2014 Bentley Mulsanne
 2014 BMW 1-Series
 2014 BMW 2 Series Active Tourer
@@ -7554,6 +7883,7 @@
 2014 Buick Regal
 2014 Buick Verano
 2014 BYD e6
+2014 Caterham 7
 2014 Chevrolet Captiva
 2014 Chevrolet Cobalt
 2014 Chevrolet Colorado
@@ -7622,10 +7952,12 @@
 2014 Jaguar XJ
 2014 Jeep Grand Cherokee
 2014 Jeep Wrangler
+2014 Kawei K1
 2014 Kia Soul
 2014 Kia Venga
 2014 KTM X-Bow
 2014 Lada Granta
+2014 Lada Largus
 2014 Lada Niva
 2014 Lancia Ypsilon
 2014 Lexus IS
@@ -7746,6 +8078,7 @@
 2015 Audi S1
 2015 Audi S4
 2015 Audi TT
+2015 BAC Mono
 2015 Bentley Mulsanne
 2015 BMW 1-Series
 2015 BMW 2 Series Active Tourer
@@ -7776,6 +8109,7 @@
 2015 Buick Regal
 2015 Buick Verano
 2015 BYD e6
+2015 Caterham 7
 2015 Changhe Q25
 2015 Chevrolet Camaro
 2015 Chevrolet Captiva
@@ -7855,11 +8189,13 @@
 2015 Jaguar XK
 2015 Jeep Grand Cherokee
 2015 Jeep Wrangler
+2015 Kawei K1
 2015 Kia Soul
 2015 Kia Venga
 2015 Koenigsegg Regera
 2015 KTM X-Bow
 2015 Lada Granta
+2015 Lada Largus
 2015 Lada Niva
 2015 Lada Vesta
 2015 Lamborghini Huracan
@@ -7995,6 +8331,7 @@
 2016 Audi RS 7
 2016 Audi RS Q3
 2016 Audi TT
+2016 BAC Mono
 2016 Bentley Mulsanne
 2016 BMW 1-Series
 2016 BMW 2 Series Active Tourer
@@ -8029,6 +8366,7 @@
 2016 Buick Verano
 2016 BYD e6
 2016 Cadillac ATS
+2016 Caterham 7
 2016 Changhe Q25
 2016 Chevrolet Captiva
 2016 Chevrolet Cavalier
@@ -8113,11 +8451,13 @@
 2016 Jeep Compass
 2016 Jeep Grand Cherokee
 2016 Jeep Wrangler
+2016 Kawei K1
 2016 Kia Forte Koup
 2016 Kia Soul
 2016 Kia Venga
 2016 KTM X-Bow
 2016 Lada Granta
+2016 Lada Largus
 2016 Lada Niva
 2016 Lada Vesta
 2016 Lada XRAY
@@ -8241,6 +8581,7 @@
 2017 Audi R8 V10 Plus
 2017 Audi RS 5
 2017 Audi TT
+2017 BAC Mono
 2017 Baojun 510
 2017 Bentley Bentayga
 2017 Bentley Mulsanne
@@ -8277,6 +8618,7 @@
 2017 Buick Verano
 2017 BYD e6
 2017 BYD Song Max
+2017 Caterham 7
 2017 Changhe Q25
 2017 Chevrolet Beat
 2017 Chevrolet Bolt
@@ -8362,6 +8704,7 @@
 2017 Jaguar XJ
 2017 Jeep Grand Cherokee
 2017 Jeep Wrangler
+2017 Kawei K1
 2017 Kia Forte
 2017 Kia Picanto
 2017 Kia Soul
@@ -8370,6 +8713,7 @@
 2017 Koenigsegg Agera RS
 2017 KTM X-Bow
 2017 Lada Granta
+2017 Lada Largus
 2017 Lada Niva
 2017 Lada Vesta
 2017 Lada XRAY
@@ -8508,6 +8852,7 @@
 2018 Audi Q8
 2018 Audi R8
 2018 Audi TT
+2018 BAC Mono
 2018 Baojun 510
 2018 Baojun 530
 2018 Bentley Mulsanne
@@ -8546,6 +8891,7 @@
 2018 Buick Verano
 2018 BYD e6
 2018 BYD Song Max
+2018 Caterham 7
 2018 Changhe Q25
 2018 Chevrolet Beat
 2018 Chevrolet Bolt
@@ -8624,6 +8970,7 @@
 2018 Jaguar XJ
 2018 Jeep Grand Cherokee
 2018 Jeep Wrangler
+2018 Kawei K1
 2018 Kia Ceed
 2018 Kia Forte5
 2018 Kia Picanto
@@ -8633,6 +8980,7 @@
 2018 Koenigsegg Agera RS1
 2018 KTM X-Bow
 2018 Lada Granta
+2018 Lada Largus
 2018 Lada Niva
 2018 Lada Vesta
 2018 Lada XRAY
@@ -8783,6 +9131,7 @@
 2019 Audi SQ7
 2019 Audi TT RS
 2019 Audi TTS
+2019 BAC Mono
 2019 Baojun 510
 2019 Baojun 530
 2019 Bentley Flying Spur
@@ -8827,6 +9176,7 @@
 2019 Cadillac ATS
 2019 Cadillac CTS
 2019 Cadillac XTS
+2019 Caterham 7
 2019 Changhe Q25
 2019 Chevrolet Beat
 2019 Chevrolet Bolt
@@ -8910,12 +9260,14 @@
 2019 Jaguar XJ
 2019 Jeep Grand Cherokee
 2019 Jeep Wrangler
+2019 Kawei K1
 2019 Kia Ceed
 2019 Kia Picanto
 2019 Kia Soul EV
 2019 Kia Venga
 2019 KTM X-Bow
 2019 Lada Granta
+2019 Lada Largus
 2019 Lada Niva
 2019 Lada Vesta
 2019 Lada XRAY
@@ -9092,6 +9444,7 @@
 2020 Audi TT
 2020 Audi TTS
 2020 Audi TT RS
+2020 BAC Mono
 2020 Baojun 510
 2020 Baojun 530
 2020 Bentley Flying Spur
@@ -9154,6 +9507,7 @@
 2020 Cadillac XT4
 2020 Cadillac XT5
 2020 Cadillac XT6
+2020 Caterham 7
 2020 Chevrolet Beat
 2020 Chevrolet Blazer
 2020 Chevrolet Bolt EV
@@ -9333,6 +9687,7 @@
 2020 Jeep Wrangler Rubicon
 2020 Jeep Wrangler Sport
 2020 Jeep Wrangler Unlimited Sport
+2020 Kawei K1
 2020 Kia Cadenza Limited
 2020 Kia Cadenza Technology
 2020 Kia Ceed
@@ -9388,6 +9743,7 @@
 2020 Kia Telluride SX AWD
 2020 KTM X-Bow
 2020 Lada Granta
+2020 Lada Largus
 2020 Lada Niva
 2020 Lada Vesta
 2020 Lada XRAY
@@ -9836,6 +10192,7 @@
 2021 Audi Q8
 2021 Audi R8
 2021 Audi TT
+2021 BAC Mono
 2021 Bentley Flying Spur
 2021 BMW 1 Series
 2021 BMW 2 Series Active Tourer
@@ -9875,6 +10232,7 @@
 2021 Buick Verano
 2021 BYD e6
 2021 BYD Song Max
+2021 Caterham 7
 2021 Chevrolet Beat
 2021 Chevrolet Bolt
 2021 Chevrolet Captiva
@@ -9958,11 +10316,13 @@
 2021 Infiniti QX80
 2021 Jaguar I-Pace
 2021 Jeep Wrangler
+2021 Kawei K1
 2021 Kia Ceed
 2021 Kia Picanto
 2021 Kia Soul
 2021 KTM X-Bow
 2021 Lada Granta
+2021 Lada Largus
 2021 Lada Niva
 2021 Lada Vesta
 2021 Lada XRAY
