@@ -409,6 +409,7 @@
 1951 DeSoto Series S-10
 1951 DKW Schnellaster
 1951 Dodge Coronet
+1951 Fiat Campagnola
 1951 Ford F-1
 1951 Ford F-2
 1951 Ford F-3
@@ -440,6 +441,7 @@
 1951 Triumph Mayflower
 1951 Volkswagen Beetle
 1951 Volkswagen Kombi
+1952 AC Petite
 1952 Aston Martin DB2
 1952 Austin A30
 1952 Austin A40 Devon
@@ -465,6 +467,7 @@
 1952 DKW Schnellaster
 1952 Dodge Coronet
 1952 Fiat 8V
+1952 Fiat Campagnola
 1952 Ford F-1
 1952 Ford F-2
 1952 Ford F-3
@@ -493,6 +496,7 @@
 1952 Volkswagen Beetle
 1952 Volkswagen Kombi
 1953 AC Ace
+1953 AC Petite
 1953 Allard Clipper
 1953 Armstrong Siddeley Sapphire
 1953 Aston Martin DB2
@@ -520,6 +524,7 @@
 1953 Dodge Coronet
 1953 Ferrari 250
 1953 Fiat 8V
+1953 Fiat Campagnola
 1953 Ford Crestline Victoria
 1953 Ford F-100
 1953 Henry J
@@ -547,6 +552,7 @@
 1953 Volkswagen Beetle
 1953 Volkswagen Kombi
 1954 AC Ace
+1954 AC Petite
 1954 Allard Clipper
 1954 Aston Martin DB2/4
 1954 Austin A30
@@ -572,6 +578,7 @@
 1954 Dodge Coronet
 1954 Dodge Royal
 1954 Fiat 8V
+1954 Fiat Campagnola
 1954 Ford Crestline
 1954 Henry J
 1954 Hillman Husky
@@ -600,6 +607,7 @@
 1954 Volkswagen Beetle
 1954 Volkswagen Kombi
 1955 AC Ace
+1955 AC Petite
 1955 Aston Martin DB2/4
 1955 Austin A30
 1955 Austin Cambridge
@@ -620,6 +628,7 @@
 1955 Citroën DS
 1955 DKW Schnellaster
 1955 Dodge Coronet
+1955 Fiat Campagnola
 1955 Ford F-100
 1955 Ford Thunderbird
 1955 GAZ M-72
@@ -632,7 +641,7 @@
 1955 Lancia Aurelia B20
 1955 Lotus Mark VI
 1955 Maserati A6
-1955 Mercedes-Benz 300SL Gullwing
+1955 Mercedes-Benz 300SL
 1955 Messerschmitt KR200
 1955 MG MGA
 1955 Nash Metropolitan
@@ -649,6 +658,7 @@
 1955 Volkswagen Beetle
 1955 Volkswagen Kombi
 1956 AC Ace-Bristol
+1956 AC Petite
 1956 Aston Martin DB2/4
 1956 Aston Martin DBR1
 1956 Austin A30
@@ -674,6 +684,7 @@
 1956 DKW Schnellaster
 1956 Dodge Coronet
 1956 Fiat 600 Multipla
+1956 Fiat Campagnola
 1956 Ford F-100 Panel Van
 1956 Ford F-250
 1956 Ford Thunderbird
@@ -687,6 +698,7 @@
 1956 Lancia Aurelia B20
 1956 Lotus Mark VI
 1956 Maserati A6
+1956 Mercedes-Benz 300SL
 1956 Mercury M-100
 1956 Messerschmitt KR200
 1956 MG MGA
@@ -705,6 +717,7 @@
 1956 Volkswagen Kombi
 1956 Volvo Amazon
 1957 AC Ace-Bristol
+1957 AC Petite
 1957 AMC Ambassador
 1957 Aston Martin DB Mark III
 1957 Aston Martin DB2/4
@@ -735,7 +748,9 @@
 1957 DeSoto Diplomat Plaza
 1957 DKW Schnellaster
 1957 Dodge Coronet
+1957 Fiat 1200
 1957 Fiat 600 Multipla
+1957 Fiat Campagnola
 1957 Ford Fairlane 500 Skyliner
 1957 Ford Mainline
 1957 Ford Ranchero
@@ -747,6 +762,7 @@
 1957 Lancia Aurelia B20
 1957 Lotus 7
 1957 Lotus Mark VI
+1957 Mercedes-Benz 300SL
 1957 Messerschmitt KR200
 1957 MG MGA
 1957 Nash Cosmopolitan
@@ -798,7 +814,9 @@
 1958 Edsel Corsair
 1958 Edsel Bermuda
 1958 Edsel Ranger
+1958 Fiat 1200
 1958 Fiat 600 Multipla
+1958 Fiat Campagnola
 1958 Ford Fairlane 500 Skyliner
 1958 Ford Ranchero
 1958 Ford Thunderbird
@@ -808,6 +826,7 @@
 1958 Lancia Aurelia B20
 1958 Lincoln Capri
 1958 Lotus 7
+1958 Mercedes-Benz 300SL
 1958 Mercury Commuter
 1958 Messerschmitt KR200
 1958 MG MGA
@@ -868,8 +887,10 @@
 1959 Dodge Custom Royal Lancer
 1959 Edsel Corsair Convertible
 1959 Edsel Ranger
+1959 Fiat 1200
 1959 Fiat 500
 1959 Fiat 600 Multipla
+1959 Fiat Campagnola
 1959 Ford F-100
 1959 Ford Fairlane 500 Skyliner
 1959 Ford Falcon
@@ -879,6 +900,7 @@
 1959 Goggomobil Dart
 1959 Hindustan Ambassador
 1959 Lotus 7
+1959 Mercedes-Benz 300SL
 1959 Messerschmitt KR200
 1959 MG MGA
 1959 Morris Major
@@ -929,7 +951,9 @@
 1960 Citroën 2CV
 1960 DKW Schnellaster
 1960 Edsel Ranger
+1960 Fiat 1200
 1960 Fiat 600 Multipla
+1960 Fiat Campagnola
 1960 Ford Falcon
 1960 Ford Ranchero
 1960 Ford Zephyr
@@ -938,6 +962,7 @@
 1960 Lotus 7
 1960 Maserati 3500 GT
 1960 Mazda R360
+1960 Mercedes-Benz 300SL
 1960 Messerschmitt KR200
 1960 Morris Major
 1960 Nash Metropolitan
@@ -985,8 +1010,10 @@
 1961 Citroën 2CV
 1961 DKW Schnellaster
 1961 Ferrari 250 GT Berlinetta
+1961 Fiat 1200
 1961 Fiat 1300
 1961 Fiat 600 Multipla
+1961 Fiat Campagnola
 1961 Ford F-100
 1961 Ford Falcon
 1961 Ford Ranchero
@@ -996,6 +1023,7 @@
 1961 Lincoln Continental Convertible
 1961 Lotus 7
 1961 Mazda R360
+1961 Mercedes-Benz 300SL
 1961 Mercedes-Benz E-Class
 1961 Messerschmitt KR200
 1961 Mini Cooper
@@ -1052,6 +1080,7 @@
 1962 Datsun SP310
 1962 DKW Schnellaster
 1962 Fiat 600 Multipla
+1962 Fiat Campagnola
 1962 Ford Cortina GT
 1962 Ford Cortina
 1962 Ford Falcon
@@ -1065,6 +1094,7 @@
 1962 Lotus 7
 1962 Mazda R360
 1962 Mercedes-Benz 220 SE Coupe
+1962 Mercedes-Benz 300SL
 1962 Mercury M-100
 1962 Messerschmitt KR200
 1962 Mitsubishi Colt
@@ -1122,6 +1152,7 @@
 1963 Dodge Dart
 1963 Ferrari 250 GTO
 1963 Fiat 600 Multipla
+1963 Fiat Campagnola
 1963 Ford Cortina GT
 1963 Ford Falcon
 1963 Ford Ranchero
@@ -1133,6 +1164,7 @@
 1963 Lotus 7
 1963 Mazda Familia
 1963 Mazda R360
+1963 Mercedes-Benz 300SL
 1963 Mercedes-Benz 600
 1963 Messerschmitt KR200
 1963 Mitsubishi Colt
@@ -1188,6 +1220,7 @@
 1964 Chrysler Newport
 1964 Citroën 2CV
 1964 Fiat 600 Multipla
+1964 Fiat Campagnola
 1964 Ford Anglia
 1964 Ford Cortina GT
 1964 Ford F-100
@@ -1265,6 +1298,7 @@
 1965 Citroën 2CV
 1965 Dodge Coronet
 1965 Fiat 600 Multipla
+1965 Fiat Campagnola
 1965 Ford Cortina
 1965 Ford Falcon
 1965 Ford Galaxie LTD
@@ -1329,6 +1363,7 @@
 1966 Ferrari 330 GTC
 1966 Fiat 124
 1966 Fiat 600 Multipla
+1966 Fiat Campagnola
 1966 Ford 427 Fairlane
 1966 Ford Cortina
 1966 Ford F-100
@@ -1409,11 +1444,13 @@
 1967 Citroën 2CV
 1967 Citroën Dyane
 1967 Datsun Fairlady
+1967 De Tomaso Mangusta
 1967 Dodge A100 Van
 1967 Dodge Coronet
 1967 Fiat 124
 1967 Fiat 125
 1967 Fiat 600 Multipla
+1967 Fiat Campagnola
 1967 Ford Cortina
 1967 Ford F-100 Ranger
 1967 Ford F-250
@@ -1491,10 +1528,12 @@
 1968 Daimler DS420
 1968 Datsun 510
 1968 Datsun Fairlady
+1968 De Tomaso Mangusta
 1968 Dodge Coronet
 1968 Ferrari 365 GTB/4 Daytona
 1968 Fiat 124
 1968 Fiat 600 Multipla
+1968 Fiat Campagnola
 1968 Ford Cortina
 1968 Ford Escort
 1968 Ford F-250
@@ -1577,12 +1616,14 @@
 1969 Dacia 1300
 1969 Daihatsu Consorte
 1969 Datsun Fairlady 2000
+1969 De Tomaso Mangusta
 1969 Dodge Charger
 1969 Dodge Coronet Super Bee
 1969 Ferrari Dino 246 GT
 1969 Fiat 124
 1969 Fiat 600 Multipla
 1969 Fiat 850 Coupe
+1969 Fiat Campagnola
 1969 Ford Cortina
 1969 Ford Escort
 1969 Ford F-100 Explorer
@@ -1599,6 +1640,7 @@
 1969 Lotus 7
 1969 Mazda Familia
 1969 Mazda R360
+1969 Melkus RS 1000
 1969 Mercury Cougar
 1969 Mercury Cyclone
 1969 Mercury Marauder
@@ -1666,11 +1708,13 @@
 1970 Daihatsu Consorte
 1970 Datsun 240Z
 1970 Datsun Fairlady
+1970 De Tomaso Mangusta
 1970 Dodge Challenger
 1970 Dodge Charger
 1970 Dodge Coronet
 1970 Fiat 124
 1970 Fiat 128
+1970 Fiat Campagnola
 1970 Ford Cortina
 1970 Ford Escort RS1600
 1970 Ford F-250
@@ -1685,6 +1729,7 @@
 1970 Lotus 7
 1970 Lotus Elan Sprint
 1970 Mazda Familia
+1970 Melkus RS 1000
 1970 Mercury Cougar
 1970 Mitsubishi Colt Galant GTO
 1970 Mitsubishi Minica
@@ -1758,6 +1803,7 @@
 1971 Dacia 1300
 1971 Daihatsu Consorte
 1971 Datsun 240Z
+1971 De Tomaso Mangusta
 1971 De Tomaso Pantera
 1971 Dodge Challenger R/T
 1971 Dodge Charger R/T
@@ -1765,6 +1811,7 @@
 1971 Dodge Demon
 1971 Dodge Hemi Challenger
 1971 Fiat 124
+1971 Fiat Campagnola
 1971 Ford Cortina
 1971 Ford Escort
 1971 Ford F-250 Camper Special
@@ -1781,6 +1828,7 @@
 1971 Lotus 7
 1971 Lotus Elan Sprint
 1971 Mazda Familia
+1971 Melkus RS 1000
 1971 Mercury Cougar
 1971 Mitsubishi Colt Galant GTO
 1971 Mitsubishi Minica
@@ -1855,6 +1903,7 @@
 1972 Dodge Coronet
 1972 Fiat 126
 1972 Fiat 124
+1972 Fiat Campagnola
 1972 Ford Cortina
 1972 Ford Escort
 1972 Ford F-250
@@ -1875,6 +1924,7 @@
 1972 Lotus 7
 1972 Lotus Elan Sprint
 1972 Mazda Familia
+1972 Melkus RS 1000
 1972 Mercury Cougar
 1972 Mitsubishi Colt Galant GTO
 1972 Mitsubishi Minica
@@ -1949,6 +1999,7 @@
 1973 Ferrari 512 BB
 1973 Fiat 124
 1973 Fiat 126
+1973 Fiat Campagnola
 1973 Ford Cortina
 1973 Ford Escort RS1800
 1973 Ford F-100 XLT
@@ -1965,6 +2016,7 @@
 1973 Lotus 7
 1973 Lotus Elan Sprint
 1973 Mazda Familia
+1973 Melkus RS 1000
 1973 Mercury Cougar
 1973 Mitsubishi Colt Galant GTO
 1973 Mitsubishi Lancer
@@ -2069,6 +2121,7 @@
 1974 Leyland P76
 1974 Lincoln Continental Mark IV
 1974 Mazda Familia
+1974 Melkus RS 1000
 1974 Mercedes-Benz 450SL
 1974 Mercury Cougar
 1974 Mitsubishi Colt Galant GTO
@@ -2168,6 +2221,7 @@
 1975 Honda Civic RS
 1975 Lamborghini Countach
 1975 Mazda Familia
+1975 Melkus RS 1000
 1975 Mercedes-Benz 450SL
 1975 Mercury Cougar
 1975 Mitsubishi Colt Galant GTO
@@ -2266,6 +2320,7 @@
 1976 Honda Civic
 1976 Lamborghini Countach
 1976 Mazda Familia
+1976 Melkus RS 1000
 1976 Mercedes-Benz 450SL
 1976 Mercedes-Benz E-Class
 1976 Mercury Cougar
@@ -2379,6 +2434,7 @@
 1977 Lamborghini Countach
 1977 Matra Rancho
 1977 Mazda Familia
+1977 Melkus RS 1000
 1977 Mercedes-Benz 450SL
 1977 Mercury Cougar
 1977 Mitsubishi Colt Galant GTO
@@ -2483,6 +2539,7 @@
 1978 Lamborghini Countach
 1978 Mazda Familia
 1978 Mazda RX-7
+1978 Melkus RS 1000
 1978 Mercedes-Benz 450SL
 1978 Mercury Cougar
 1978 Mitsubishi Colt
@@ -2584,6 +2641,7 @@
 1979 Lamborghini Countach
 1979 Mazda Familia
 1979 Mazda RX-7
+1979 Melkus RS 1000
 1979 Mercedes-Benz 300D
 1979 Mercedes-Benz 450SL
 1979 Mercury Capri RS
@@ -3061,6 +3119,7 @@
 1984 GMC Jimmy
 1984 Holden Commodore
 1984 Hyundai Stellar
+1984 Isdera Imperator 108i
 1984 Jeep Cherokee
 1984 Jeep Grand Wagoneer
 1984 Lada Niva
@@ -3160,6 +3219,7 @@
 1985 Holden Commodore
 1985 Hyundai Sonata
 1985 Hyundai Stellar
+1985 Isdera Imperator 108i
 1985 Jeep Cherokee
 1985 Jeep Grand Cherokee
 1985 Lada Niva
@@ -3264,6 +3324,7 @@
 1986 Honda Civic
 1986 Hyundai Sonata
 1986 Hyundai Stellar
+1986 Isdera Imperator 108i
 1986 Jeep Cherokee
 1986 Jeep Wrangler
 1986 Lada Niva
@@ -3369,6 +3430,7 @@
 1987 Honda Civic
 1987 Hyundai Sonata
 1987 Hyundai Stellar
+1987 Isdera Imperator 108i
 1987 Jeep Cherokee
 1987 Jeep Wrangler
 1987 Lada Niva
@@ -3474,6 +3536,7 @@
 1988 Holden Commodore
 1988 Hyundai Sonata
 1988 Hyundai Stellar
+1988 Isdera Imperator 108i
 1988 Jeep Cherokee
 1988 Lada Niva
 1988 Lamborghini Countach
@@ -3585,6 +3648,7 @@
 1989 Honda Prelude
 1989 Hyundai Sonata
 1989 Hyundai Stellar
+1989 Isdera Imperator 108i
 1989 Jeep Cherokee
 1989 Jeep Wrangler
 1989 Lada Niva
@@ -3702,6 +3766,7 @@
 1990 Hyundai Scoupe
 1990 Hyundai Sonata
 1990 Hyundai Stellar
+1990 Isdera Imperator 108i
 1990 Jaguar XJR-15
 1990 Jeep Cherokee
 1990 Jeep Wrangler
@@ -3828,6 +3893,7 @@
 1991 Hyundai Elantra
 1991 Hyundai Sonata
 1991 Hyundai Stellar
+1991 Isdera Imperator 108i
 1991 Jeep Cherokee
 1991 Jeep Wrangler
 1991 Lada Niva
@@ -3892,6 +3958,7 @@
 1992 Austin Metro
 1992 Austin Mini
 1992 Austin Montego
+1992 Autozam AZ-1
 1992 BMW 3-Series
 1992 BMW 5 Series
 1992 BMW 6-Series
@@ -3961,6 +4028,7 @@
 1992 Hyundai Sonata
 1992 Hyundai Stellar
 1992 Infiniti M30
+1992 Isdera Imperator 108i
 1992 Isuzu Impulse Coupe
 1992 Isuzu Impulse Hatchback
 1992 Jeep Cherokee
@@ -4106,6 +4174,7 @@
 1993 Honda NSX
 1993 Hyundai Elantra
 1993 Hyundai Sonata
+1993 Isdera Imperator 108i
 1993 Isuzu Stylus
 1993 Jeep Cherokee
 1993 Jeep Grand Cherokee
@@ -4158,6 +4227,7 @@
 1993 Subaru Legacy
 1993 Suzuki Alto
 1993 Suzuki Cappuccino
+1993 Suzuki Cara
 1993 Suzuki Vitara
 1993 Toyota 4Runner
 1993 Toyota Camry
@@ -4304,6 +4374,7 @@
 1994 Subaru Loyale
 1994 Suzuki Alto
 1994 Suzuki Cappuccino
+1994 Suzuki Cara
 1994 Suzuki Vitara
 1994 Toyota 4Runner
 1994 Toyota Camry
@@ -5788,6 +5859,7 @@
 2003 Renault Scénic
 2003 Renault Symbol
 2003 Renault Twingo
+2003 Rolls-Royce Phantom
 2003 Rover 75
 2003 Saleen S7
 2003 SEAT Alhambra
@@ -5983,9 +6055,11 @@
 2004 Porsche Cayman
 2004 Renault Espace
 2004 Renault Kangoo
+2004 Renault Mégane RS
 2004 Renault Scénic
 2004 Renault Symbol
 2004 Renault Twingo
+2004 Rolls-Royce Phantom
 2004 Saab 9-3
 2004 Saleen S7
 2004 Saturn L-Series
@@ -6117,6 +6191,7 @@
 2005 GMC Jimmy
 2005 GMC Safari
 2005 GMC Yukon
+2005 Gumpert Apollo
 2005 Holden Commodore
 2005 Holden Ute
 2005 Honda CR-V
@@ -6184,9 +6259,11 @@
 2005 Porsche Cayman
 2005 Renault Espace
 2005 Renault Kangoo
+2005 Renault Mégane RS
 2005 Renault Scénic
 2005 Renault Symbol
 2005 Renault Twingo
+2005 Rolls-Royce Phantom
 2005 Saleen S7
 2005 SEAT Alhambra
 2005 SEAT Ibiza
@@ -6323,6 +6400,7 @@
 2006 GMC Sierra 1500HD SLE2
 2006 GMC Sierra 1500HD SLT
 2006 GMC Yukon
+2006 Gumpert Apollo
 2006 Holden Commodore
 2006 Holden Ute
 2006 Honda CR-V
@@ -6384,9 +6462,11 @@
 2006 Porsche Cayman
 2006 Renault Espace
 2006 Renault Kangoo
+2006 Renault Mégane RS
 2006 Renault Scénic
 2006 Renault Symbol
 2006 Renault Twingo
+2006 Rolls-Royce Phantom
 2006 Saab 9-2X
 2006 Saleen S7
 2006 Saturn Outlook
@@ -6529,6 +6609,7 @@
 2007 GMC Sierra 3500 Crew Cab
 2007 GMC Sierra 3500 Regular Cab
 2007 GMC Yukon
+2007 Gumpert Apollo
 2007 Holden Commodore
 2007 Honda Civic Type R
 2007 Honda CR-V
@@ -6585,6 +6666,7 @@
 2007 Porsche Cayman
 2007 Renault Espace
 2007 Renault Kangoo
+2007 Renault Mégane RS
 2007 Renault Scénic
 2007 Renault Symbol
 2007 Renault Twingo
@@ -6715,6 +6797,7 @@
 2008 GMC Acadia
 2008 GMC Canyon
 2008 GMC Yukon
+2008 Gumpert Apollo
 2008 Holden Commodore
 2008 Honda Civic
 2008 Honda CR-V
@@ -6779,9 +6862,11 @@
 2008 Porsche Cayman S
 2008 Renault Espace
 2008 Renault Kangoo
+2008 Renault Mégane RS
 2008 Renault Scénic
 2008 Renault Symbol
 2008 Renault Twingo
+2008 Rolls-Royce Phantom
 2008 Saleen S7
 2008 SEAT Alhambra
 2008 SEAT Ibiza
@@ -6917,6 +7002,7 @@
 2009 GMC Envoy SLT
 2009 GMC Terrain
 2009 GMC Yukon
+2009 Gumpert Apollo
 2009 Holden Commodore
 2009 Honda CR-V
 2009 Honda Elysion
@@ -6988,9 +7074,11 @@
 2009 Porsche Cayman
 2009 Renault Espace
 2009 Renault Kangoo
+2009 Renault Mégane RS
 2009 Renault Scénic
 2009 Renault Symbol
 2009 Renault Twingo
+2009 Rolls-Royce Phantom
 2009 Saab 9-7X
 2009 Saleen S7
 2009 Saturn Aura
@@ -7129,6 +7217,7 @@
 2010 GMC Canyon
 2010 GMC Terrain
 2010 GMC Yukon
+2010 Gumpert Apollo
 2010 Holden Commodore
 2010 Holden UTE SSV
 2010 Honda Accord Sedan
@@ -7167,6 +7256,7 @@
 2010 Mazda MX-5 Miata
 2010 Mazda RX-8
 2010 Mercedes-Benz C-Class
+2010 Mercedes-Benz SLS AMG
 2010 Mini Cooper S Cabriolet
 2010 Mitsubishi Colt
 2010 Mitsubishi Lancer
@@ -7192,9 +7282,11 @@
 2010 Porsche Cayman
 2010 Renault Espace
 2010 Renault Kangoo
+2010 Renault Mégane RS
 2010 Renault Scénic
 2010 Renault Symbol
 2010 Renault Twingo
+2010 Rolls-Royce Phantom
 2010 Saab 9-3
 2010 Saab 9-4X
 2010 SEAT Alhambra
@@ -7336,6 +7428,7 @@
 2011 GMC Canyon
 2011 GMC Terrain
 2011 GMC Yukon
+2011 Gumpert Apollo
 2011 Holden Commodore
 2011 Honda Civic
 2011 Honda CR-V
@@ -7373,6 +7466,7 @@
 2011 McLaren 12C
 2011 Mercedes-Benz C-Class
 2011 Mercedes-Benz GL450
+2011 Mercedes-Benz SLS AMG
 2011 Mitsubishi Colt
 2011 Mitsubishi Lancer
 2011 Mitsuoka Orochi
@@ -7399,9 +7493,11 @@
 2011 Porsche Cayman
 2011 Renault Espace
 2011 Renault Kangoo
+2011 Renault Mégane RS
 2011 Renault Scénic
 2011 Renault Symbol
 2011 Renault Twingo
+2011 Rolls-Royce Phantom
 2011 Saab 9-4X
 2011 Saab 9-5
 2011 SEAT Alhambra
@@ -7542,6 +7638,7 @@
 2012 GMC Canyon
 2012 GMC Terrain
 2012 GMC Yukon
+2012 Gumpert Apollo
 2012 Holden Commodore
 2012 Honda CR-V
 2012 Honda Elysion
@@ -7586,6 +7683,7 @@
 2012 Mercedes-Benz C-Class
 2012 Mercedes-Benz E63 AMG
 2012 Mercedes-Benz R-Class
+2012 Mercedes-Benz SLS AMG
 2012 Mitsubishi Colt
 2012 Mitsubishi Lancer
 2012 Mitsuoka Orochi
@@ -7603,6 +7701,7 @@
 2012 Opel Corsa
 2012 Opel Meriva
 2012 Opel Vivaro
+2012 Pagani Huayra
 2012 Perodua Myvi
 2012 Peugeot 107
 2012 Peugeot 206
@@ -7610,13 +7709,14 @@
 2012 Porsche Cayman
 2012 Renault Espace
 2012 Renault Kangoo
+2012 Renault Mégane RS
 2012 Renault Scénic
 2012 Renault Symbol
 2012 Renault Twingo
-2012 Renault Twist ZE
 2012 Renault Twizy
 2012 Renault Zoe
 2012 Roewe 750
+2012 Rolls-Royce Phantom
 2012 Saab 9-3
 2012 Saab 9-3X
 2012 SEAT Alhambra
@@ -7870,6 +7970,7 @@
 2013 Opel Insignia
 2013 Opel Meriva
 2013 Opel Vivaro
+2013 Pagani Huayra
 2013 Perodua Myvi
 2013 Peugeot 107
 2013 Peugeot 206
@@ -7883,6 +7984,7 @@
 2013 Renault Captur
 2013 Renault Espace
 2013 Renault Kangoo
+2013 Renault Mégane RS
 2013 Renault Scénic
 2013 Renault Symbol
 2013 Renault Twingo
@@ -8101,6 +8203,7 @@
 2014 Mercedes-AMG GT
 2014 Mercedes-Benz C-Class
 2014 Mercedes-Benz CL-Class
+2014 Mercedes-Benz SLS AMG
 2014 Mini Cooper
 2014 Mitsubishi Colt
 2014 Mitsubishi Lancer
@@ -8121,6 +8224,7 @@
 2014 Opel Corsa
 2014 Opel Meriva
 2014 Opel Vivaro
+2014 Pagani Huayra
 2014 Perodua Myvi
 2014 Peugeot 107
 2014 Peugeot 108
@@ -8132,6 +8236,7 @@
 2014 Renault Captur
 2014 Renault Espace
 2014 Renault Kangoo
+2014 Renault Mégane RS
 2014 Renault Scénic
 2014 Renault Symbol
 2014 Renault Twingo
@@ -8372,6 +8477,7 @@
 2015 Opel Corsa
 2015 Opel Meriva
 2015 Opel Vivaro
+2015 Pagani Huayra
 2015 Perodua Myvi
 2015 Peugeot 108
 2015 Peugeot 206
@@ -8383,11 +8489,13 @@
 2015 Renault Captur
 2015 Renault Espace
 2015 Renault Kangoo
+2015 Renault Mégane RS
 2015 Renault Scénic
 2015 Renault Symbol
 2015 Renault Twingo
 2015 Renault Twizy
 2015 Renault Zoe
+2015 Rolls-Royce Phantom
 2015 Rolls-Royce Wraith
 2015 SEAT Alhambra
 2015 SEAT Ibiza
@@ -8635,6 +8743,7 @@
 2016 Opel Corsa
 2016 Opel Meriva
 2016 Opel Vivaro
+2016 Pagani Huayra
 2016 Perodua Myvi
 2016 Peugeot 108
 2016 Peugeot 206
@@ -8645,12 +8754,13 @@
 2016 Renault Captur
 2016 Renault Espace
 2016 Renault Kangoo
-2016 Renault Mégane
+2016 Renault Mégane RS
 2016 Renault Scénic
 2016 Renault Symbol
 2016 Renault Twingo
 2016 Renault Twizy
 2016 Renault Zoe
+2016 Rolls-Royce Phantom
 2016 Scion FR-S
 2016 SEAT Alhambra
 2016 SEAT Ibiza
@@ -8903,6 +9013,7 @@
 2017 Opel Insignia
 2017 Opel Meriva
 2017 Opel Vivaro
+2017 Pagani Huayra
 2017 Perodua Myvi
 2017 Peugeot 108
 2017 Peugeot 206
@@ -8913,7 +9024,7 @@
 2017 Renault Captur
 2017 Renault Espace
 2017 Renault Kangoo
-2017 Renault Mégane
+2017 Renault Mégane RS
 2017 Renault Scénic
 2017 Renault Symbol
 2017 Renault Twingo
@@ -9179,6 +9290,7 @@
 2018 Opel Corsa
 2018 Opel Insignia
 2018 Opel Vivaro
+2018 Pagani Huayra
 2018 Perodua Myvi
 2018 Peugeot 108
 2018 Peugeot 206
@@ -9191,7 +9303,7 @@
 2018 Renault Clio RS
 2018 Renault Espace
 2018 Renault Kangoo
-2018 Renault Mégane
+2018 Renault Mégane RS
 2018 Renault Scénic
 2018 Renault Symbol
 2018 Renault Twingo
@@ -9489,7 +9601,7 @@
 2019 Renault Clio
 2019 Renault Espace
 2019 Renault Kangoo
-2019 Renault Mégane
+2019 Renault Mégane RS
 2019 Renault Scénic
 2019 Renault Symbol
 2019 Renault Triber
@@ -9780,6 +9892,7 @@
 2020 GMC Canyon
 2020 GMC Terrain
 2020 GMC Yukon
+2020 HiPhi X
 2020 Honda Accord
 2020 Honda CR-V LX
 2020 Honda CR-V AWD
@@ -10137,7 +10250,7 @@
 2020 Renault Clio
 2020 Renault Espace
 2020 Renault Kangoo
-2020 Renault Mégane
+2020 Renault Mégane RS
 2020 Renault Scénic
 2020 Renault Symbol
 2020 Renault Triber
@@ -10347,6 +10460,7 @@
 2021 Aston Martin DB11
 2021 Aston Martin DBS
 2021 Aston Martin DBX
+2021 Aston Martin Valkyrie
 2021 Aston Martin Vantage
 2021 Audi A1
 2021 Audi A3
@@ -10479,6 +10593,7 @@
 2021 GMC Yukon XL SLE
 2021 GMC Yukon XL SLT
 2021 Gumpert Nathalie
+2021 HiPhi X
 2021 Honda Civic Type R
 2021 Honda Elysion
 2021 Honda Odyssey
@@ -10554,7 +10669,7 @@
 2021 Renault Clio
 2021 Renault Espace
 2021 Renault Kangoo
-2021 Renault Mégane
+2021 Renault Mégane RS
 2021 Renault Scénic
 2021 Renault Symbol
 2021 Renault Triber
