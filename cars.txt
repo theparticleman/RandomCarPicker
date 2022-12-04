@@ -70,6 +70,7 @@
 1935 BMW 319
 1935 Bugatti Type 57 SC Atlantic
 1935 Buick Series 50
+1935 Citroën 7U
 1935 Ford Model 48
 1935 Peugeot 402 
 1935 Škoda Rapid
@@ -89,6 +90,7 @@
 1936 Buick Century
 1936 Buick Limited
 1936 Buick Special
+1936 Citroën 7U
 1936 Cord 810
 1936 Delage D8
 1936 Dodge D2
@@ -117,6 +119,7 @@
 1937 Buick Century
 1937 Buick Limited
 1937 Buick Special
+1937 Citroën 7U
 1937 Cord 812
 1937 Fiat Topolino
 1937 Ford Model Y
@@ -136,6 +139,7 @@
 1938 Buick Century
 1938 Buick Limited
 1938 Buick Special
+1938 Citroën 7U
 1938 Citroën Traction Avant
 1938 Peugeot 402
 1938 Volkswagen Beetle
@@ -207,6 +211,7 @@
 1942 Pontiac Torpedo
 1942 Studebaker Champion
 1942 Volkswagen Beetle
+1942 Volkswagen Schwimmwagen
 1943 Austin 10
 1943 Austin 12
 1943 Austin 8
@@ -214,6 +219,7 @@
 1943 Pontiac Streamliner
 1943 Pontiac Torpedo
 1943 Volkswagen Beetle
+1943 Volkswagen Schwimmwagen
 1944 Austin 10
 1944 Austin 12
 1944 Austin 8
@@ -221,6 +227,7 @@
 1944 Pontiac Streamliner
 1944 Pontiac Torpedo
 1944 Volkswagen Beetle
+1944 Volkswagen Schwimmwagen
 1945 Austin 10
 1945 Austin 12
 1945 Austin 16
@@ -1008,6 +1015,7 @@
 1961 Chevrolet Impala
 1961 Chrysler Newport
 1961 Citroën 2CV
+1961 Citroën Ami
 1961 DKW Schnellaster
 1961 Ferrari 250 GT Berlinetta
 1961 Fiat 1200
@@ -1077,6 +1085,7 @@
 1962 Chevrolet Impala
 1962 Chrysler Newport
 1962 Citroën 2CV
+1962 Citroën Ami
 1962 Datsun SP310
 1962 DKW Schnellaster
 1962 Fiat 600 Multipla
@@ -1148,7 +1157,8 @@
 1963 Chevrolet Corvette
 1963 Chevrolet Impala
 1963 Chrysler Newport
-1963 Citroën 2CV 
+1963 Citroën 2CV
+1963 Citroën Ami
 1963 Dodge Dart
 1963 Ferrari 250 GTO
 1963 Fiat 600 Multipla
@@ -1219,6 +1229,7 @@
 1964 Chevrolet Nova Station Wagon
 1964 Chrysler Newport
 1964 Citroën 2CV
+1964 Citroën Ami
 1964 Fiat 600 Multipla
 1964 Fiat Campagnola
 1964 Ford Anglia
@@ -1260,6 +1271,7 @@
 1964 Toyota Corona
 1964 Toyota Crown
 1964 Toyota Publica
+1964 Trabant 601
 1964 Volkswagen Beetle
 1964 Volkswagen Kombi
 1964 Volkswagen Type 3
@@ -1274,7 +1286,7 @@
 1965 Austin Cambridge
 1965 Austin Freeway
 1965 Austin Gipsy
-1965 Austin Mini
+1965 Austin Mini Moke
 1965 Austin Princess
 1965 Austin Westminster
 1965 BMW 1800
@@ -1296,6 +1308,7 @@
 1965 Chrysler New Yorker
 1965 Chrysler Newport
 1965 Citroën 2CV
+1965 Citroën Ami
 1965 Dodge Coronet
 1965 Fiat 600 Multipla
 1965 Fiat Campagnola
@@ -1328,6 +1341,7 @@
 1965 Subaru 360
 1965 Toyota Crown
 1965 Toyota Publica
+1965 Trabant 601 Hycomat
 1965 Volkswagen Beetle
 1965 Volkswagen Kombi
 1965 Volkswagen Type 3
@@ -1359,6 +1373,8 @@
 1966 Chrysler New Yorker
 1966 Chrysler Newport
 1966 Citroën 2CV
+1966 Citroën Ami
+1966 Dodge Charger
 1966 Dodge Coronet
 1966 Ferrari 330 GTC
 1966 Fiat 124
@@ -1401,12 +1417,15 @@
 1966 Renault Dauphine
 1966 Rolls-Royce Phantom V
 1966 Saab Sonett
+1966 Steyr-Puch Haflinger
 1966 Studebaker Lark 4-Door Sedan
 1966 Subaru 1000
 1966 Subaru 360
 1966 Toyota Corolla
 1966 Toyota Crown
 1966 Toyota Publica
+1966 Trabant 601 Hycomat
+1966 Trabant 601 Kübel
 1966 Volkswagen Beetle
 1966 Volkswagen Kombi
 1966 Volkswagen Type 3
@@ -1424,6 +1443,7 @@
 1967 Austin A40 Farina
 1967 Austin Cambridge
 1967 Austin Gipsy
+1967 Austin Mini Moke
 1967 Austin Mini Van
 1967 Austin Princess
 1967 Austin Westminster
@@ -1442,10 +1462,12 @@
 1967 Chrysler New Yorker
 1967 Chrysler Newport
 1967 Citroën 2CV
+1967 Citroën Ami
 1967 Citroën Dyane
 1967 Datsun Fairlady
 1967 De Tomaso Mangusta
 1967 Dodge A100 Van
+1967 Dodge Charger
 1967 Dodge Coronet
 1967 Fiat 124
 1967 Fiat 125
@@ -1490,6 +1512,7 @@
 1967 Toyota Corolla
 1967 Toyota Crown
 1967 Toyota Publica
+1967 Trabant 601 Hycomat
 1967 Volkswagen Beetle
 1967 Volkswagen Kombi
 1967 Volkswagen Type 3
@@ -1525,10 +1548,12 @@
 1968 Chrysler New Yorker
 1968 Chrysler Newport
 1968 Citroën 2CV
+1968 Citroën Ami
 1968 Daimler DS420
 1968 Datsun 510
 1968 Datsun Fairlady
 1968 De Tomaso Mangusta
+1968 Dodge Charger
 1968 Dodge Coronet
 1968 Ferrari 365 GTB/4 Daytona
 1968 Fiat 124
@@ -1573,6 +1598,7 @@
 1968 Toyota Corolla
 1968 Toyota Hilux
 1968 Toyota Publica
+1968 Trabant 601 Hycomat
 1968 Triumph GT6
 1968 Volkswagen Beetle
 1968 Volkswagen Type 2
@@ -1613,10 +1639,12 @@
 1969 Chevrolet Impala
 1969 Chrysler Newport
 1969 Citroën 2CV
+1969 Citroën Ami
 1969 Dacia 1300
 1969 Daihatsu Consorte
 1969 Datsun Fairlady 2000
 1969 De Tomaso Mangusta
+1969 Dodge Challenger
 1969 Dodge Charger
 1969 Dodge Coronet Super Bee
 1969 Ferrari Dino 246 GT
@@ -1666,6 +1694,7 @@
 1969 Toyota Corolla
 1969 Toyota Hilux
 1969 Toyota Publica
+1969 Trabant 601 Hycomat
 1969 Volkswagen Beetle
 1969 Volkswagen Type 3
 1969 Volvo Amazon
@@ -1704,6 +1733,7 @@
 1970 Chrysler Newport
 1970 Chrysler Valiant
 1970 Citroën 2CV
+1970 Citroën Ami
 1970 Dacia 1300
 1970 Daihatsu Consorte
 1970 Datsun 240Z
@@ -1754,6 +1784,7 @@
 1970 Toyota Corolla
 1970 Toyota Hilux
 1970 Toyota Publica
+1970 Trabant 601 Hycomat
 1970 VAZ-2101
 1970 Volkswagen Beetle
 1970 Volkswagen Type 2
@@ -1799,6 +1830,7 @@
 1971 Chrysler Newport
 1971 Chrysler Valiant Charger
 1971 Citroën 2CV
+1971
 1971 Continental Mark II
 1971 Dacia 1300
 1971 Daihatsu Consorte
@@ -1853,7 +1885,7 @@
 1971 Toyota Corolla
 1971 Toyota Hilux
 1971 Toyota Publica
-1971 Trabant 601
+1971 Trabant 601 Hycomat
 1971 VAZ-2101
 1971 Volkswagen Beetle
 1971 Volkswagen Type 3
@@ -1893,6 +1925,7 @@
 1972 Chrysler Newport
 1972 Chrysler Valiant Charger
 1972 Citroën 2CV
+1972 Citroën Ami
 1972 Citroën DS
 1972 Dacia 1300
 1972 Daihatsu Consorte
@@ -1900,6 +1933,7 @@
 1972 Datsun 240Z
 1972 De Tomaso Pantera
 1972 Dodge Challenger
+1972 Dodge Charger
 1972 Dodge Coronet
 1972 Fiat 126
 1972 Fiat 124
@@ -1949,6 +1983,7 @@
 1972 Toyota Corolla
 1972 Toyota Hilux
 1972 Toyota Publica
+1972 Trabant 601 Hycomat
 1972 VAZ-2101
 1972 Volkswagen Beetle
 1972 Volkswagen Type 3
@@ -1990,10 +2025,12 @@
 1973 Chrysler Newport
 1973 Chrysler Valiant Charger
 1973 Citroën 2CV
+1973 Citroën Ami
 1973 Dacia 1300
 1973 Daihatsu Consorte
 1973 Datsun 240Z
 1973 De Tomaso Pantera
+1973 Dodge Challenger
 1973 Dodge Charger
 1973 Dodge Coronet
 1973 Ferrari 512 BB
@@ -2045,6 +2082,7 @@
 1973 Toyota Hilux
 1973 Toyota Publica
 1973 Toyota Starlet
+1973 Trabant 601 Hycomat
 1973 Triumph Dolomite
 1973 VAZ-2101
 1973 Volkswagen Beetle
@@ -2089,6 +2127,7 @@
 1974 Chevrolet Monte Carlo
 1974 Chrysler Newport
 1974 Citroën 2CV
+1974 Citroën Ami
 1974 Citroën CX
 1974 Citroën DS 20
 1974 Citroën DS 23
@@ -2097,6 +2136,8 @@
 1974 Datsun 100A
 1974 Datsun 240Z
 1974 De Tomaso Pantera
+1974 Dodge Challenger
+1974 Dodge Charger
 1974 Dodge Coronet
 1974 Ferrari 246 Dino
 1974 Fiat 124
@@ -2148,6 +2189,7 @@
 1974 Toyota Hilux
 1974 Toyota Publica
 1974 Toyota Starlet
+1974 Trabant 601 Hycomat
 1974 VAZ-2101
 1974 Volkswagen Beetle
 1974 Volkswagen Golf
@@ -2197,10 +2239,12 @@
 1975 Chrysler Cordoba
 1975 Chrysler Newport
 1975 Citroën 2CV
+1975 Citroën Ami
 1975 Citroën CX
 1975 Dacia 1300
 1975 Daihatsu Consorte
 1975 De Tomaso Pantera
+1975 Dodge Charger
 1975 Dodge Coronet
 1975 Dodge Dart
 1975 Fiat 126
@@ -2250,6 +2294,7 @@
 1975 Toyota Hilux
 1975 Toyota Publica
 1975 Toyota Starlet
+1975 Trabant 601 Hycomat
 1975 VAZ-2101
 1975 Volkswagen Beetle
 1975 Volkswagen Golf GTI
@@ -2297,10 +2342,12 @@
 1976 Chrysler Regal
 1976 Chrysler Scorpion
 1976 Citroën 2CV
+1976 Citroën Ami
 1976 Citroën CX
 1976 Dacia 1300
 1976 Daihatsu Consorte
 1976 De Tomaso Pantera
+1976 Dodge Charger
 1976 Dodge Coronet
 1976 Dodge Monaco
 1976 Fiat 126
@@ -2338,6 +2385,7 @@
 1976 Pontiac Grand Prix
 1976 Porsche 911
 1976 Simca 1100
+1976 Steyr-Puch Haflinger
 1976 Stutz Blackhawk
 1976 Suzuki Fronte
 1976 Toyota Celica GT
@@ -2345,6 +2393,7 @@
 1976 Toyota Hilux
 1976 Toyota Publica
 1976 Toyota Starlet
+1976 Trabant 601 Hycomat
 1976 VAZ-2101
 1976 Volkswagen Beetle
 1976 Volkswagen Golf GTI
@@ -2405,10 +2454,13 @@
 1977 Chevrolet Malibu
 1977 Chevrolet Monte Carlo
 1977 Citroën 2CV
+1977 Citroën Ami
 1977 Citroën CX
 1977 Dacia 1300
 1977 Daihatsu Consorte
 1977 De Tomaso Pantera
+1977 Dodge Challenger
+1977 Dodge Charger
 1977 Fiat 126
 1977 Ford Cortina
 1977 Ford Escort
@@ -2459,6 +2511,7 @@
 1977 Toyota Hilux
 1977 Toyota Publica
 1977 Toyota Starlet
+1977 Trabant 601 Hycomat
 1977 VAZ-2101
 1977 Volkswagen Beetle
 1977 Volkswagen Golf GTI
@@ -2514,9 +2567,12 @@
 1978 Chrysler Sigma
 1978 Chrysler Sunbeam
 1978 Citroën 2CV
+1978 Citroën Ami
 1978 Citroën CX
 1978 Dacia 1300
 1978 De Tomaso Pantera
+1978 Dodge Challenger
+1978 Dodge Charger
 1978 Fiat 126
 1978 Ford Bronco
 1978 Ford Cortina
@@ -2566,6 +2622,8 @@
 1978 Toyota Hilux
 1978 Toyota Publica
 1978 Toyota Starlet
+1978 Trabant 601 Hycomat
+1978 Trabant 601 Tramp
 1978 VAZ-2101
 1978 Volkswagen Beetle
 1978 Volkswagen Golf GTI
@@ -2619,6 +2677,7 @@
 1979 Citroën CX
 1979 Dacia 1300
 1979 De Tomaso Pantera
+1979 Dodge Challenger
 1979 Fiat 126
 1979 Ford Bronco
 1979 Ford Cortina
@@ -2668,6 +2727,7 @@
 1979 Toyota Corolla
 1979 Toyota Hilux
 1979 Toyota Starlet
+1979 Trabant 601 Hycomat
 1979 VAZ-2101
 1979 Volkswagen Beetle
 1979 Volkswagen Golf GTI
@@ -2720,6 +2780,7 @@
 1980 Citroën CX
 1980 Dacia 1300
 1980 De Tomaso Pantera
+1980 Dodge Challenger
 1980 Fiat 126
 1980 Ford Cortina
 1980 Ford Escort
@@ -2768,6 +2829,7 @@
 1980 Toyota Corolla
 1980 Toyota Hilux
 1980 Toyota Starlet
+1980 Trabant 601 Hycomat
 1980 VAZ-2101
 1980 Volkswagen Beetle
 1980 Volkswagen Gol
@@ -2819,6 +2881,7 @@
 1981 Dacia 1300
 1981 De Tomaso Pantera
 1981 DMC DeLorean
+1981 Dodge Challenger
 1981 Fiat 126
 1981 Fiat Ducato
 1981 Ford Cortina
@@ -2861,7 +2924,7 @@
 1981 Toyota Corolla
 1981 Toyota Hilux
 1981 Toyota Starlet
-1981 Trabant 601
+1981 Trabant 601 Hycomat
 1981 VAZ-2101
 1981 Volkswagen Beetle
 1981 Volkswagen Gol
@@ -2912,6 +2975,7 @@
 1982 Dacia 1300
 1982 De Tomaso Pantera
 1982 DMC DeLorean
+1982 Dodge Challenger
 1982 Fiat 126
 1982 Fiat Ducato
 1982 Fiat Ritmo Abarth125 TC
@@ -2960,6 +3024,7 @@
 1982 Toyota HiAce
 1982 Toyota Hilux
 1982 Toyota Starlet
+1982 Trabant 601 Hycomat
 1982 VAZ-2101
 1982 Volkswagen Beetle
 1982 Volkswagen Gol
@@ -3006,6 +3071,7 @@
 1983 Citroën CX
 1983 Dacia 1300
 1983 De Tomaso Pantera
+1983 Dodge Challenger
 1983 Fiat 126
 1983 Fiat Ducato
 1983 Fiat Uno
@@ -3054,6 +3120,7 @@
 1983 Toyota Corolla
 1983 Toyota Hilux
 1983 Toyota Starlet
+1983 Trabant 601 Hycomat
 1983 VAZ-2101
 1983 Volkswagen Beetle
 1983 Volkswagen Gol
@@ -3079,6 +3146,7 @@
 1984 BMW 5 Series
 1984 BMW 6-Series
 1984 BMW 7-Series
+1984 British Leyland Mini Moke
 1984 Buick Century
 1984 Buick Electra Estate
 1984 Buick LeSabre
@@ -3157,6 +3225,7 @@
 1984 Toyota Corolla
 1984 Toyota Hilux
 1984 Toyota MR2
+1984 Trabant 601 Hycomat
 1984 VAZ-2101
 1984 Volkswagen Beetle
 1984 Volkswagen Gol
@@ -3258,6 +3327,7 @@
 1985 Toyota Camry
 1985 Toyota Hilux
 1985 Toyota MR2
+1985 Trabant 601 Hycomat
 1985 VAZ-2101
 1985 Volkswagen Beetle
 1985 Volkswagen Gol
@@ -3362,6 +3432,8 @@
 1986 Toyota Camry
 1986 Toyota Corolla
 1986 Toyota Hilux
+1986 Trabant 601 Hycomat
+1986 Trabant 601 RS
 1986 VAZ-2101
 1986 Volkswagen Beetle
 1986 Volkswagen Gol
@@ -3466,6 +3538,8 @@
 1987 Toyota Camry
 1987 Toyota Corolla
 1987 Toyota Hilux
+1987 Trabant 601 Hycomat
+1987 Trabant 601 RS
 1987 VAZ-2101
 1987 Volkswagen Beetle
 1987 Volkswagen Gol
@@ -3572,6 +3646,8 @@
 1988 Toyota Camry
 1988 Toyota Corolla
 1988 Toyota Hilux
+1988 Trabant 601 Hycomat
+1988 Trabant 601 RS
 1988 VAZ-2101
 1988 Volkswagen Beetle
 1988 Volkswagen Gol
@@ -3690,6 +3766,7 @@
 1989 Toyota Corolla
 1989 Toyota Hilux
 1989 Toyota Supra
+1989 Trabant 601 Hycomat
 1989 Volkswagen Beetle
 1989 Volkswagen Gol
 1989 Volkswagen Golf
@@ -3810,6 +3887,7 @@
 1990 Toyota Corolla
 1990 Toyota Hilux
 1990 Toyota Sera
+1990 Trabant 601 Hycomat
 1990 Volkswagen Beetle
 1990 Volkswagen Gol
 1990 Volkswagen Golf
@@ -4739,7 +4817,6 @@
 1997 Chrysler Neon
 1997 Chrysler Sebring
 1997 Chrysler Stratus
-1997 Chrysler Viper
 1997 Chrysler Vision
 1997 Chrysler Voyager
 1997 Citroën Evasion
@@ -4892,7 +4969,6 @@
 1998 Chrysler Neon
 1998 Chrysler Sebring
 1998 Chrysler Stratus
-1998 Chrysler Viper
 1998 Chrysler Voyager
 1998 Citroën Evasion
 1998 Dacia 1300
@@ -5055,7 +5131,6 @@
 1999 Chrysler Neon
 1999 Chrysler Sebring
 1999 Chrysler Stratus
-1999 Chrysler Viper
 1999 Chrysler Voyager
 1999 Citroën Evasion
 1999 Dacia 1300
@@ -5242,7 +5317,6 @@
 2000 Chrysler PT Cruiser
 2000 Chrysler Sebring
 2000 Chrysler Stratus
-2000 Chrysler Viper
 2000 Chrysler Voyager
 2000 Citroën Evasion
 2000 Dacia 1300
@@ -5408,7 +5482,6 @@
 2001 Chrysler Prowler
 2001 Chrysler PT Cruiser
 2001 Chrysler Sebring
-2001 Chrysler Viper
 2001 Chrysler Voyager
 2001 Citroën Berlingo
 2001 Citroën Evasion
@@ -5584,7 +5657,6 @@
 2002 Chrysler Prowler
 2002 Chrysler PT Cruiser
 2002 Chrysler Sebring
-2002 Chrysler Viper
 2002 Chrysler Voyager
 2002 Citroën Evasion
 2002 Dacia 1300
@@ -5766,7 +5838,6 @@
 2003 Chrysler Neon
 2003 Chrysler PT Cruiser
 2003 Chrysler Sebring
-2003 Chrysler Viper
 2003 Chrysler Voyager
 2003 Dacia 1300
 2003 Daihatsu Copen
@@ -6365,6 +6436,7 @@
 2006 Citroën C4 Picasso
 2006 Dacia 1300
 2006 Daihatsu Copen
+2006 Dodge Attitude
 2006 Dodge Ram 2500
 2006 Dodge Stratus
 2006 Ferrari 575 M
@@ -6439,7 +6511,6 @@
 2006 Nissan Pathfinder
 2006 Nissan Patrol
 2006 Nissan Sentra
-2006 Nissan Sunny
 2006 Nissan Titan
 2006 Opel Corsa
 2006 Opel Meriva
@@ -6569,6 +6640,7 @@
 2007 Citroën C3 Pluriel
 2007 Citroën C4 Picasso
 2007 Daihatsu Copen
+2007 Dodge Attitude
 2007 Dodge Caravan
 2007 Ferrari 599 GTB Fiorano
 2007 Ferrari F430
@@ -6765,6 +6837,8 @@
 2008 Citroën C4 Picasso
 2008 Dacia Logan MCV
 2008 Daihatsu Copen
+2008 Dodge Attitude
+2008 Dodge Challenger
 2008 Dodge Dakota
 2008 Dodge Grand Caravan
 2008 Dodge Magnum
@@ -6963,6 +7037,8 @@
 2009 Citroën C4 Picasso
 2009 Dacia Logan
 2009 Daihatsu Copen
+2009 Dodge Attitude
+2009 Dodge Challenger
 2009 Dodge Grand Caravan
 2009 Dodge Sprinter
 2009 Ferrari 458
@@ -7179,6 +7255,7 @@
 2010 Citroën C4 Picasso
 2010 Dacia Duster
 2010 Daihatsu Copen
+2010 Dodge Attitude
 2010 Dodge Challenger
 2010 Dodge Charger SRT8
 2010 Dodge Grand Caravan
@@ -7387,6 +7464,8 @@
 2011 Citroën C4 Picasso
 2011 Dacia Duster
 2011 Daihatsu Copen
+2011 Dodge Attitude
+2011 Dodge Challenger
 2011 Dodge Charger R/T
 2011 Dodge Grand Caravan
 2011 Dodge Nitro
@@ -7600,7 +7679,9 @@
 2012 Dacia Dokker
 2012 Dacia Duster
 2012 Daihatsu Copen
+2012 Dodge Attitude
 2012 Dodge Caliber
+2012 Dodge Challenger
 2012 Dodge Grand Caravan
 2012 Ferrari 458 Spider
 2012 Ferrari California
@@ -7840,6 +7921,8 @@
 2013 Citroën DS 5
 2013 Dacia Dokker
 2013 Dacia Duster
+2013 Dodge Attitude
+2013 Dodge Challenger
 2013 Dodge Charger
 2013 Dodge Dart
 2013 Dodge Durango
@@ -8118,7 +8201,9 @@
 2014 Citroën C4 Picasso
 2014 Dacia Dokker
 2014 Dacia Duster
+2014 Dodge Attitude
 2014 Dodge Avenger
+2014 Dodge Challenger
 2014 Dodge Dart
 2014 Dodge Grand Caravan
 2014 Ferrari 458 Spider
@@ -8354,6 +8439,7 @@
 2015 Citroën C4 Picasso
 2015 Dacia Dokker
 2015 Dacia Duster
+2015 Dodge Attitude
 2015 Dodge Challenger SRT
 2015 Dodge Challenger SRT Hellcat
 2015 Dodge Charger
@@ -8625,6 +8711,8 @@
 2016 Dacia Duster
 2016 Daihatsu Sigra
 2016 Daihatsu Thor
+2016 Dodge Attitude
+2016 Dodge Challenger
 2016 Dodge Charger
 2016 Dodge Dart
 2016 Dodge Grand Caravan
@@ -8884,6 +8972,8 @@
 2017 Daihatsu Sigra
 2017 Daihatsu Thor
 2017 Dallara Stradale
+2017 Dodge Attitude
+2017 Dodge Challenger
 2017 Dodge Charger
 2017 Dodge Grand Caravan
 2017 Dodge Viper
@@ -9161,6 +9251,7 @@
 2018 Dacia Duster
 2018 Daihatsu Sigra
 2018 Daihatsu Thor
+2018 Dodge Attitude
 2018 Dodge Challenger SRT Demon
 2018 Dodge Charger
 2018 Dodge Grand Caravan
@@ -9459,6 +9550,8 @@
 2019 Dacia Duster
 2019 Daihatsu Sigra
 2019 Daihatsu Thor
+2019 Dodge Attitude
+2019 Dodge Challenger
 2019 Dodge Charger
 2019 Dodge Grand Caravan
 2019 Felino CB7
@@ -9806,6 +9899,7 @@
 2020 Dacia Sandero
 2020 Daihatsu Sigra
 2020 Daihatsu Thor
+2020 Dodge Attitude
 2020 Dodge Challenger
 2020 Dodge Charger GT
 2020 Dodge Charger GT AWD
@@ -10527,6 +10621,8 @@
 2021 Dacia Sandero
 2021 Daihatsu Sigra
 2021 Daihatsu Thor
+2021 Dodge Attitude
+2021 Dodge Challenger
 2021 Dodge Charger
 2021 Felino CB7
 2021 Fiat 124 Spider
