@@ -72,7 +72,7 @@
 1935 Buick Series 50
 1935 Citroën 7U
 1935 Ford Model 48
-1935 Peugeot 402 
+1935 Peugeot 402 Eclipse Décapotable
 1935 Škoda Rapid
 1935 Willys 77
 1936 Austin 10
@@ -9336,6 +9336,7 @@
 2018 Mazda CX-5
 2018 Mazda MX-5 Miata
 2018 McLaren 720S
+2018 McLaren 720S Spider
 2018 McLaren Senna
 2018 Mercedes-AMG GT S
 2018 Mercedes-Benz A-Class
@@ -9632,6 +9633,10 @@
 2019 Maserati Quattroporte
 2019 Mazda CX-5
 2019 Mazda MX-5 Miata
+2019 2018 McLaren 720S Spider
+2019 McLaren 720S
+2019 McLaren 720S Spider
+2019 McLaren 720S MSO Apex Collection
 2019 McLaren Senna
 2019 Mercedes-AMG GT S
 2019 Mercedes-Benz A-Class
@@ -10195,6 +10200,10 @@
 2020 Mazda CX-9 Sport
 2020 Mazda CX-9 Touring
 2020 Mazda MX-5 Miata RF Club
+2020 McLaren 720S
+2020 McLaren 720S Spider
+2020 McLaren 720S MSO Apex Collection
+2020 McLaren 765LT
 2020 McLaren GT
 2020 McLaren Senna
 2020 McLaren Speedtail
@@ -10686,6 +10695,7 @@
 2021 Jeep Wrangler
 2021 Kawei K1
 2021 Kia Ceed
+2021 Kia EV6 GT
 2021 Kia Picanto
 2021 Kia Soul
 2021 KTM X-Bow
@@ -10707,6 +10717,10 @@
 2021 Maserati MC20
 2021 Maserati Quattroporte
 2021 Mazda MX-5 Miata
+2021 McLaren 720S
+2021 McLaren 720S Spider
+2021 McLaren 720S MSO Apex Collection
+2021 McLaren 765LT
 2021 McLaren Senna
 2021 McLaren Speedtail
 2021 Mercedes-AMG GT Black Series
@@ -10809,3 +10823,12 @@
 2021 Wuling Hongguang
 2021 Wuling Hongguang Mini EV
 2021 XPeng P7
+2022 Ford Bronco
+2022 Ford Bronco Sport
+2022 Kia Carnival
+2022 Kia EV6 GT
+2022 McLaren 720S
+2022 McLaren 720S Spider
+2022 McLaren 720S MSO Apex Collection
+2022 McLaren 765LT
+2022 Ram 3500
