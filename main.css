@@ -4,6 +4,8 @@ body {
     margin: 40px;
     gap: 40px;
     text-align: center;
+    color: 7CB9E8;
+    background: #171717;
 }
 
 button {
@@ -24,15 +26,23 @@ button:active {
 input {
     padding: 10px;
     font-size: 20px;
+    background-color: 336CDE;
     text-align: center;;
     align-self: center;
 }
 
+::placeholder {
+    font-weight: 600;
+    font-style: italic;
+    color: white;
+}
+
 #results {
-    border: solid black 1px;
+    border: solid blue 1px;
     border-radius: 8px;
     width: fit-content;
     align-self: center;
     padding: 20px;
     font-size: 40px;
+    color: white;
 }
